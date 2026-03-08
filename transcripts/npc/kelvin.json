@@ -1,0 +1,65 @@
+{
+  "ref": "kelvin",
+  "categoryRef": "npc",
+  "title": "Kelvin",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "While wearing Khazard Armour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Are you okay?"
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "Get away! One day we'll have our revenge on you all!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you okay?"
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "Spare us your fake pity. I spit on Khazard, and all who do his bidding."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Are you okay?"
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "You're brave coming in here. If the guards get you, you'll be the next one in a cell."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you okay?"
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "You're not safe here, traveller. Leave while you still can."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "ref": "ordan",
+  "categoryRef": "npc",
+  "title": "Ordan",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ordan",
+              "text": "Are you here to smith? Do you want to buy some ore?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Ordan",
+              "text": "Well don't waste my time then!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When receiving overstocked ore",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ordan",
+                  "text": "Thanks, I'll send them to storage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When receiving understocked ore",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ordan",
+                  "text": "Thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

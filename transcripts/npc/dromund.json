@@ -1,0 +1,63 @@
+{
+  "ref": "dromund",
+  "categoryRef": "npc",
+  "title": "Dromund",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before being tasked with getting his boots",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dromund",
+                  "text": "Get out of my house!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, alright, I was just leaving!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the player has stolen the Right boot and Left boot in The Giant Dwarf quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dromund",
+                  "text": "Someone stole my beautiful boots... I had to buy some crummy replicas, the real boots were one of a kind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, if I find out who did it I'll take care of them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching his bookshelf",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dromund",
+                  "text": "Stay away from my books!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

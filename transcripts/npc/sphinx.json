@@ -1,0 +1,275 @@
+{
+  "ref": "sphinx",
+  "categoryRef": "npc",
+  "title": "Sphinx",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without a cat follower or in the inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "I have no interest in speaking with you. You should bring your cat to me again. The two of us have much to discuss."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With a cat follower or in the inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sphinx",
+                  "text": "Ah, how interesting... a cat. Come here to me, kitty."
+                },
+                {
+                  "speaker": "Cat",
+                  "text": "Meow."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Do you think that you'll be able to communicate with me at a deeper level because you're wearing that amulet of catspeak?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, yes?"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "How very foolish."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "So, what do you need human?"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "What do you need human?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me about the gods of the Menaphites?"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "If you wish to know about the lesser gods, you should speak with Jex at the Temple of the Lesser Gods. I suppose I could spare a moment or two to tell you about the main four though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Tumeken."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Tumeken is the god of light and husband to Elidinis. He is the leading god of the Menaphite Pantheon."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "People don't seem to talk about him much. I'd have thought being the leading god would make him more popular."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "A common saying about Tumeken is that you see him wherever you look, but never actually notice him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay... And what kind of god is he? The desert is a harsh place, so does that make him harsh as well?"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "In some ways. You humans sometimes say that 'you have to be cruel to be kind'. That seems a fitting way to describe Tumeken."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So he's harsh, but for good reasons?"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Indeed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Elidinis."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Elidinis is the goddess of fertility. The River Elid is named in her honour, for it brings life to the whole region."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "There are some who even believe the river to be Elidinis herself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's an interesting take. I guess being a bringer of life makes her quite popular?"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "More so than many others in the pantheon, but not as much as she once was."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why not?"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Humans are fickle. Perhaps they grew bored of her?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That sounds unlikely."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Well if you're after the human take on things, you'd be better off asking a human."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Icthlarin."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Icthlarin is the god of the dead. He is the son of Tumeken and Elidinis, and brother to the Devourer. As this is the city of the dead, he's quite popular here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So are you a follower of Icthlarin?"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Nothing of the sort. I have no interest in the gods or their followers. Instead, Icthlarin and I have an understanding."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Cats play a significant role when it comes to guarding the dead from the Devourer. As such, they are great allies to Icthlarin."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "As a thank you for looking after them, Icthlarin grants me eternal life."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about the Devourer."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "I'd have thought you'd be more than familiar with her by now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm interested in hearing your take."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Very well. The Devourer is the goddess of destruction. As such, she is commonly considered an evil goddess, but this is an oversimplification."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How so?"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Not everything that destroys is evil. Destruction is often a necessity."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Isn't that also an oversimplification? Amascut is doing far more than just destroying. She's a murderer!"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Is causing death enough to make one evil? Icthlarin is the god of the dead. By your argument, surely he is the most evil of them all."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Icthlarin doesn't actually kill people though. He just looks after those that have died."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "You clearly know little of Icthlarin and his past. Are you aware of the Mahjarrat? They once served Icthlarin, before they left him for Zamorak."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Or was it the Empty Lord they left him for... I forget."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Regardless, they are a race that have regularly associated themselves with gods considered evil. Interesting company for one such as Icthlarin to keep."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How does that make Amascut good though?"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "I never said it did. I'm just saying that things are often not as straightforward as they seem, especially when it comes to Icthlarin and the Devourer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If you say so..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's talk about something else."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Very well. What do you want to dicuss?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing. I should go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have a spare amulet of catspeak?"
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Well, I suppose I do. Seeing as you're such a good guardian of cats, I'll give you one. Be careful with it, though."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Wearing the cat ears",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Paw-don me, I have something to show mew."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "Human, you make a mockery of my kin."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Come on, don't be such a sour puss."
+                },
+                {
+                  "speaker": "Sphinx",
+                  "text": "You should leave, before I deliver retribution for your actions."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

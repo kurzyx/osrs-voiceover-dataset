@@ -1,0 +1,43 @@
+{
+  "ref": "the-beast",
+  "categoryRef": "npc",
+  "title": "The Beast",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, The Beast! Why do they call you that?"
+            },
+            {
+              "speaker": "The Beast",
+              "text": "..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, I see."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to enter the Keldagrim Ratpits before getting permission",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I think I had better stay away from the stairs for now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

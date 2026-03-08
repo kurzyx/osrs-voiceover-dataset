@@ -1,0 +1,40 @@
+{
+  "ref": "ghost-captain-ghostship-",
+  "categoryRef": "npc",
+  "title": "Ghost captain (ghostship)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without a ghostspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ghost captain",
+                  "text": "Woooo wooo wooooo woooo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Where do you sail to?"
+            },
+            {
+              "speaker": "Ghost captain",
+              "text": "At the moment, nowhere. The mini-Ectofuntus that powers the Ghostship is in major need of repair, and until it gets it, this ship is going nowhere."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

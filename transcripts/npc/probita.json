@@ -1,0 +1,145 @@
+{
+  "ref": "probita",
+  "categoryRef": "npc",
+  "title": "Probita",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Probita",
+              "text": "Welcome to the pet insurance bureau. How can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you tell me about pets and pet insurance?"
+            },
+            {
+              "speaker": "Probita",
+              "text": "Certainly! You can find pets while out on your adventures. They're very rare, but you may be lucky enough to find one."
+            },
+            {
+              "speaker": "Probita",
+              "text": "You have a chance to find them when defeating bosses, playing minigames, and taking part in skilling activities."
+            },
+            {
+              "speaker": "Probita",
+              "text": "If you do find one, they will be automatically insured against loss, for free!"
+            },
+            {
+              "speaker": "Probita",
+              "text": "If you then somehow lose your pet, you can reclaim it here for free also. The service used to cost Reclaim tokens worth 1,000,000 coins each. If you have any of those, I can refund you."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see, thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've lost a pet. Have you got it?"
+            },
+            {
+              "speaker": "Probita",
+              "text": "If you've lost your pet, it will be reclaimable here!"
+            },
+            {
+              "speaker": "Probita",
+              "text": "Let's have a look..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have a pet that I'd like to insure."
+            },
+            {
+              "speaker": "Probita",
+              "text": "You don't need to pay to insure your pet with me. They're automatically insured for free as soon as you find them!"
+            },
+            {
+              "speaker": "Probita",
+              "text": "If you lose a pet somehow, you can come here and reclaim them. It used to cost reclaim tokens, although we're now subsidised by the Grand Exchange and the service is free. If you have any reclaim tokens left, let"
+            },
+            {
+              "speaker": "Probita",
+              "text": "us know and we will buy them back."
+            },
+            {
+              "speaker": "Player",
+              "text": "What pets have I insured?"
+            },
+            {
+              "speaker": "Probita",
+              "text": "Every pet you've ever found is automatically insured here!"
+            },
+            {
+              "speaker": "Probita",
+              "text": "Here, take a look..."
+            },
+            {
+              "speaker": "Player",
+              "text": "My pet is still lost. Could you look again?"
+            },
+            {
+              "speaker": "Probita",
+              "text": "It's possible there was an error in our records. Let me check again for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Maybe another time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on Probita",
+      "sections": [
+        {
+          "title": "Any insurance-eligible pet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Probita",
+                  "text": "You don't need to pay to insure your pet with me. They're automatically insured for free as soon as you find them!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coins",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Probita",
+                  "text": "If you keep waving money at me, I might take it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Any other item",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Probita",
+                  "text": "This is a pet insurance bureau. I'm not insuring that."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

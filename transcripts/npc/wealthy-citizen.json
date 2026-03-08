@@ -1,0 +1,45 @@
+{
+  "ref": "wealthy-citizen",
+  "categoryRef": "npc",
+  "title": "Wealthy citizen",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Wealthy citizen",
+              "text": "Hello. How are you liking the city?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's truly spectacular."
+            },
+            {
+              "speaker": "Wealthy citizen",
+              "text": "I'd recommend the Colosseum. Me and a few associates always wager bets on the contenders."
+            },
+            {
+              "speaker": "Wealthy citizen",
+              "text": "As you can tell, I'm doing quite well winning! Plenty of coin to pass around."
+            },
+            {
+              "speaker": "Player",
+              "text": "Got any spare for me?"
+            },
+            {
+              "speaker": "Wealthy citizen",
+              "text": "No! We don't care for begging in the city!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

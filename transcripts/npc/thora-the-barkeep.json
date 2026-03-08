@@ -1,0 +1,89 @@
+{
+  "ref": "thora-the-barkeep",
+  "categoryRef": "npc",
+  "title": "Thora the Barkeep",
+  "sections": [
+    {
+      "title": "Before the Fremennik Trials",
+      "sections": [
+        {
+          "title": "Trade option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Thora the Barkeep",
+              "text": "Hello yourself, outerlander. A little out of the way up here, aren't you?"
+            },
+            {
+              "speaker": "Thora the Barkeep",
+              "text": "I would love to stop and chat with you, but unfortunately we have a custom that no Fremennik may speak with the outerlanders without the permission of our chieftain."
+            },
+            {
+              "speaker": "Thora the Barkeep",
+              "text": "Don't take it personally. The Chieftain is stood just over there, his name is Brundt. I suggest you go and introduce yourself."
+            },
+            {
+              "speaker": "Thora the Barkeep",
+              "text": "You wouldn't want to go making any enemies because you weren't aware of our customs now, would you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I guess not. Thanks anyway."
+            },
+            {
+              "speaker": "Thora the Barkeep",
+              "text": "Not a problem, outerlander. It's always nice to see a new face in the Longhall; it happens so rarely."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After the Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Thora the Barkeep",
+              "text": "Hello again [Fremennik name]. I suppose you want a drink? Or are you going to try another scam with that terrible Askeladden again?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Scam? Oh... You mean his promise not to come in here anymore?"
+            },
+            {
+              "speaker": "Thora the Barkeep",
+              "text": "Yes. Yes I do. I should never have trusted him not to come in here, even with that written promise."
+            },
+            {
+              "speaker": "Thora the Barkeep",
+              "text": "Anyway, do you want a drink or not?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Thora the Barkeep",
+              "text": "Okay then."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "ref": "sandwich-lady",
+  "categoryRef": "npc",
+  "title": "Sandwich lady",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Selecting a food",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sandwich lady",
+                  "text": "Hope that fills you up!"
+                },
+                {
+                  "speaker": "Sandwich lady",
+                  "text": "Hey, I didn't say you could have that!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sandwich lady",
+              "text": "You look hungry to me. I tell you what - have a [food option] on me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When talked to after completing the event, or when going into a random event free zone",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sandwich lady",
+              "text": "I'd best be going - lots more sandwiches to deliver!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Other people's Sandwich lady",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sandwich lady",
+              "text": "This is for [player name], not you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sandwich lady",
+              "text": "Sandwiches, [player name]!"
+            },
+            {
+              "speaker": "Sandwich lady",
+              "text": "Did you hear me, [player name]?"
+            },
+            {
+              "speaker": "Sandwich lady",
+              "text": "Sandwich delivery for [player name]!"
+            },
+            {
+              "speaker": "Sandwich lady",
+              "text": "You think I made these just for fun?!!?"
+            },
+            {
+              "speaker": "Sandwich lady",
+              "text": "All types of sandwiches, [player name]."
+            },
+            {
+              "speaker": "Sandwich lady",
+              "text": "Come on [player name], I made these specially!!"
+            },
+            {
+              "speaker": "Sandwich lady",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Contacting through NPC Contacts Random option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello?"
+            },
+            {
+              "speaker": "Sandwich lady",
+              "text": "What do ya want for tea? And it better not be a baguette!"
+            },
+            {
+              "speaker": "Player",
+              "text": "....."
+            },
+            {
+              "speaker": "Player",
+              "text": "........"
+            },
+            {
+              "speaker": "Sandwich lady",
+              "text": "Don't ignore me, [player name]!"
+            },
+            {
+              "speaker": "Player",
+              "text": "........"
+            },
+            {
+              "speaker": "Sandwich lady",
+              "text": "Why won't people talk to me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "....."
+            },
+            {
+              "speaker": "Sandwich lady",
+              "text": "I'll beat you up!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Uhh, urr, a sandwich please?"
+            },
+            {
+              "speaker": "Sandwich lady",
+              "text": "Okay then, my dear! Toodle-oo!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "ref": "sir-kay",
+  "categoryRef": "npc",
+  "title": "Sir Kay",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Kay",
+                  "text": "Good morrow [madam/sirrah]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Morning. Know where an adventurer has to go to find a quest around here?"
+                },
+                {
+                  "speaker": "Sir Kay",
+                  "text": "An adventurer eh? There is no service finer than serving the bountiful King Arthur, and I happen to know there's an important quest to fulfill."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Kay",
+                  "text": "Good morrow [madam/sirrah]!"
+                },
+                {
+                  "speaker": "Sir Kay",
+                  "text": "Sir Knight! Many thanks for your assistance in restoring Merlin to his former freedom!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing King's Ransom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Kay",
+                  "text": "Good morrow [madam/sirrah]!"
+                },
+                {
+                  "speaker": "Sir Kay",
+                  "text": "We owe you a great debt for freeing us from that dungeon."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Awww, shucks. It was nothing."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Kay",
+                  "text": "A valiant effort!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Medium",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Kay",
+                  "text": "I have a question for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When spoken to again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Kay",
+                  "text": "Please enter the answer to the question."
+                },
+                {
+                  "speaker": "Sir Kay",
+                  "text": "No, try again."
+                },
+                {
+                  "speaker": "Sir Kay",
+                  "text": "Correct!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

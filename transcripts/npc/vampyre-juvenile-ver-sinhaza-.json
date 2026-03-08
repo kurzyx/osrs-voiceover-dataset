@@ -1,0 +1,61 @@
+{
+  "ref": "vampyre-juvenile-ver-sinhaza-",
+  "categoryRef": "npc",
+  "title": "Vampyre Juvenile (Ver Sinhaza)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Outside Ver Sinhaza",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's through here?"
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "Ver Sinhaza, home to the Theatre of Blood."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go in?"
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "Yes. Now leave me alone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Inside Ver Sinhaza",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I go through here?"
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "Yes. Now get lost."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

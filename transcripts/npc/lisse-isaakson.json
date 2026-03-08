@@ -1,0 +1,84 @@
+{
+  "ref": "lisse-isaakson",
+  "categoryRef": "npc",
+  "title": "Lisse Isaakson",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lisse Isaakson",
+              "text": "Hello, visitor!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello. What are you up to?"
+            },
+            {
+              "speaker": "Lisse Isaakson",
+              "text": "Ah, I was about to collect some yak's milk to make yak cheese."
+            },
+            {
+              "speaker": "Player",
+              "text": "Eughr! Though I am curious. Can I try some?"
+            },
+            {
+              "speaker": "Lisse Isaakson",
+              "text": "Sorry, no. The last outlander who ate my cheese was ill for a month."
+            },
+            {
+              "speaker": "Player",
+              "text": "So why don't you get ill as well?"
+            },
+            {
+              "speaker": "Lisse Isaakson",
+              "text": "Well, we eat yak milk products every day, from when we're born. So I suppose we're used to it. Anyway I should stop yakking - haha - and get on with my work."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm glad to see that puns are common everywhere in Gielinor; even here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Elite",
+          "sections": [
+            {
+              "title": "After answering correctly",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Lisse Isaakson",
+                      "text": "Thank you, well done!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lisse Isaakson",
+                  "text": "I need your help with this!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "ref": "flippa",
+  "categoryRef": "npc",
+  "title": "Flippa",
+  "sections": [
+    {
+      "title": "Pinball random event",
+      "sections": [
+        {
+          "title": "Initial dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Flippa",
+                  "text": "You want play game of pinball, [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, pinball is fun."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to speak to Flippa again after choosing \"No thanks.\"",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Flippa",
+                  "text": "Going away now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If Flippa spawned for another player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Flippa",
+                  "text": "Nope, you wrong person."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Inside the minigame",
+          "sections": [
+            {
+              "title": "Talking to Flippa before finishing",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Err...what am I supposed to do here again?"
+                    },
+                    {
+                      "speaker": "Flippa",
+                      "text": "You gotta poke dem pillars."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What? All of them?"
+                    },
+                    {
+                      "speaker": "Flippa",
+                      "text": "No, no. If you poke dem ones dat don't have a dem flashin' rings, den dats bad."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So I have to poke the pillars that are flashing?"
+                    },
+                    {
+                      "speaker": "Flippa",
+                      "text": "Yer. You do dat ten times, you get prize."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Flippa after finishing",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "So...I'm free to go now, right?"
+                    },
+                    {
+                      "speaker": "Flippa",
+                      "text": "Yer, get going. We get break now."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Ok. Err...have a nice break."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Flippa",
+              "text": "Come play game, [player name]!"
+            },
+            {
+              "speaker": "Flippa",
+              "text": "We got good game, [player name]!"
+            },
+            {
+              "speaker": "Flippa",
+              "text": "You want play game, [player name]!"
+            },
+            {
+              "speaker": "Flippa",
+              "text": "You like hitting things, [player name]?"
+            },
+            {
+              "speaker": "Flippa",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

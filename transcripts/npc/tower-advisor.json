@@ -1,0 +1,97 @@
+{
+  "ref": "tower-advisor",
+  "categoryRef": "npc",
+  "title": "Tower Advisor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there, what do you do here?"
+            },
+            {
+              "speaker": "Tower Advisor",
+              "text": "Hi. We are in charge of this practice area."
+            },
+            {
+              "speaker": "Player",
+              "text": "This is a practice area?"
+            },
+            {
+              "speaker": "Tower Advisor",
+              "text": "Surrounding us are four towers. Each tower contains trained archers of a different level. You'll notice it's quite a distance, so you'll need a longbow."
+            },
+            {
+              "speaker": "Tower Advisor",
+              "text": "As you're not very skilled, so I advise you to practise on the north tower. That'll provide the best challenge for you."
+            },
+            {
+              "speaker": "Tower Advisor",
+              "text": "You seem to have some skill, so I advise you to practice on the east tower. That'll provide the best challenge for you."
+            },
+            {
+              "speaker": "Tower Advisor",
+              "text": "You appear to be fairly skilled with a bow, so I advise you to practice on the south tower. That'll provide the best challenge for you."
+            },
+            {
+              "speaker": "Tower Advisor",
+              "text": "Looks like you're very skilled, so I advise you to practice on the west tower. That'll provide the best challenge for you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When climbing up the central tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tower Advisor",
+                  "text": "The [north/east/south/west] tower is occupied, get them!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When clearing a tower of all three archers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tower Advisor",
+                  "text": "The [north/east/south/west] tower is defeated! Hurray!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When a tower's archers respawn",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tower Advisor",
+                  "text": "The [north/east/south/west] tower has received reinforcements, kill them quickly!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

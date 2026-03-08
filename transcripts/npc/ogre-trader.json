@@ -1,0 +1,49 @@
+{
+  "ref": "ogre-trader",
+  "categoryRef": "npc",
+  "title": "Ogre trader",
+  "sections": [
+    {
+      "title": "Talk or trade (food stall)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ogre trader",
+              "text": "Arr, small thing wants my food, does it? I'll teach you to deal with ogres!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talk (empty stall",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ogre trader",
+              "text": "Grrr, little animal; I shall destroy you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Trade (empty stall)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ogre trader",
+              "text": "Trade with me? Who do you think you are?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

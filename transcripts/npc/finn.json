@@ -1,0 +1,71 @@
+{
+  "ref": "finn",
+  "categoryRef": "npc",
+  "title": "Finn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Finn",
+              "text": "Can I help you, Your Royal Highness?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please. What are you selling?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's it like living down here?"
+            },
+            {
+              "speaker": "Finn",
+              "text": "A lot drier in the winter than it is above ground."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue during Royal Trouble",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Finn",
+              "text": "Can I help you, Your Royal Highness?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's it like living down here?"
+            },
+            {
+              "speaker": "Finn",
+              "text": "There's no rain or wind down here."
+            },
+            {
+              "speaker": "Finn",
+              "text": "Some of the dwarves say that there's water in the other caves, and one of them says he's seen monsters in there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Monsters? What sort of monsters?"
+            },
+            {
+              "speaker": "Finn",
+              "text": "I don't know, sorry. You'd better ask one of the dwarves about it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

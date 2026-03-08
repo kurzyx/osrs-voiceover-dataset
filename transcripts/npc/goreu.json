@@ -1,0 +1,130 @@
+{
+  "ref": "goreu",
+  "categoryRef": "npc",
+  "title": "Goreu",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Goreu",
+              "text": "Good day, can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks I'm just watching the world go by."
+            },
+            {
+              "speaker": "Goreu",
+              "text": "Well I can think of no better place to do it, it is beautiful here is it not?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Indeed it is."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "During Song of the Elves, after the attack on Lletya",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Goreu",
+              "text": "Good day, can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks I'm just watching the world go by."
+            },
+            {
+              "speaker": "Goreu",
+              "text": "Well this was once the best place to do it, it used to be beautiful here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Will you repair the damage?"
+            },
+            {
+              "speaker": "Goreu",
+              "text": "In time, once the war is over, assuming we survive it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [
+            {
+              "title": "Talking while holding the light or puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Goreu",
+                      "text": "That doesn't look solved to me."
+                    },
+                    {
+                      "speaker": "Goreu",
+                      "text": "Well done [player name]. Here you go."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goreu",
+                  "text": "Here, solve this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Failed pickpocket attempt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goreu",
+                  "text": "What do you think you're doing?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

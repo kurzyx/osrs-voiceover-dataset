@@ -1,0 +1,164 @@
+{
+  "ref": "king-arthur",
+  "categoryRef": "npc",
+  "title": "King Arthur",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Now I am a knight of the round table, do you have any more quests for me?"
+                },
+                {
+                  "speaker": "King Arthur",
+                  "text": "Aha! I'm glad you are here! I am sending out various knights on an important quest. I was wondering if you too would like to take up this quest?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me of this quest."
+                },
+                {
+                  "speaker": "King Arthur",
+                  "text": "Well, we recently found out that the Holy Grail has passed into Gielinor."
+                },
+                {
+                  "speaker": "King Arthur",
+                  "text": "This is most fortuitous!"
+                },
+                {
+                  "speaker": "King Arthur",
+                  "text": "None of my knights ever did return with it last time. Now we have the opportunity to give it another go, maybe this time we will have more luck!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd enjoy trying that."
+                },
+                {
+                  "speaker": "King Arthur",
+                  "text": "Go speak to Merlin. He may be able to give a better clue as to where it is now you have freed him from that crystal."
+                },
+                {
+                  "speaker": "King Arthur",
+                  "text": "He has set up his workshop in the room next to the library."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I may come back and try that later."
+                },
+                {
+                  "speaker": "King Arthur",
+                  "text": "Be sure that you come speak to me soon then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am weary of questing for the time being..."
+                },
+                {
+                  "speaker": "King Arthur",
+                  "text": "Maybe later then?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe so."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Holy Grail",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "King Arthur",
+                  "text": "Thank you for retrieving the Grail! You shall be long remembered as one of the greatest heroes amongst the Knights of the Round Table!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing King's Ransom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "King Arthur",
+                  "text": "Welcome, brave knight. I am always happy to see you back at my court. Please feel free to roam the castle and make use of the training grounds."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "King Arthur",
+              "text": "Welcome to my court. I am King Arthur of the Knights of the Round Table."
+            },
+            {
+              "speaker": "Player",
+              "text": "I want to become a Knight of the Round Table!"
+            },
+            {
+              "speaker": "King Arthur",
+              "text": "Really? Well then you will need to go on a quest to prove yourself worthy. My knights all appreciate a good quest."
+            },
+            {
+              "speaker": "King Arthur",
+              "text": "Unfortunately, our current quest is to rescue Merlin. He recently got himself trapped in some sort of magical crystal. We've moved him from the cave we found him in and now he's upstairs in his tower."
+            },
+            {
+              "speaker": "Player",
+              "text": "I will see what I can do then."
+            },
+            {
+              "speaker": "King Arthur",
+              "text": "Talk to my knights if you need any help."
+            },
+            {
+              "speaker": "Player",
+              "text": "I may come back and try that later."
+            },
+            {
+              "speaker": "King Arthur",
+              "text": "Be sure that you come speak to me soon then."
+            },
+            {
+              "speaker": "Player",
+              "text": "So what are you doing in Gielinor?"
+            },
+            {
+              "speaker": "King Arthur",
+              "text": "Well legend says we will return to Britain in its time of greatest need. But that's not for quite a while yet."
+            },
+            {
+              "speaker": "King Arthur",
+              "text": "So we've moved the whole outfit here for now."
+            },
+            {
+              "speaker": "King Arthur",
+              "text": "We're passing the time in Gielinor!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you very much."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

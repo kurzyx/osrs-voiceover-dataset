@@ -1,0 +1,191 @@
+{
+  "ref": "kylie-minnow",
+  "categoryRef": "npc",
+  "title": "Kylie Minnow",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "First time talking to Kylie Minnow without the requirements",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "Strewth! Nippy little blighters!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me?"
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "Oh G'day! Sorry, didn't see you there!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's okay. What seems to be the problem?"
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "Oh, well I wanted to catch some minnows so I could use 'em as bait, but the little blighters are just too quick! I managed to get 'em all rounded up over on my fishing platform, but I still can't catch 'em!"
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "Then, to make things worse, any time I do finally catch some, those bloody flying fish jump out at me and gobble up me minnows!"
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "What I need is someone who can catch 'em for me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, maybe I could help out?"
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "Well I don't know. I don't want to be letting just anyone onto me fishing platform! But I guess if you could show me that you are a worthy fisher than that would be okay. I can even give you shark in exchange"
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "for the minnows you catch, 'cos them I can catch no problem!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds fair. What can I do to show that I am worthy?"
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "Well you should be very experienced in the art of fishing, own the proper attire, and be recognised by your peers as a great fisherman."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, how about letting me out onto your fishing platform?"
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "Ripper! You certainly seem to be the real deal, so sure, go ahead and take the boat over there. Oh, and don't worry about wearing that angling gear if yous don't want to, I just wanted to see that you took fishing"
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "serious enough to have the right attire."
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "Sorry, but I just don't think you are experienced enough."
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "Sorry, but I just don't think you are renowned enough as a [fisherman/fisherwoman]."
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "Sorry, but I just don't think you are wearin' suitable fishing gear."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kylie Minnow again without the requirements",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So, how about letting me out onto your fishing platform?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to board the boat without 82 fishing",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "G'day, only the best fishers are allowed onto the fishing platform. You need a fishing level of 82."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to board the boat before speaking to Kylie",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "I don't think I have given you access to my fishing platform. Come and speak to me if you would like to get access."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After gaining access",
+      "sections": [
+        {
+          "title": "Talking to Kylie",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "Have you got any minnows for trade? I have plenty of nice, fresh sharks waiting for ya!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, let's trade."
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "I can give you a shark for every 40 minnows that you give me. How many sharks would you like?"
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "You'll be needing at least 40 minnows to trade for a shark! Come back and see me when you have some more!"
+                },
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "I can't trade you any sharks while you don't have any space for them!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trade option without at least 40 minnows",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kylie Minnow",
+                  "text": "You'll be needing at least 40 minnows to trade for a shark! Come back and see me when you have some more!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

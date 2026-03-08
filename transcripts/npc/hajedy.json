@@ -1,0 +1,95 @@
+{
+  "ref": "hajedy",
+  "categoryRef": "npc",
+  "title": "Hajedy",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Shilo Village",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hajedy",
+                  "text": "We used to run cart trips down to Shilo Village in south Karamja. Since the troubles we had we've had to stop them though, too many people got killed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Shilo Village",
+          "sections": [
+            {
+              "title": "If the player hasn't completed the Elite Karamja Diary",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hajedy",
+                      "text": "I am offering a cart ride to Shilo Village, if you're interested. It will cost [amount] coins. Is that okay?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes please, I'd like to go to Shilo Village."
+                    },
+                    {
+                      "speaker": "Hajedy",
+                      "text": "Sorry, but it looks as if you don't have enough money. Come and see me when you have enough for the ride."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No thanks."
+                    },
+                    {
+                      "speaker": "Hajedy",
+                      "text": "Okay, Bwana, let me know if you change your mind."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "If the player has completed the Elite Karamja Diary",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hajedy",
+                      "text": "I am offering a cart ride to Shilo Village, if you're interested. For you, it's free."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "When using the right-click pay-fare option",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

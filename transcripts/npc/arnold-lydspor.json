@@ -1,0 +1,88 @@
+{
+  "ref": "arnold-lydspor",
+  "categoryRef": "npc",
+  "title": "Arnold Lydspor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Arnold Lydspor",
+              "text": "Ah, you come back! What you want from Arnold, heh?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Would you like to trade?"
+            },
+            {
+              "speaker": "Arnold Lydspor",
+              "text": "Ja, I have wide range of stock..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing, I just came to chat."
+            },
+            {
+              "speaker": "Arnold Lydspor",
+              "text": "Ah, that is nice - always I like to chat, but Herr Caranos tell me to get back to work! Here, you been nice, so have a present:"
+            },
+            {
+              "speaker": "Player",
+              "text": "A cabbage?"
+            },
+            {
+              "speaker": "Arnold Lydspor",
+              "text": "Ja, cabbage is good for you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Um... thanks!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "Talking again while holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Arnold Lydspor",
+                      "text": "Sorry but you haven't solved the puzzle yet."
+                    },
+                    {
+                      "speaker": "Arnold Lydspor",
+                      "text": "Thanks [player name]!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Arnold Lydspor",
+                  "text": "Please solve this for me. I have other things to be thinking about."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

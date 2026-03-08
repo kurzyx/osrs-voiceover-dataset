@@ -1,0 +1,47 @@
+{
+  "ref": "elder-kelmo",
+  "categoryRef": "npc",
+  "title": "Elder Kelmo",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Kelmo",
+              "text": "Hello there. I'd be careful of upsetting the gryphons in here. These ones so far don't seem to be too aggressive. We'd prefer to keep it that way."
+            },
+            {
+              "speaker": "Player",
+              "text": "So I can't fight them?"
+            },
+            {
+              "speaker": "Elder Kelmo",
+              "text": "You can, but only if you have permission. We still want to keep them in check, but we don't want to go overboard and make them angry."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. Thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to attack without task",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Kelmo",
+              "text": "Wait! These gryphons do not currently pose a threat to us. You shouldn't attack them without permission!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

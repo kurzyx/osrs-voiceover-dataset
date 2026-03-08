@@ -1,0 +1,45 @@
+{
+  "ref": "dron",
+  "categoryRef": "npc",
+  "title": "Dron",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Making History",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me.."
+                },
+                {
+                  "speaker": "Dron",
+                  "text": "Leave me or I'll destroy you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Making History",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dron",
+                  "text": "You have your answers, now go away!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

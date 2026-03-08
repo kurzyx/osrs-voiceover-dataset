@@ -1,0 +1,29 @@
+{
+  "ref": "bandit-shopkeeper",
+  "categoryRef": "npc",
+  "title": "Bandit shopkeeper",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Bandit shopkeeper",
+              "text": "Stuff for sale. You buying?"
+            },
+            {
+              "speaker": "Bandit shopkeeper",
+              "text": "No? 'Bye then."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

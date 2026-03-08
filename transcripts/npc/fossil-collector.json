@@ -1,0 +1,95 @@
+{
+  "ref": "fossil-collector",
+  "categoryRef": "npc",
+  "title": "Fossil Collector",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello!"
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "Hello there. Do you have any fossils for me?"
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "I'm Mary. In the tent you'll find Tray, my dog. He's quite friendly and doesn't bite. I'm here for the fossils. I'll go anywhere for fossils!"
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "Well, I have some rather nice things I've found. I collect fossils, infact you might say I'm obsessed with them. Large or small, but especially the small numulites."
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "What fossils would you like to trade?"
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "All done. Would you like to trade in any more fossils?"
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "All done. Would you like to trade in any more fossils?"
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "It looks like you don't have any fossils to trade."
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "You don't have space for that."
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "Of course, you left it here and I kept it for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Trade option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Fossil Collector",
+              "text": "What fossils would you like to trade?"
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "All done. Would you like to trade in any more fossils?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "All done. Would you like to trade in any more fossils?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Fossil Collector",
+              "text": "It looks like you don't have any fossils to trade."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

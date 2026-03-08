@@ -1,0 +1,111 @@
+{
+  "ref": "molossus",
+  "categoryRef": "npc",
+  "title": "Molossus",
+  "sections": [
+    {
+      "title": "Player interactions",
+      "sections": [
+        {
+          "title": "If player chooses to pet Molossus",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Who's a good doggy!"
+                },
+                {
+                  "speaker": "Molossus",
+                  "text": "Woof!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If player chooses to shoo Molossus",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Thbbbbt!"
+                },
+                {
+                  "speaker": "Molossus",
+                  "text": "Whine!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Item interactions",
+      "sections": [
+        {
+          "title": "Using a bone on Molossus",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Molossus",
+                  "text": "Woof woof!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a piece of meat on Molossus",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Molossus",
+                  "text": "Woof woof!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a disliked item on Molossus",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Molossus",
+                  "text": "Grrrr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using any other item on Molossus",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Molossus",
+                  "text": "Grrrr!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

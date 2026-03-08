@@ -1,0 +1,48 @@
+{
+  "ref": "hudon",
+  "categoryRef": "npc",
+  "title": "Hudon",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Trying to talk to Hudson before starting Waterfall Quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After the completion of Waterfall Quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Hudon",
+                  "text": "You stole my treasure. I saw you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll make sure it goes to a good cause."
+                },
+                {
+                  "speaker": "Hudon",
+                  "text": "Hmmmm!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

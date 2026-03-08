@@ -1,0 +1,291 @@
+{
+  "ref": "barlak",
+  "categoryRef": "npc",
+  "title": "Barlak",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Barlak",
+              "text": "Bones!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What?"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "I don't have any bones!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Then how do you stand up?"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "What?"
+            },
+            {
+              "speaker": "Player",
+              "text": "How do you stand up if you have no bones? Shouldn't you collapse into a gelatinous blob?"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Ha, ha, ha, ha, ha!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you need bones for?"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "To stand up properly. Otherwise I'd collapse into a gelatinous blob!"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Ha, ha, ha, ha, ha!"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "No, seriously, I need bones to use as a Construction material. We always need big bones to prop up the mine shafts and to make other temporary structures."
+            },
+            {
+              "speaker": "Player",
+              "text": "Will you buy anything besides bones?"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Well, I've had a few people bring me some interesting giant shells. They say they came from giant snails and giant tortoises."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Of course, like the bones, some shells are better than others. I'll give you 250gp for ordinary shells, but what I really need are perfect shells. I'll pay double for them and give you a few tips about Crafting too."
+            },
+            {
+              "speaker": "Player",
+              "text": "What kind of bones do you need?"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Enormous bones, as big as you can get. Not just any big bones will do."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Sometimes you might find a particularly long, straight bone. That's the kind of thing I need; I'll give you 1,000gp for one of them."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Occasionally, you might find a long curved bone - these are especially valuable - I'll give you 2,000gp for them."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "I'll also teach you a bit about how we use the bones in Construction, if you like."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "With curved bones or long bones in the player's inventory or bank",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Barlak",
+              "text": "Those bones! Those are exactly the sort of thing I need! Will you sell them?"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "I'll give you [X] gp for the bones you're carrying and for any you have in your bank."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "I'll try to teach you something about Construction as well, but it's highly technical so you won't understand if you don't already have level 30 Construction."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Thanks! Now, let me explain..."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "With snail shells or perfect snail shells in the player's inventory",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Barlak",
+              "text": "That giant shell...what is it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's a giant snail shell!"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Hmm... I think I might be able to make something out of them."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "I'll give you [X] gp for the snail shells you're carrying."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Thanks. If you find any more shells like these, please bring them to me!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Hmm... I think I might be able to make something out of them, especially that perfect one."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "I'll give you [X] gp for the snail shell you're carrying, and I'll try to give you some advice on Crafting while I'm at it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Thanks! Now, I don't think I could use that for Construction, but maybe I could make something..."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Hmm... I think I might be able to make something out of them, especially those perfect ones."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "I'll give you [X] gp for the snail shells you're carrying, and I'll try to give you some advice on Crafting while I'm at it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Thanks! Now, I don't think I could use that for Construction, but maybe I could make something..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "With tortoise shells or perfect shells in the player's inventory",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Barlak",
+              "text": "That giant shell...what is it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's a giant battle tortoise shell!"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Hmm... I think I might be able to make something out of them."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "I'll give you [X] gp for the tortoise shells you're carrying."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Thanks. If you find any more shells like these, please bring them to me!"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "That other giant shell...what is it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's a giant snail shell!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Hmm... I think I might be able to make something out of them, especially that perfect one."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "I'll give you [X] gp for the tortoise shell you're carrying, and I'll try to give you some advice on Crafting while I'm at it."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Thanks! Now, I don't think I could use that for Construction, but maybe I could make something..."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "That other giant shell...what is it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's a giant snail shell!"
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Hmm... I think I might be able to make something out of them, especially those perfect ones."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "I'll give you [X] gp for the tortoise shells you're carrying, and I'll try to give you some advice on Crafting while I'm at it."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "Thanks! Now, I don't think I could use that for Construction, but maybe I could make something..."
+            },
+            {
+              "speaker": "Barlak",
+              "text": "That other giant shell...what is it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's a giant snail shell!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

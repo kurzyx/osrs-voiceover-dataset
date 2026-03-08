@@ -1,0 +1,147 @@
+{
+  "ref": "chris",
+  "categoryRef": "npc",
+  "title": "Chris",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "On main game worlds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chris",
+                  "text": "Hello, I've got some wares in you might have lost. Care to take a look?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you and what do you sell?"
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "I'm Chris, travelling repairman. If you need something repaired, I can do it for you if you've got the money for it."
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "I've also got a collection of items people end up losing a lot. Nothing fancy, and certainly nothing you couldn't get elsewhere, maybe for free. Still, I charge a convenience fee for having it right here. Interested?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Show me what you've got."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "About items that break when people kill me..."
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "Yeah, some things will break if you get killed in the Wilderness. And if you die deep in the Wilderness, they can vanish altogether."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you fix them?"
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "For a fee, sure. Just show me the broken item."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you stop them vanishing in deep Wilderness?"
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "Well, if you bring me a Trouver Parchment and some coins, I can enchant some items so they won't disappear if you end up losing them deep in the Wilderness."
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "If you need a Trouver Parchment, there's a mage up in Ferox Enclave called Justine who sells them. I've also heard rumours there's a cave in the Wilderness with creatures that sometimes carry them as well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why would wild creatures be carrying magic parchments?"
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "Eh, some poor sap walks in carrying one, gets himself killed, and the creature just hangs on to it as a trophy? I can see it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "On PvP Arena worlds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chris",
+                  "text": "Hey there. I can't offer my usual services right now, but if you're interested, I picked up a few bits that would let me change your appearance, if you're interested."
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "Huh, I knew the Makeover Mage said that would work, but I didn't actually believe them!"
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "Not too shabby from some sheep shears, if I do say so myself!"
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "Are you looking for a haircut or a shave?"
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "Are you wanting a new top or some new legwear?"
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "Really? I got that out of a bin in Draynor! Well, if you're sure..."
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "Well, they'll keep the sand off your feet at least..."
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "Suit yourself. Literally, I guess."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to smith on the nearby anvil",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chris",
+                  "text": "Hey, hands off my anvil!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I just wanted to smith on it! It's right by a bank-"
+                },
+                {
+                  "speaker": "Chris",
+                  "text": "Because I put it there, you fool! If you want an anvil by a bank, I suggest you find your own!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "ref": "king-roald",
+  "categoryRef": "npc",
+  "title": "King Roald",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Initial dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Greetings, your majesty."
+                },
+                {
+                  "speaker": "King Roald",
+                  "text": "Do you have anything of importance to say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...Not really."
+                },
+                {
+                  "speaker": "King Roald",
+                  "text": "You will have to excuse me, then. I am very busy as I have a kingdom to run!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to King Roald again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Greetings, your majesty."
+                },
+                {
+                  "speaker": "King Roald",
+                  "text": "Well hello there. What do you want?"
+                },
+                {
+                  "speaker": "King Roald",
+                  "text": "Ah, it's you again. Hello there."
+                },
+                {
+                  "speaker": "King Roald",
+                  "text": "Do you have anything of importance to say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...Not really."
+                },
+                {
+                  "speaker": "King Roald",
+                  "text": "You will have to excuse me, then. I am very busy as I have a kingdom to run!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When spoken to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "King Roald",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "King Roald",
+                      "text": "Err, that sounds a little wrong to me."
+                    },
+                    {
+                      "speaker": "King Roald",
+                      "text": "Correct!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "King Roald",
+                  "text": "Is there a reason for you being here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I'm on a treasure trail..."
+                },
+                {
+                  "speaker": "King Roald",
+                  "text": "Oh! Good, then you can answer this question for me!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

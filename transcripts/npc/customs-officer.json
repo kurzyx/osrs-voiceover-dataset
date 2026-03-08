@@ -1,0 +1,162 @@
+{
+  "ref": "customs-officer",
+  "categoryRef": "npc",
+  "title": "Customs officer",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing Pirate's Treasure",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Customs officer",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I journey on this ship?"
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "You need to be searched before you can board."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why?"
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Because Asgarnia has banned the import of intoxicating spirits."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Search away, I have nothing to hide."
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Well you've got some odd stuff, but it's all legal. Now you need to pay a boarding charge of 30 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh dear, I don't seem to have enough money."
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Hang on a sec... Aren't those Karamja gloves? I thought I'd seen you helping around the island. You can go on half price mate."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'll not bother then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Or perhaps you could let me travel for free?"
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Yes, perhaps I could. Okay, jump aboard then."
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Aha, trying to smuggle rum are we?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Umm... it's for personal use?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This is not the Karamja rum you are looking for."
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "This is not the Karamja rum we are looking for."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well that was easy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Drat..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're not putting your hands on my things!"
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "You're not getting on this ship then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Does Karamja have any unusual customs then?"
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "I'm not that sort of customs officer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Pirate's Treasure",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Customs officer",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I journey on this ship?"
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Hey, I know you, you work at the plantation."
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "I don't think you'll try smuggling anything, you just need to pay a boarding charge of 30 coins."
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Spot inspection. You don't mind do you?"
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Aha, trying to smuggle rum eh?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Umm... it's for personal use?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Right-click 'Pay-Fare' option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

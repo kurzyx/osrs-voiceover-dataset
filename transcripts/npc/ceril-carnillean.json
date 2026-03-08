@@ -1,0 +1,62 @@
+{
+  "ref": "ceril-carnillean",
+  "categoryRef": "npc",
+  "title": "Ceril Carnillean",
+  "sections": [
+    {
+      "title": "Hazeel Cult",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "After Hazeel Cult",
+      "sections": [
+        {
+          "title": "Sided with Carnillean",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, Ceril."
+                },
+                {
+                  "speaker": "Ceril Carnillean",
+                  "text": "Hello again, adventurer! It's good to see you! If it wasn't for your quick thinking, the treacherous Jones would have probably poisoned my family and I by now! We are in your debt."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry about it! A good deed is its own reward. And that money didn't hurt either."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sided with Hazeel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, Ceril."
+                },
+                {
+                  "speaker": "Ceril Carnillean",
+                  "text": "Oh... I may be wrong... but ever since I asked for your help, things around here have gone from bad to worse..."
+                },
+                {
+                  "speaker": "Ceril Carnillean",
+                  "text": "I think you'd better keep out of my way. And for the last time, it's Sir Ceril! Sir! It's not that hard to blooming remember!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

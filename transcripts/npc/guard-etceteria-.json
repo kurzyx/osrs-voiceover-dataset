@@ -1,0 +1,55 @@
+{
+  "ref": "guard-etceteria-",
+  "categoryRef": "npc",
+  "title": "Guard (Etceteria)",
+  "sections": [
+    {
+      "title": "Standard dialogue before Royal Trouble",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What are you guarding here?"
+            },
+            {
+              "speaker": "Guard",
+              "text": "The area under the palace is going to be excavated soon, and I'm guarding the entrance to it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, I see. Can I go down there?"
+            },
+            {
+              "speaker": "Guard",
+              "text": "Of course not!"
+            },
+            {
+              "speaker": "Guard",
+              "text": "There's not even a rope to let you down there. You'd break both your legs if you tried it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after Royal Trouble",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guard",
+              "text": "I'm surprised you managed to get out of there without breaking any bones."
+            },
+            {
+              "speaker": "Guard",
+              "text": "Still, the Queen says it should be safe, and I'm to let you go back down if you want."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

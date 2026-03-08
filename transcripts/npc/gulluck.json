@@ -1,0 +1,51 @@
+{
+  "ref": "gulluck",
+  "categoryRef": "npc",
+  "title": "Gulluck",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Gulluck",
+              "text": "Good day brave adventurer! Could I interest you in my fine selection of weapons?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll take a look."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Gulluck",
+              "text": "Grrrr!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gnome Restaurant dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gulluck",
+              "text": "Thanks. Hmph."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

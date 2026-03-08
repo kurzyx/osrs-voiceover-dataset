@@ -1,0 +1,92 @@
+{
+  "ref": "primula",
+  "categoryRef": "npc",
+  "title": "Primula",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Primula",
+              "text": "Hello. Interested in learning about some potions?"
+            },
+            {
+              "speaker": "Primula",
+              "text": "Hello. Need anything?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's trade."
+            },
+            {
+              "speaker": "Player",
+              "text": "What kind of potions?"
+            },
+            {
+              "speaker": "Primula",
+              "text": "Here's one I think you'll like. I found this recipe whilst exploring some old frozen ruins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Primula",
+              "text": "Don't mention it. Would you like to buy any herblore supplies?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm good, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [
+            {
+              "title": "Talking again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Primula",
+                      "text": "That doesn't look solved to me."
+                    },
+                    {
+                      "speaker": "Primula",
+                      "text": "Well done [player name]. Here you go."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Primula",
+                  "text": "Here, solve this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

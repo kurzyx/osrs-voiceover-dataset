@@ -1,0 +1,70 @@
+{
+  "ref": "guildmaster",
+  "categoryRef": "npc",
+  "title": "Guildmaster",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking to the Guildmaster",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guildmaster",
+                  "text": "Greetings!"
+                },
+                {
+                  "speaker": "Guildmaster",
+                  "text": "This is the Champions' Guild. Only adventurers who have proved themselves worthy by gaining influence from quests are allowed in here."
+                },
+                {
+                  "speaker": "Guildmaster",
+                  "text": "Let me see what you've got there. Ah, yes, one of the champions. Just head downstairs and you'll find your challenge waiting in the arena. Hand that scroll to the doorman to get in."
+                },
+                {
+                  "speaker": "Guildmaster",
+                  "text": "Of course! Here you go."
+                },
+                {
+                  "speaker": "Guildmaster",
+                  "text": "I think you've already got a key. Maybe you should check your key ring."
+                },
+                {
+                  "speaker": "Guildmaster",
+                  "text": "I think you've already got a key somewhere."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering the Champions' Guild",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guildmaster",
+                  "text": "You have not proved yourself worthy to enter here yet."
+                },
+                {
+                  "speaker": "Guildmaster",
+                  "text": "Greetings bold adventurer. Welcome to the guild of Champions."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "During Dragon Slayer I",
+      "sections": [],
+      "dialogues": []
+    }
+  ]
+}

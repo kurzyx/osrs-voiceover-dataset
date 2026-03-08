@@ -1,0 +1,107 @@
+{
+  "ref": "thora-miscellania-",
+  "categoryRef": "npc",
+  "title": "Thora (Miscellania)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Thora",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Thora",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacking the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Thora",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Thora",
+                  "text": "Rahr!"
+                },
+                {
+                  "speaker": "Thora",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Thora",
+                  "text": "Grr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Thora",
+                  "text": "Aargh!"
+                },
+                {
+                  "speaker": "Thora",
+                  "text": "I'm a gonner!"
+                },
+                {
+                  "speaker": "Thora",
+                  "text": "It's no use, I'm done for!"
+                },
+                {
+                  "speaker": "Thora",
+                  "text": "Uggh!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

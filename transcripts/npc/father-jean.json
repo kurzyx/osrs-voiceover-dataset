@@ -1,0 +1,61 @@
+{
+  "ref": "father-jean",
+  "categoryRef": "npc",
+  "title": "Father Jean",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Father Jean",
+              "text": "Sorry, there will be no sermon today, but you may offer a prayer to Saradomin yourself."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do the people here mostly worship Saradomin?"
+            },
+            {
+              "speaker": "Father Jean",
+              "text": "Of course! Even before our forefathers founded Kourend, under King Rada I, they remembered the tumult of the times when the armies of the gods laid waste to the lands."
+            },
+            {
+              "speaker": "Father Jean",
+              "text": "We thank Saradomin for the end of that violent Age, and pray that he will continue to defend us from the evil other gods."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's nice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Father Jean",
+                  "text": "Most impressive, have this!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

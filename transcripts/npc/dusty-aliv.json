@@ -1,0 +1,95 @@
+{
+  "ref": "dusty-aliv",
+  "categoryRef": "npc",
+  "title": "Dusty Aliv",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Dusty Aliv",
+              "text": "Eyup. Not too often we get visitors down here."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Dusty Aliv",
+              "text": "Beats me. All I know is, there's dust devils in here, and I'm here to make sure only people with permission can kill 'em."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I kill them?"
+            },
+            {
+              "speaker": "Dusty Aliv",
+              "text": "You got a Slayer task for it, so sure, be my guest."
+            },
+            {
+              "speaker": "Dusty Aliv",
+              "text": "Not without a Slayer task. Go talk to a Slayer Master about it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Dusty Aliv",
+              "text": "The name's Dusty Aliv. I guard this place for the Slayer Masters."
+            },
+            {
+              "speaker": "Player",
+              "text": "That doesn't sound like a great job."
+            },
+            {
+              "speaker": "Dusty Aliv",
+              "text": "Eh, it has its perks. Plus it beats flying around Gielinor after numbskulls like you trying to deliver mail like some people I know."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nice sword."
+            },
+            {
+              "speaker": "Dusty Aliv",
+              "text": "Thanks. Probably shouldn't tell you about the previous owner though."
+            },
+            {
+              "speaker": "Player",
+              "text": "What happened to them?"
+            },
+            {
+              "speaker": "Dusty Aliv",
+              "text": "Let's just say the heat got to them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Dusty Aliv",
+              "text": "See ya."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When attempting to kill monsters that aren't part of a player's slayer task",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Dusty Aliv",
+              "text": "Oi! Only people with a Slayer task can slay in here!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

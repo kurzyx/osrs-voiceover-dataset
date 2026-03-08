@@ -1,0 +1,84 @@
+{
+  "ref": "dwarf-motherlode-mine-",
+  "categoryRef": "npc",
+  "title": "Dwarf (Motherlode Mine)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Attempting to exit through the tunnel into the Mining Guild without 60 Mining.",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dwarf",
+                  "text": "Sorry, but you're not experienced enough to go in there."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Dwarf",
+              "text": "Hello there. Do you need anything?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's through this cave?"
+            },
+            {
+              "speaker": "Dwarf",
+              "text": "This cave leads to the Mining Guild, home to the finest mining site around. Is there anything else I can help you with?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What have you got in the guild?"
+            },
+            {
+              "speaker": "Dwarf",
+              "text": "All sorts of things! There's plenty of coal rocks along with some iron, mithril and adamantite as well."
+            },
+            {
+              "speaker": "Dwarf",
+              "text": "Deeper in the guild you'll find even more rocks including some runite! The best bit though is our amethyst mine, the only one in the land!"
+            },
+            {
+              "speaker": "Dwarf",
+              "text": "There's no better mining site anywhere!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you dwarves do with the ore you mind?"
+            },
+            {
+              "speaker": "Dwarf",
+              "text": "What do you think? We smelt it into bars, smith the metal to make armour and weapons, then we exchange them for goods and services."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't see many dwarves selling armour or weapons here."
+            },
+            {
+              "speaker": "Dwarf",
+              "text": "No, this is only a mining outpost. We dwarves don't much like to settle in human cities. Most of the ore is carted off to Keldagrim, the great dwarven city. They've got a special blast furnace up there - it makes"
+            },
+            {
+              "speaker": "Dwarf",
+              "text": "smelting the ore so much easier. There are plenty of dwarven traders working in Keldagrim. Anyway, can I help you with anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks, I'm fine."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

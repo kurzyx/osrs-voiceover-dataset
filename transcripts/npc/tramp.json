@@ -1,0 +1,88 @@
+{
+  "ref": "tramp",
+  "categoryRef": "npc",
+  "title": "Tramp",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking again after refusing to give coins",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tramp",
+                  "text": "I know I've asked you before, but have you any spare change this time?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tramp",
+              "text": "Got any spare change, mate?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I can spare a little money."
+            },
+            {
+              "speaker": "Tramp",
+              "text": "Thanks, mate!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, you'll have to earn it yourself, just like I did."
+            },
+            {
+              "speaker": "Tramp",
+              "text": "Please yourself."
+            },
+            {
+              "speaker": "Player",
+              "text": "I haven't got any."
+            },
+            {
+              "speaker": "Tramp",
+              "text": "Yeah, right, they all say that."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "If the player refuses to give coins",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tramp",
+                  "text": "I hate [player name]!"
+                },
+                {
+                  "speaker": "Tramp",
+                  "text": "[player name] is mean!"
+                },
+                {
+                  "speaker": "Tramp",
+                  "text": "Don't ask [player name] for anything - [he's/she's/they're] stingy!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

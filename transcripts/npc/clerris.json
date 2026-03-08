@@ -1,0 +1,113 @@
+{
+  "ref": "clerris",
+  "categoryRef": "npc",
+  "title": "Clerris",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Clerris",
+              "text": "Good day."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hey there. What brings you here?"
+            },
+            {
+              "speaker": "Clerris",
+              "text": "This is the dense essence mine. The essence we gather here is used across Arceuus, and indeed all of Kourend. If you wish, you are welcome to mine some yourself."
+            },
+            {
+              "speaker": "Player",
+              "text": "I might do that. Thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Clerris",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Clerris",
+                      "text": "No, try again."
+                    },
+                    {
+                      "speaker": "Clerris",
+                      "text": "Correct!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clerris",
+                  "text": "I have a question for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "If the player has maximum Arceuus favour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clerris",
+                  "text": "We do not require any dense essence from you at present. Thank you for your support."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Clerris",
+              "text": "The mages of Arceuus seek dense essence for their experiments. I see you have [amount] blocks; we require [amount]. Donations will be marked with gratitude."
+            },
+            {
+              "speaker": "Clerris",
+              "text": "Your donation has been gratefully recieved."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, sorry, they can't have it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

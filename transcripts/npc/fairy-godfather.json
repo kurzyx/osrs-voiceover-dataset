@@ -1,0 +1,109 @@
+{
+  "ref": "fairy-godfather",
+  "categoryRef": "npc",
+  "title": "Fairy Godfather",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After completing Fairytale I",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After Fairytale II",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Err, Godfather, I can't help noticing that there seems to be Orcs wandering around Zanaris."
+                },
+                {
+                  "speaker": "Fairy Godfather",
+                  "text": "Yous just-a better keep-a your nose outa my business. I's da Godfather and I's da one who's inna charge here."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using Nuff's certificate on him",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Do you know what these strange marks mean?"
+            },
+            {
+              "speaker": "Fairy Godfather",
+              "text": "For why you show-a me dat? Eez very nice to see yous learning to draw! Bravo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "When spoken to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Fairy Godfather",
+                      "text": "You tell-a me your answer, si?"
+                    },
+                    {
+                      "speaker": "Fairy Godfather",
+                      "text": "Iz-a no good."
+                    },
+                    {
+                      "speaker": "Fairy Godfather",
+                      "text": "Grazie infinite!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fairy Godfather",
+                  "text": "Ah, iz-a you. I make-a you an offer, eh? Iz-a good offer. You can't-a refuse it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Fairy Godfather",
+                  "text": "You tell-a me ze answer to dis, si?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

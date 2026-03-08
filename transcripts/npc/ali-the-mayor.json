@@ -1,0 +1,67 @@
+{
+  "ref": "ali-the-mayor",
+  "categoryRef": "npc",
+  "title": "Ali the Mayor",
+  "sections": [
+    {
+      "title": "Standard dialogue before The Feud",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ali the Mayor",
+              "text": "Welcome, adventurer, to the town of Pollnivneach, the gateway to Menaphos and Al Kharid. My name is Ali and I'm the mayor of this town. I hope you enjoy your stay here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you. That is one of the warmest welcomes I've ever had! People generally treat travelling adventurers with suspicion."
+            },
+            {
+              "speaker": "Ali the Mayor",
+              "text": "All are welcome here. Now more than ever I suppose."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you mean by that?"
+            },
+            {
+              "speaker": "Ali the Mayor",
+              "text": "There's trouble in town, and a lot of villagers have left as a result. Things are looking dire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Feud",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hakeem the Mayor",
+              "text": "Thank you once again. Have you spoken to Ali Morrisane yet?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I spoke to him already. He really had me going with his little 'tourism' trick!"
+            },
+            {
+              "speaker": "Hakeem the Mayor",
+              "text": "Well, not to be immodest, but it was all my idea."
+            },
+            {
+              "speaker": "Hakeem the Mayor",
+              "text": "Our little town needed help, and I knew it'd take the greatest salesman in Gielinor to attract an adventurer strong enough to help us out."
+            },
+            {
+              "speaker": "Hakeem the Mayor",
+              "text": "In any case, I have my mayoral duties to attend to. I have lots of new citizens to register!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

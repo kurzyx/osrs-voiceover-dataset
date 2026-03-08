@@ -1,0 +1,35 @@
+{
+  "ref": "angel",
+  "categoryRef": "npc",
+  "title": "Angel",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Angel",
+              "text": "We don't talk to strangers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dialogue if the player has completed the 2018 Halloween event",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Angel",
+              "text": "Uncle Eric says you're great, but he doesn't know what a bad dancer you are."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

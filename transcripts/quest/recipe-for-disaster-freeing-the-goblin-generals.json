@@ -1,0 +1,685 @@
+{
+  "ref": "recipe-for-disaster-freeing-the-goblin-generals",
+  "categoryRef": "quest",
+  "title": "Recipe for Disaster/Freeing the Goblin generals",
+  "sections": [
+    {
+      "title": "Starting out",
+      "sections": [
+        {
+          "title": "Inspecting the Goblin Generals",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Which one of these am I actually meant to be saving?"
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "Hmmm... neither of them were at the previous council meeting."
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "The goblins get through leaders so fast I find it hard to keep track. I heard the last leader died during a game of pin the tail on the basilisk."
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "Well, no worries. I'm sure if you just find something that they'll both eat then that should work. I hope."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Remembering the last time I dealt with these two, that may be easier said than done."
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "Well you could try asking some of the other goblins in their village for ideas. You should be able to find it just to the North of Falador, unless they've decided the sky is the wrong colour there or something."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the cook",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can we talk about what happened in the dining room?"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Wow! You were incredible! The way you defeated the Culinaromancer, you made it seem so easy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So... I don't suppose you can remember how I defeated him can you?"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Of course! Which bit can't you remember doing?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Those bickering goblins... How did I protect them again?"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Well, that was a weird one alright, you told me that they couldn't agree on what food they liked, so you ended up just mushing a bunch of stuff together somehow which seemed to do the trick."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh yeah... I remember now..."
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Did you want a reminder on any other of your brave exploits?}}"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Asking around Goblin Village",
+      "sections": [
+        {
+          "title": "Talking to the Generals",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I ask about what food you like?"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "What? Why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to save you from the Culinaromancer's spell."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "From who's what?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "At the council meeting in Lumbridge, there was a Culinaromancer who tried to cast an evil spell on you!"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Lumbridge...?"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Oh yeah. Me remember. Me was goblin representy thingy."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "No you weren't! That was me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never mind that, don't you remember the spell?"
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "All me remember is Wartface stealin' chair!"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Weren't your chair. You shouldn' even've been there!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But..."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "I there before you were. So I get chair..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Market research."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "But us never use your markets."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Exactly. That's why we need to find out what goblins eat, so we can better cater to your needs."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Go away human, we busy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But it'll only take a minute of your time."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "I said we busy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Erm... no particular reason."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Me see no particular reason to answer you then."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a Goblin Village goblin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, I need your help. Wartface and Bentnoze have been cursed!"
+                },
+                {
+                  "speaker": "Goblin",
+                  "text": "What that got to do with me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to find a meal they'd both eat."
+                },
+                {
+                  "speaker": "Goblin",
+                  "text": "Me no chef, ask village cook instead."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the goblin cook",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Go away human, me's busy here!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Busy doing what?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Me's working on new way of cooking. Will be most famous-est goblin cook ever."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is this new way of cooking?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Got the idea from the dwarves. Saw them playing with something. They called it a malty canned nun or summat. Used lotsa heat and bright light."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Wouldn't tell Mudknuckles how it worked of course. But I figured it out. Mudknuckles is smarter than them. Now I'm gonna be able to cook better'n anyone. And faster too, yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, good luck with that."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "No luck. Will work cos Mudknuckles destined for great things."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need your help. Wartface and Bentnoze have been trapped by a terrible curse!"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Oh, maybe that why Mudknuckles not been shouted at recently."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Hmmm, s'pose me should help. But first Mudknuckles must finish experiment. Unfortunately is missing one vital ingredient."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you need? Maybe I can get it for you."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Is called charcoal. Mudknuckles hear you can get it from shops on Karamja, but the customs officers, they no like goblins any more."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Burnt trees, they good too. Smash 'em up with axes. But Mudknuckles only knows of burnt trees in the wilderness, and Mudknuckles too afraid to go there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, I'll see what I can do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I guess I'll come back later then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I guess I'll leave you to it."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Yes, Mudknuckles too busy to talk."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the goblin cook again with charcoal in inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Go away human, me's busy here!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Busy doing what?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Me's working on new way of cooking. Will be most famous-est goblin cook ever."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've got the charcoal you were after."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Really? Then no time to lose. Mudknuckles already have everything else. Sulphur 'n stuff."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sulphur? Er..."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Must be moving. Follow me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you sure this is a good idea?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Absolutely, best idea Mudknuckles ever had."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm really not convinced that..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Should it shake like that?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "It fine, it..."
+                },
+                {
+                  "speaker": "Goblin 1",
+                  "text": "What that noise?"
+                },
+                {
+                  "speaker": "Goblin 1",
+                  "text": "You just hear that?"
+                },
+                {
+                  "speaker": "Goblin 2",
+                  "text": "Hear what?"
+                },
+                {
+                  "speaker": "Goblin 1",
+                  "text": "Now there shaking too!"
+                },
+                {
+                  "speaker": "Goblin 1",
+                  "text": "Ah. That'd be Mudknuckles again then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Mudknuckles?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "It..."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "It worked!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It did... ?!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Discovering the recipe",
+      "sections": [
+        {
+          "title": "Talking to the burnt goblin cook",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "You the human who helped me. Mudknuckles is very grateful, will be famous real soon now. Is just collecting results. And so many results! On walls, on ceiling, everywhere!"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "I thinking of calling it fast food, 'cos of how fast it goes from raw to burnt, see?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That sounds like a great idea."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "You think so? Everyone else think Mudknuckles crazy. Seem think explosive cooking might be dangerous or summat."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Can't see why. Not like you gonna get food poisoning. Food is very well cooked."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... yes... I'm sure food poisoning was what they were worried about."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you think that will sell? Like you said, it's burnt."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "So maybe some imperfections, but fast food will sell. People buy anything when in hurry, even if does taste like sawdust."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need your help..."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Yes, yes, Mudknuckles very grateful, how can I help?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your leaders, Wartface and Bentnoze, have been trapped by a terrible curse!"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "So that's why Mudknuckles not been shouted at recently. But how can I be helping? Cooking and magic no mix."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Tried that before, Mudknuckles had some very angry wizards at door after trying to burn staffs to cook on."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to create a dish that both of the Generals would eat to save them from the curse."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Oh..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Is impossible. Mudknuckles try it before, but their requests, they make no sense."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why, what did they want?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Well Bentnoze wanted fruit in the dish. But Wartface, only fruit he eat is sliced oranges."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That doesn't sound too bad."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Maybe, but Bentnoze objects to the colour."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anything else?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Wartface, he want some nice juicy maggots."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I get maggots?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Humans use them all the time for fishing. Mudknuckles think this a crazy waste of maggots mind, but each to their own."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Each to their own indeed, but what's the problem?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Bentnoze not like maggots, say they're too bland. Would only eat them if they spicier."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, is there anything other than orange slices and maggots?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Bentnoze asked for some bread in the mix."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let me guess, Wartface complained right?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Yep, Wartface think bread too crunchy. He prefer slimier soggier food, like the maggots."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So let me get this straight. I need orange slices which aren't orange, maggots that aren't bland, and bread which isn't crunchy?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Yep, 'bout sums it up. Bring 'em all to me and Mudknuckles will make suitable dish."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wonderful. Well, I guess I'll have to see what I can do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll leave you to your experimentation then."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the burnt goblin cook again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "You the human who helped me. Mudknuckles is very grateful, will be famous real soon now. Is just collecting results. And so many results! On walls, on ceiling, everywhere!"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "I thinking of calling it fast food, 'cos of how fast it goes from raw to burnt, see?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need your help. About that dish that both Wartface and Bentnoze would eat..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What was the problem with the orange slices?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Well Bentnoze wanted fruit in the dish. But Wartface, only fruit he eat is sliced oranges, and Bentnoze object to the colour of them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why did Bentnoze object to the maggots?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Bentnoze not like maggots, say they're too bland. Would only eat them if they spicier."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What did Wartface have against bread?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Wartface think bread too crunchy. He prefer his food to be soggier."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finishing up",
+      "sections": [
+        {
+          "title": "Talking to the burnt goblin cook with all three ingredients in inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "You the human who helped me. Mudknuckles is very grateful, will be famous real soon now. Is just collecting results. And so many results! On walls, on ceiling, everywhere!"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "I thinking of calling it fast food, 'cos of how fast it goes from raw to burnt, see?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've got the ingredients we need to make a meal for Wartface and Bentnoze."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Mudknuckles is confused. Ingredients make no sense. But give 'em here and Mudknuckles make what you need."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "There you go, but don't go blaming Mudknuckles if doesn't work."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, thanks!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the burnt goblin cook after receiving the slop of compromise",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "You the human who helped me. Mudknuckles is very grateful, will be famous real soon now. Is just collecting results. And so many results! On walls, on ceiling, everywhere!"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "I thinking of calling it fast food, 'cos of how fast it goes from raw to burnt, see?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need your help. Are you sure Wartface and Bentnoze will both eat this dish we've made?"
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Highly unlikely, but is best Mudknuckles can come up with am afraid."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need your help. I lost the dish you gave to me to save Wartface and Bentnoze."
+                },
+                {
+                  "speaker": "Goblin Cook",
+                  "text": "Is ok, Mudknuckles make plenty. Take some more."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Freeing the Goblin Generals",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aris",
+                  "text": "Good work adventurer, I've teleported them away to safety! You only have [number] council members left to protect!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

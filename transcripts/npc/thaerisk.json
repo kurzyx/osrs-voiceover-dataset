@@ -1,0 +1,65 @@
+{
+  "ref": "thaerisk",
+  "categoryRef": "npc",
+  "title": "Thaerisk",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting While Guthix Sleeps",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there. What do you do here?"
+                },
+                {
+                  "speaker": "Thaerisk",
+                  "text": "Ah, I'm just keeping an eye on things and making sure nothing untoward happens."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's reassuring."
+                },
+                {
+                  "speaker": "Thaerisk",
+                  "text": "One day I hope it will be."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completion of While Guthix Sleeps",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Thaerisk",
+                  "text": "Ah, [player name], it's good to see you again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there, Thaerisk. Any word on Lucien?"
+                },
+                {
+                  "speaker": "Thaerisk",
+                  "text": "Nothing yet, but we're doing everything we can to find him. I hope he's ready for us, because once we do locate him, we're going to give him quite the bloody nose..."
+                },
+                {
+                  "speaker": "Thaerisk",
+                  "text": "... or at least whatever passes for a nose on a Mahjarrat!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

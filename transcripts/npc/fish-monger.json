@@ -1,0 +1,102 @@
+{
+  "ref": "fish-monger",
+  "categoryRef": "npc",
+  "title": "Fish monger",
+  "sections": [
+    {
+      "title": "Before The Fremennik Trials",
+      "sections": [
+        {
+          "title": "Attempting to trade before the trials",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Fish monger",
+              "text": "I don't sell to outerlanders."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Fremennik Trials",
+      "sections": [
+        {
+          "title": "Catching the player trying to steal from his fish stalls",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fish monger",
+                  "text": "Hey! Get your hands off there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with him after stealing from his fish stalls recently",
+          "sections": [
+            {
+              "title": "Talk-to option",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Fish monger",
+                      "text": "It is [Fremennik name] the thief!"
+                    },
+                    {
+                      "speaker": "Fish monger",
+                      "text": "Guards[sic] guards!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Trade option",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Fish monger",
+                      "text": "You're the one who stole something from me!"
+                    },
+                    {
+                      "speaker": "Fish monger",
+                      "text": "Guards[sic] guards!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Fish monger",
+              "text": "Hello there [Fremennik name]. Looking for fresh fish?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

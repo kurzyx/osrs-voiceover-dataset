@@ -1,0 +1,126 @@
+{
+  "ref": "captain-bruce",
+  "categoryRef": "npc",
+  "title": "Captain Bruce",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Captain Bruce",
+              "text": "Hello there, I'm Captain Bruce. Do you want to serve in the Shayzien Army and defend our kingdom?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'd love to join."
+            },
+            {
+              "speaker": "Captain Bruce",
+              "text": "Wonderful! To get started, you need to answer a few questions."
+            },
+            {
+              "speaker": "Captain Bruce",
+              "text": "Are you a resident of Kourend?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Errrr... Not really."
+            },
+            {
+              "speaker": "Captain Bruce",
+              "text": "Ah. Then you cannot join I'm afraid."
+            },
+            {
+              "speaker": "Player",
+              "text": "How come?"
+            },
+            {
+              "speaker": "Captain Bruce",
+              "text": "It's in the rules I'm afraid. Only citizens of Kourend are allowed to join the Shayzien Army."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is that not too restrictive?"
+            },
+            {
+              "speaker": "Captain Bruce",
+              "text": "Well at one time only citizens of Shayzien could join the army. It wasn't until the reign of King Byrne I that people from other parts of the kingdom were allowed to enlist."
+            },
+            {
+              "speaker": "Captain Bruce",
+              "text": "Of course, many people in Kourend still like to stick to tradition. After all, the five cities of Kourend have always had very defined roles within the kingdom."
+            },
+            {
+              "speaker": "Player",
+              "text": "Interesting. So most people in the army are still from Shayzien?"
+            },
+            {
+              "speaker": "Captain Bruce",
+              "text": "Indeed. While the Shayzien Army is by far the largest military force in Kourend, the other cities still have some form of militia, apart from Arceuus of course."
+            },
+            {
+              "speaker": "Captain Bruce",
+              "text": "Even if someone from elsewhere in the kingdom wants to become a soldier, they're far more likely to join their local city force than come to us."
+            },
+            {
+              "speaker": "Captain Bruce",
+              "text": "Still, times are slowly changing. Every year we see more people from outside Shayzien enlist."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. Thanks for the information."
+            },
+            {
+              "speaker": "Captain Bruce",
+              "text": "My pleasure."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm not interested."
+            },
+            {
+              "speaker": "Captain Bruce",
+              "text": "That's alright. Come back if you change your mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Talking again while holding the light or puzzle box",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Bruce",
+                  "text": "That doesn't look solved to me."
+                },
+                {
+                  "speaker": "Captain Bruce",
+                  "text": "Well done [player name]. Here you go."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Captain Bruce",
+              "text": "Here, solve this."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

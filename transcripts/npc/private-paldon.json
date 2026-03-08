@@ -1,0 +1,37 @@
+{
+  "ref": "private-paldon",
+  "categoryRef": "npc",
+  "title": "Private Paldon",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Private Paldon",
+              "text": "Shhh. Don't talk to me."
+            },
+            {
+              "speaker": "Player",
+              "text": "What? Why?"
+            },
+            {
+              "speaker": "Private Paldon",
+              "text": "If I'm seen slacking off by talking to you, I'll be in deep trouble!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh... Sorry."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

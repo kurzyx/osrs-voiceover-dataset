@@ -1,0 +1,196 @@
+{
+  "ref": "priestess-zul-gwenwynig",
+  "categoryRef": "npc",
+  "title": "Priestess Zul-Gwenwynig",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking to her before offering yourself as a sacrifice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "Leave me, human, I have a sacrifice to prepare. If you wish for information, go and see the High Priestess."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to board the boat before offering yourself as a sacrifice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "The sacrificial boat is not for you! Begone, and do not meddle in our sacred rites."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I really want to ride the boat!"
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "You display complete ignorance of our sacred rites. Perhaps the High Priestess will consent to enlighten you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm off."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to her after offering yourself as a sacrifice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "The High Priestess said I could offer myself as a sacrifice to Zulrah."
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "It is rare for a traveller to make such an offer! Very well, I shall explain the ritual to you..."
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "Once I have brought you to the shrine, I will leave you there as an offering to Zulrah. You cannot use the boat to return."
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "You can use your magical powers to flee from Zulrah's grasp, though that would defeat the point of the sacrifice, and you'll have to try again."
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "When Zulrah inevitably kills you, I may be able to retrieve your dropped possessions. If so, I will hold them here."
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "Are you ready to face Zulrah?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, let's go."
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "I shall now transport you to Zulrah's shrine and offer your life on behalf of our tribe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I've changed my mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to her before after offering yourself as a sacrifice, but before killing Zulrah",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "You left the shrine. Did Zulrah reject your sacrifice?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've been there, but I left."
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "Well, board the boat and let me take you there again quickly, before Zulrah becomes impatient!"
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "Once I have brought you to the shrine, I will leave you there as an offering to Zulrah. You cannot use the boat to return."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Death retrieval dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "I'm afraid I don't have anything for you to collect. If I had any of your items, but you died before collecting them from me, I'd lose them."
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "You left some stuff at Zulrah's shrine when you left earlier. I've returned it to you now."
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "You left some stuff at Zulrah's shrine when you left earlier. Clear some more inventory space and I'll give you the rest."
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "You left some stuff at Zulrah's shrine when you left earlier. Clear some inventory space and I'll give it back."
+                },
+                {
+                  "speaker": "Priestess Zul-Gwenwynig",
+                  "text": "You left some stuff at Zulrah's shrine when you left earlier. You'd better deal with it before returning."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Priestess Zul-Gwenwynig",
+              "text": "You left the shrine. Did Zulrah reject your sacrifice?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I killed Zulrah."
+            },
+            {
+              "speaker": "Priestess Zul-Gwenwynig",
+              "text": "Is that what you think? Board the boat again, and I am sure you will find Zulrah has overcome whatever pitiful attacks you used against him."
+            },
+            {
+              "speaker": "Player",
+              "text": "Remind me how this ritual works."
+            },
+            {
+              "speaker": "Priestess Zul-Gwenwynig",
+              "text": "Once I have brought you to the shrine, I will leave you there as an offering to Zulrah. You cannot use the boat to return."
+            },
+            {
+              "speaker": "Priestess Zul-Gwenwynig",
+              "text": "You can use your magical powers to flee from Zulrah's grasp, though that would defeat the point of the sacrifice, and you'll have to try again."
+            },
+            {
+              "speaker": "Priestess Zul-Gwenwynig",
+              "text": "When Zulrah inevitably kills you, I may be able to retrieve your dropped possessions. If so, I will hold them here."
+            },
+            {
+              "speaker": "Priestess Zul-Gwenwynig",
+              "text": "Now board the boat and prepare to be sacrificed."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm off."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "ref": "eliza",
+  "categoryRef": "npc",
+  "title": "Eliza",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Initial dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eliza",
+                  "text": "Hey there. Looking to buy something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you selling?"
+                },
+                {
+                  "speaker": "Eliza",
+                  "text": "A selection of fun items for the best of adventurers! That said, be aware that I have little interest in the usual currencies..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right..."
+                },
+                {
+                  "speaker": "Eliza",
+                  "text": "So, looking to buy?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to claim some trophies."
+                },
+                {
+                  "speaker": "Eliza",
+                  "text": "I'm afraid you don't have any trophies to claim."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll pass."
+                },
+                {
+                  "speaker": "Eliza",
+                  "text": "Fair enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "On a member's world",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eliza",
+                  "text": "Hey there. Looking to buy something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you selling?"
+                },
+                {
+                  "speaker": "Eliza",
+                  "text": "A selection of fun items for the best of adventurers! That said, be aware that I have little interest in the usual currencies..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right..."
+                },
+                {
+                  "speaker": "Eliza",
+                  "text": "So, looking to buy?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "On a free world",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eliza",
+                  "text": "Hey there! Sorry, I'd love to talk, but I'm very busy right now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "On a deadman world",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eliza",
+                  "text": "Hey there! Sorry, I'd love to talk, but I'm very busy right now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "On a speedrunning world",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eliza",
+                  "text": "Hey there. I'm afraid I don't have anything for sale at the moment. Maybe another time?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Eliza",
+              "text": "Sorry, I'm still getting things set up here. You'll have to come back later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

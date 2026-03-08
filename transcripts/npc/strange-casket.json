@@ -1,0 +1,73 @@
+{
+  "ref": "strange-casket",
+  "categoryRef": "npc",
+  "title": "Strange casket",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player opted in to receive Mimic challenges",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I don't want Mimic challenges anymore."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't want Mimic challenges anymore."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I want to keep getting mimic challenges."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has a Mimic in their inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Tell me about the Mimic."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'd like to get Mimic challenges."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I don't think I want that."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't think I want that."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

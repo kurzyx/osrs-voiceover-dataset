@@ -1,0 +1,137 @@
+{
+  "ref": "knight-of-ardougne-npc-",
+  "categoryRef": "npc",
+  "title": "Knight of Ardougne (NPC)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Upstairs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day."
+                },
+                {
+                  "speaker": "Knight of Ardougne",
+                  "text": "Hello there citizen. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's down these stairs?"
+                },
+                {
+                  "speaker": "Knight of Ardougne",
+                  "text": "These stairs lead to the Ardougne Prison. It's home to thieves, murderers and everything in between."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds lovely. Can I go in?"
+                },
+                {
+                  "speaker": "Knight of Ardougne",
+                  "text": "I'm afraid not citizen. Only the Knights of Ardougne are allowed into the prison and I can see that you are no knight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to go downstairs when not in disguise",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Knight of Ardougne",
+                  "text": "Sorry citizen. Only Knights of Ardougne are allowed in the prison."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When wearing Ardougne knight armour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day."
+                },
+                {
+                  "speaker": "Knight of Ardougne",
+                  "text": "Hello there fellow knight. Isn't today a wonderful day to be a Knight of Ardougne?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I mean it's okay I suppose. The constant fear of some random adventurer murdering you and the fact that people are constantly picking your pockets isn't great. But hey ho, at least the benefits are good."
+                },
+                {
+                  "speaker": "Knight of Ardougne",
+                  "text": "That they are fellow knight, that they are."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anyway, can I go down these stairs?"
+                },
+                {
+                  "speaker": "Knight of Ardougne",
+                  "text": "Of course you can! You're a Knight of Ardougne! There is no place where you can't go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah... Thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Downstairs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Knight of Ardougne",
+                  "text": "Good to see you [Tim/Sue]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who's [Tim/Sue]?"
+                },
+                {
+                  "speaker": "Knight of Ardougne",
+                  "text": "You are?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah yes, I am [Tim/Sue]."
+                },
+                {
+                  "speaker": "Knight of Ardougne",
+                  "text": "Hmm... Is your head working okay today [Tim/Sue]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course, my head has never been better."
+                },
+                {
+                  "speaker": "Knight of Ardougne",
+                  "text": "If you say so..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

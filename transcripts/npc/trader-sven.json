@@ -1,0 +1,112 @@
+{
+  "ref": "trader-sven",
+  "categoryRef": "npc",
+  "title": "Trader Sven",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is wearing a Vyre noble disguise",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Trader Sven",
+                  "text": "Oh... Sorry, we're not meant to talk to the nobles."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Trader Sven",
+              "text": "Oh, hello. How's everything?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not too bad thanks, but I wanted to ask a question."
+            },
+            {
+              "speaker": "Trader Sven",
+              "text": "Go ahead."
+            },
+            {
+              "speaker": "Player",
+              "text": "What have you got for sale?"
+            },
+            {
+              "speaker": "Trader Sven",
+              "text": "Take a look."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do here?"
+            },
+            {
+              "speaker": "Trader Sven",
+              "text": "I'm a black-market trader. Fancy taking a look at my wares?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'll take a look at your wares."
+            },
+            {
+              "speaker": "Trader Sven",
+              "text": "Good on ya!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What sort of stuff have you got?"
+            },
+            {
+              "speaker": "Trader Sven",
+              "text": "Well then, young [lad/lass], that is a good question. In fact, I specifically deal in vyrewatch uniforms. They might leave you alone a bit more if they think you're one of them!"
+            },
+            {
+              "speaker": "Trader Sven",
+              "text": "Makes it easier to move around the sectors without them demanding a blood tithe every time you dare breathe. So then, do you wanna have a look at my stuff?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'll take a look at your wares."
+            },
+            {
+              "speaker": "Trader Sven",
+              "text": "Good on ya!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm good."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm good."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where am I?"
+            },
+            {
+              "speaker": "Trader Sven",
+              "text": "You're in sector one of Meiyerditch. And don't forget, we're all here forever."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I'm good."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

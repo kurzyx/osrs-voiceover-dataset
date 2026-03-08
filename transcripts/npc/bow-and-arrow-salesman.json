@@ -1,0 +1,95 @@
+{
+  "ref": "bow-and-arrow-salesman",
+  "categoryRef": "npc",
+  "title": "Bow and Arrow salesman",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Bow and Arrow salesman",
+              "text": "A fair day, traveller. Would you like to see my wares?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to ask you about magic crossbows."
+            },
+            {
+              "speaker": "Bow and Arrow salesman",
+              "text": "Ahh crossbows. Not exactly what I'd call skilled ranging, but I guess dwarven engineering is good, what did you want to know?"
+            },
+            {
+              "speaker": "Player",
+              "text": "The dwarves don't work with magic logs, I'm wondering if you know how to make a crossbow out of them?"
+            },
+            {
+              "speaker": "Bow and Arrow salesman",
+              "text": "As it happens, a recent discovery of dragon limbs has allowed the creation of such a crossbow."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's fantastic!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Bow and Arrow salesman",
+              "text": "Okay good day to you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prior to 4 January 2018",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Bow and Arrow salesman",
+              "text": "A fair day, traveller. Would you like to see my wares?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to ask you about magic crossbows."
+            },
+            {
+              "speaker": "Bow and Arrow salesman",
+              "text": "Ahh crossbows. Not exactly what I'd call skilled ranging, but I guess dwarven engineering is good, what did you want to know?"
+            },
+            {
+              "speaker": "Player",
+              "text": "The dwarves don't work with magic logs, I'm wondering if you know how to make a crossbow out of them?"
+            },
+            {
+              "speaker": "Bow and Arrow salesman",
+              "text": "I don't... however I will look into it when I get spare time, for now you'll have to stick with the dwarven way of doing things."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, perhaps one day in the future I'll get to make magic crossbows!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

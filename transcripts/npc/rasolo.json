@@ -1,0 +1,91 @@
+{
+  "ref": "rasolo",
+  "categoryRef": "npc",
+  "title": "Rasolo",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting Desert Treasure I",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rasolo",
+                  "text": "Greetings friend. I am Rasolo, the famous merchant. Would you care to see my wares?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not really."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "As you wish. I will travel wherever the business takes me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Desert Treasure I",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rasolo",
+                  "text": "Many thanks for returning my heirloom to me, adventurer. Would you like to buy something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I lost that ring you gave me..."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Are you sure? I don't have it anymore..."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Well, should you need a replacement, I suggest you free up some inventory room first..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I lost that ring you gave me..."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Then by all means, take another. Only a foolish merchant would give away his only stock!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After Desert Treasure II - The Fallen Empire",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Rasolo",
+              "text": "Many thanks for returning my heirloom to me, adventurer. Would you like to buy something?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I lost that ring you gave me..."
+            },
+            {
+              "speaker": "Rasolo",
+              "text": "Are you sure? I don't have it anymore..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

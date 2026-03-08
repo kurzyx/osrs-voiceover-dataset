@@ -1,0 +1,2347 @@
+{
+  "ref": "observatory-quest",
+  "categoryRef": "quest",
+  "title": "Observatory Quest",
+  "sections": [
+    {
+      "title": "Inspecting the goblin stove",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "Talking to the assistant without any planks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find planks of wood? I need some for the telescope's base."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I understand planks can be found at Port Khazard, to the east of here. There are some at the Barbarian Outpost, too."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Failing that, you could always ask the Sawmill Operator. He's to the north-east of Varrock, by the Lumber Yard."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the assistant with less than three not normal planks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a plank."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "That you do - but if you remember rightly, the professor wanted an ordinary wooden plank, like the ones at Port Khazard."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I see."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the assistant with three not normal planks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How about this plank I've got here?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I think the professor was after ordinary planks. You should be able to find them at Port Khazard."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the assistant with less than three planks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've got a plank."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "That's nice."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You know, for the telescope's base."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Well done. Remember that you'll need three in total."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the assistant with three planks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've got some planks for the telescope's base."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Good work! The professor has been eagerly awaiting them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning with no planks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi again!"
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "It's my helping hand, back again."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Do you have the planks yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, not yet. Three planks was it?"
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "It was indeed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning without enough planks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi again!"
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "It's my helping hand, back again."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Do you have the planks yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've made a start."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Well, you'll need three of them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a not normal plank on the observatory professor",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have a plank for you."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "That's no good. I asked for ordinary planks. If you can't find out where they are, talk to my assistant."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning with three not normal planks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi again!"
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "It's my helping hand, back again."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Do you have the planks yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How about this plank?"
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "I asked for ordinary wooden planks. If you're not sure where to get them, speak to my assistant."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Observatory professor",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hi, I was..."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Welcome to the magnificent wonder of the Observatory, where wonder is all around you, where the stars can be clutched from the heavens!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow, nice intro."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Why, thanks! How might I help you?"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Lost? It must have been those pesky goblins that led you astray."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Head north-east to find the city of Ardougne."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sure I'll find the way."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks for all your help."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "No problem at all. Come and visit again!"
+            },
+            {
+              "speaker": "Player",
+              "text": "An Observatory?"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Of course. We have a superb telescope up in the Observatory, on the hill."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "A truly marvellous invention, the likes of which you'll never behold again."
+            },
+            {
+              "speaker": "Observatory assistant",
+              "text": "Well, it would be if it worked."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Don't interrupt!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What? It doesn't work?"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Oh, no, no, no. Don't listen to him, he's joking. Aren't you, my FAITHFUL assistant?"
+            },
+            {
+              "speaker": "Observatory assistant",
+              "text": "Nope, dead serious. Hasn't been working for a long time."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Arghhh! Get back to work and stop sticking your nose in!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So, it's broken. How come?"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Oh, I suppose there's no use keeping it secret. Did you see those houses outside?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Up on the hill? Yes, I've seen them."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "It's a horde of goblins."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Since they moved here they have caused nothing but trouble."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Last week, my telescope was tampered with."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Now, parts need replacing before it can be used again. They've even been messing around in the dungeons under this area. Something needs to be done."
+            },
+            {
+              "speaker": "Observatory assistant",
+              "text": "Strikes me that this visitor could help us."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Stop being so rude."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "..."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Although, he has a point. What do you say?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What, me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sounds interesting, what can I do for you?"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Oh, thanks so much."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "I shall need some materials for the telescope, so it can be used again."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Let's start with three planks of wood for the telescope base. My assistant will help with obtaining these, won't you?"
+            },
+            {
+              "speaker": "Observatory assistant",
+              "text": "As if I don't have enough work to do. Seems I don't have a choice."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Go talk to him if you need some advice."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, I'll be right back."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, sorry, I don't have time for that."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Oh dear. I really do need some help."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "If you see anyone who can help then please send them my way."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm just passing through."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Fair enough. Not everyone is interested in this place, I suppose."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Returning with three planks",
+      "sections": [
+        {
+          "title": "Returning without a bronze bar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hi."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "The traveller returns!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Still working hard?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Some of us are."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "What did I tell you about speaking when spoken to?"
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "So, [player name], you have the bronze bar?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Please bring me one, then."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the assistant without a bronze bar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you help me? How do I go about getting a bronze bar?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "You'll need to use tin and copper ore on a furnace to produce this metal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right you are."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the assistant with a bronze bar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The bronze bar is ready, and waiting for the professor."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "He'll surely be pleased. Go ahead and give it to him."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Observatory professor",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hi again!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "It's my helping hand, back again."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Do you have the planks yet?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I've got them. Here they are."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Well done. This will make a big difference."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Now, the bronze for the tube. Oh, assistant!"
+            },
+            {
+              "speaker": "Observatory assistant",
+              "text": "Okay, okay, ask me if you need any help, [player name]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Returning with a bronze bar",
+      "sections": [
+        {
+          "title": "Returning without molten glass",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "How are you getting on finding me some molten glass?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Still working on it."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "I really need it. Please hurry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the assistant without molten glass",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the best way for me to get molten glass?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "There are many ways, but I'd suggest making it yourself. Get yourself a bucket of sand and some soda ash, which you can get from using seaweed with a furnace. Use the soda ash and sand together in a"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "furnace and bang - molten glass is all yours. There's a book about it on the table if you want to know more."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the assistant with molten glass",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've managed to get hold of some molten glass."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suggest you have a word with the professor, in that case."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Observatory professor",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "The traveller returns!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Still working hard?"
+            },
+            {
+              "speaker": "Observatory assistant",
+              "text": "Some of us are."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "What did I tell you about speaking when spoken to?"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "So, [player name], you have the bronze bar?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I certainly do. Here you go."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Great. Now all I need is the lens made."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Please get me some molten glass."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Oi! Lazy bones!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What? I'm not lazy."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Not you! I'm talking to my assistant."
+            },
+            {
+              "speaker": "Observatory assistant",
+              "text": "Calm down old man, I heard. [player name], I'm here if you need any help."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Thank you. Wait a minute, who you calling 'old'?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Returning with molten glass",
+      "sections": [
+        {
+          "title": "Returning without the lens mould",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Did you bring me the mould?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Still looking for it."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Please try and find it; again, my assistant may be able to help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the assistant without the lens mould",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find this lens mould you mentioned?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I'm sure I heard one of those goblins talking about it. I bet they've hidden it somewhere. Probably using it for some strange purpose, I'm sure."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What makes you say that?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I had a nice new star chart, until recently. I went out to do an errand for the professor the other day, only to see a goblin using it..."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "...as some kind of makeshift hankey to blow his nose!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh dear."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "You may want to look through the dungeon they have under their little village."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the advice."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Observatory professor",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "How are you getting on finding me some molten glass?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Here it is."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Excellent work, let's make the lens."
+            },
+            {
+              "speaker": "Observatory assistant",
+              "text": "It'll need to be made to an exact shape and size."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Well, obviously, hence why we have a lens mould."
+            },
+            {
+              "speaker": "Observatory assistant",
+              "text": "Not any more. One of those goblins took it."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Great, just what I need. [player name], I don't suppose you could find it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll have a look - where should I start?"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "No idea. You could ask my USELESS assistant if you want."
+            },
+            {
+              "speaker": "Observatory assistant",
+              "text": "What have I done to deserve this?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Searching for the lens mould",
+      "sections": [
+        {
+          "title": "Opening a chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching an empty chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching a spider chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching an antipoison chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the key chest",
+          "sections": [
+            {
+              "title": "Searching the key chest with one in the inventory",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Speaking to the observatory assistant with the goblin kitchen key",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found a key."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Perhaps it unlocks something."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, thanks. Great advice."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the goblin kitchen key on the observatory assistant",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Look. I found this."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "A key?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Exactly."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "To what?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I don't know. Perhaps some amazing treasure!"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I doubt it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the goblin kitchen key on the observatory professor",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Look, I found this!"
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "It doesn't look much like a lens mould."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? No. It's a key!"
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "To what?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well,I don't really know yet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the observatory professor with the goblin kitchen key",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Did you bring me the mould?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, but I found a key."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Interesting. You might be onto something there. Keep looking."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will do, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to unlock the kitchen gate without waking the goblin guard",
+          "sections": [
+            {
+              "title": "Subsequent attempts after unlocking to open the kitchen gate without waking the goblin guard",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Prodding the goblin guard",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Goblin guard",
+              "text": "Oi, how dare you wake me up!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unlocking the kitchen gate",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "You had better be quick, there may be more guards about."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Inspecting the goblin stove",
+      "sections": [
+        {
+          "title": "Talking to the assistant with the lens mould",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have the lens mould."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Well done on finding that! I am honestly quite impressed. Make sure you take it straight to the professor."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will do."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Euuuw, that smells awful!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Returning with the lens mould",
+      "sections": [
+        {
+          "title": "Returning without the observatory lens",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Is the lens finished?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I make it again?"
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Use the molten glass with the mould."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Huh. Simple."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the assistant without the observatory lens",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How should I make this lens?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Just use the molten glass with the mould. Simple."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Observatory professor",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "How are you getting on finding me some molten glass?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Here it is."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Did you bring me the mould?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I certainly have. You'll never guess what they were doing with it."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Well, from the smell I'd guess cooking some vile concoction."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow, good guess. Well, here you go."
+            },
+            {
+              "speaker": "Observatory assistant",
+              "text": "Please don't give that to him. Last time he tried any Crafting, I had to spend a week cleaning up after the explosion."
+            },
+            {
+              "speaker": "Player",
+              "text": "Explosion?"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Erm, yes. I think in this instance you had probably better do it."
+            },
+            {
+              "speaker": "Player",
+              "text": "I suppose it's better I don't ask."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "You can use the mould with molten glass to make a new lens."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hold on a second. I don't have space to carry it all."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Hurry and free up some space, then."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Making the observatory lens",
+      "sections": [
+        {
+          "title": "Talking to the assistant with the observatory lens",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I interrupt you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "I suppose so. Please be quick though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Might I have a word?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Sure, how can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak with you?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Why, of course. What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you like this lens? Good, huh?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Nice. What's that scratch?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, erm, that's a feature."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, that's it! Indubitably, it facilitates the triangulation of photonic illumination to the correct..."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Stop! You can't confuse me with big words. Just pray the professor doesn't notice."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Returning with the observatory lens",
+      "sections": [
+        {
+          "title": "Talking to the assistant before going up to the observatory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Ah, it's the telescope repairman! The professor is waiting for you in the Observatory."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How can I get to the Observatory?"
+                },
+                {
+                  "speaker": "Observatory assistant",
+                  "text": "Well, since the bridge was ruined, you will have to travel through the dungeon under the goblins' settlement."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Observatory professor",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, here it is. You may as well take this mould too."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Wonderful, at last I can fix the telescope."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Would you accompany me to the Observatory? You simply must see the telescope in operation."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sounds interesting. Count me in."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Superb. You'll have to go via the dungeon under the goblin settlement, seeing as the bridge is broken. You'll find stairs up to the Observatory from there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay. See you there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Entering the observatory",
+      "sections": [
+        {
+          "title": "Talking to the professor",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Welcome back."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hi, this really is impressive."
+                },
+                {
+                  "speaker": "Observatory professor",
+                  "text": "Certainly is. Please, take a look through the telescope and tell me what you see."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Viewing the telescope",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi, professor!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Oh, hi there."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "I'm just adding the finishing touches."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, don't let me interrupt."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Thank you."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Right, let's get this finished."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Hmmmm..."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Bit of a tap here..."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "[player name], I'm just going upstairs to finish off."
+            },
+            {
+              "speaker": "Player",
+              "text": "Right-oh."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "In goes the lens."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Looking good."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "And one final adjustment."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "And all our work pays off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After viewing the telescope",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Observatory professor",
+              "text": "Welcome back."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've had a look through the telescope."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "What did you see? If you're not sure, you can find out by looking at the star charts dotted around the walls downstairs."
+            },
+            {
+              "speaker": "Player",
+              "text": "It was..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Aquarius!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Aquarius, the water-bearer."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "It seems suitable, then, to award you with water runes!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "I'm afraid not. Have another look. Remember, you can check the star charts on the walls for reference."
+            },
+            {
+              "speaker": "Player",
+              "text": "Capricorn!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Capricorn, the goat."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Capricorn will surely reward your insight with an increase to your Strength."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sagittarius!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Sagittarius, the centaur."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "As you've spotted the archer, I shall reward you with a maple longbow."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            },
+            {
+              "speaker": "Player",
+              "text": "Scorpio!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Scorpio, the scorpion."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "I think weapon poison would make a suitable reward."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            },
+            {
+              "speaker": "Player",
+              "text": "Libra!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Libra, the scales."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Hmmm, balance, law, order - I shall award you with law runes!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            },
+            {
+              "speaker": "Player",
+              "text": "Virgo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Virgo, the virtuous."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Virgo will surely provide you with an increase to Defence."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            },
+            {
+              "speaker": "Player",
+              "text": "Leo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Leo, the lion."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "I think the majestic power of the lion will raise your Hitpoints."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            },
+            {
+              "speaker": "Player",
+              "text": "Cancer!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Cancer, the crab."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "An armoured creature - I think I shall reward you with an amulet of protection."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            },
+            {
+              "speaker": "Player",
+              "text": "Gemini!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Gemini, the twins."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "With the double nature of Gemini, I can't offer you anything more suitable than a two-handed weapon."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            },
+            {
+              "speaker": "Player",
+              "text": "Taurus!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Taurus, the bull."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "This Strength potion should be a suitable reward."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            },
+            {
+              "speaker": "Player",
+              "text": "Aries!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Aries, the ram."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "A fierce fighter. I'm sure he'll look down on you and improve your Attack for such insight."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            },
+            {
+              "speaker": "Player",
+              "text": "Pisces!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's exactly it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Woo hoo!"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "That's Pisces, the fish."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "What's more suitable as a reward than some tuna?"
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Look in your backpack for your reward, in payment for your work."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Have you got some space for your reward?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Reward? Oh, no, I haven't."
+            },
+            {
+              "speaker": "Observatory professor",
+              "text": "Come see me again when you have a few free spaces in your inventory."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

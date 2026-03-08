@@ -1,0 +1,71 @@
+{
+  "ref": "vigroy",
+  "categoryRef": "npc",
+  "title": "Vigroy",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player hasn't completed the Elite Karamja Diary",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vigroy",
+                  "text": "I am offering a cart ride to Brimhaven, if you're interested. It will cost [amount] coins. Is that okay?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please, I'd like to go to Brimhaven."
+                },
+                {
+                  "speaker": "Vigroy",
+                  "text": "Sorry, but it looks as if you don't have enough money. Come and see me when you have enough for the ride."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Vigroy",
+                  "text": "Okay, Bwana, let me know if you change your mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has completed the Elite Karamja Diary",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vigroy",
+                  "text": "I am offering a cart ride to Brimhaven, if you're interested. For you, it's free."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to Vigroy before completing Shilo Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Vigroy",
+              "text": "Sorry, I'm busy. I've got to get out of here! This place is swarming with zombies."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

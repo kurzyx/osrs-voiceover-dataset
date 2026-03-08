@@ -1,0 +1,77 @@
+{
+  "ref": "haskell",
+  "categoryRef": "npc",
+  "title": "Haskell",
+  "sections": [
+    {
+      "title": "Before The Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Haskell",
+              "text": "I don't have time to talk to an outerlander."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Fremennik Trials but before The Fremennik Exiles",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Haskell",
+              "text": "Good to see you [Fremennik name]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Fremennik Exiles",
+      "sections": [
+        {
+          "title": "Rellekka",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Haskell",
+                  "text": "Good to see you [Fremennik name]. Wanting to go to the Island of Stone?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Island of Stone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Haskell",
+                  "text": "Good to see you [Fremennik name]. Do you wish to return to Rellekka?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thank you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

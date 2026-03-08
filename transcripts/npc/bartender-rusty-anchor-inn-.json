@@ -1,0 +1,97 @@
+{
+  "ref": "bartender-rusty-anchor-inn-",
+  "categoryRef": "npc",
+  "title": "Bartender (Rusty Anchor Inn)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Could I buy a beer please?"
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Sure, that will be 2 gold coins please."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't have enough coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, here you go."
+            },
+            {
+              "speaker": "Player",
+              "text": "Have you heard any rumours here?"
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Well, there was a guy in here earlier saying the goblins up by the mountain are arguing again, about the colour of their armour of all things."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Knowing the goblins it could easily turn into a full blown war, which wouldn't be good. Goblin wars make such a mess of the countryside."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well if I have the time I'll go and see if I can knock some sense into them."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "No, it hasn't been very busy lately."
+            },
+            {
+              "speaker": "Player",
+              "text": "I’m doing Alfred Grimhand’s Barcrawl."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Are you sure? You look a bit skinny for that."
+            },
+            {
+              "speaker": "Player",
+              "text": "Just give me whatever I need to drink here."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Ok one Black Skull Ale coming up, 8 coins please."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hiccup!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't have 8 coins with me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bartender",
+                  "text": "Congratulations! Here you go."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

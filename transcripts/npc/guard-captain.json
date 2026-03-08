@@ -1,0 +1,76 @@
+{
+  "ref": "guard-captain",
+  "categoryRef": "npc",
+  "title": "Guard Captain",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting/after partial completion of The Hand in the Sand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me..."
+                },
+                {
+                  "speaker": "Guard Captain",
+                  "text": "I don' need a hand drinkin me beer, go 'way!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But..."
+                },
+                {
+                  "speaker": "Guard Captain",
+                  "text": "Talk to tha' hand coz thish face ain't lishtnin'!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using beer on Guard Captain",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using Greenman's ale or Dragon bitter on Guard Captain",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard Captain",
+                  "text": "Yeeeuuuch! I hatesh that shtuff, jusht bring ush a beer! Mmmmm beer!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guard Captain",
+              "text": "*HIC*"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

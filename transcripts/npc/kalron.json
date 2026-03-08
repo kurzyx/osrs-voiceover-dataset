@@ -1,0 +1,51 @@
+{
+  "ref": "kalron",
+  "categoryRef": "npc",
+  "title": "Kalron",
+  "sections": [
+    {
+      "title": "Before starting Tree Gnome Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Kalron",
+              "text": "Gotta find a way out. We built this maze for protection but I can't get used to it. I'm always getting lost."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After the completion of Tree Gnome Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there, you look lost."
+            },
+            {
+              "speaker": "Kalron",
+              "text": "Are you trying to be funny?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No."
+            },
+            {
+              "speaker": "Kalron",
+              "text": "Hmmm."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "ref": "charlie-the-tramp",
+  "categoryRef": "npc",
+  "title": "Charlie the Tramp",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "Spare some change guv?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "Charles. Charles E. Trampin' at your service. Now, about that change you were going to give me..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I haven't got any."
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "Thanks anyway."
+            },
+            {
+              "speaker": "Player",
+              "text": "Go get a job!"
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "You startin? I hope your nose falls off!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok. Here you go."
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "Hey, thanks a lot!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No problem."
+            },
+            {
+              "speaker": "Player",
+              "text": "So...don't I get some sort of quest hint or something now?"
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "Huh? What do you mean? That wasn't why I asked you for money."
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "I just need to eat..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh wait. I haven't got any, sorry."
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "Thanks anyway."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is there anything down this alleyway?"
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "Funny you should mention that...there is actually."
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "The ruthless and notorious criminal gang known as the Black Arm Gang have their headquarters down there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks for the warning!"
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "Don't worry about it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you think they would let me join?"
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "You never know. You'll find a lady down there called Katrine. Speak to her."
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "But don't upset her, she's pretty dangerous."
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "I was under the impression you were already a member..."
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "No. You're a collaborator with the Phoenix Gang. There's no way they'll let you join now."
+            },
+            {
+              "speaker": "Player",
+              "text": "How did YOU know I was in the Phoenix Gang?"
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "In my current profession I spend a lot of time on the streets and you hear these sorta things sometimes"
+            },
+            {
+              "speaker": "Player",
+              "text": "Any ideas how I could get in there then?"
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "Hmmm. I dunno."
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "Your best bet would probably be to find someone else... Someone who ISN'T a member of the Phoenix Gang, and get them to infiltrate the ranks of the Black Arm Gang for you."
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "If you find someone like that, tell 'em to come to me first."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok. Good plan!"
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "I'm not just a pretty face!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Like who?"
+            },
+            {
+              "speaker": "Charlie the Tramp",
+              "text": "There's plenty of other adventurers about besides yourself. I'm sure if you asked one of them nicely they would help you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When on one of Charlie's clues",
+      "sections": [
+        {
+          "title": "Getting the request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Charlie the Tramp",
+                  "text": "Please [, sir/, madam], can you help me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can I do for you?"
+                },
+                {
+                  "speaker": "Charlie the Tramp",
+                  "text": "I really need a cooked trout."
+                },
+                {
+                  "speaker": "Charlie the Tramp",
+                  "text": "I really need a cooked pike."
+                },
+                {
+                  "speaker": "Charlie the Tramp",
+                  "text": "I really need a raw herring"
+                },
+                {
+                  "speaker": "Charlie the Tramp",
+                  "text": "I really need a raw trout."
+                },
+                {
+                  "speaker": "Charlie the Tramp",
+                  "text": "I really need some leather chaps."
+                },
+                {
+                  "speaker": "Charlie the Tramp",
+                  "text": "I really need a leather body."
+                },
+                {
+                  "speaker": "Charlie the Tramp",
+                  "text": "I really need an iron dagger."
+                },
+                {
+                  "speaker": "Charlie the Tramp",
+                  "text": "I really need a piece of iron ore."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure, I'll be glad to help a person in need."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bringing the requested item",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Charlie the Tramp",
+                  "text": "Thank you so much [sir/madam]."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

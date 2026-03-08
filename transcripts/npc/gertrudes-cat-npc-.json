@@ -1,0 +1,183 @@
+{
+  "ref": "gertrudes-cat-npc-",
+  "categoryRef": "npc",
+  "title": "Gertrude's cat (NPC)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "In the Lumberyard after Gertrude's Cat",
+          "sections": [
+            {
+              "title": "With a Catspeak amulet",
+              "sections": [
+                {
+                  "title": "With a kitten or cat in your inventory or following you",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "Hello Fluffs."
+                        },
+                        {
+                          "speaker": "Gertrude's cat",
+                          "text": "Purrrrr! So you can talk to cats now?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Yes, I got this amulet from a Sphinx."
+                        },
+                        {
+                          "speaker": "Gertrude's cat",
+                          "text": "Well, I should thank you for finding my kitten that time. I have a terrible time keeping track of them, and I never know how many Gertrude has managed to sell."
+                        },
+                        {
+                          "speaker": "Cat",
+                          "text": "Hi Mommy!"
+                        },
+                        {
+                          "speaker": "Gertrude's cat",
+                          "text": "Hello dear!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Aww, that's sweet."
+                        },
+                        {
+                          "speaker": "Gertrude's cat",
+                          "text": "Is [player name] looking after you well?"
+                        },
+                        {
+                          "speaker": "Cat",
+                          "text": "No complaints, Mom."
+                        },
+                        {
+                          "speaker": "Gertrude's cat",
+                          "text": "Good, good. That's what I like to hear."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Without a kitten or cat",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "Hello Fluffs."
+                        },
+                        {
+                          "speaker": "Gertrude's cat",
+                          "text": "Purrrrr! So you can talk to cats now?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Yes, I got this amulet from a Sphinx."
+                        },
+                        {
+                          "speaker": "Gertrude's cat",
+                          "text": "Well, I should thank you for finding my kitten that time. I have a terrible time keeping track of them, and I never know how many Gertrude has managed to sell."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "They're cute little creatures, aren't they?"
+                        },
+                        {
+                          "speaker": "Gertrude's cat",
+                          "text": "Purrrrr!"
+                        },
+                        {
+                          "speaker": "Gertrude's cat",
+                          "text": "My children have always been popular with adventurers. They inherit their father's adventurous spirit. He's always travelling the world, when he can find some kind person to help him open doors!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Look after yourself, Fluffs."
+                        },
+                        {
+                          "speaker": "Gertrude's cat",
+                          "text": "You too, [player name]."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": []
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "In Varrock Ratpits",
+          "sections": [
+            {
+              "title": "With a Catspeak amulet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hey, aren't you Gertrude's cat?"
+                    },
+                    {
+                      "speaker": "Gertrude's cat",
+                      "text": "What's it to you?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well seeing as I've had to go off and fetch you for Gertrude already..."
+                    },
+                    {
+                      "speaker": "Gertrude's cat",
+                      "text": "Oh would you ever quit worrying, I come down here to watch the fights all the time."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Really?"
+                    },
+                    {
+                      "speaker": "Gertrude's cat",
+                      "text": "Oh yes, it's a great place for catching a bit of tail."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Ummm, ok. I'll leave you to it then."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Without a Catspeak amulet or partial completion of Dragon Slayer II",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hey, aren't you Gertrude's cat?"
+                    },
+                    {
+                      "speaker": "Gertrude's cat",
+                      "text": "Miaow!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

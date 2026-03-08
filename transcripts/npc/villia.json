@@ -1,0 +1,110 @@
+{
+  "ref": "villia",
+  "categoryRef": "npc",
+  "title": "Villia",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "While finding a book for them",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Villia",
+                  "text": "Do you have the book I require, traveller? '[book name]'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, sorry."
+                },
+                {
+                  "speaker": "Villia",
+                  "text": "I am sure the people of Arceuus will be very grateful for any help you provide to the customers here. They will most certainly be aware of the Librarian's deficiencies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "While finding a book for someone else",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Villia",
+                  "text": "I believe you are currently assisting another customer of this Library. I shall not trouble you with my needs at this time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Turning in the book",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Villia",
+                  "text": "Thank you very much. In return, please accept a token of my thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to them after giving them the book",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Villia",
+                  "text": "Thank you for finding my book. It is most interesting."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Villia",
+              "text": "Traveller, will you assist me? I seek a certain book, but the Librarian seems unwilling to find it for me. The Arceuus people will be grateful for any help you provide to the customers here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, what book do you want?"
+            },
+            {
+              "speaker": "Villia",
+              "text": "You are very kind. Please find: '[book name]'"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll see what I can do."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Villia",
+              "text": "Just a historian. Will you find the book that I seek?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, sorry."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

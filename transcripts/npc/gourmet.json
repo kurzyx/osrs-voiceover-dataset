@@ -1,0 +1,106 @@
+{
+  "ref": "gourmet",
+  "categoryRef": "npc",
+  "title": "Gourmet",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gourmet",
+              "text": "Ooh, a surface-dweller! Have you got any exotic surface foods to sell?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not at the moment."
+            },
+            {
+              "speaker": "Gourmet",
+              "text": "A pity. Dorgeshuun food seems so dull now I've tasted surface food."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes!"
+            },
+            {
+              "speaker": "Gourmet",
+              "text": "Splendid! Show me what you've got!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What kinds of food do you like?"
+            },
+            {
+              "speaker": "Gourmet",
+              "text": "All kinds! I don't want to keep eating the same food, even if I like it. I want to try new tastes!"
+            },
+            {
+              "speaker": "Gourmet",
+              "text": "Why not try something on me and see if I like it?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on them",
+      "sections": [
+        {
+          "title": "Non-food",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gourmet",
+                  "text": "That's all very well, but do you have anything edible?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Disgusting food",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gourmet",
+                  "text": "Eww! That looks disgusting! There's no way I'm buying that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dorgeshuun food",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gourmet",
+                  "text": "What's the point of selling me Dorgeshuun foods? I want to experience exotic surface cuisine!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Other food",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

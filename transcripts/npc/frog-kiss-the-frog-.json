@@ -1,0 +1,106 @@
+{
+  "ref": "frog-kiss-the-frog-",
+  "categoryRef": "npc",
+  "title": "Frog (Kiss the frog)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Frog (pointy hat)",
+          "sections": [
+            {
+              "title": "All other frogs",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Frog",
+                      "text": "Don't talk to me! Speak to the frog [prince/princess]!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Frog",
+                  "text": "Hurrah for the frog [prince/princess]!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the Kiss the frog event is for another player",
+          "sections": [
+            {
+              "title": "Frog (pointy hat)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Frog",
+                      "text": "​The frogs do not need your help right now."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "All other frogs",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Frog",
+                      "text": "Don't look at me, I'm just a frog. Ribbit! Ribbit!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Frog",
+              "text": "Hello, [player name]"
+            },
+            {
+              "speaker": "Frog",
+              "text": "[player name], the frog [prince/princess] desires your attention!"
+            },
+            {
+              "speaker": "Frog",
+              "text": "If you kiss [him/her], [player name], [he/she] will turn into a human!"
+            },
+            {
+              "speaker": "Frog",
+              "text": "But if you ignore [him/her], [player name], we will turn you into a frog!"
+            },
+            {
+              "speaker": "Frog",
+              "text": "That's IT, [player name] you're a frog!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

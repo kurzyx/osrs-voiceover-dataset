@@ -1,0 +1,105 @@
+{
+  "ref": "lammy-langle",
+  "categoryRef": "npc",
+  "title": "Lammy Langle",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Are you a member of the Group of Advanced Gardeners?"
+            },
+            {
+              "speaker": "Lammy Langle",
+              "text": "Why, yes I am. Why do you ask?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Martin has asked me to investigate why all the crops are failing."
+            },
+            {
+              "speaker": "Lammy Langle",
+              "text": "No, I'm afraid I don't know anything about that."
+            },
+            {
+              "speaker": "Player",
+              "text": "Would you look after my crops for me?"
+            },
+            {
+              "speaker": "Lammy Langle",
+              "text": "You don't have a sapling planted in that patch. Plant one and I might agree to look after it for you."
+            },
+            {
+              "speaker": "Lammy Langle",
+              "text": "That patch is already fully grown! I don't know what you want me to do with it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you give me any farming advice?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you sell me something?"
+            },
+            {
+              "speaker": "Lammy Langle",
+              "text": "That depends on whether I have it to sell. What is it that you're looking for?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll come back another time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Farming advice",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "While holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Lammy Langle",
+                      "text": "Sorry but you haven't solved the puzzle yet."
+                    },
+                    {
+                      "speaker": "Lammy Langle",
+                      "text": "Thanks [player name]!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lammy Langle",
+                  "text": "I'm too busy with my crops to work on this! Please solve it for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

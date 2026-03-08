@@ -1,0 +1,114 @@
+{
+  "ref": "spooky-dog",
+  "categoryRef": "npc",
+  "title": "Spooky dog",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When scaring a spooky dog away",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Boo!"
+                },
+                {
+                  "speaker": "Spooky dog",
+                  "text": "Whine!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When petting a spooky dog",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Who's a spooky doggy!"
+                },
+                {
+                  "speaker": "Spooky dog",
+                  "text": "Woof!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When feeding a spooky dog bones",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Spooky dog",
+                  "text": "Woof woof!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When feeding a spooky dog raw or cooked meat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Stray dog",
+                  "text": "Woof woof!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When feeding a spooky dog Marinated j' bones or Shaikahan bones",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "When feeding a spooky dog any other item",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Spooky dog",
+                  "text": "Grrrr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When interacting with a spooky dog while wearing cat ears",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Spooky dog",
+                  "text": "Bark!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

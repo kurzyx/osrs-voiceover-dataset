@@ -1,0 +1,71 @@
+{
+  "ref": "legends-guard",
+  "categoryRef": "npc",
+  "title": "Legends' Guard",
+  "sections": [
+    {
+      "title": "Standard dialogue after Legends' Quest",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Legends' Guard",
+              "text": "! ! ! Attention ! ! !"
+            },
+            {
+              "speaker": "Legends' Guard",
+              "text": "! ! ! Attention ! ! !"
+            },
+            {
+              "speaker": "Legends' Guard",
+              "text": "Legends' Guild Member Approaching!"
+            },
+            {
+              "speaker": "Legends' Guard",
+              "text": "Legends' Guild Member Approaching!"
+            },
+            {
+              "speaker": "Legends' Guard",
+              "text": "[Welcome Sir/Welcome Madam/Welcome]! I hope you enjoy your time in the Legends' Guild."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When going through the Legends' Guild's gates",
+      "sections": [
+        {
+          "title": "During the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Legends' Guard",
+                  "text": "I hope the quest is going well [sir/madam]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Legends' Guard",
+                  "text": "Legends Guild Member Approaching!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

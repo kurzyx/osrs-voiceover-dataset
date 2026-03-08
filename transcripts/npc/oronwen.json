@@ -1,0 +1,64 @@
+{
+  "ref": "oronwen",
+  "categoryRef": "npc",
+  "title": "Oronwen",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Oronwen",
+              "text": "Hello, can I help?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please. What are you selling?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Elite",
+          "sections": [
+            {
+              "title": "After answering correctly",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Oronwen",
+                      "text": "Well done."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oronwen",
+                  "text": "Answer this, please."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

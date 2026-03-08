@@ -1,0 +1,70 @@
+{
+  "ref": "guard-miscellania-castle-",
+  "categoryRef": "npc",
+  "title": "Guard (Miscellania Castle)",
+  "sections": [
+    {
+      "title": "Standard dialogue before Throne of Miscellania",
+      "sections": [
+        {
+          "title": "After getting access",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "[Welcome back, Sir/Welcome back, Madam/Welcome back, ]."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guard",
+              "text": "Halt! Who goes there?"
+            },
+            {
+              "speaker": "Player",
+              "text": "My name is [Fremennik name], will you not let me through?"
+            },
+            {
+              "speaker": "Guard",
+              "text": "I'm afraid the King won't give an audience to anyone except a worthy hero."
+            },
+            {
+              "speaker": "Guard",
+              "text": "If you become a member of the Heroes' Guild, he will definitely grant you an audience."
+            },
+            {
+              "speaker": "Player",
+              "text": "I am a member of the Heroes' Guild; does that not show my worth?"
+            },
+            {
+              "speaker": "Guard",
+              "text": "Then you may pass."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Throne of Miscellania",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guard",
+              "text": "Welcome back, Your Royal Highness."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

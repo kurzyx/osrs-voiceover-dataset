@@ -1,0 +1,34 @@
+{
+  "ref": "klenter",
+  "categoryRef": "npc",
+  "title": "Klenter",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Initial dialogue after finishing Icthlarin's Little Helper",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Klenter",
+              "text": "Wooo wooo wooooo!"
+            },
+            {
+              "speaker": "Klenter",
+              "text": "Thank you, adventurer. You have given my soul some respite."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wait! I want to ask you a question..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

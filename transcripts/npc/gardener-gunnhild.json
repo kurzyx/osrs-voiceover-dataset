@@ -1,0 +1,148 @@
+{
+  "ref": "gardener-gunnhild",
+  "categoryRef": "npc",
+  "title": "Gardener Gunnhild",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completion of Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day. What are you doing?"
+                },
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "I'm weeding this herb garden. It's hard work! I also sell a few gardening supplies."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good luck with that."
+                },
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "Thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you have for sale?"
+                },
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "At the moment I'm selling garden rakes and iron sickles. They're 15gp each, if you'd like one?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are iron sickles for?"
+                },
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "I can't think of anything just now. But you can buy one if you like!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completion of Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "Good day, Your Royal Highness."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day. What are you doing?"
+                },
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "I'm weeding this herb garden. It's hard work! I also sell a few gardening supplies."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good luck with that."
+                },
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "Thank you, Your Royal Highness."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you have for sale?"
+                },
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "At the moment I'm selling garden rakes and iron sickles. If you'd like one, Your Royal Highness,"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like a rake, please."
+                },
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "Thank you! Here you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like an iron sickle, please."
+                },
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "Thank you! Here you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are iron sickles for?"
+                },
+                {
+                  "speaker": "Gardener Gunnhild",
+                  "text": "I can't think of anything just now. But you can buy one if you like, Your Highness!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thank you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "If the storerooms are full",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gardener Gunnhild",
+              "text": "The storerooms are full, your Highness. You should talk to Advisor Ghrim to collect what we've gathered for you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Royal Trouble",
+      "sections": [],
+      "dialogues": []
+    }
+  ]
+}

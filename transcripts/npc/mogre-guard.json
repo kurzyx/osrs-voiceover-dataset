@@ -1,0 +1,52 @@
+{
+  "ref": "mogre-guard",
+  "categoryRef": "npc",
+  "title": "Mogre Guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Entering Crab Pen",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mogre Guard",
+                  "text": "Hey! Nung says no fishies..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I just spoke to Nung, he said it was ok."
+                },
+                {
+                  "speaker": "Mogre Guard",
+                  "text": "Well...if Nung say it ok, den go ahead."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mogre Guard",
+              "text": "Silly fishy! You lookin' like likkle Mogre wid your likkle arms an' wid your likkle legs!"
+            },
+            {
+              "speaker": "Mogre Guard",
+              "text": "Swim along silly round head fishy!"
+            },
+            {
+              "speaker": "Mogre Guard",
+              "text": "Dont let dem big skippies eat you!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

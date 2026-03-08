@@ -1,0 +1,500 @@
+{
+  "ref": "gianne-jnr-",
+  "categoryRef": "npc",
+  "title": "Gianne jnr.",
+  "sections": [
+    {
+      "title": "Initial dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Hello, welcome to Aluft Aloft, the gnome food delivery service. We deliver gnome foods to customers all over Gielinor. Do you want a job? We are always looking for new staff."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, tell me more."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "First of all you will need some basic Gnome Cooking and Cocktail making training. Go and talk to my Father, Aluft Gianne snr. and Blurberry, if you haven't already, and they'll tell you what you need to do."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Once you have got recommendations from both of them I'd be happy to take you on at Aluft Aloft!"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Once you are working for us, I will give you a choice of either an easy or hard job. I will then ask you to make a piece of Gnome Cuisine, and tell you who ordered it, with some information about how to find him"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "or her. Don't take too long, the order is only valid for a short period of time."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "If you complete the delivery successfully, you will be given a tip by the customer and credit towards your own 'free delivery token'."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's the difference between an easy and a hard job?"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "The foods that you need to cook for the easy jobs are more straight forward than the hard ones, and the customers will be within the Gnome Stronghold, or one of the Gnome Glider Pilots on duty. You will get one"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "credit for completing a delivery, and the tips you get will be a small amount of cash."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "The hard jobs could require you to cook any piece of gnome cuisine or cocktail. The customers could be anywhere in Gielinor, If you are going to complete the delivery in time, you'll probably have to use some form"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "of transport. Gnome gliders are especially useful here."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "For the hard jobs you will be given more time to complete the delivery though. You get three credits for completing it, and the tips you get tend to be useful objects, and even a few unusual items, that you won't"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "be able to get hold of anywhere else!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are these free delivery tokens?"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "I'll give you a free delivery token when you earn 12 credits. You can then use the token to make a food order yourself! This is a great privilege, we normally only deliver to gnomes. You may only have one token"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "at a time, and they are non-transferrable."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "If you gain more credits then for every 12 extra credits you earn, you will receive an extra item of food or drink per delivery, up to a maximum of ten items. You can continue to make deliveries after this, but you"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "will not get any more credits - just the normal tip and cooking training."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Once you call for a delivery your token will be used up, and you'll have to earn another one, if you want another delivery."
+            },
+            {
+              "speaker": "Player",
+              "text": "Will this help me with my cooking?"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "You will be able to develop your cooking skills during deliveries - you'll get the normal training for making the items, but also a bonus for successfully delivering the goods."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm ready to take an order now..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I could do with a reminder of how this game works."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Once you are working for us, I will give you a choice of either an easy or hard job. I will then ask you to make a piece of Gnome Cuisine, and tell you who ordered it, with some information about how to find him"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "or her. Don't take too long, the order is only valid for a short period of time."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "If you complete the delivery successfully, you will be given a tip by the customer and credit towards your own 'free delivery token'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Subsequent dialogue",
+      "sections": [
+        {
+          "title": "With a maxed out rewards token",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gianne jnr.",
+                  "text": "Clearly you are a very hard worker - I think you need a holiday. You have collected all the tokens I can give you. Of course, if you use the tokens up, you can come back and do some more deliveries. I can still give"
+                },
+                {
+                  "speaker": "Gianne jnr.",
+                  "text": "you a job if you're really keen, but you'll only be able to collect tips."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm ready to take an order now..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I'm ready to take an order now..."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "I'm afraid you don't have the required training for this job. If you want to work for me you'll have to talk to my father Aluft Gianne snr. for cooking training and Blurberry the barman for cocktail making training."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Once I get recommendations from both of them, you'll be able to start work for me."
+            },
+            {
+              "speaker": "Player",
+              "text": "So that's Aluft Gianne snr. for cooking training, and Blurberry for Cocktail training?"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "That's right - Good luck!"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "I'm afraid you don't have the required cooking experience for this job. If you want to work for me you'll have to train up to level 29 cooking, talk to my father Aluft Gianne snr. for cooking training and"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Blurberry the barman for cocktail making training. Once I get recommendations from both of them, you'll be able to start work for me."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think I'll warm up with an easy one."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "[Customer] wants a [gnome cuisine]"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Eebel lives in a hut in the southern end of the stronghold, near to Brimstail's cave."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Femi delivers goods to the Stronghold, she can usually be found just outside the Stronghold gates."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "The King has a throne in the base of the Grand tree."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "You'll find Coach by the Gnomeball pitch, unsurprisingly."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Sarble keeps an eye on the toads and the worms near the pond."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Heckel Funch runs the cocktail ingredient shop on the other side of the Grand Tree,"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Ermin is one of the flax spinners in the South East of the Stronghold."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Perrdur is sitting in the gnome restaurant with his domineering wife Dalila."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Dalila is sitting in the gnome restaurant with her long- suffering husband."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Froono likes to look down on the Magic trees in the South of the Stronghold."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Captain Errdo is the gnome pilot stationed upstairs."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Gulluck is the local armourer, he's upstairs in the Grand Tree."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Rometti is the gnome Master Tailor. His shop of beautiful pastel robes can be found in the North East Corner of the Grand Tree."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Guard Vemmeldo is in charge of bank security at the bank in the main part of the Stronghold."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Meegle breeds Terrorbirds, in the big Terrorbird pen to the West of the Village."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Wurbel likes to watch the Gnomeball. He always tries to get a good view."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Nacklepen is the giant tortoise trainer, he hangs around the tortoise training pen north west of the Grand Tree."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Damwin likes to have a drink with the Gnomeball fans after the match."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Burkor keeps guard in the tower just south east of the Gnomeball field."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Brimstail has a cave in the Western side of the Stronghold."
+            },
+            {
+              "speaker": "Player",
+              "text": "Easy-peasy! I'll get started."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "You'd better get a move on then. The clock is already running!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't think I can complete this one."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Are you sure you want to turn this order down, you'll have to wait 5 minutes before I can give you another easy order. I may have a hard one available for you though..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll take this order then!"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "You'd better get a move on then. The clock is already running!"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Fine, your loss. If you want another easy job one come back in five minutes and maybe I'll be able to find you one."
+            },
+            {
+              "speaker": "Player",
+              "text": "The edge of the world is no limit for Aluft Aloft Food Deliveries!"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "That's the spirit!"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "[Customer] wants [gnome cuisine]."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Captain Daerkin is a gnome pilot, though currently off duty. You should find him somewhere in Al Kharid, he likes to watch a good fight."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Captain Ninto is an off duty gnome pilot usually stationed on White Wolf Mountain, he should be found somewhere nearby - probably the closest place that sells beer."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Ambassador Spanfipple is conducting negotiations in the White Knight Castle in Falador."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Ambassador Ferrnook is attempting to get an audience with the King in Varrock."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "King Bolren rules the Gnome Tree Village, inside the maze."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Professor Manglethorp is visiting some engineers in Keldagrim."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Captain Klemfoodle is stationed on the eastern coast of Karamja."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Penwie the explorer is investigating the Island of Karamja."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Captain Bleemadge has the misfortune to be stationed on the top of White Wolf Mountain."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Professor Onglewip is visiting the Wizards in the Wizards Tower."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "G.L.O Caranock? I'm not sure where he is I'm afraid."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Captain Dalbur is stationed in Al Kharid."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Professor Imblewyn is studying human magic in the Mages Guild in Yanille."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Brave Brambickle is off exploring the Northern peaks of Trollweiss Mountain."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Garkor. How interesting. I thought he was missing after a gnome glider incident. I'm sure I heard some monkeys in the background when he called."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Garkor's the Grand Tree Guardian now. He'll be in the official guardian's residence, near the Grand Tree."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Ambassador Gimblewap is conducting negotiations in Ardougne Castle."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Wingstone the explorer is surveying the Southern half of the Kharidian Desert."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Lieutenant Schepbur commands the Battle Tortoises on the Khazard Battlefield."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "I believe Hazelmere has a hut on an Island East of Yanille."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Gnormadium is all the way south in the Feldips."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Are you willing to take this order on? If you turn it down you'll have to wait five minutes for another hard delivery."
+            },
+            {
+              "speaker": "Player",
+              "text": "Easy-peasy! I'm on the job."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "You'd better get started, you have a long way to go..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I won't be able to do this order."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Are you sure you want to turn this order down, you'll have to wait 5 minutes for another hard order, although I may be able to give you an easy one."
+            },
+            {
+              "speaker": "Player",
+              "text": "Easy-peasy! I'm on the job."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "You'd better get started, you have a long way to go..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes I'm sure."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Fine, your loss. I may have an easier job for you, since you chickened out of that one, If you want another hard one come back in five minutes and maybe I'll be able to find you a something."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Since you've just refused an easy job, I only have a hard job available for you at the moment. If you want to wait for another easy one - come back in [X minutes/a minute/less than a minute]."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll give it a go."
+            },
+            {
+              "speaker": "Player",
+              "text": "The edge of the world is no limit for Aluft Aloft Food Deliveries!"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Since you've just refused a hard job, I only have a easy job available for you at the moment. If you want to wait for another hard one - come back in [X minutes/a minute/less than a minute]."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll give it a go."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Since you've refused both the last hard and easy job I've offered you, you'll have to wait for new orders to come through - come back in [X minutes/a minute/less than a minute]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If a reward token has been earned and is unowned",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gianne jnr.",
+              "text": "Well done. You have worked hard for Aluft Aloft Delivery, and as a reward you are now eligible for a food delivery token that you can use to get food delivered to you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, please."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "If you activate your token, a delivery rider will arrive and try to deliver some food to you. This uses up your token. If you want another delivery, you will have to earn more credits from Aluft jnr."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "You may only have one token at a time. When you first earn a delivery token (having gained 12 delivery credits, you will be able to receive a single random gnome food or cocktail as your order. If you continue"
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "to earn credits, you will receive an extra random item per 12 credits."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "If you have enough credits to get more than 10 you can still play the game, but you will not get any more delivery credits - you may pick up a nice tip though."
+            },
+            {
+              "speaker": "Gianne jnr.",
+              "text": "These tokens are not transferrable by the way - this is just a bonus for hard workers!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No I already know."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ref": "factory-manager",
+  "categoryRef": "npc",
+  "title": "Factory Manager",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Factory Manager",
+              "text": "Don't bother me, can't you see I'm busy?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I can't... can I go into the factory?"
+            },
+            {
+              "speaker": "Factory Manager",
+              "text": "You can go in. The Consortium, in their infinite wisdom, has decided to open up the factory to all and sundry."
+            },
+            {
+              "speaker": "Player",
+              "text": "How come?"
+            },
+            {
+              "speaker": "Factory Manager",
+              "text": "We've built a new blast furnace and always have a shortage of people to work on it."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll have a look, thanks."
+            },
+            {
+              "speaker": "Factory Manager",
+              "text": "Just don't go causing any trouble, I still run this factory!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ref": "blanin",
+  "categoryRef": "npc",
+  "title": "Blanin",
+  "sections": [
+    {
+      "title": "Before Making History",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Good day."
+            },
+            {
+              "speaker": "Blanin",
+              "text": "Good day to you [sir/ma'am]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Making History",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "That's one less thing to worry about."
+            },
+            {
+              "speaker": "Blanin",
+              "text": "Glad I could help."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

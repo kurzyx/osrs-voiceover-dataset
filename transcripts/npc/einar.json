@@ -1,0 +1,107 @@
+{
+  "ref": "einar",
+  "categoryRef": "npc",
+  "title": "Einar",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Einar",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Einar",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacking the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Einar",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Einar",
+                  "text": "Rahr!"
+                },
+                {
+                  "speaker": "Einar",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Einar",
+                  "text": "Grr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Einar",
+                  "text": "Aargh!"
+                },
+                {
+                  "speaker": "Einar",
+                  "text": "I'm a gonner!"
+                },
+                {
+                  "speaker": "Einar",
+                  "text": "It's no use, I'm done for!"
+                },
+                {
+                  "speaker": "Einar",
+                  "text": "Uggh!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "ref": "elder-nama",
+  "categoryRef": "npc",
+  "title": "Elder Nama",
+  "sections": [
+    {
+      "title": "First time dialogue",
+      "sections": [
+        {
+          "title": "Subsequent dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elder Nama",
+                  "text": "Hello again!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there. How are things with that gryphon?"
+                },
+                {
+                  "speaker": "Elder Nama",
+                  "text": "Thankfully it hasn't been overly aggressive so far. It's important we keep it in check, but we don't want to go overboard and anger it unnecessary."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any useful statistics for me?"
+                },
+                {
+                  "speaker": "Elder Nama",
+                  "text": "I do!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I come in if I have a clue scroll?"
+                },
+                {
+                  "speaker": "Elder Nama",
+                  "text": "A clue scroll, you say? Let me see..."
+                },
+                {
+                  "speaker": "Elder Nama",
+                  "text": "Hmm... yes, that would appear to be this gryphon. Very well, I will allow you to fight it once, but no more than that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Nama",
+              "text": "Hello! You must be the human that's been helping out around here."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's me!"
+            },
+            {
+              "speaker": "Elder Nama",
+              "text": "Well, I'm Nama, one of the elders who specialises in dealing with the gryphons."
+            },
+            {
+              "speaker": "Player",
+              "text": "Pleased to meet you. So what brings you out here?"
+            },
+            {
+              "speaker": "Elder Nama",
+              "text": "One of the more problematic gryphons has made a home in this cave. I'm here to keep an eye on it."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. Perhaps I could help with that."
+            },
+            {
+              "speaker": "Elder Nama",
+              "text": "Help is always appreciated, but I wouldn't go charging in there without good reason. We don't want to anger the gryphon unnecessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to enter cave entrance",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Nama",
+              "text": "Sorry, but I can't let you go in there without permission."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to attack Shellbane Gryphon without a task",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Nama",
+              "text": "Wait! That gryphon does not currently pose a threat to us. You shouldn't attack it without permission!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

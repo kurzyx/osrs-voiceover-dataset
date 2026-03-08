@@ -1,0 +1,185 @@
+{
+  "ref": "civilian",
+  "categoryRef": "npc",
+  "title": "Civilian",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Civilian 1 (blonde short hair)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "Oh hello, I'm sorry, I'm a bit worn out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Busy day?"
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "Oh, It's those mice! They're everywhere! What I really need is a cat. But they're hard to come by nowadays."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, you're right, you don't see many around."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a cat that I could sell."
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "You don't say, is that it ?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Say hello to a real mouse killer!"
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "Hmmm, not bad, not bad at all. Looks like it's a lively one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Erm...kind of..."
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "I don't have much in the way of money. I do have these!"
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "The dwarves bring them from the mine for us. Tell you what, I'll give you [100/200] Death Runes for the cat."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nope, I'm not parting for that."
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "Well, I'm not giving you anymore!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok then, you've got a deal."
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "Great! Hand over the cat and I'll give you the runes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nope, they're not easy to get hold of."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a cat...look!"
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "Hmmm...doesn't look like it's seen daylight in years. That's not going to catch any mice!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Civilian 2 (brown long hair)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi there."
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "Good day to you traveller."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you up to?"
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "Chasing mice as usual! It's all I seem to do nowadays."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You must waste a lot of time?"
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "Yes, but what can you do? It's not like there's many cats around here!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, you're right, you don't see many around."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Civilian 3 (bald)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "I'm a bit busy to talk right now, sorry."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why? What are you doing?"
+                },
+                {
+                  "speaker": "Civilian",
+                  "text": "Trying to kill these mice! What I really need is a cat!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, you're right, you don't see many around."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using a cat on the civilian",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Civilian",
+              "text": "Great, thanks for that!"
+            },
+            {
+              "speaker": "Player",
+              "text": "That's ok, take care."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

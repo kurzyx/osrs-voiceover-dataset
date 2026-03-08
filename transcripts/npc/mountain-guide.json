@@ -1,0 +1,79 @@
+{
+  "ref": "mountain-guide",
+  "categoryRef": "npc",
+  "title": "Mountain Guide",
+  "sections": [
+    {
+      "title": "First talking to him",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello. What you are doing here?"
+            },
+            {
+              "speaker": "Mountain Guide",
+              "text": "Hello, I am a mountain guide for this historical expedition. I led the team to this summit."
+            },
+            {
+              "speaker": "Player",
+              "text": "Would you be able to guide me up and down the mountain?"
+            },
+            {
+              "speaker": "Mountain Guide",
+              "text": "I don't see why not. I've not much to do while the historians are exploring."
+            },
+            {
+              "speaker": "Mountain Guide",
+              "text": "I make many trips each day so whenever you'd like to travel, just speak to me here, at the Shayzien outpost, or south of the mountain."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can you take me somewhere?"
+            },
+            {
+              "speaker": "Mountain Guide",
+              "text": "Of course. Where would you like to go?"
+            },
+            {
+              "speaker": "Player",
+              "text": "The Shayzien Outpost."
+            },
+            {
+              "speaker": "Player",
+              "text": "Mount Quidamortem."
+            },
+            {
+              "speaker": "Player",
+              "text": "South of Quidamortem."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nowhere."
+            },
+            {
+              "speaker": "Mountain Guide",
+              "text": "Okay. Come back if you change your mind."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

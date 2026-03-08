@@ -1,0 +1,2208 @@
+{
+  "ref": "a-night-at-the-theatre",
+  "categoryRef": "quest",
+  "title": "A Night at the Theatre",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "If the player hasn't cleared the Theatre before",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Any luck in the Theatre?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What am I meant to be doing again?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Enter the Theatre and beat the challenges within. Doing so would cause great embarrasment to Verzik, and my associates would very much appreciate it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's all this really about?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well you don't really expect me to believe you're just here to embarrass Verzik do you? What's really going on?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "My associates prefer to keep their intentions to themselves. However, if you were to assist us with another matter, I might be able to share more."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you need?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Your suspicions are correct. My role here is not to embarrass Verzik Vitur. Instead, my associates have a long history with Verzik, and have sent me here to keep an eye on her."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you're spying on her? Then why are you asking people to go and 'embarrass' her?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Research."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Research?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Yes. As you're aware, of all those that go into the Theatre, the vast majority never come out. That said, some have managed to succeed. Of course, the vampyres would never let the citizens know this."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Thanks to these successes, I've been able to gather information on Verzik and her abilities."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah, so they're the ones that have been doing the spying. Still, that doesn't explain what this is all for."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Verzik has abilities unlike any other vampyre. However, she did not always possess these abilities. My associates are keen to discover how she obtained them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You mean that thing she does where she turns into a spider?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Exactly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, I think I understand now. So where do I come in?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "These were recently recovered from within the Theatre. Take a look at them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Eggs?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Not just any eggs. These are the eggs of a nylocas, one of Verzik's arachnid pets."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Normally this wouldn't be anything special. After all, Verzik has hundreds of nylocas. However, these eggs are from a variant we've never encountered before."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "What's more interesting than that though is how they were obtained. For lack of a better description, the mercenary who recovered them claimed they 'fell out' of Verzik herself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Verzik laid some eggs?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Apparently so."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How lovely. I think you've safely put me off my food for the rest of today. So you think these eggs are somehow connected to her unique abilities?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "It would line up with some suspicions my associates have had for a while."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And I suppose you want me to look into this?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not to mention the whole turning into a spider thing I guess. I suppose you want me to look into this?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "That is correct. I also believe you have a friend who can help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a friend?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "A dead one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah, that sounds about right. Which dead friend are we talking about here?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Ranis Drakan."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right... And how's a dead vampyre going to help us exactly?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "My kind have the ability to relive our memories as if they are happening again. We can also relive the memories of others if we are able to make physical contact with them. I could show you if you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please don't go poking through my memories. Also, what do you mean by 'your kind'?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "I am not at liberty to say."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course. How silly of me. And you want to relive Ranis' memories I'm guessing? Will that even work now that he's dead?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "We are lucky that vampyre corpses deteriorate slower than many other species. Enough of his brain should still be intact for me to work with."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err... Nice. What's he got to do with these eggs though?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Ranis and Verzik were close friends. He interacted with her more than anyone else did. Getting close enough to Verzik to observe her own memories will be... problematic. He is the next best option."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Within his memories we can hopefully learn more about Verzik and her abilities. As for the eggs, they are our catalyst."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "It would take years to search through all of Ranis' mind, but I can use these eggs to help us find relevant memories much faster."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Now, I must remain here. That means you will need to recover Ranis for us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And where can I find him?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Luckily for us, Ranis always loved the Theatre. As such, he is actually buried deep below it. You can use the staircase to the north east to access his crypt."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Be careful, it's well guarded. Even other vampyres are not allowed in. I suggest you take that flail of yours."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Also, you don't need to bring his whole body back of course. That wouldn't be very subtle. We only need his brain."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Brains are generally attached to the body you know."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "I know. That's why I'd recommend you take a saw."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh... Oh god."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Good luck."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I'm not that interested."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "As you wish. Return to me if you change your mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Return to me when that changes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has cleared the Theatre at least once",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've managed to defeat Verzik!"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Really?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes! After beating all of her challenges, she chose to face me herself. I couldn't fully defeat her though. She just transformed into a bat and flew away."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Very impressive. I had a feeling you would have what it takes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what now?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Verzik will be back soon enough. Death will not come easy for her. However, you have still been of great use to my associates."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Speaking of your associates, what's all this really about?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well you don't really expect me to believe you're just here to embarrass Verzik do you? What's really going on?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "My associates prefer to keep their intentions to themselves. However, if you were to assist us with another matter, I might be able to share more."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Mysterious Stranger again after initially declining the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. Interested in heading back into the Theatre?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Mysterious Stranger after starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's this thing you need from me?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Your suspicions are correct. My role here is not to embarrass Verzik Vitur. Instead, my associates have a long history with Verzik, and have sent me here to keep an eye on her."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Mysterious Stranger after they show you the eggs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's this thing you need from me?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "These were recently recovered from within the Theatre. Take a look at them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Mysterious Stranger after being told to get Ranis' head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find Ranis?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You can use the staircase to the north east to access his crypt. Remember, you don't need to bring his whole body back. We only need his brain. I'd recommend you take a saw."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I want to be sick."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Entering Ranis' crypt",
+      "sections": [
+        {
+          "title": "Attempting to open the gate without a key",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Obtaining Ranis' head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Well this is probably one of the more disgusting things I've ever done. Here goes nothing..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey there Ranis. Didn't expect to see you again. How are you doing?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I think I might be at my lowest point in life right now. I really need to find a hobby or something."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching coffin with full inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching coffin while already holding the head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Getting the head again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to the Mysterious Stranger after getting Ranis' head",
+      "sections": [
+        {
+          "title": "After giving the Mysterious Stranger Ranis' head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what are we doing with Ranis' head?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "It seems that Ranis has many memories of these eggs, or at least of something very similar. Thanks to my abilities, we can view these memories. Hopefully they will reveal the truth about Verzik."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After finishing the first memory cutscene",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So about that memory..."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "What about it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That was Verzik?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After being told to explore the nest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find that nest?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "It's supposedly just north of Darkmeyer. Go there and see if you can find any eggs matching the ones Ranis gave to Verzik."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright. I'll be back once I've explored this nest."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "You again. What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I managed to recover Ranis' head."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Good work. Hand it over."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well... I seem to have lost it."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "You should probably go and find it again then."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Hmm... Yes, I think this will work."
+            },
+            {
+              "speaker": "Player",
+              "text": "So what now?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "It seems that Ranis has many memories of these eggs, or at least of something very similar. Thanks to my abilities, we can view these memories. Hopefully they will reveal the truth about Verzik."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Now, I suggest we start at the beginning. Take my hand."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are you making this weird?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "I require physical contact to share the memory with you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh... Fair enough."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Prepare yourself!"
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Do you have them?"
+            },
+            {
+              "speaker": "Vyrewatch",
+              "text": "Right here, my lord."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Excellent. I will take them from here."
+            },
+            {
+              "speaker": "Vyrewatch",
+              "text": "Of course."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Ranis my dear, how wonderful to see you."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "And you Verzik."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "I see you've wasted no time in introducing our new guest to the Theatre."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "I must say, I find the name you've given her to be quite interesting. Not the kind of thing I'd have expected from you."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Well I thought it would be quite humorous."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "I see. So you intend to use her as a new challenge?"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "It seemed an ironically fitting role for her, given that fun little narrative you came up with. Besides, with all the work you put in, it would have felt wrong to just abandon her."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "You should not have worried about that. The things we learnt from her down in the labs more than made up for the effort."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Well either way, I'm glad she's here. I've found her to be quite the inspiration. Thanks to her, I've decided to give the whole place a bit of a sprucing up."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "You're replacing all the challenges?"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Absolutely! Those old ones were getting dull. It's time for some fresh excitement in this place."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Well perhaps I have something that can help with that. I have a gift for you."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "A gift? Oh Ranis you do spoil me!"
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "You can thank Lowerniel for this one. He found these eggs in an arachnid nest north of Darkmeyer. He thought you might be able to use them in your nylocas breeding program."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "How exciting! Do pass on my thanks. He is always welcome to come and pay me a visit himself, of course."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "The Theatre has never really been his thing."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Oh Ranis, I do love your brother, but he is such a bore! He needs to learn to live a little!"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Anyway, tell me more about this nest."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "The arachnids there are highly unique. Lowerniel thinks their queen might be of a higher power."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "A higher power? He doesn't think that silly stone he used to have is involved, does he?"
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "No, he suspects something more natural."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Really? Well either way, if he's right, these eggs could be key to some very exciting new nylocas."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "I look forward to seeing the results."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "As do I..."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Interesting... Very interesting..."
+            },
+            {
+              "speaker": "Player",
+              "text": "That was Verzik?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "It was. However, the memory was from many years ago, before she gained her unique abilities."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. So what's our next step?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "The eggs in that memory were very similar to the ones in my possession, but they were not identical. It sounded like Verzik intended to use them to breed new nylocas."
+            },
+            {
+              "speaker": "Player",
+              "text": "Perhaps that breeding is what led to the eggs you have."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "And perhaps it was also the starting point for Verzik's abilities."
+            },
+            {
+              "speaker": "Player",
+              "text": "How can we be sure?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "We will need to recover some of those eggs for ourselves. With them, we may be able to find further relevant memories."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ranis said they came from a nest north of Darkmeyer. I'll see if I can find it."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Good idea. I will remain here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Any reason why you're not able to join me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, let me guess. Your associates..."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "My associates would prefer I remain here."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not sure why I asked. I'll be back once I've explored this nest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The strange spider eggs",
+      "sections": [
+        {
+          "title": "Attempting to open the egg sac",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the skeleton",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Daer Krand",
+          "sections": [
+            {
+              "title": "Talking to Daer Krand again before getting the sulphuric acid",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Daer Krand",
+                      "text": "Well met!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Got any sulphuric acid?"
+                    },
+                    {
+                      "speaker": "Daer Krand",
+                      "text": "Yes, here you go."
+                    },
+                    {
+                      "speaker": "Daer Krand",
+                      "text": "Come back when you have some room for it."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Daer Krand again after getting the sulphuric acid",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Daer Krand",
+                      "text": "Well met!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Got any sulphuric acid?"
+                    },
+                    {
+                      "speaker": "Daer Krand",
+                      "text": "Looks like you already have some."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh... So I do. Thanks."
+                    },
+                    {
+                      "speaker": "Daer Krand",
+                      "text": "Did I not already give you some?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Maybe?"
+                    },
+                    {
+                      "speaker": "Daer Krand",
+                      "text": "Oh... Well I suppose I can spare some."
+                    },
+                    {
+                      "speaker": "Daer Krand",
+                      "text": "Come back when you have some room for it."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Daer Krand",
+                  "text": "Well met!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Got any sulphuric acid?"
+                },
+                {
+                  "speaker": "Daer Krand",
+                  "text": "What? What for?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I was exploring a cave west of here and I think I found your assistant."
+                },
+                {
+                  "speaker": "Daer Krand",
+                  "text": "I was wondering where she got to. Where is she now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah yes... About that..."
+                },
+                {
+                  "speaker": "Daer Krand",
+                  "text": "Well?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... she's dead I'm afraid. Looks like the spiders in the cave killed her. Ate most of her as well..."
+                },
+                {
+                  "speaker": "Daer Krand",
+                  "text": "What a disaster! It's going to take forever to find a new willing assistant who's competent as well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah... Oddly enough I can't imagine many people will be queueing up to go get themselves eaten by spiders for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Still, if it helps, it looks like she did find what she was after. There's an egg sac near where I found her. If I had some sulphuric acid, I could melt through it."
+                },
+                {
+                  "speaker": "Daer Krand",
+                  "text": "Well I suppose I can give you some. Consider it a thank you for bringing me the news about my assistant."
+                },
+                {
+                  "speaker": "Daer Krand",
+                  "text": "Come back when you have some room for it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks! Want me to bring you some of those eggs?"
+                },
+                {
+                  "speaker": "Daer Krand",
+                  "text": "No, it's fine. I'll send my new assistant to get me some... Once I find a new assistant anyway."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening the egg sac while holding the acid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Taking the egg sac again after losing the eggs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to the Mysterious Stranger after getting the eggs",
+      "sections": [
+        {
+          "title": "After giving the Mysterious Stranger the eggs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So we have the eggs. Now what?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "I believe I can use these new eggs to help us find more memories of note. Hopefully they will start to present a clearer picture for us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the second memory cutscene",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That memory didn't tell us too much."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "It seems Verzik did manage to use those eggs to create new nylocas. However, something is still missing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there another memory that could tell us more?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the third memory cutscene",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That memory seemed more useful."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Indeed. It seems a hespori is key to our next steps."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've grown a hespori before!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's a hespori?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After being told to retrieve Hespori bark",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find a hespori?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "I'm not sure. They are native to Morytania, but they are quite rare. You mentioned a nature spirit who could help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's right! He lives in the swamp."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Then you should go and speak to him. I will await your return."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "You again. What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I found some of those eggs."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Excellent. Let's have a look at them."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't actually have them with me."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Well I'll need you to bring them here. They could be key to understanding Verzik's abilities."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Hmm... How curious..."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "I believe I can use these new eggs to help us find more memories of note. Hopefully they will start to present a clearer picture for us."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well that would be nice. I'm still a bit lost to be honest... Then again, I guess that's just the norm for me."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Once we're done, I'll also have the eggs sent to my associates. Assuming they do have a connection to Verzik's abilities, they will come in very useful."
+            },
+            {
+              "speaker": "Player",
+              "text": "Your associates aren't trying to replicate her powers are they?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Oh quite the opposite. Their hope is to find a way to counteract them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Interesting..."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Anyway, I think I have found a new memory for us."
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's take a look."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Prepare yourself!"
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Bloat? Not the most elaborate of names, is it?"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "A crude name for a crude creation."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Well it's most definitely crude... Quite disgusting as well."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Turns your stomach, does it Ranis? I'm surprised you'd find anything disgusting after what you did to that girl."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "I just think it's important to take a bit of pride in your work. This is a Theatre, Verzik. We should be producing art!"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Ranis darling, I couldn't agree more. Come have a look at this."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "A new nylocas?"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "The athanatos! Isn't it magnificent!"
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "It's quite a sight to behold."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "I have you and Lowerniel to thank for this one. This is the result of those eggs you gave me."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "I'm glad you were able to make good use of them."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Oh I've been able to work wonders with them, and I'm not done yet. If all goes well, the athanatos will be just the beginning..."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "So Verzik did manage to use those eggs to create new nylocas. However, something is still missing."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is there another memory that could tell us more?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Yes, I believe there is. Let us see what it can tell us."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Prepare yourself!"
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "My my... You've really outdone yourself this time."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Ranis you flatterer!"
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "So was this one also the result of those eggs?"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Much more boring I'm afraid. I still have plans for those eggs, but I'm missing a key aspect right now. Don't worry, I'm sure I'll get it worked out."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Perhaps I can help. What are you missing?"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Oh Ranis, you're not trying to steal my thunder are you?"
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Verzik, you know I wouldn't..."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Just joking Ranis! I know you're far too noble for that."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "The thing I need is something with the ability to regenerate. Nylocas are strong in numbers, but far too weak on their own."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Hmm... I think I know just the thing. When we created the Maiden, we experimented heavily in that area."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Ah, of course. You and your haemalchemy."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Well in the end it wasn't actually haemalchemy that gave us the answer. It came in the form of a gift from the old queen."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Not another of her plants was it?"
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Precisely that! Specifically the hespori. Their bark has wonderful regenerative abilities."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "I see... Yes, I think that might just work. Thank you, Ranis."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Hespori... Of course."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've grown a hespori before!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's a hespori?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "They are remarkable plants with a will of their own. Not to mention their many unique properties..."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "They were grown here back when this place was still known as Hallowvale. The Saradominist Queen of the region used them as weapons against the vampyres."
+            },
+            {
+              "speaker": "Player",
+              "text": "You know your history."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "More than most."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "It sounds like the vampyres found multiple uses for the hespori. Not only did they play a part in the creation of the Maiden of Sugadinti, but they were also potentially used to make a new nylocas."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm guessing this is the bit where I retrieve some hespori bark for us."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "You are correct. However, I'd suggest you collect some from a naturally occuring hespori rather than one you've grown yourself."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you know where I can find one?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "They are native to Morytania, but they are quite rare. I'm afraid I'm not an expert on nature."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hmm... I know of a nature spirit who lives in the swamp. He can probably help."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Perfect. I will await your return."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The hespori bark",
+      "sections": [
+        {
+          "title": "Talking to the Nature Spirit",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Welcome back, my friend. I sense that you need my help with something."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's right! I'm looking for a hespori. I was hoping you might know where one is."
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Ah, a hespori. They're wonderful plants. Why are you looking for one?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err... Just some research..."
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Research? What are you researching?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just... plants... and stuff..."
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "I see... Well do be very careful. Hespori are rare enough as it is without people damaging them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah... I'm definitely not going to damage it in any way."
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Wonderful! Now, let me see..."
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Yes! I can sense the presence of a hespori near here. It's to the north east, on a small island in the swamp."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great! Thanks for the help."
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "For you my friend, it is no problem at all."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Nature Spirit again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Welcome back, my friend. Did you find that hespori?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you remind me where it is?"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "I can sense it to the north east, on a small island in the swamp."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chopping the Hespori",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to the Mysterious Stranger after killing the Hespori",
+      "sections": [
+        {
+          "title": "After giving the Mysterious Stranger the bark",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can we use this bark to find more memories?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Yes, I think so. Let me see what I can find..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the fourth memory cutscene",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any more memories for us to look at?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "There is one final memory. Let us hope it provides the answers we seek."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the fifth memory cutscene",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This Verzik business kind of feels like it's been a waste of time."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "How so?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Verzik made a new nylocas, it bit her and it just died. That was it."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "We have still gained a lot here. That bite almost certainly led to her abilities, and we know how the nylocas variant responsible was created."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After being told to complete the Theatre of Blood",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ready to enter the Theatre?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "I am. Remember, you need to get me all the way to Verzik herself and then defeat her. When she is at her weakest, I should be able able to extract the memories we need."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Don't forget you can use the notice board to find suitable allies to join us if you don't feel comfortable doing this alone. I will join you inside once you are ready."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "You again. What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I found a hespori."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Perfect. Do you have some bark from it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not yet."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Then you should go and recover some. Be careful, for it will likely fight back. I will await your return."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Excellent. This is just what we needed."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can it help us find more memories?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Yes, I think so. Let me see what I can find..."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Ah, here we go. I believe we're getting close now."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Prepare yourself!"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Power over the Shadow Realm you say? That takes me back to the old empire."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "That was the inspiration. Alas, the experiments didn't really go anywhere in the end."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Such a pity. Still, he will make for a fine new challenge here. As always Ranis, you are far too generous."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Speaking of experiments, did you think any more on my hespori suggestion for that new nylocas?"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "That I did. It's going very well so far. Still too early to be sure, but I think this could be the one."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "The one?"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Absolutely! The nylocas to end all nylocas."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "That's quite the ambition. So when do we get to see the results?"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Patience now Ranis. You can't rush perfection. It won't be long now, I'm sure of it..."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Interesting, but not overly illuminating. Still, we are not far off now."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "There is one final memory. Let us hope it provides the answers we seek."
+            },
+            {
+              "speaker": "Player",
+              "text": "Alright. Let's take a look."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Prepare yourself!"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "The last King of the yarasa... I never thought I'd see one of their kind again."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Does this mean Lowerniel finally found a way home?"
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "It would seem so, but he did not enlighten me on how he did it."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Fascinating..."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Anyway, I have something you simply have to see. Come take a look."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Is this...?"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "This is the one Ranis. This is my new Queen Nylocas. All that work has finally paid off."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "It's very small."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Oh don't worry darling, it will grow. I'll have to come up with a fancy name as well."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Ouch! You little..."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Oh..."
+            },
+            {
+              "speaker": "Ranis Drakan",
+              "text": "Not what you were expecting?"
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "I really thought this was the one..."
+            },
+            {
+              "speaker": "Verzik Vitur",
+              "text": "Back to square one I guess. What a waste."
+            },
+            {
+              "speaker": "Player",
+              "text": "That was it? She made a new nylocas, it bit her and it just died?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "We have still gained a lot here. That bite almost certainly led to her abilities, and we know how the nylocas variant responsible was created."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "We even have the relevant materials as well. Between them and the knowledge we now have, my associates should be able to begin work on new weapons and techniques to use against Verzik."
+            },
+            {
+              "speaker": "Player",
+              "text": "But who knows what may have happened after that bite... What if we're missing some key information?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "I admit, while hopefully not essential, clarity on what happened next would be very useful. However, Ranis has no further memories of use to us. There's likely to only be one place to find the truth now."
+            },
+            {
+              "speaker": "Player",
+              "text": "You mean Verzik herself?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Correct. But for me to gain access to Verzik's memories, I'd need to make physical contact with her. That would require us to enter the Theatre, something I was quite keen to avoid."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've made it through the Theatre before. I could do it again."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've never made it through the Theatre before, but I'm sure I can manage it."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "True, but I am no fighter. However..."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is it?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "I know that there have been times when groups have entered the Theatre and had members not actually participate in the challenges."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "Provided the more able members of the group succeed, these individuals are still considered to have beaten the challenge."
+            },
+            {
+              "speaker": "Player",
+              "text": "So you want me to 'carry' you through the Theatre?"
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "That is an apt way of putting it. If you can get me to Verzik, I should hopefully be able to extract the memories we need. The moment of defeat will be my best opportunity, when she is weakest."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, I think we can make this work."
+            },
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "You can still take other people in as well of course. Just use the notice board to set up a party and find suitable allies. Once you're ready, I will join you in the Theatre."
+            },
+            {
+              "speaker": "Player",
+              "text": "In that case, I'll see you in there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A Night at the Theatre",
+      "sections": [
+        {
+          "title": "After each wave",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You fought well. Now, let us move on. We have to reach Verzik so that I can extract her memories."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Maiden of Sugadinti",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "The Maiden of Sugadinti. Such an ironic name."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you know about her?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Not much more than you probably know yourself. Hers is a tragic tale of misguided hope."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You might find it useful to know that she's a powerful user of magic. Unsurprisingly, blood magic is her specialism. I hear she also has a habit of using nylocas to further increase her power."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good to know. Thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pestilent Bloat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "The Pestilent Bloat. What a disgusting monstrosity."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What even is it?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Nothing fancier than some crude necromancy. Still, that doesn't mean it's not dangerous. Don't even try to take it head on. Wait for the perfect moment and attack while it is weak."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nylocas",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Nylocas... I've always hated nylocas."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You've encountered nylocas before?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Some types. Alone they're not overly dangerous, but you'll never encounter them alone. Their power is in numbers."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So how do I overcome that?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Different variants have different weaknesses. Prioritise your targets, and ensure you use the right weaponry against them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sotetseg",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Sotetseg. One of the greater mysteries of this Theatre."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How so?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "He's some sort of modified dark beast. No dark beasts have ever been encountered in Morytania, so who knows how the vampyres got him here. Perhaps he is not of this world at all..."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Be careful, for he has a strong affinity with the shadow realm. He will almost certainly use it against you. Expect the unexpected."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Unexpected?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Yes. Survivors of the Theatre have spoken of some sort of strange shadowy maze."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Xarpus",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "The once great King of the yarasa. This prison is such a sad end for Xarpus."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You feel sorry for him?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Death would be preferable to a life of imprisonment. The Theatre is a testament to that."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Anyway, we are close now. Defeat Xarpus, and the path to Verzik is clear."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Any advice?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "He will attempt to power himself up before he fights. Try and stop that where you can. Once the fight begins, be careful of his highly poisonous attacks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Verzik Vitur",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You fought well. Now, only Verzik awaits. Remember, you must fully defeat her for me to have a chance to extract her memories. Let us proceed once you are ready."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The final memory",
+      "sections": [
+        {
+          "title": "Talking to the Mysterious Stranger after completing the Theatre of Blood",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did you manage to get any useful memories from Verzik?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Yes and no. I have a memory that I believe has answers for us. However, it is not Verzik's memory."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "I think it's best if I just show you."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Prepare yourself!"
+                },
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "Doctor... are you still there?"
+                },
+                {
+                  "speaker": "Vulcan Orvoros",
+                  "text": "I'm right here, my lady. I was just finishing my notes."
+                },
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "I feel... I feel... wrong."
+                },
+                {
+                  "speaker": "Vulcan Orvoros",
+                  "text": "My lady, as I've already said, we really should take you to my surgery in Darkmeyer. Whatever that nylocas did, it was no normal bite."
+                },
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "No! This is my home! You will not take me!"
+                },
+                {
+                  "speaker": "Vulcan Orvoros",
+                  "text": "I understand. My notes are finished now. I will leave you in peace."
+                },
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "Peace? Yes..."
+                },
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "Doctor... It's... inside me!"
+                },
+                {
+                  "speaker": "Vulcan Orvoros",
+                  "text": "My lady?"
+                },
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "I can feel it! Help me!"
+                },
+                {
+                  "speaker": "Vulcan Orvoros",
+                  "text": "What..."
+                },
+                {
+                  "speaker": "Nylocas Queen",
+                  "text": "Come... Come my pretties..."
+                },
+                {
+                  "speaker": "Nylocas Queen",
+                  "text": "Destroy the witness... Let us dine on his corpse!"
+                },
+                {
+                  "speaker": "Vulcan Orvoros",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Nylocas Queen",
+                  "text": "The rule of the vampyres is over... The rule of the nylocas has begun..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Verzik... She died!"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "We feared the worst, but we never anticipated something like this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But does this mean... the Verzik in the Theatre..."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "...is really just that nylocas in disguise. We must inform my master at once."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your master? So these associates you've been going on about... they don't actually exist do they?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "They do not. My master preferred that I keep his involvement a secret, but I feel you are now trusted enough to meet him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Meet him? Where?"
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "In a similar way to how my kind can relive our memories, we can also communicate across great distances."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Another of my kind is with my master. Through the two of us, you will be able to speak with him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I think I understand."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "Prepare yourself!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well this is weird."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "It can take some getting used to. Now, I will contact my master and inform him of what we have discovered. Once I am done, I expect he will want to speak with you."
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": ""
+                },
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "There. Now, when I next speak, it will be my voice you hear. However, the words are from my master."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay..."
+                },
+                {
+                  "speaker": "Mysterious Master",
+                  "text": "Greetings my child. It is good that we are finally able to speak, for you have done a great service to me and my disciples."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It would be nicer if we could speak in person."
+                },
+                {
+                  "speaker": "Mysterious Master",
+                  "text": "If that were possible, we would make it so. There are many constraints upon us. Still, these constraints are often to our benefit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How so?"
+                },
+                {
+                  "speaker": "Mysterious Master",
+                  "text": "We share many common enemies, you and I. Enemies that infest Hallowvale like a disease."
+                },
+                {
+                  "speaker": "Mysterious Master",
+                  "text": "By remaining far away from this disease, I keep us all safer. Instead, my disciples act as my eyes, ears, and hands upon Gielinor. They are the harbingers of my will."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So where are you then?"
+                },
+                {
+                  "speaker": "Mysterious Master",
+                  "text": "Home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right... And what's your connection to Verzik?"
+                },
+                {
+                  "speaker": "Mysterious Master",
+                  "text": "She was an old foe. We will not weep for her demise."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What about this nylocas that's replaced her?"
+                },
+                {
+                  "speaker": "Mysterious Master",
+                  "text": "A concerning development. However, you have gathered all that we need to overcome it when the time is right."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "When the time is right?"
+                },
+                {
+                  "speaker": "Mysterious Master",
+                  "text": "When the time is right."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So there's nothing further for us to do now?"
+                },
+                {
+                  "speaker": "Mysterious Master",
+                  "text": "No. For now, we must wait. But once again, you have my thanks. My disciple will ensure you are suitably rewarded. Know that you are now a friend of Sugadinti."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Mysterious Stranger after finishing the first memory cutscene",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Stranger",
+                  "text": "You again. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Verzik... She died!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Claiming quest rewards with inventory space",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Stranger",
+              "text": "You again. My master is very impressed with your work. On his behalf, allow me to reward you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

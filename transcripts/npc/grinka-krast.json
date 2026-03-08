@@ -1,0 +1,72 @@
+{
+  "ref": "grinka-krast",
+  "categoryRef": "npc",
+  "title": "Grinka Krast",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grinka Krast",
+                  "text": "Human! Get back to the slave pens before I call the guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Grinka Krast",
+              "text": "Yes?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you selling?"
+            },
+            {
+              "speaker": "Grinka Krast",
+              "text": "Lanterns. Want one?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are you selling lanterns?"
+            },
+            {
+              "speaker": "Grinka Krast",
+              "text": "It's dark around here."
+            },
+            {
+              "speaker": "Player",
+              "text": "You make a very valid point."
+            },
+            {
+              "speaker": "Grinka Krast",
+              "text": "Yes. Want one?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Grinka Krast",
+              "text": "Suit yourself."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

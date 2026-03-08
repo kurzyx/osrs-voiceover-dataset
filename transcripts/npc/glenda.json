@@ -1,0 +1,59 @@
+{
+  "ref": "glenda",
+  "categoryRef": "npc",
+  "title": "Glenda",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Glenda",
+              "text": "Here, look at my lovely gems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "If Glenda notices the player stealing from her stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Glenda",
+                  "text": "Hey! Get your hands off there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player recently stole from Glenda and tries to talk to her",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Glenda",
+                  "text": "You're the one who stole something from me!"
+                },
+                {
+                  "speaker": "Glenda",
+                  "text": "Guards guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

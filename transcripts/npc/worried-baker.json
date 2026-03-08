@@ -1,0 +1,127 @@
+{
+  "ref": "worried-baker",
+  "categoryRef": "npc",
+  "title": "Worried Baker",
+  "sections": [
+    {
+      "title": "2019 Christmas event",
+      "sections": [
+        {
+          "title": "Before starting the event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there friend."
+                },
+                {
+                  "speaker": "Worried Baker",
+                  "text": "Oh..what am I to do, Christmas is ruined."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the matter?"
+                },
+                {
+                  "speaker": "Worried Baker",
+                  "text": "Christmas is ruined, my bakery is ruined, everything is ruined!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe this has something to do with Santa in Varrock Square."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After speaking to Santa",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there friend."
+                },
+                {
+                  "speaker": "Worried Baker",
+                  "text": "Adventurer! You've come at the right time. I need your help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could this have something to do with some missing Gingerbread Gnomes?"
+                },
+                {
+                  "speaker": "Worried Baker",
+                  "text": "How did you know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Santa told me to sort it out for him, he said his son has taken over the Gingerbread Gnome production."
+                },
+                {
+                  "speaker": "Worried Baker",
+                  "text": "He has been an absolute disaster, he suddenly showed up and took control of our bakery. We tried to stop him, but he locked up the two other bakers!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How did you manage to escape?"
+                },
+                {
+                  "speaker": "Worried Baker",
+                  "text": "Well... I don't think he knows how Gingerbread Gnomes are made, he brought in an Icelord to ice the gingerbread."
+                },
+                {
+                  "speaker": "Worried Baker",
+                  "text": "I threw a stone at it to cause a distraction, giving me a chance to escape. After I got out, I heard Jack lock the entrance behind me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He brought in an Icelord!? I don't know how to deal with one of those."
+                },
+                {
+                  "speaker": "Worried Baker",
+                  "text": "It's terrifying! I think Jack must have a few screws loose to think that was a good idea."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I better tell Santa, since I can't get into the bakery from here...."
+                },
+                {
+                  "speaker": "Worried Baker",
+                  "text": "Please hurry, we need to restart production as soon as possible."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Worried Baker before going back to Santa",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Worried Baker",
+                  "text": "Have you managed to free the other bakers and stop Jack Frost yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, I'm still working on it."
+                },
+                {
+                  "speaker": "Worried Baker",
+                  "text": "Hurry we need to get back into production, before it's too late."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

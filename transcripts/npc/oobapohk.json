@@ -1,0 +1,55 @@
+{
+  "ref": "oobapohk",
+  "categoryRef": "npc",
+  "title": "Oobapohk",
+  "sections": [
+    {
+      "title": "Standard dialogue before Monkey Madness II",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "May I browse your store?"
+            },
+            {
+              "speaker": "Oobapohk",
+              "text": "Sorry, I'm currently out of javelins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after Monkey Madness II",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Oobapohk",
+              "text": "Would you like to buy or sell any javelins?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could you sell me some dragon javelins?"
+            },
+            {
+              "speaker": "Oobapohk",
+              "text": "Dragon javelins? Haha, you'll be a chief advisor to the King before you ever hold a dragon javelin!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

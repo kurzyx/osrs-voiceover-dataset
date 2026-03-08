@@ -1,0 +1,1219 @@
+{
+  "ref": "enlightened-journey",
+  "categoryRef": "quest",
+  "title": "Enlightened Journey",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Auguste",
+              "text": "Greetings!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you doing?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Ah, it's a secret I'm afraid."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Greetings! Would you like to be my number one accomplice? I mean, assistant?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I am Auguste. I am going to be the first balloonist in all of Gielinor!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Balloo-what? I thought only monks lived on Entrana."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Well, they do... I was a monk. But I'm so sick of living on this island! I want to explore new frontiers!"
+            },
+            {
+              "speaker": "Player",
+              "text": "And go where no man has gone before?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Maybe! That sounds good. I was thinking just over to Taverley, though."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why not take the boat then?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Ugh! Ocean! Don't talk to me about the ocean...oh dear...I feel ill."
+            },
+            {
+              "speaker": "Player",
+              "text": "Whoa, ok, no ocean. How exactly are you going to get off the island, then?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I have devised a new way to travel. But I need an assistant balloonist to help me build my design."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Are you an experienced adventurer willing to help me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Sign me up."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Wonderful! Let's get started."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wait, I still don't know exactly what we're doing."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Of course, of course, how foolish of me. Well, we are going to make a balloon."
+            },
+            {
+              "speaker": "Player",
+              "text": "Which is what exactly?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Let me show you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't think so."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Oh, never mind then."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Auguste a second time",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "How exactly do you plan to get to Taverley in that? How will it work?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Have you noticed how ashes float above fires for long periods of time?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's your point?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Don't you see? It's the hot air! It rises, taking the ashes with it."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I had this epiphany while I was at the glass blower's house. If we pump hot air into an envelope it will rise because it is lighter than the cold air around it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Come again?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "We are going to sew a big sack and light a fire under it. Once the sack fills with hot air it will begin to rise, taking us along with it in the basket."
+            },
+            {
+              "speaker": "Player",
+              "text": "You seem pretty confident about this. Have you tested it?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Well, no. You see, I don't have the materials here to make any test balloons."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "That's where you come in!"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You are going to collect materials for two test runs of the balloon."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You will need to get three sheets of papyrus, one ball of wool, one full sack of potatoes, and one unlit candle."
+            },
+            {
+              "speaker": "Player",
+              "text": "What am I supposed to do with all of that junk?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "When you have all of it, bring it to me and I'll explain what to do next. Any questions?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Where do I get all this stuff?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You're the adventurer, you should know! Think of logical places, like, churches; they have tons of candles."
+            },
+            {
+              "speaker": "Player",
+              "text": "Err, no. I can't see that kind of detail."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You don't? Oh...well...it's just, they rise, you know, from the fire...Maybe you should pay more attention to things!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's your point?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Returning to Auguste",
+      "sections": [
+        {
+          "title": "Talking to Auguste with the required materials before making an origami balloon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How do you make the origami balloon?"
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "First, use the papyrus on the ball of wool. The papyrus is folded into an origami box and the yarn will support the heat source."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "Next, add the unlit candle to the balloon structure. It will act as the heat source."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "Once you have done that let me know and we will begin our experiment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Auguste after losing the required materials before finishing origami balloon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Auguste",
+              "text": "Have you gotten the materials?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Good, you have everything! Now, I need you to create an origami balloon."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do you make the origami balloon?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "First, use the papyrus on the ball of wool. The papyrus is folded into an origami box and the yarn will support the heat source."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Next, add the unlit candle to the balloon structure. It will act as the heat source."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Once you have done that let me know and we will begin our experiment."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "What am I supposed to do with a note? I can't make a balloon from notes!"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You don't seem to have any of the materials."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need a ball of wool, three sheets of papyrus, an unlit candle, and a full sack of potatoes."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need more papyrus."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need a ball of wool."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need more papyrus and a ball of wool."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need an unlit candle."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need papyrus and an unlit candle."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need a full sack of potatoes."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need more papyrus and a full sack of potatoes."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need a ball of wool and an unlit candle."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need papyrus and an unlit candle."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need a ball of wool and a full sack of potatoes."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need more papyrus and a full sack of potatoes."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need more papyrus, a full sack of potatoes, and an unlit candle."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need an unlit candle and a full sack of potatoes."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need a ball of wool, an unlit candle, and papyrus."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need a ball of wool, papyrus, and a full sack of potatoes."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need more papyrus, a full sack of potatoes, and an unlit candle."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need a ball of wool, an unlit candle, and a full sack of potatoes."
+            },
+            {
+              "speaker": "Player",
+              "text": "No."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Failure is not an option."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do I need to get again?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Making the origami balloon",
+      "sections": [
+        {
+          "title": "Using papyrus on the ball of wool",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using the unlit candle on the balloon structure",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Giving Auguste a dyed origami balloon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Auguste",
+                  "text": "I just need a plain origami balloon. The dye could contaminate the experiment."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Showing Auguste the finished origami balloon",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I finished the origami balloon!"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Wonderful! I'll take that, and we'll conduct our first experiment."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "That was perfect. My hypothesis was right!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Did you not see the burning?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "One more test. Then we shall proceed."
+            },
+            {
+              "speaker": "Player",
+              "text": "Burning? Fire? Hello?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "We shall meekly go! No...no...it needs to sound grander. We shall cautiously go..."
+            },
+            {
+              "speaker": "Player",
+              "text": "We're doomed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Second experiment",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Auguste",
+              "text": "Do you have the other two sheets of papyrus and a full sack of potatoes?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I have them here."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Commendable. If I may have those, I will construct this experiment."
+            },
+            {
+              "speaker": "Moe",
+              "text": "Destroy the floating thing!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, that went down like a lead balloon."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need a full sack of potatoes and more papyrus."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need a full sack of potatoes."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need more papyrus."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, I've misplaced them."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Failure is not an option."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to him after the second experiment",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Those peasants...where did they come from?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Ahh, the flash mob phenomenon. Many have hypothesized that they are beings of great power sent to smite those who question the gods."
+            },
+            {
+              "speaker": "Player",
+              "text": "And this isn't worrying because...?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Don't worry! I know exactly what I'm doing."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Those experiments went extraordinarily well."
+            },
+            {
+              "speaker": "Player",
+              "text": "Was I the ONLY one who saw them burning? BURNING???"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Yes, very well indeed. Now we will start building the balloon that will carry us off the island."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "This task will be much greater than the last two. I hope you are prepared for it."
+            },
+            {
+              "speaker": "Player",
+              "text": "This is madness."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need to get the following items:"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Yellow dye Red dye Ten pieces of silk A clay bowl"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "and eight sandbags."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Sandbags can be made by getting empty sacks and filling them at the sand pit here on Entrana."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "However, there are other sand pits around the world that will work as well; there is one in Yanille, Rellekka, and Zanaris."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You can bring items back to me as you get them, while you are waiting for the tree to grow."
+            },
+            {
+              "speaker": "Player",
+              "text": "What tree?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I am going to give you a willow sapling and a basket of apples. You must plant the willow sapling at a tree patch."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "If you give the basket of apples to the gardener near the patch, he will look after the tree for you while it grows."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Don't lose the sapling! It took me a long time to save up enough for one. If you do, you'll have to pay me 30,000 coins for a new one."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Once the tree is fully grown, cut twelve branches from it using secateurs. Bring the branches back here and use them on the metal frame on the platform to create the basket."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Here you go. Now be very careful not to lose it!"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Looks like you don't have enough room in your inventory for the basket and the sapling. Come back when you do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Preparing for the expedition",
+      "sections": [
+        {
+          "title": "Talking to him before planting his sapling but after delivering all the required materials",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Planting the sapling",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after planting his sapling",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Auguste",
+                  "text": "Do you have anything for me?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after planting his sapling and handing in all the ingredients",
+          "sections": [
+            {
+              "title": "Using a willow branch on Auguste",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Auguste",
+                      "text": "You need to use that on the balloon frame on the platform."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using a willow branch on the basket frame with less than 12 of them",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Auguste",
+                  "text": "You just need to build the basket and I can finish the balloon! How are you getting on with the willow?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Auguste",
+              "text": "Do you have anything for me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I want to give you some items."
+            },
+            {
+              "speaker": "Player",
+              "text": "Here's the dye."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Ah, wonderful, yellow dye. Thank you."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Red dye! Thank you."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "That's the last of it!"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You just need to build the basket and I can finish the balloon! How are you getting on with the willow?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Use the willow sapling I gave you to grow a willow tree. Cut twelve branches from it using secateurs. Use the branches on the platform here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Fine thanks."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Ah, wonderful, yellow dye. Thank you."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I still need red dye for the balloon."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Red dye! Thank you."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I still need yellow dye for the balloon."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You don't have any dye with you."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I need red and yellow dye for the balloon."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You don't have any dye with you."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I need red dye for the balloon."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You don't have any dye with you."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I need yellow dye for the balloon."
+            },
+            {
+              "speaker": "Player",
+              "text": "Here are the sandbags."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Sandbags, thank you. This will allow us to change height."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You don't have enough sandbags. Please bring me eight."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Sandbags can be made by getting empty sacks and filling them at the sand pit here on Entrana."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "However, there are other sand pits around the world that will work as well."
+            },
+            {
+              "speaker": "Player",
+              "text": "Here's the silk."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "What am I supposed to do with a note?? I can't make a balloon from notes!"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Silk for the balloon, thank you."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You don't have enough silk. Please bring me ten pieces."
+            },
+            {
+              "speaker": "Player",
+              "text": "Here's the bowl."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "What am I supposed to do with a note?? I can't make a balloon from notes!"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need to fire that bowl."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Ah the bowl. This will be used to hold the fuel while it heats the air in the balloon."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I need a plain clay-fired bowl; they're quite easy to come by."
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm having some trouble finding some of the items."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "What do you need help with?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I was told a while ago that there was a witch who made dye in Draynor Village. Maybe you should start by looking there."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Sandbags can be made by getting empty sacks and filling them at the sand pit here on Entrana."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "However, there are other sand pits around the world that will work as well; there is one in Yanille, Rellekka, and Zanaris."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Hmm, I believe silk is imported from the desert. Perhaps someone there can tell you where to find it."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I think there is a spare one in the glass blower's house. I rent a room from him there, so I don't think he'll mind you taking it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have lost my willow sapling. Can I buy a replacement?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "It will cost you 30,000 gold coins to replace it, do you want to pay that?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You already have one! Don't be greedy."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You already have one in your bank! Don't be greedy."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You don't have enough money for it. You should have been more careful."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Looks like you don't have enough room in your inventory. Come back when you do."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Here you go. Now be very careful not to lose it again!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No way!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Making the basket frame",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Auguste",
+              "text": "Great! Let me just put it all together and we'll be ready for lift off! Speak to me again in a moment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Getting ready for first flight",
+      "sections": [
+        {
+          "title": "Failing on the first stage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Failing on the second stage",
+          "sections": [
+            {
+              "title": "Using the plank to return to land",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Auguste",
+                  "text": "Great Scott! Ocean! Ahhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened?"
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "Crashed, off course. Ocean! Oh dear... I feel very..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Contemplative? Concerned for your life? Desperate?"
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "No...more along the lines of ill...You might want to swim away now. Use the plank..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How are you going to get back? What about the balloon?"
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "I'm sure a fishing trawler will come by and give me a lift. Don't worry, I shall return."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Failing on the final stage",
+          "sections": [
+            {
+              "title": "Leaving the crash site",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "The crash must have really sent us off course; I'm near Falador!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Auguste",
+                  "text": "Well, that didn't go as planned."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what now? How will we get the balloon back?"
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "I'll have to get one of the monks to come pick it up. You head back on your own; just follow the path. I'll meet you back at Entrana."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Auguste",
+              "text": "Well, let's get going!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Wait; tell me what we're doing."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Theoretically, we are ready for the maiden voyage."
+            },
+            {
+              "speaker": "Player",
+              "text": "Theoretically?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Well, of course. With you piloting I am sure we will survive."
+            },
+            {
+              "speaker": "Player",
+              "text": "WHAT!? This is your balloon! Why aren't you going to pilot it? And what do you mean 'survive'? You never said anything about me flying this bird!"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Don't be silly. I'm not going to pilot it. We will be safe in the basket, the only thing we will lose are the logs."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You will pilot it, won't you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Fine, I will. So how do I control the balloon?"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Wonderful! Let me explain my hypothesis on how to control a balloon."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh no, not another hypothesis!"
+            },
+            {
+              "speaker": "Auguste",
+              "text": "The balloon needs ten normal logs for fuel. I believe the balloon will be controlled based on weight, so you must not have more than 40 kg with you."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Also, I seem to have lost my tinderbox...do you think you could bring one? We need it to light the fire."
+            },
+            {
+              "speaker": "Player",
+              "text": "And here, I thought all the legwork was done. Fine, I'll bring a tinderbox."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Right! So, the balloon mechanics. Your prime direction will always be to land the balloon on the target at the end of our route."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I've written to some friends in Taverley who have kindly painted one on the ground there."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "We must avoid everything, because the balloon is very fragile. Even clouds will be dangerous! But if my calculations are correct, we will be able to squeeze through some surprising spaces, if you pilot it well."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Those sandbags you made earlier will give the balloon a big lift when dropped, whereas adding the logs will only make it rise a little bit. But don't use them up too quickly! We have no way of replenishing them."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "If you do run out of logs and sandbags you will not be able to go up any longer. Just make the best of it and hope we can make it to our destination without going upwards."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "I've added two ropes, the red one is an emergency rope, it will let the hot air out of the balloon and we will drop quickly. The other rope will only drop us a little."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "If we get into tribb...beg your pardon, trouble, in all likelihood we will crash. But do not fear! We should be fine. Just make sure you come back to Entrana so we can try again."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "If it all goes horribly wrong, you can always bail. If we're still over Entrana, we can land quickly and try again. However, once past the island, we will crash."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "Are you ready to go?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay."
+            },
+            {
+              "speaker": "Player",
+              "text": "No way!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need to put your pet into your inventory before the flight."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You have too much weight in your bag. You may only bring 40kg of weight."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You need a tinderbox."
+            },
+            {
+              "speaker": "Auguste",
+              "text": "You don't have enough logs. You need ten normal logs."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm not ready."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Landing in Taverley",
+      "sections": [
+        {
+          "title": "Talking to Auguste",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Auguste",
+                  "text": "We have travelled in a way that no man has travelled before! The next step will be to go where no men have gone before."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "[player name], it has been a privilege flying with you."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "For all your hard work, I give you this jacket and cap for future ballooning adventures."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "You don't have enough space in your inventory. Speak to me again when you do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Auguste again before he is replaced with Assistant Stan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So what are you going to do now?"
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "I am considering starting a balloon enterprise. People all over Gielinor will be able to travel in a new, exciting way."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "As my first assistant, you will always be welcome to use a balloon. You'll have to bring your own fuel, though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "I will base my operations in Entrana. If you'd like to travel to new places, come see me there."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "Do you want to use the balloon? Just so you know, some locations require special logs and high Firemaking skills."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "Weapons are not allowed on Entrana. I must search you first."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "I'm sorry, no weapons or armour may be worn to Entrana. Come back when you have laid them down."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could you tell me how to make an origami balloon?"
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "First, use the papyrus on the ball of wool. The papyrus is folded into an origami box and the yarn will support the heat source."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "Next, add the unlit candle to the balloon structure. It will act as the heat source."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "Now you have an origami balloon!"
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "If you use your origami balloon with any dye, you can change the colour."
+                },
+                {
+                  "speaker": "Auguste",
+                  "text": "You can release the balloon and watch it float in the air, just use a tinderbox on it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

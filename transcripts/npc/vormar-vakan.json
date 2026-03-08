@@ -1,0 +1,80 @@
+{
+  "ref": "vormar-vakan",
+  "categoryRef": "npc",
+  "title": "Vormar Vakan",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vormar Vakan",
+                  "text": "Human! Get back to the slave pens before I call the guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What are you drinking?"
+            },
+            {
+              "speaker": "Vormar Vakan",
+              "text": "Blood!"
+            },
+            {
+              "speaker": "Player",
+              "text": "How are you getting drunk on blood?"
+            },
+            {
+              "speaker": "Vormar Vakan",
+              "text": "They keep some of the tithes drunk all the time and then take it from them."
+            },
+            {
+              "speaker": "Player",
+              "text": "How very creative."
+            },
+            {
+              "speaker": "Vormar Vakan",
+              "text": "I know right! Bloody brilliant!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Vormar Vakan",
+              "text": "I'll have a pint please."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't work here."
+            },
+            {
+              "speaker": "Vormar Vakan",
+              "text": "Sure you do!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I really don't."
+            },
+            {
+              "speaker": "Vormar Vakan",
+              "text": "Well clear off then."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

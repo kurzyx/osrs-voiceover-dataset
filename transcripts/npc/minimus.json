@@ -1,0 +1,408 @@
+{
+  "ref": "minimus",
+  "categoryRef": "npc",
+  "title": "Minimus",
+  "sections": [
+    {
+      "title": "Attempting to enter the arena before talking to Minimus",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Minimus",
+              "text": "Oi! Where d'you think you're going? Come and speak to me before you go wondering through there. You'll get yourself killed!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to use the bank chest without enough Glory",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Minimus",
+              "text": "Oi, get yer hands off that! It's reserved for survivors of the Colosseum."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "First time dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Welcome, Rookie."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "This place...? Why, This is the great Fortis Colosseum!"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Adventurers come from near and far to test their might within these walls."
+            },
+            {
+              "speaker": "Player",
+              "text": "That sounds exciting!"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Indeed it is. If you are victorious in the Colosseum, the whole of Varlamore shall hear of your name."
+            },
+            {
+              "speaker": "Player",
+              "text": "I imagine its quite the challenge then?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "It'll put your skills to the test alright."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I participate?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Just head through that tunnel behind me and we'll get the show started! Make sure you've got everything you need. Once you're in you can't leave until the end of a wave!"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Come and ask if you have any other questions."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you tell me about modifiers?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Yes! After all, they were my idea..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh..."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Every time you complete a wave, I'll offer you a choice of three modifiers."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Each modifier will increase the challenge for the rest of the run - So choose wisely!"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Some modifiers can be offered multiple times, with the effects then growing in power!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks for the heads up!"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Was there anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I get rewarded?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Well it's a bit different to just killing monsters and picking up items, as I'm sure you're used to..."
+            },
+            {
+              "speaker": "Player",
+              "text": "How so?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "After each wave inside the Colosseum, I'll show you the rewards you have earned, as well as what you'll earn from the next wave..."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "If you aren't confident that you can complete the next wave, you can claim your existing rewards and exit early."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "However, if you're confident you can beat the next wave, you can risk your whole reward pile to get even more!"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Be careful though. If you die or leave the arena before claiming your loot from me, you will lose all of the rewards you've earned."
+            },
+            {
+              "speaker": "Player",
+              "text": "So I'm guessing the higher the wave, the better the rewards?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Oh, you're good. Exactly that!"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Even better - if you manage to finish all of the waves and the final challenge, then you'll be awarded with Dizana's Quiver."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "It's a handy piece of kit that you wear on your back to store extra bolts or arrows."
+            },
+            {
+              "speaker": "Player",
+              "text": "That does sound handy! Thanks for explaining all of that."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Anytime, Rookie. Anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is Glory?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "It's the measure of your progress inside the Colosseum."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Speak to Gloria over there if you want to know the details."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do around here?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "I'm Minimus. It's not my real name of course, but it seems to have stuck. I started out competing here as a gladiator when I was a young'n. After that I became one of the lanistas."
+            },
+            {
+              "speaker": "Player",
+              "text": "Lanistas?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "The ones responsible for overseeing the selecting and training of the gladiators."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Eventually, the kingdom gave me the role of Colosseum Master. I still make sure to fit some fighting in, but now I have the honor of managing the fights themselves."
+            },
+            {
+              "speaker": "Player",
+              "text": "So are you not training like the rest of the gladiators?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "I have no need! I'm already one of the greatest fighters to grace this arena."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you at a disadvantage because of your height?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "No! How dare you even suggest that! Those spindly human bodies are unfit to go toe to toe with a fine dwarf like myself!"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Now, did you need anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Farewell, Rookie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Subsequent dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Welcome, [rank]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Upon entering the arena",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Minimus",
+              "text": "A [rank] approaches!"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Let me know when you want to begin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-Click Leave while inside the Fortis Colosseum",
+      "sections": [
+        {
+          "title": "Before wave 1",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After wave 1",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Minimus",
+                  "text": "Leaving now will forfeit your run, with you only being rewarded the items you have earned so far."
+                }
+              ]
+            },
+            {
+              "lines": [
+                {
+                  "speaker": "Minimus",
+                  "text": "It was a valiant effort, [rank]. I've popped all your earned rewards into that chest over there. You can retrieve them from it when ready."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "On second thoughts, I'd better stay."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Exchanging a quiver",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I have a spare Dizana's quiver (uncharged)."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "You want to offer it for some Sunfire splinters? I could also try to convince Smol Heredit to follow you."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "But be aware, you will not get the quiver back."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Very well, Grand Champion. Keep your trophy."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "It doesn't actually look like you have enough space to carry 4,000 Sunfire splinters. Come back when you have room."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Very well, Grand Champion. Keep your trophy."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "He doesn't want to go with you. Sorry."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "He seems to like you. Smol heredit is yours."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Very well, Grand Champion. Keep your trophy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exchanging a quiver after the player has received Smol Heredit",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I have a spare Dizana's quiver (uncharged)."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "You want to offer it for some Sunfire splinters?"
+            },
+            {
+              "speaker": "Minimus",
+              "text": "But be aware, you will not get the quiver back."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Very well, Grand Champion. Keep your trophy."
+            },
+            {
+              "speaker": "Minimus",
+              "text": "Very well, Grand Champion. Keep your trophy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to exchange a blessed Dizana's quiver",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Minimus",
+              "text": "I'm afraid you can only offer spare uncharged versions of the quiver to me."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

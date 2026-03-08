@@ -1,0 +1,87 @@
+{
+  "ref": "niles",
+  "categoryRef": "npc",
+  "title": "Niles",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Niles",
+              "text": "Thank you, I hope you like your present. I must be leaving now though."
+            },
+            {
+              "speaker": "Niles",
+              "text": "Sorry, that's just not the right answer!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wrong player dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Niles",
+              "text": "Sorry, but I'm trying to talk to [targeted player name], but [he/she] seems to be ignoring me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player is in a zone where the random event isn't allowed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Niles",
+              "text": "I must be leaving now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Niles",
+              "text": "Greetings [player name], I need your help."
+            },
+            {
+              "speaker": "Niles",
+              "text": "Talk to me, [player name]!"
+            },
+            {
+              "speaker": "Niles",
+              "text": "Hello, [player name], are you there?"
+            },
+            {
+              "speaker": "Niles",
+              "text": "I'd like to talk to you, [player name]!"
+            },
+            {
+              "speaker": "Niles",
+              "text": "ehem... Hello [player name], please talk to me!"
+            },
+            {
+              "speaker": "Niles",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

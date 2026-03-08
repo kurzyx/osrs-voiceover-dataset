@@ -1,0 +1,63 @@
+{
+  "ref": "franklin-caranos",
+  "categoryRef": "npc",
+  "title": "Franklin Caranos",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Franklin Caranos",
+              "text": "Hello again, [player name]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello. How's the repair work going?"
+            },
+            {
+              "speaker": "Franklin Caranos",
+              "text": "I'm working on it. I can always do with more iron sheets, so if you've got any more, I'll give you 20 gp per sheet."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, I'll remember that."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "With one or more iron sheets in inventory",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Franklin Caranos",
+              "text": "Hello again, [player name]. Were you wanting to sell me that iron sheet? I'd give you 20 gp for it."
+            },
+            {
+              "speaker": "Franklin Caranos",
+              "text": "Hello again, [player name]. Were you wanting to sell me those iron sheets? I'd give you [amount] gp."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, that'll do nicely."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'd rather not."
+            },
+            {
+              "speaker": "Franklin Caranos",
+              "text": "That's ok."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

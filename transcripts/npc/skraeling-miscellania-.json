@@ -1,0 +1,121 @@
+{
+  "ref": "skraeling-miscellania-",
+  "categoryRef": "npc",
+  "title": "Skraeling (Miscellania)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Skraeling",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Skraeling",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When failing to steal from a nearby stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Skraeling",
+                  "text": "Hey! Get your hands off there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When attacking the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Skraeling",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Skraeling",
+                  "text": "Rahr!"
+                },
+                {
+                  "speaker": "Skraeling",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Skraeling",
+                  "text": "Grr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Skraeling",
+                  "text": "Aargh!"
+                },
+                {
+                  "speaker": "Skraeling",
+                  "text": "I'm a gonner!"
+                },
+                {
+                  "speaker": "Skraeling",
+                  "text": "It's no use, I'm done for!"
+                },
+                {
+                  "speaker": "Skraeling",
+                  "text": "Uggh!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

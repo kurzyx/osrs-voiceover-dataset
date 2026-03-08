@@ -1,0 +1,85 @@
+{
+  "ref": "shop-keeper-varrock-swordshop-",
+  "categoryRef": "npc",
+  "title": "Shop keeper (Varrock Swordshop)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shop keeper",
+              "text": "Hello, bold adventurer! Can I interest you in some swords?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm okay for swords right now."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "Come back if you need any."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Redeeming combat adventure path rewards in free-to-play",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shop keeper",
+              "text": "Hello, bold adventurer! Can I interest you in some swords?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I have this voucher for completing the combat Adventure Path, it says to come talk to you about claiming my Adventure Path reward."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "I do, but you need to be on a members world for me to give you the reward. Maybe there is something else I can help you with."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Redeeming combat adventure path rewards in members",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shop keeper",
+              "text": "Hello, bold adventurer! Can I interest you in some swords?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I have this voucher for completing the combat Adventure Path, it says to come talk to you about claiming my Adventure Path reward."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "I will be able to give you your reward when you have some space for it."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "Can I help you with anything else?"
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "Why yes, here is one of our finest swords."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "I also sell other weapons if you are interested."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

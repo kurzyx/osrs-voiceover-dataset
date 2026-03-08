@@ -1,0 +1,33 @@
+{
+  "ref": "helpline-assistant",
+  "categoryRef": "npc",
+  "title": "Helpline Assistant",
+  "sections": [
+    {
+      "title": "Contacting through NPC Contacts Random option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello?"
+            },
+            {
+              "speaker": "Helpline Assistant",
+              "text": "You have reached the Lunar Communication Helpline. I'm sorry we can't answer your telekinetic question right now. Our opening times are carefully organised to coincide with you being busy. If you are having an"
+            },
+            {
+              "speaker": "Helpline Assistant",
+              "text": "emergency, you have our most profound apologies. Have a nice day. Good bye."
+            },
+            {
+              "speaker": "Player",
+              "text": "Typical."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

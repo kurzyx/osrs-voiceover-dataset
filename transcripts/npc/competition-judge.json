@@ -1,0 +1,142 @@
+{
+  "ref": "competition-judge",
+  "categoryRef": "npc",
+  "title": "Competition Judge",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Competition Judge",
+                  "text": "Hello again, do you need reminding of the rules?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Competition Judge",
+                  "text": "The rules are very simple:"
+                },
+                {
+                  "speaker": "Competition Judge",
+                  "text": "You're given 10 shots at the targets, for each hit you will receive points. At the end you'll be awarded 1 ticket for every 10 points."
+                },
+                {
+                  "speaker": "Competition Judge",
+                  "text": "The tickets can be exchanged for goods from our stores. Good luck!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I've got it."
+                },
+                {
+                  "speaker": "Competition Judge",
+                  "text": "Glad to hear it, good luck!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How am I doing so far?"
+                },
+                {
+                  "speaker": "Competition Judge",
+                  "text": "So far your score is: 0. You haven't started yet."
+                },
+                {
+                  "speaker": "Competition Judge",
+                  "text": "So far your score is: [number]. Not bad, keep going."
+                },
+                {
+                  "speaker": "Competition Judge",
+                  "text": "So far your score is: [number]. You're pretty good, keep it up."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Finishing a game",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Competition Judge",
+                  "text": "Well done. Your score is: [number]. For that score you will receive [number] Archery tickets. Would you like to try again for another 200 coins?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure, I'll give it a go."
+                },
+                {
+                  "speaker": "Competition Judge",
+                  "text": "Great! That will be 200 coins then please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I haven't got the money."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Competition Judge",
+              "text": "Hello there, would you like to take part in the archery competition? It only costs 200 coins to enter."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, I'll give it a go."
+            },
+            {
+              "speaker": "Competition Judge",
+              "text": "Great! That will be 200 coins then please."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oops, I don't have enough coins on me..."
+            },
+            {
+              "speaker": "Competition Judge",
+              "text": "Never mind, come back when you've got enough."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are the rules?"
+            },
+            {
+              "speaker": "Competition Judge",
+              "text": "The rules are very simple:"
+            },
+            {
+              "speaker": "Competition Judge",
+              "text": "You're given 10 shots at the targets, for each hit you will receive points. At the end you'll be awarded 1 ticket for every 10 points."
+            },
+            {
+              "speaker": "Competition Judge",
+              "text": "The tickets can be exchanged for goods from our stores. Do you want to give it a go? Only 200 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

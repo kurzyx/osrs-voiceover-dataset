@@ -1,0 +1,48 @@
+{
+  "ref": "gem-merchant-civitas-illa-fortis-",
+  "categoryRef": "npc",
+  "title": "Gem Merchant (Civitas illa Fortis)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has recently stolen from their stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gem Merchant",
+                  "text": "You're the one who stole from me! Guards! Guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gem Merchant",
+              "text": "Gems! Get your gems here!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's trade."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm good, thanks."
+            },
+            {
+              "speaker": "Gem Merchant",
+              "text": "Then move along please!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

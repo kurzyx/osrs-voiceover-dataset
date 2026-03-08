@@ -1,0 +1,64 @@
+{
+  "ref": "captain-rimor",
+  "categoryRef": "npc",
+  "title": "Captain Rimor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Claim-cape",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I have a cape like yours?"
+                },
+                {
+                  "speaker": "Captain Rimor",
+                  "text": "Of course, you have earned it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Captain Rimor",
+              "text": "Beware the Chambers of Xeric, adventurer."
+            },
+            {
+              "speaker": "Captain Rimor",
+              "text": "These dungeons and the perils within them are unique. You will encounter both dangerous and mysterious creatures here."
+            },
+            {
+              "speaker": "Captain Rimor",
+              "text": "Remember that you may be kicked out at any time - any items dropped on the ground will be lost inside."
+            },
+            {
+              "speaker": "Captain Rimor",
+              "text": "Do not allow your curiosity to get the better of you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks for the warning."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

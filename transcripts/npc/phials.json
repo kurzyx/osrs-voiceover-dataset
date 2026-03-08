@@ -1,0 +1,53 @@
+{
+  "ref": "phials",
+  "categoryRef": "npc",
+  "title": "Phials",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Phials",
+              "text": "Hello. Do you wish me to exchange banknotes for you? I charge only 5 coins for each banknote."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Phials",
+              "text": "Hand me the banknotes you wish me to exchange."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Phials",
+              "text": "I am Phials. I can exchange banknotes for real items. Do you want any banknotes converted?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Phials",
+              "text": "Hand me the banknotes you wish me to exchange."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

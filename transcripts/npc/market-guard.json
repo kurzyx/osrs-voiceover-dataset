@@ -1,0 +1,27 @@
+{
+  "ref": "market-guard",
+  "categoryRef": "npc",
+  "title": "Market Guard",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Catching players attempting to steal from stalls in Rellekka",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Market Guard",
+                  "text": "Hey! Get your hands off there!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "ref": "new-recruit-tony",
+  "categoryRef": "npc",
+  "title": "New Recruit Tony",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "New Recruit Tony",
+              "text": "No, no, no! I won't get back to training. Leave me alone!"
+            },
+            {
+              "speaker": "New Recruit Tony",
+              "text": "Oh, you're not the drill sergeant. Please don't tell her I'm hiding over here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are you hiding?"
+            },
+            {
+              "speaker": "New Recruit Tony",
+              "text": "When I was growing up, all I ever wanted to be was a fisherman. I wanted to go and live in Port Piscarilius and sail the vast oceans."
+            },
+            {
+              "speaker": "New Recruit Tony",
+              "text": "My parents though... they hate the people of Piscarilius. They said I had to become a soldier and bring honour to Shayzien."
+            },
+            {
+              "speaker": "New Recruit Tony",
+              "text": "I just can't handle it though. The training is too intense, and my heart's just not in it. That's why I'm out here. I'm not going back until the drill sergeant finishes her session."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's awful! If I were you, I wouldn't let my dreams stay as dreams. You should go to Port Piscarilius and be the fisherman you always wanted to be!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Besides, otherwise you're probably going to be waiting an awfully long time for that drill sergeant to be done..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm going to have to tell the sergeant about this."
+            },
+            {
+              "speaker": "Player",
+              "text": "All the other soldiers are out there doing their best to train so that they're ready to protect and serve all of Great Kourend! Yet here you are, just wandering around."
+            },
+            {
+              "speaker": "New Recruit Tony",
+              "text": "Please, please! I'll do anything. Please don't tell the sergeant! I'll be the laughing stock of the whole kingdom."
+            },
+            {
+              "speaker": "Player",
+              "text": "Anything? Hmm... how about 2,147,483,647 coins?"
+            },
+            {
+              "speaker": "New Recruit Tony",
+              "text": "I don't have that much! I'll give you all I can for you to keep quiet. How is one gold coin?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ha! I was just kidding. You can keep your money and I'll keep your secret to myself. See you around."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [
+            {
+              "title": "With inventory space available",
+              "sections": [
+                {
+                  "title": "Talking again",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "New Recruit Tony",
+                          "text": "That doesn't look solved to me."
+                        },
+                        {
+                          "speaker": "New Recruit Tony",
+                          "text": "Well done [player name]. Here you go."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "New Recruit Tony",
+                      "text": "Here, solve this."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "With no inventory space",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "New Recruit Tony",
+                      "text": "Please make yourself some space, I have something for you."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

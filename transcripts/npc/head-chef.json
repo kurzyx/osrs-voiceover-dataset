@@ -1,0 +1,175 @@
+{
+  "ref": "head-chef",
+  "categoryRef": "npc",
+  "title": "Head chef",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without 99 Cooking",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Head chef",
+                  "text": "Hello, welcome to the Cooking Guild. Only accomplished chefs and cooks are allowed in here. Feel free to use any of our facilities."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nice cape, you're wearing!"
+                },
+                {
+                  "speaker": "Head chef",
+                  "text": "Thank you! It's my most prized possession, it's a Skillcape of Cooking; it shows that I've achieved level 99 Cooking and am one of the best chefs in the land!"
+                },
+                {
+                  "speaker": "Head chef",
+                  "text": "If you ever achieve level 99 cooking you'll get to wear one too and doing so means you'll never burn any food!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, bye."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With 99 Cooking",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Head chef",
+                  "text": "Hello, welcome to the Cooking Guild. It's always great to have such an accomplished chef visit us. Say, would you be interested in a Skillcape of Cooking? They're only available to master chefs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Head chef",
+                  "text": "Okay, come back to me if you change your mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I buy a Skillcape of Cooking from you?"
+                },
+                {
+                  "speaker": "Head chef",
+                  "text": "Most certainly, by wearing this cape you'll never burn any food, I will have to ask for 99000 gold coins for such a privilege."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's much too expensive."
+                },
+                {
+                  "speaker": "Head chef",
+                  "text": "I'm sorry you feel that way."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But, unfortunately, I don't have enough money with me."
+                },
+                {
+                  "speaker": "Head chef",
+                  "text": "Well, come back and see me when you do."
+                },
+                {
+                  "speaker": "Head chef",
+                  "text": "Unfortunately all Skillcapes are only available with a free hood, it's part of a skill promotion deal; buy one get one free, you know. So you'll need to free up some inventory space before I can sell you one."
+                },
+                {
+                  "speaker": "Head chef",
+                  "text": "Now you can use the title Master Chef."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I buy a Skillcape of Cooking from you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "May I have another hood for my cape, please?"
+                },
+                {
+                  "speaker": "Head chef",
+                  "text": "Most certainly, and free of charge!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to open the door without a chef's hat, a skillcape of Cooking, or Varrock Armour 3+",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Head chef",
+                  "text": "You can't come in here unless you're wearing a chef's hat, or something like that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to open the door with below 32 Cooking and without a chef's hat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Head chef",
+                  "text": "Sorry. Only the finest chefs are allowed in here. Get your cooking level up to 32 and come back wearing a chef's hat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to open the door with below 32 Cooking with a chef's hat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Head chef",
+                  "text": "Sorry. Only the finest chefs are allowed in here. Get your cooking level up to 32."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Head chef",
+                  "text": "You have done well, [player name]!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

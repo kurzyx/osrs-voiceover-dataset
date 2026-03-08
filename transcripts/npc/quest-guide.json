@@ -1,0 +1,115 @@
+{
+  "ref": "quest-guide",
+  "categoryRef": "npc",
+  "title": "Quest Guide",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Quest Guide",
+              "text": "Ah. Welcome, adventurer. I'm here to tell you all about quests. Let's start by opening your quest list."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Before opening the quest menu",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Quest Guide",
+              "text": "Have you not opened that menu yet?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After opening the quest menu",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Quest Guide",
+              "text": "Now that you have the quest list open, you can see all the quests within it. Clicking one of these quests will display some more information on it."
+            },
+            {
+              "speaker": "Quest Guide",
+              "text": "If you haven't started the quest, it will tell you where to begin and what requirements you need. If the quest is in progress, it will remind you what to do next."
+            },
+            {
+              "speaker": "Quest Guide",
+              "text": "Clicking a quest in the journal will display some more information on it. If you haven't started the quest, it will tell you where to begin and what requirements you need."
+            },
+            {
+              "speaker": "Quest Guide",
+              "text": "It's very easy to find quest start points. Just look out for the quest icon on your minimap. You should see one marking this house."
+            },
+            {
+              "speaker": "Quest Guide",
+              "text": "The quests themselves can vary greatly from collecting beads to hunting down dragons. Completing quests will reward you with all sorts of things, such as new areas and better weapons!"
+            },
+            {
+              "speaker": "Quest Guide",
+              "text": "There's not a lot more I can tell you about questing. You have to experience the thrill of it yourself to fully understand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing required dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Quest Guide",
+              "text": "Would you like to hear about quests again?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes!"
+            },
+            {
+              "speaker": "Quest Guide",
+              "text": "Within your quest list, you'll unsurprisingly find a list of quests. Clicking one of these quests will display some more information on it."
+            },
+            {
+              "speaker": "Quest Guide",
+              "text": "If you haven't started the quest, it will tell you where to begin and what requirements you need. If the quest is in progress, it will remind you what to do next."
+            },
+            {
+              "speaker": "Quest Guide",
+              "text": "It's very easy to find quest start points. Just look out for the quest icon on your minimap. You should see one marking this house."
+            },
+            {
+              "speaker": "Quest Guide",
+              "text": "The quests themselves can vary greatly from collecting beads to hunting down dragons. Completing quests will reward you with all sorts of things, such as new areas and better weapons!"
+            },
+            {
+              "speaker": "Quest Guide",
+              "text": "There's not a lot more I can tell you about questing. You have to experience the thrill of it yourself to fully understand."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nope, I'm ready to move on!"
+            },
+            {
+              "speaker": "Quest Guide",
+              "text": "Okay then."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

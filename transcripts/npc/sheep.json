@@ -1,0 +1,27 @@
+{
+  "ref": "sheep",
+  "categoryRef": "npc",
+  "title": "Sheep",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Randomly or after being sheared",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sheep",
+                  "text": "Baa!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

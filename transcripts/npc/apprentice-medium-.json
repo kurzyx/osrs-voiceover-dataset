@@ -1,0 +1,294 @@
+{
+  "ref": "apprentice-medium-",
+  "categoryRef": "npc",
+  "title": "Apprentice (medium)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "When a piece of acceptable food is used on them",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Ah, so you want to give me some supplies, eh? Let me just open me backpack."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello!"
+            },
+            {
+              "speaker": "Apprentice (medium)",
+              "text": "Hello friend. I wish to slay evil and avail them of their loot! Take me to Burgh de Rott!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you prepared enough to fight the evil down there?"
+            },
+            {
+              "speaker": "Apprentice (medium)",
+              "text": "I think so? At least my heart knows courage and that should be sufficient for the meantime. I expect that when we get to Burgh de Rott, we'll be able to purchase suitable provisions."
+            },
+            {
+              "speaker": "Player",
+              "text": "But you do realise that the vampyres in Morytania are immune to everything except silver?"
+            },
+            {
+              "speaker": "Apprentice (medium)",
+              "text": "Er...well, I've not heard mention of that fact, but I have faith that Saradomin will provide the means to furnish me with suitable weapons when I reach Burgh de Rott."
+            },
+            {
+              "speaker": "Player",
+              "text": "And if we happen to run into some vampyres on the journey down there?"
+            },
+            {
+              "speaker": "Apprentice (medium)",
+              "text": "I trust that you will help us to avoid them. You are a guide after all, aren't you? Anyway, you look like you can handle yourself. I presume you've fought such creatures before and won? How hard can it be?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It can be pretty difficult, actually. But you're right, I'll be your guide so I should be able to handle the situation."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why do you want to go to Burgh de Rott?"
+            },
+            {
+              "speaker": "Apprentice (medium)",
+              "text": "I'm going down there to teach those vampyres a lesson or two. I've heard about the terrible conditions down there and I intend to put a stop to it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could you defend yourself if we met enemies on the route to Burgh de Rott?"
+            },
+            {
+              "speaker": "Apprentice (medium)",
+              "text": "Let's just say that I'm somewhat experienced and I'm happy to take on my fair share of enemies. You don't need to worry about that."
+            },
+            {
+              "speaker": "Player",
+              "text": "I can take you to Burgh de Rott."
+            },
+            {
+              "speaker": "Apprentice (medium)",
+              "text": "Hmmm, it seems that you have a follower. I think it may get lost on this journey if it's left to wander on its own. Let's leave when your follower is safe."
+            },
+            {
+              "speaker": "Apprentice (medium)",
+              "text": "Oh really? That would be great! I'll give you a small reward once we reach our destination."
+            },
+            {
+              "speaker": "Apprentice (medium)",
+              "text": "Ok, which route should we take?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Burgh de Rott Ramble dialogue",
+      "sections": [
+        {
+          "title": "Standard dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "This place is a bit grim. How can people live here?"
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Do you visit Burgh de Rott often? You seem to know the route well."
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "When are we going to get to Burgh de Rott?"
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "We don't have all day to stand around chatting; let's press on. I have loot to get."
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Oh, I hate this trip, but it's better than the opulet life styles forced on us adventurer types. I'd much rather be up to my eyes in mud and having a good fight!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "During combat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Can't you see I'm being attacked..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When a piece of acceptable food is used on them and they are not full health",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Thanks, I'll get this down my neck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bridge event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Blimey! Looks like we're going to have to go back to Paterdomus. We can't get over that bridge!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm sure we can find a way!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bog event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Well that's torn it... Looks like we can't get over this bog. We'll have to go back to Paterdomus."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm sure we can find a way!"
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Hey...that's great...you did a great job...I'll follow you."
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Whahay...that was great!"
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "But we really should be heading off now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "River event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Well that's torn it... Looks like we can't get over this bog. We'll have to go back to Paterdomus."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm sure we can find a way through!"
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "That's amazing! I'll have to do the same."
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Whahay! That was great! But we really should be heading off now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tentacle event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Wh...what are those bubbles?"
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "This is scary!"
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Ahhh, that would be a tentacle..."
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Ahhh, two tentacles!"
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "...three tentacles!"
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "I think I'm going to faint!"
+                },
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Blimey! Look at that beast! You're gonna have to sort that thing out on your own!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Finishing a trek",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Apprentice (medium)",
+                  "text": "Many thanks for getting me safely to the Burgh de Rott. Here's your reward."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

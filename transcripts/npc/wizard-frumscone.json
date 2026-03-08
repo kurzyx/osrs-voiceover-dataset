@@ -1,0 +1,48 @@
+{
+  "ref": "wizard-frumscone",
+  "categoryRef": "npc",
+  "title": "Wizard Frumscone",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Attempting to unlock the gate nearby him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wizard Frumscone",
+                  "text": "You can't attack the Zombies in the room, my Zombies are for magic target practice only and should be attacked from the other side of the fence."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wizard Frumscone",
+              "text": "Do you like my magic Zombies? Feel free to kill them, there's plenty more where these came from!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I spoke to the necromancer like you suggested..."
+            },
+            {
+              "speaker": "Wizard Frumscone",
+              "text": "Please - let's not talk about it. Distentor and Zavistic would get very annoyed if they found I'd sent you to a necromancer."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, fair enough."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

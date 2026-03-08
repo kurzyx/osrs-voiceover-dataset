@@ -1,0 +1,171 @@
+{
+  "ref": "rowdy-dwarf",
+  "categoryRef": "npc",
+  "title": "Rowdy dwarf",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Rowdy dwarf",
+              "text": "Get OUT of my WAY!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keldagrim tasks",
+      "sections": [
+        {
+          "title": "Getting an item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "Hey you! Human person thing! I've got a lil' task for you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can I do for you then?"
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "Oooo, I want ehm..."
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "What did I want again?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You tell me."
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "I want... [item]!"
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "What do you mean, what am I going to do with [item]? That's my business it is!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I didn't say anything..."
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "Good, good... now get me [item] within [15-20] minutes, and I'll have ehm... I don't know, I'll have something for you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stay away from me!"
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "Awww, you're just a worthless human, stop wasting my time!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him before acquiring the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "Got my ehm, ehm... got whatever I asked you to get yet, human?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, and I can't be bothered anymore."
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "Bah, you're just a no good lousy human."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, no, not yet..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What was it again anyway?"
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "Lemme think... ehm... yeah, I want you to get [item], no questions asked!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after failing to bring the request in time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "I ashked you a shimple thing... get me [item] within [15-20] minutes... how difficult could that have been?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah, uhm, sorry about that..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But look, I've got what you asked for right here!"
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "Not interested! If you can't even keep to a shingle time limit, what good are you then?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bringing him the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Look, I've got what you asked me to get!"
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "Did you now, did you? Ehm..."
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "What did I ask you to get again?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You wanted me to get [item], remember? Well, here you go!"
+                },
+                {
+                  "speaker": "Rowdy dwarf",
+                  "text": "Ooo, that'sh great! Let me get your reward... here, some coins for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

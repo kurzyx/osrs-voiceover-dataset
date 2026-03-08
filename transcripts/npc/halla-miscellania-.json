@@ -1,0 +1,107 @@
+{
+  "ref": "halla-miscellania-",
+  "categoryRef": "npc",
+  "title": "Halla (Miscellania)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Halla",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Halla",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacking the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Halla",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Halla",
+                  "text": "Rahr!"
+                },
+                {
+                  "speaker": "Halla",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Halla",
+                  "text": "Grr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Halla",
+                  "text": "Aargh!"
+                },
+                {
+                  "speaker": "Halla",
+                  "text": "I'm a gonner!"
+                },
+                {
+                  "speaker": "Halla",
+                  "text": "It's no use, I'm done for!"
+                },
+                {
+                  "speaker": "Halla",
+                  "text": "Uggh!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

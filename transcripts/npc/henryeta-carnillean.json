@@ -1,0 +1,84 @@
+{
+  "ref": "henryeta-carnillean",
+  "categoryRef": "npc",
+  "title": "Henryeta Carnillean",
+  "sections": [
+    {
+      "title": "Before Hazeel Cult",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Henryeta Carnillean",
+              "text": "Oh, hello. If you wish to look around the Carnillean family home, please refrain from touching anything with those grubby hands of yours."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hazeel Cult",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "After Hazeel Cult",
+      "sections": [
+        {
+          "title": "Sided with Carnillean",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Henryeta Carnillean",
+                  "text": "Hello again, adventurer. Since you dealt with those horrible cultists, things have vastly improved for us around here!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm happy to have helped."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sided with Hazeel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Henryeta Carnillean",
+                  "text": "Oh, it's you. I'm very disappointed that you never found those awful cultists. You're quite useless really, aren't you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yup, I guess I am."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

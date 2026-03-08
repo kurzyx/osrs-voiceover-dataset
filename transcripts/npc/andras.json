@@ -1,0 +1,200 @@
+{
+  "ref": "andras",
+  "categoryRef": "npc",
+  "title": "Andras",
+  "sections": [
+    {
+      "title": "Standard dialogue (Port Phasmatys)",
+      "sections": [
+        {
+          "title": "Before unlocking permanent access",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Andras",
+                  "text": "Hello there. Want to travel to Slepe? I charge 10,000 coins for the journey."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Andras",
+                  "text": "Doesn't look like you have enough money. I charge 10,000 coins for the journey."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where's Slepe?"
+                },
+                {
+                  "speaker": "Andras",
+                  "text": "It's a small village to the south of here. You can walk but the boat is safer and faster."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there anything to do there?"
+                },
+                {
+                  "speaker": "Andras",
+                  "text": "I guess that depends what interests you. The place is pretty quiet, though there's been rumours recently of a great evil making its home beneath the village."
+                },
+                {
+                  "speaker": "Andras",
+                  "text": "There's also Ver Sinhaza to the south, home to the Theatre of Blood. It's definitely worth having a look around, even if you don't intend to participate yourself."
+                },
+                {
+                  "speaker": "Andras",
+                  "text": "So, do you want to go to Slepe?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why is it so expensive?"
+                },
+                {
+                  "speaker": "Andras",
+                  "text": "Not many people want to visit this part of the world so I have to keep the price high. If I didn't I wouldn't be able to keep my boat maintained."
+                },
+                {
+                  "speaker": "Andras",
+                  "text": "So, do you want to go to Slepe?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll give you 1,000,000 coins for permanent access."
+                },
+                {
+                  "speaker": "Andras",
+                  "text": "1,000,000 coins! Are you serious?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No. I don't have that sort of money."
+                },
+                {
+                  "speaker": "Andras",
+                  "text": "Oh, I see. So, do you want to go to Slepe?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes. Here's 1,000,000 coins."
+                },
+                {
+                  "speaker": "Andras",
+                  "text": "Thank you so much. Now, do you want to go to Slepe?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No. That's too much for me to spend."
+                },
+                {
+                  "speaker": "Andras",
+                  "text": "Oh, I see. So, do you want to go to Slepe?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After unlocking permanent access",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Andras",
+                  "text": "Hello there. Want to travel to Slepe?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Standard dialogue (Slepe)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Andras",
+              "text": "Hello there. Want to return to Port Phasmatys?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is there anything to do around here?"
+            },
+            {
+              "speaker": "Andras",
+              "text": "Well you have Slepe just north of here. It's mostly a quiet place, though there's been rumours recently of a great evil making its home beneath the village."
+            },
+            {
+              "speaker": "Andras",
+              "text": "There's also Ver Sinhaza. You can find it south of here. There's a gap in the northern wall that you can get through."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's Ver Sinhaza?"
+            },
+            {
+              "speaker": "Andras",
+              "text": "It's a large vampyric castle, home to the Theatre of Blood. The vampyres claim that the Theatre is one of the greatest combat challenges around. Definitely worth a look even if you don't want to participate."
+            },
+            {
+              "speaker": "Andras",
+              "text": "Anyway, did you want to return to Port Phasmatys?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Travel option or using the boat to travel",
+      "sections": [
+        {
+          "title": "Port Phasmatys",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Andras",
+                  "text": "Doesn't look like you have enough money. I charge 10,000 coins for the journey."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Slepe",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

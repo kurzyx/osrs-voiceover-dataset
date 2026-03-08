@@ -1,0 +1,71 @@
+{
+  "ref": "clerk-hosidius-",
+  "categoryRef": "npc",
+  "title": "Clerk (Hosidius)",
+  "sections": [
+    {
+      "title": "Before 100% Hosidius favour",
+      "sections": [
+        {
+          "title": "If the player has sulphurous fertiliser",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clerk",
+                  "text": "The people of Hosidius require sulphurous fertiliser for the farms. I see you have [number] buckets here, and [number] more in the bank. We require [number] buckets."
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "Do you wish to donate your fertiliser? We'll take what we need directly from your bank."
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "Thank you very much."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, sorry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has no sulphurous fertiliser",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clerk",
+                  "text": "The people of Hosidius require sulphurous fertiliser for the farms. We currently require [number] buckets. Do come back if you every get any you'd be willing to donate."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "With 100% Hosidius favour",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Clerk",
+              "text": "If you were planning to bring any fertiliser for the stores, please try again later. The stores are very full at present."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's alright, I haven't brought any."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

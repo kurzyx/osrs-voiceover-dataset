@@ -1,0 +1,101 @@
+{
+  "ref": "skullball-boss",
+  "categoryRef": "npc",
+  "title": "Skullball Boss",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I think I'll give the Skullball Course a go."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are the instructions for using the skullball course?"
+            },
+            {
+              "speaker": "Skullball Boss",
+              "text": "The skullball comes out of one of these four spawnholes. Just kick the ball through the middle of each goal, through the skeleton's feet."
+            },
+            {
+              "speaker": "Skullball Boss",
+              "text": "There are 10 goals, which you must complete in order, and one final goal."
+            },
+            {
+              "speaker": "Skullball Boss",
+              "text": "An arrow will point to your ball, just in case lots of people are using the course at the same time as yourself."
+            },
+            {
+              "speaker": "Skullball Boss",
+              "text": "The better your time, the more agillity XP you will be awarded. The timer starts when you score your first goal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After starting the skullball course",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What are the instructions for using the skullball course?"
+            },
+            {
+              "speaker": "Skullball Boss",
+              "text": "The skullball comes out of one of these four spawnholes. Just kick the ball through the middle of each goal, through the skeleton's feet."
+            },
+            {
+              "speaker": "Skullball Boss",
+              "text": "There are 10 goals, which you must complete in order, and one final goal."
+            },
+            {
+              "speaker": "Skullball Boss",
+              "text": "An arrow will point to your ball, just in case lots of people are using the course at the same time as yourself."
+            },
+            {
+              "speaker": "Skullball Boss",
+              "text": "The better your time, the more agillity XP you will be awarded. The timer starts when you score your first goal."
+            },
+            {
+              "speaker": "Player",
+              "text": "I seem to have lost my ball - can I have another one?"
+            },
+            {
+              "speaker": "Skullball Boss",
+              "text": "No problem, here's another one. You'll have to start from the beginning again, but the timer will be restarted too."
+            },
+            {
+              "speaker": "Player",
+              "text": "I give up, I can't do it - take my ball away."
+            },
+            {
+              "speaker": "Skullball Boss",
+              "text": "Oh dear, such a defeatist."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When not wearing the ring of Charos",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Skullball Boss",
+              "text": "Grrr - you don't belong in here, human!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

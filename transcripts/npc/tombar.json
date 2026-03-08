@@ -1,0 +1,41 @@
+{
+  "ref": "tombar",
+  "categoryRef": "npc",
+  "title": "Tombar",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Say, aren't you a bit tall for a dwarf?"
+            },
+            {
+              "speaker": "Tombar",
+              "text": "Was there anything in particular you wanted?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like a quest please."
+            },
+            {
+              "speaker": "Tombar",
+              "text": "I have nothing to do for you, I'm afraid. Ask around town, though, there are always people who need some work done around here."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I just like talking to strangers."
+            },
+            {
+              "speaker": "Tombar",
+              "text": "Well I don't."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

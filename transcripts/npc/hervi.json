@@ -1,0 +1,201 @@
+{
+  "ref": "hervi",
+  "categoryRef": "npc",
+  "title": "Hervi",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hervi",
+              "text": "Greetings, human... can I interest you in some fine gems?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Show me the wares!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keldagrim tasks",
+      "sections": [
+        {
+          "title": "Getting an item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hervi",
+                  "text": "Hello! I've got a little quest for you, are you interested?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I love quests!"
+                },
+                {
+                  "speaker": "Hervi",
+                  "text": "That's the spirit! Now, what I need is [X] [item]. And I need them within [X]] minutes as well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not much of a quest, but I'll do it. Just [X] [item] in [X] minutes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, quests are dull and boring."
+                },
+                {
+                  "speaker": "Hervi",
+                  "text": "Don't be so dismissive, you didn't even hear what I wanted to ask you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't want to! I just want to kill things!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him before acquiring the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hervi",
+                  "text": "Are my [X] [item] arriving anytime soon?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not anytime soon. Or at all. I've given up on looking for them."
+                },
+                {
+                  "speaker": "Hervi",
+                  "text": "Couldn't you decide that in advance? You're certainly lacking in manners!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Soon, yes, I hope so."
+                },
+                {
+                  "speaker": "Hervi",
+                  "text": "Good, soon can't be soon enough for me!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after failing to bring the request in time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hervi",
+                  "text": "Time's up! And I don't have my [X] [item]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're right, I'm sorry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Handing in the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good news, I got you [X] [item]!"
+                },
+                {
+                  "speaker": "Hervi",
+                  "text": "And not a minute too late! Great!"
+                },
+                {
+                  "speaker": "Hervi",
+                  "text": "Do you want me to pay you in gold or would you prefer me to teach you a bit about how you can mine more efficiently?"
+                },
+                {
+                  "speaker": "Hervi",
+                  "text": "Do you want me to pay you in gold or would you like me to show you some smithing tricks?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like the gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please teach me that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Show me the gold!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Enlighten me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Catching the player trying to steal from his gem stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hervi",
+                  "text": "Hands off those gems!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with him after stealing from his gem stall recently",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hervi",
+                  "text": "You're the thief! Stop!"
+                },
+                {
+                  "speaker": "Hervi",
+                  "text": "Guards, get this filthy human!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

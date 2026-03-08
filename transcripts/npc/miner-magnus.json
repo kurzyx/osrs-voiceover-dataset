@@ -1,0 +1,155 @@
+{
+  "ref": "miner-magnus",
+  "categoryRef": "npc",
+  "title": "Miner Magnus",
+  "sections": [
+    {
+      "title": "Standard dialogue before Throne of Miscellania",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Miner Magnus",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good day. What are you doing?"
+            },
+            {
+              "speaker": "Miner Magnus",
+              "text": "I'm mining coal. It's pretty tough going."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good luck with that."
+            },
+            {
+              "speaker": "Miner Magnus",
+              "text": "Thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after Throne of Miscellania",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Miner Magnus",
+              "text": "Good day, Your Royal Highness."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good day. What are you doing?"
+            },
+            {
+              "speaker": "Miner Magnus",
+              "text": "I'm mining coal. It's pretty tough going."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good luck with that."
+            },
+            {
+              "speaker": "Miner Magnus",
+              "text": "Thank you, Your Royal Highness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Check-Approval",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can you tell me how the kingdom approves of me?"
+            },
+            {
+              "speaker": "Miner Magnus",
+              "text": "[amount]% of people approve of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the storerooms are full",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Miner Magnus",
+              "text": "The storerooms are full, your Highness. You should talk to Advisor Ghrim to collect what we've gathered for you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "When spoken to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Miner Magnus",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Miner Magnus",
+                      "text": "How can that be? Go check again!"
+                    },
+                    {
+                      "speaker": "Miner Magnus",
+                      "text": "Spot on!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Miner Magnus",
+                  "text": "Ah! Here you go!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Miner Magnus",
+                  "text": "I need you to answer this for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Royal Trouble",
+      "sections": [],
+      "dialogues": []
+    }
+  ]
+}

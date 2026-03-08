@@ -1,0 +1,60 @@
+{
+  "ref": "general-kilian",
+  "categoryRef": "npc",
+  "title": "General Kilian",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Attempting to climb up the war tent prior to 19 April 2018",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Kilian",
+                  "text": "Halt! Lord Shayzien does not wish to be disturbed."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "General Kilian",
+              "text": "What brings you here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Curiosity. What are you doing?"
+            },
+            {
+              "speaker": "General Kilian",
+              "text": "I'm just leafing through some designs, waiting for the others to decide what's needed. It's taking them a while, but there's sure to be some engineering involved in whatever they decide."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Just wandering around, really."
+            },
+            {
+              "speaker": "General Kilian",
+              "text": "You do realise this is a military installation, right? Tourists are generally not welcome."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, right."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

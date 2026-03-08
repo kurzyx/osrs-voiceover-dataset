@@ -1,0 +1,493 @@
+{
+  "ref": "alfred-grimhands-barcrawl",
+  "categoryRef": "miniquest",
+  "title": "Alfred Grimhand's Barcrawl",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "Talking to the barbarian guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Oi, whaddya want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to come through this gate."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Barbarians only. Are you a barbarian? You don't look like one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm, yep you've got me there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Looks can be deceiving, I am in fact a barbarian."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Are you, now? Free up some space so you can carry something, and we'll see how barbarian you really are."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "If you're a barbarian you need to be able to drink like one. We barbarians like a good drink."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "I have the perfect challenge for you... The Alfred Grimhand Barcrawl! First completed by Alfred Grimhand."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Take that card to each of the bars named on it. The bartenders will know what it means. We're kinda well known."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "They'll give you their strongest drink and sign your card. When you've done all that, we'll be happy to let you in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want some money."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Do I look like a bank to you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the barbarian guard again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "So, how's the Barcrawl coming along?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I haven't finished it yet."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Well come back when you have, you lightweight."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "So, how's the Barcrawl coming along?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not too bad. I've got my barcrawl card stored somewhere for safe-keeping."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "You need to take it with you when you're going on a barcrawl."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've lost my barcrawl card..."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "What are you like? You're gonna have to start all over now."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Uncle Humphrey's Gutrot",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartender",
+              "text": "What can I do yer for?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm doing Alfred Grimhand's Barcrawl."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Oh no not another of you guys. These barbarian barcrawls cause too much damage to my bar."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "You're going to have to pay 50 gold for the Uncle Humphrey's Gutrot."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't have 50 coins."
+            },
+            {
+              "speaker": "[player name]",
+              "text": "Blearrgh!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fire Toad Blast",
+      "sections": [
+        {
+          "title": "Talking to the Barman instead of Blurberry",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Barman",
+                  "text": "Good day to you. What can I get you to drink?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm trying to do Alfred Grimhand's barcrawl."
+                },
+                {
+                  "speaker": "Barman",
+                  "text": "Oh, another silly human come to have [his/her/their] mind melted? You should take that barcrawl card to Blurberry - he always likes to serve the Fire Toad Blast himself!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um... thanks?!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I'm doing Alfred Grimhand's Barcrawl."
+            },
+            {
+              "speaker": "Blurberry",
+              "text": "Ah, you've come to the best stop on your list! I'll give you my famous Fire Toad Blast! It'll cost you 10 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't have 10 coins right now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Supergrog",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartender",
+              "text": "Yohoho me hearty what would you like to drink?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm doing Alfred Grimhand's Barcrawl."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Haha time to be breaking out the old Supergrog. That'll be 15 coins please."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry I don't have 15 coins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fire Brandy",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartender",
+              "text": "What can I get you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's on the menu?"
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Dragon Bitter and Greenman's Ale, oh and some cheap beer."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm doing Alfred Grimhand's Barcrawl."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "I suppose you'll be wanting some Fire Brandy. That'll cost you 12 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry I don't have 12 coins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Heart Stopper",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartender",
+              "text": "Would you like to buy a drink?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you serve?"
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Beer!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm doing Alfred Grimhand's Barcrawl."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Fancy a bit of Heart Stopper then do you? It'll only be 8 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I don't have 8 coins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Liverbane Ale",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartender",
+              "text": "Good morning, what would you like?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm doing Alfred Grimhand's Barcrawl."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Oh you're a barbarian then. Now which of these barrels contained the Liverbane Ale? That'll be 18 coins please."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I don't have 18 coins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Olde Suspiciouse",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartender",
+              "text": "Can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm doing Alfred Grimhand's Barcrawl."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Ah, there seems to be a fair few doing that one these days. My supply of Olde Suspiciouse is starting to run low, it'll cost you 10 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't have 10 coins right now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanksh very mush..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ape Bite Liqueur",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Zembo",
+              "text": "Hey, are you wanting to try some of my fine wines and spirits? All brewed locally on Karamja island."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm doing Alfred Grimhand's Barcrawl."
+            },
+            {
+              "speaker": "Zembo",
+              "text": "Ah, you'll be wanting some Ape Bite Liqueur then. It's got a lovely banana taste, and it'll only cost you 7 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't have 7 coins right now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Mmmmm, dat was luverly..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hand of Death Cocktail",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tina",
+              "text": "Heya! What can I get you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm doing Alfred Grimhand's Barcrawl."
+            },
+            {
+              "speaker": "Tina",
+              "text": "Heehee, this'll be fun!"
+            },
+            {
+              "speaker": "Tina",
+              "text": "You'll be after our Hand of Death cocktail, then. Lots of expensive parts to the cocktail, though, so it will cost you 70 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't have that much money on me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Black Skull Ale",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I'm doing Alfred Grimhand's Barcrawl."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Are you sure? You look a bit skinny for that."
+            },
+            {
+              "speaker": "Player",
+              "text": "Just give me whatever I need to drink here."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Ok one Black Skull Ale coming up, 8 coins please."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't have 8 coins with me."
+            },
+            {
+              "speaker": "[player name]",
+              "text": "Hiccup!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Returning to the outpost",
+      "sections": [
+        {
+          "title": "Reading the barcrawl card",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to the barbarian guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "So, how's the Barcrawl coming along?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I tink I jusht 'bout done dem all... but I losht count..."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Yep that seems fine, you can come in now. I never learned to read, but you look like you've drunk plenty. Also, one more thing..."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Since you drink like a barbarian, I can show you how to smash your vials when you finish them. Do you want to do that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please, I want to smash my vials."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "It’s all part of drinking like a barbarian! Okay, you will now smash your vials as you drink your potions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thank you, I'd rather keep my vials."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

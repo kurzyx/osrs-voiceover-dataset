@@ -1,0 +1,51 @@
+{
+  "ref": "marley",
+  "categoryRef": "npc",
+  "title": "Marley",
+  "sections": [
+    {
+      "title": "Before starting Below Ice Mountain",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing Below Ice Mountain in Nardah",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Wow, the desert really suits you Marley."
+            },
+            {
+              "speaker": "Marley",
+              "text": "[player name] my old pal! How are you doing?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Better now I don't have to deal with you. Enjoying life in the desert?"
+            },
+            {
+              "speaker": "Marley",
+              "text": "Not really. I'm not suited to such harsh climates. No steak sandwiches here either..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh what a shame! Poor Marley's going to starve as he doesn't have anyone to make his sandwiches... So sad."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

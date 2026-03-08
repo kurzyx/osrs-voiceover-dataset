@@ -1,0 +1,41 @@
+{
+  "ref": "entomologist",
+  "categoryRef": "npc",
+  "title": "Entomologist",
+  "sections": [
+    {
+      "title": "Attempting to attack a kalphite in the Kalphite Cave while not on task",
+      "sections": [
+        {
+          "title": "While wearing a Ghostspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Buggie",
+                  "text": "I didn't... create this cave for... you to do that... sorry, it's not for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Without wearing a Ghostspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Buggie",
+                  "text": "wooooo ooo woo-woo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

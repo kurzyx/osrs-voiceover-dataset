@@ -1,0 +1,129 @@
+{
+  "ref": "priest-sophanem-",
+  "categoryRef": "npc",
+  "title": "Priest (Sophanem)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking to a priest at the temple",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Priest",
+                  "text": "Greetings. May the blessings of Icthlarin rest on your tired shoulders and set you at ease during these strange times."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a priest at a gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Priest",
+                  "text": "Good day, adventurer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the priest outside the south-eastern gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Priest",
+                  "text": "Good day, adventurer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's that place to the south?"
+                },
+                {
+                  "speaker": "Priest",
+                  "text": "That's the old necropolis. It's been abandoned for a long time. In fact, you couldn't even access most of it until fairly recently."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How come?"
+                },
+                {
+                  "speaker": "Priest",
+                  "text": "It was mostly buried under the sand until a storm came in from the south."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Interesting... I bet the place is a hotspot for grave robbers."
+                },
+                {
+                  "speaker": "Priest",
+                  "text": "Not as many as you'd think. There's a lot of superstition about the place. People say that even the sand is marked by death."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You sound like you don't believe them."
+                },
+                {
+                  "speaker": "Priest",
+                  "text": "Not really. The sand is probably that colour due to the amount of salt in it. Still, if it keeps people from robbing the dead, that's no bad thing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. Thanks for the information."
+                },
+                {
+                  "speaker": "Priest",
+                  "text": "Any time, adventurer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using a potion on him",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Priest",
+              "text": "Hey, hey, hey! What in the name of sweet suffering Icthlarin are you doing?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I thought this acne potion might clear up your spots."
+            },
+            {
+              "speaker": "Priest",
+              "text": "All that you'll achieve by pouring that potion on me is to ruin my lovely robes."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I was just trying to help."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

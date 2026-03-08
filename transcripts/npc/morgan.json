@@ -1,0 +1,91 @@
+{
+  "ref": "morgan",
+  "categoryRef": "npc",
+  "title": "Morgan",
+  "sections": [
+    {
+      "title": "Before Vampyre Slayer",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Morgan",
+              "text": "Please please help us, bold adventurer!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's the problem?"
+            },
+            {
+              "speaker": "Morgan",
+              "text": "Our little village has been dreadfully ravaged by an evil vampyre! He lives in the basement of the manor to the north, we need someone to get rid of him once and for all!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, I'm up for an adventure."
+            },
+            {
+              "speaker": "Morgan",
+              "text": "I think first you should seek help. I have a friend who is a retired vampyre hunter, his name is Dr. Harlow. He may be able to give you some tips. He can normally be found in the Blue Moon Inn in Varrock, he's a bit"
+            },
+            {
+              "speaker": "Morgan",
+              "text": "of an old soak these days. Mention his old friend Morgan, I'm sure he wouldn't want me killed by a vampyre."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll look him up then."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, vampyres are scary!"
+            },
+            {
+              "speaker": "Morgan",
+              "text": "I don't blame you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Vampyre Slayer",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I have slain the foul creature!"
+            },
+            {
+              "speaker": "Morgan",
+              "text": "Thank you, thank you! You will always be a hero in our village!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Morgan",
+                  "text": "Very well done, take this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "ref": "banisoch",
+  "categoryRef": "npc",
+  "title": "Banisoch",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before having paid Banisoch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Banisoch",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you?"
+                },
+                {
+                  "speaker": "Banisoch",
+                  "text": "Banisoch."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, that was informative."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about this hole."
+                },
+                {
+                  "speaker": "Banisoch",
+                  "text": "It leads to the caves beneath this part of the island. I think there's dragons at the other end; you can hear the noises and smell the smoke coming up the passage."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go down?"
+                },
+                {
+                  "speaker": "Banisoch",
+                  "text": "Eh, I could sort something out for you. Thing is, my brother's got a job guarding the main entrance to the caves. I'd be undercutting him if I let people go down this hole."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, does this mean you won't let me go in?"
+                },
+                {
+                  "speaker": "Banisoch",
+                  "text": "No, it means I'd need something to assuage my conscience after betraying my brother. 5,000 trading sticks ought to cheer me up nicely."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's a deal - here's 5,000 trading sticks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um, no thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll leave you alone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After having paid Banisoch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Banisoch",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I climb down that hole now?"
+                },
+                {
+                  "speaker": "Banisoch",
+                  "text": "Yes, you've paid, you can climb down there whenever you like. Go, go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why are you waiting by this hole?"
+                },
+                {
+                  "speaker": "Banisoch",
+                  "text": "Ever seen a toilet around here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, never mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using a rope on the nearby hole before having paid Banisoch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Banisoch",
+                  "text": "Hey, I didn't say you could do that!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using an item on the nearby hole after having paid Banisoch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Banisoch",
+                  "text": "Either go down it or don't go down it, but stop messing around with it!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

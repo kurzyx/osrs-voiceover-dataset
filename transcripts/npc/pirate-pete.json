@@ -1,0 +1,581 @@
+{
+  "ref": "pirate-pete",
+  "categoryRef": "npc",
+  "title": "Pirate Pete",
+  "sections": [
+    {
+      "title": "Lacking the requirements for Rum Deal",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Mornin'."
+            },
+            {
+              "speaker": "Player",
+              "text": "Got any quests?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "I may have a quest, but you don't look like you'd be able to handle the kind of monsters I have problems with."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Starting Rum Deal",
+      "sections": [
+        {
+          "title": "Talking to Pirate Pete after refusing to fight the demon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Had any luck finding someone to slay the demon?"
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "Oh! Yes! The demon, with the oppression and stuff!"
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "No, not yet. Why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Because I came to offer to help."
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "Atta boy!"
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "When I am reinstated in my rightful place, I will not be a very wealthy man, as my half-brother has squandered my family fortune."
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "However, I will gladly give you every bent penny of what is left, and starve in the gutter with my many adorable children if you say you will help me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nonsense! Keep the money! I will dispose of this evil half-brother of yours and leave you what little money is left to feed your family."
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "Wonderful! Just pick up your diversion and we'll leave!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What diversion?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, I'll take the cash in used coins please."
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "Er..."
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "Look, I think I'll wait here for someone a little more... you know..."
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "...heroic."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No reason. I was just in the area and I thought I would ask."
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "I see..."
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "Look, I think I'll wait here for someone a little more... you know..."
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "...heroic."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Pirate after asking him for a reward",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again!"
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "Oh, it's you again."
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "So, what brings you down here today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've decided to help you for free! I will dispose of this evil half-brother of yours and leave you what little money is left to feed your family."
+                },
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "Wonderful! Just pick up your diversion and we'll leave!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What diversion?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Mornin'."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Hey...you're an adventurer, right?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes I am!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Got any quests for me?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Yeah, I do, as a matter of fact!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "(Ahem.)"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "I am a poor, dispossessed nobleman, forced by circumstance to lurk in the middle of nowhere, soliciting help from passers-by."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "You see, my fiendish half-brother has seized my estates and forced me into exile."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "The simple lemon farmers suffer under his tyrannous yoke, and only a brave adventurer can lift his iron boot from the neck of the poor."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "To reclaim my lands I will need to have my family sword returned to me so that I may present it as proof of my rulership."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Will you help me find my family sword?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes! Your uncorroborated sob story has touched my heart. When do we set off?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "You'll help! Wonderful!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "But, alas, my half brother has a powerful ally, the mighty demon..."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Err..."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Err...Barrelor!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Yes, the mighty, fearsome, tall, deadly, oaken, round demon Barrelor the Destroyer."
+            },
+            {
+              "speaker": "Player",
+              "text": "Barrelor?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "That's what I said!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Barrelor is an awesome opponent, and to reclaim my family sword you will need to defeat him, for he guards it within the deadly Trapped Pit of Barrelor."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Wanna give it a shot?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Of course, I fear no demon!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Atta [boy/girl]!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "When I am reinstated in my rightful place, I will not be a very wealthy man, as my half-brother has squandered my family fortune."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "However, I will gladly give you every bent penny of what is left, and starve in the gutter with my many, many adorable children, if you say you will help me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not a chance, this sounds too dangerous."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Look, I think I'll wait here for someone a little more... you know..."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "...heroic."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I don't think I'll help you out this time."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Look, I think I'll wait here for someone a little more... you know..."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "...heroic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Do I know you?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Yes, you owe me some money."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Want a lift to Braindeath Island?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, possibly, but could I go to Mos Le'Harmless instead?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Nope. It's Braindeath island or nothing. Interested?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Want a lift to Port Phasmatys?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "All right. I'll need to use my Magical Teleporting Bottle."
+            },
+            {
+              "speaker": "Player",
+              "text": "Magical Teleporting Bottle?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Yes. Just turn around three times, then clap your hands and say the place you want to go."
+            },
+            {
+              "speaker": "Player",
+              "text": "This I have to see."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh well, here goes."
+            },
+            {
+              "speaker": "Player",
+              "text": "One..."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Would you like a hand with your stuff? You seemed to have dropped something."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "All right. You know that it's going to cost extra to take your friend as well, right?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What friend?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Certainly. By the way, you have a spider in your hair."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh no! Get it out, get it out!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Sure, turn around and I'll get it for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Well I'll be more than happy to..."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Egad! Did you see that?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What? Where?"
+            },
+            {
+              "speaker": "Player",
+              "text": "OW!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ooooh... my head..."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Are you ok? You, errr..."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "...missed your mouth while drinking from a bottle. Hence the bottle-shaped bruises."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "...slipped and slid into a brick wall."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "...managed to fall onto my boot while I was practicing kicking."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "...hit your head on my oars while I was rowing over."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Twice."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow... I'm lucky I wasn't seriously hurt!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not now."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm getting an awful headache talking to you. Any idea why?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "No idea whatsoever."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why do I get a headache every time I see you?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Well, it's possibly the weight of all of your expensive items giving you a sore back."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "As a doctor I can tell you that sometimes a bad back can manifest as a headache."
+            },
+            {
+              "speaker": "Player",
+              "text": "You're a doctor?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "I'm on a break."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Regardless, I can tell you that if you hand me your most expensive items, then the pain will disappear."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "CoughonceyouturnaroundagainCough!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What was that last bit?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Nothing..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you any relation to Party Pete?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Yes I am, he's my cousin."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, you don't sound too happy about it. What happened?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Well, I arranged with all my friends to have a party at his place."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "But then I humiliated myself by trying to dance with the knights."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "All of them collapsed on me in a horrific, jangling pile."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "I tried to salvage the night by having all the balloons come down..."
+            },
+            {
+              "speaker": "Player",
+              "text": "So what happened?"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "I didn't know that someone had swapped the balloons with cannonballs!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "The casualties were horrific..."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "That was the worst fifth birthday party in the history of the world."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sure it wasn't that bad."
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Not according to the Official History of Gielinor!"
+            },
+            {
+              "speaker": "Pirate Pete",
+              "text": "Every edition... the pictures bring it all back..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ouch..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "While holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Pirate Pete",
+                      "text": "Sorry but you haven't solved the puzzle yet."
+                    },
+                    {
+                      "speaker": "Pirate Pete",
+                      "text": "Thanks [player name]!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Pirate Pete",
+                  "text": "Please solve this for me. I have other things to be thinking about."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

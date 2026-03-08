@@ -1,0 +1,50 @@
+{
+  "ref": "ghost-banker",
+  "categoryRef": "npc",
+  "title": "Ghost banker",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ghost banker",
+              "text": "Good day, how may I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Ghost banker",
+              "text": "This is a branch of the Bank of Gielinor. We have branches in many towns."
+            },
+            {
+              "speaker": "Player",
+              "text": "And what do you do?"
+            },
+            {
+              "speaker": "Ghost banker",
+              "text": "We will look after your items and money for you. Leave your valuables with us if you want to keep them safe."
+            },
+            {
+              "speaker": "Ghost banker",
+              "text": "Woooo wooo wooooo woooo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Quick-banking while not wearing a ghostspeak amulet or Morytania legs 2 or above",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

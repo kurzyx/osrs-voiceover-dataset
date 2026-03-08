@@ -1,0 +1,49 @@
+{
+  "ref": "sawmill-operator-auburnvale-",
+  "categoryRef": "npc",
+  "title": "Sawmill Operator (Auburnvale)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sawmill Operator",
+              "text": "Nilsal. Do you want me to make some planks for you? I can make planks from wood, oak, teak and mahogany logs. Or would you like to buy some other housing supplies?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, please make me some planks."
+            },
+            {
+              "speaker": "Sawmill operator",
+              "text": "You'll need to bring me some more logs."
+            },
+            {
+              "speaker": "Sawmill operator",
+              "text": "Those planks cost [X] coins. You don't have enough money for all of them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I buy some housing supplies?"
+            },
+            {
+              "speaker": "Sawmill Operator",
+              "text": "Of course!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm good, thanks."
+            },
+            {
+              "speaker": "Sawmill Operator",
+              "text": "Well come back when you want some. You'll struggle to find quality planks anywhere but here!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

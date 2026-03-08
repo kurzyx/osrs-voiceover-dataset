@@ -1,0 +1,105 @@
+{
+  "ref": "xilo",
+  "categoryRef": "npc",
+  "title": "Xilo",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If Xilo and Fabia have not been reunited",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Xilo",
+                  "text": "I can't believe she's done this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who's done this?"
+                },
+                {
+                  "speaker": "Xilo",
+                  "text": "Fabia! She asked me to meet her, and I quote, 'by the special tree'. You may notice that she isn't here! I've been waiting for hours!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you think she might just be delayed?"
+                },
+                {
+                  "speaker": "Xilo",
+                  "text": "I know her too well. She wouldn't be delayed coming to see me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could you be at the wrong special tree?"
+                },
+                {
+                  "speaker": "Xilo",
+                  "text": "No! This is the one, singular, special tree!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Humour me for just a moment. What if, amongst this entire rainforest, there's a second very similar tree?"
+                },
+                {
+                  "speaker": "Xilo",
+                  "text": "And Fabia would find herself at the wrong tree in this scenario?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Or maybe it's you who is at the wrong one?"
+                },
+                {
+                  "speaker": "Xilo",
+                  "text": "No, absolutely not! I know where to meet Fabia and I wouldn't miss any opportunity to do so!"
+                },
+                {
+                  "speaker": "Xilo",
+                  "text": "This was the tree where we first met. It was a lovely day! A botanical tour of the rainforest, but the only thing I found myself looking at was her..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I'm sure the two of you will find each other soon. However, I do suspect that might happen sooner if you considered looking by some other trees..."
+                },
+                {
+                  "speaker": "Xilo",
+                  "text": "Hmm... I'll think about it, but for now, I'll wait here a while longer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If Xilo and Fabia have been reunited",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Xilo",
+                  "text": "Hello again, iknami! Thank you for helping us find each other!"
+                },
+                {
+                  "speaker": "Fabia",
+                  "text": "To think we were waiting by different trees! It was so silly of us!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I'm happy to see you together again. Now, I'm sure you have a lot of catching up to do. I'll leave you to it."
+                },
+                {
+                  "speaker": "Xilo",
+                  "text": "Timoiva, iknami!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "ref": "darkmeyer-slave",
+  "categoryRef": "npc",
+  "title": "Darkmeyer Slave",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before giving him 100 Hallowed marks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "C'mon, why won't this thing open?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Would you like me to give you a hand with that?"
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "It's okay, I think I've got it... Agh, I thought I had it that time!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why are you searching this coffin?"
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "I need to bring that mysterious stranger 100 Hallowed marks so that he can help me escape Darkmeyer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "100 seems like a lot. How many do you have so far?"
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "None."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have 100 either."
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "That's okay. I'm sure I'll get this open eventually."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I happen to have 100 Hallowed marks on me. I can give you some if you'd like?"
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "Wow! You'd do that for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "On second thoughts, I think I'll keep them for myself."
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "Oh... You didn't have to tease me like that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure. I'll probably find more while I'm down here anyway."
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "I can't thank you enough! I can finally buy my freedom!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're welcome!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It feels nice to do the right thing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After giving him 100 Hallowed marks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "C'mon, why won't this thing open?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait, why are you still here? I gave you the 100 Hallowed marks you need to escape."
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "I think you have me mistaken for someone else."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "..."
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "Now go away. I can't hear the locking mechanism with you breathing in my ear!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Before interacting with him:",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "C'mon, almost got it..."
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "Agh, thought I had it that time!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

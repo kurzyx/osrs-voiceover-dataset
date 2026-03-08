@@ -1,0 +1,79 @@
+{
+  "ref": "carpenter-kjallak",
+  "categoryRef": "npc",
+  "title": "Carpenter Kjallak",
+  "sections": [
+    {
+      "title": "Standard dialogue before Royal Trouble",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Carpenter Kjallak",
+              "text": "Hey! This is the Queen's forest. You'll need her approval to make use of it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Good day. What are you doing?"
+            },
+            {
+              "speaker": "Carpenter Kjallak",
+              "text": "I'm cutting down mahogany and teak trees to make into furniture. It takes a while."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good luck with that."
+            },
+            {
+              "speaker": "Carpenter Kjallak",
+              "text": "Thank you, Your Royal Highness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Check-Approval",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can you tell me how the kingdom approves of me?"
+            },
+            {
+              "speaker": "Carpenter Kjallak",
+              "text": "[amount]% of people approve of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the storerooms are full",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Carpenter Kjallak",
+              "text": "The storerooms are full, your Highness. You should talk to Advisor Ghrim to collect what we've gathered for you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

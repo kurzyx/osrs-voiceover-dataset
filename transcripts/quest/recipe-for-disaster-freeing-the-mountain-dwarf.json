@@ -1,0 +1,751 @@
+{
+  "ref": "recipe-for-disaster-freeing-the-mountain-dwarf",
+  "categoryRef": "quest",
+  "title": "Recipe for Disaster/Freeing the Mountain Dwarf",
+  "sections": [
+    {
+      "title": "Starting out",
+      "sections": [
+        {
+          "title": "Inspecting the dwarf",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How do I protect you I wonder...."
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "To protect our short angry friend from the culinaromancer's magics, I suggest that you seek out his father within the mountain tunnel that he guards."
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "His fondness for rock cakes could prove key in freeing him."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the cook",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can we talk about what happened in the dining room?"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Wow! You were incredible! The way you defeated the Culinaromancer, you made it seem so easy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So... I don't suppose you can remember how I defeated him can you?"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Of course! Which bit can't you remember doing?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That dwarf... I somehow can't remember how I managed to save him..."
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "The dwarf? Oh, yeah, I think that was an easy one, didn't you say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I did? Er, I did."
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "You went to see his dad in the tunnels under white wolf mountain, and then got some rock cakes, if I remember rightly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh yeah... I remember now..."
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Did you want a reminder on any other of your brave exploits?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Below White Wolf Mountain",
+      "sections": [
+        {
+          "title": "Talking to \"An old Dwarf\"",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "...son...time bubble...culinaromancer...freeze...rockcakes!"
+                },
+                {
+                  "speaker": "An old Dwarf",
+                  "text": "..."
+                },
+                {
+                  "speaker": "An old Dwarf",
+                  "text": "I have absolutely no clue what you are on about. Sit down, catch your breath and explain please!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok. Your son, the one who guards the tunnel entrance?"
+                },
+                {
+                  "speaker": "An old Dwarf",
+                  "text": "Oh aye. Good lad he is."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well he's at a special meeting and he's frozen by the culinaromancer!"
+                },
+                {
+                  "speaker": "An old Dwarf",
+                  "text": "Ok... you lost me again. I just got back from visitin' him up top, he's fine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He's in a TIME BUBBLE!"
+                },
+                {
+                  "speaker": "An old Dwarf",
+                  "text": "Oh that. No no, he's quite ok. That was last week."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need your rock cakes to free him from it."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "You're delusional. Never would old Rohak give away his special recipe, not for all the golden nectar from the Rising Sun!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Rohak again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rohak",
+                  "text": "I would never give away me special rock cake recipe, not for all the golden nectar from the Rising Sun!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The \"golden nectar\"",
+      "sections": [
+        {
+          "title": "Talking to Emily",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Emily",
+                  "text": "Heya! What can I get you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can you tell me about dwarves and ale?"
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Erm... they like it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No no no... I mean what kind of ale do they drink?"
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Well I know for sure that they enjoy my special recipe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh? Would you tell me?"
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "And lose money? I think not!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I could offer you some in return, how about 100 gold?"
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Sorry, no deal, that wouldn't even cover my expenses."
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "You have CHOCOLATE in your pack, I can smell it! 50 gold and chocolate and the secret is yours!!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I don't have enough money on me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You have a deal. Here you go..."
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Mmmmm... the secret is in the gold. Drop a gold coin into asgarnian ale and you'll get this weird golden ale that the dwarves seem to love, I think they're genetically attracted to gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, no deal."
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Your loss! Next customer please!"
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Welll... maybe... look.. I'm on duty here at the bar so I can't get anything to eat, I could murder a pizza."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I just happen to have some on me."
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Pizza and 100 gold and the secret is yours!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I don't have enough money on me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You have a deal. Here you go..."
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Mmmmm... the secret is in the gold. Drop a gold coin into asgarnian ale and you'll get this weird golden ale that the dwarves seem to love, I think they're genetically attracted to gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, no deal."
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Your loss! Next customer please!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I don't have the money on me. I'll have to come back."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I could offer you some in return, how about 200 gold?"
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "You sure you haven't got anymore?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just 200... honest!"
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Hand it over then and I'll tell you the secret."
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Mmmmm... the secret is in the gold. Drop a gold coin into asgarnian ale and you'll get this weird golden ale that the dwarves seem to love, I think they're genetically attracted to gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I could offer you some in return, how about 200 gold?"
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "You're a good person... for you, 150 and you have a deal."
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Mmmmm... the secret is in the gold. Drop a gold coin into asgarnian ale and you'll get this weird golden ale that the dwarves seem to love, I think they're genetically attracted to gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh go on, I'm really quite trustworthy once you get to know me."
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Mmmmm... the secret is in the gold. Drop a gold coin into asgarnian ale and you'll get this weird golden ale that the dwarves seem to love. I think they're genetically attracted to gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "What...what am I saying? I just gave you the secret!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kaylee",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kaylee",
+                  "text": "Heya! What can I get you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Tina",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tina",
+                  "text": "Heya! What can I get you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Emily again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Emily",
+                  "text": "Heya! What can I get you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can you tell me about dwarves and ale?"
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Oh it's you again. Forgotten the secret already?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No... I just... misplaced it."
+                },
+                {
+                  "speaker": "Emily",
+                  "text": "Mmmmm... the secret is in the gold. Drop a gold coin into asgarnian ale and you'll get this weird golden ale that the dwarves seem to love, I think they're genetically attracted to gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, I won't forg...err... misplace it, this time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kaylee again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kaylee",
+                  "text": "Heya! What can I get you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Tina again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tina",
+                  "text": "Heya! What can I get you?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Getting the recipe",
+      "sections": [
+        {
+          "title": "Talking to Rohak with Asgoldian ale in inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Here, have a drink."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "Is that what I think it is?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe!"
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "That's from the Rising Sun, the barmaid there will never tell me the recipe she uses. It's divine!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Speaking of recipes...."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "No! I shwears I'll never tell..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Rohak with a second Asgoldian ale in inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Here, have another."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "Don't mind if I do!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Rohak with a third Asgoldian ale in inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I think you deserve another pint."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "Don't mind if I do!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Rohak with a fourth Asgoldian ale in inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'm sure another pint will go down nicely."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "Don't mind if I do!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Rohak again once he is sufficiently drunk",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rohak",
+                  "text": "Ahhh, yer me besht mate... mate."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're a good friend Rohak, do you think you could do me a favour?"
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "Fer you [player]? Fer you I'd... I'd... shlide down a shlope of thishtlesh wif no 'elmet on!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't need you to do that ... friend. Just something as simple as baking me some of your wonderful rock cakes. Hmm? For your good friend?"
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "Fer you! Anyfin'! Fer a price of course!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good. I'm sure I have some gold somewhere!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a sober Rohak",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How much gold do you want to make the cake?"
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "WHAT?! That wasn't a dream? Oh my aching head..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not a dream, you agreed to make me your special rock cake, for a fee."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "Oh."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "100 gold, no less!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe I should have some more money with me, he did say he'd want payment..."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "Also... you'll need to get the ingredients too. Milk, flour, egg and bowl of water, mind it's a bowl and not a dirty bucket."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You didn't say I'd have to run around... but ok! Milk, flour, egg, bowl of water....I'll be back!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Rohak again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rohak",
+                  "text": "Have you forgotten the ingredients list? I'll need an egg, a pot of flour, a bucket of milk and a bowl of water to make these cakes for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, I'll see about getting them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have found some of the things you asked for:"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "[I have the egg/I don't have an egg, I'll look for some chickens], [I have a pot of flour/I don't have a pot of flour, but I'll investigate the windmills], [I have the bucket of milk/I don't have any milk but I'll check out the cows], [I have the bowl of water!/I don't have a bowl of water]."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "That's all well and good...but come back when you have all the ingredients. You're lucky Dwarves stick to their word else I might not make these cakes for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay okay I'll get right on it! Keep your beard on!"
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "What did you say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "N..n...nothing honest!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have all the items you asked for...is that it? I could make these!"
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "No you couldn't, there's a special ingredient, but I'm not going to tell you what it is!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... here's the ingredients anyway."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "There, as good as my word. Hot rock cakes to my special recipe."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Rohak after he has made the rock cake",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rohak",
+                  "text": "Got any use out of that rock cake I made you [player]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet but I will. I'm going to save your son."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "I keep tellin you, he's fine!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I appear to have lost it somewhere, can you make me another?"
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "I suppose so, but you'll need all the ingredients like last time."
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "Have you forgotten the ingredients list? I'll need an egg, a pot of flour, a bucket of milk and a bowl of water to make these cakes for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, I'll see about getting them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have found some of the things you asked for:"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I lost the rock cake! But I have more ingredients, will you make me some more please?"
+                },
+                {
+                  "speaker": "Rohak",
+                  "text": "Oh... I suppose so. Give me the ingredients."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to free the dwarf with a hot rock cake",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aris",
+                  "text": "STOP! What do you think you're doing!"
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "You can't feed him red hot rock cakes! You'll kill him! Find a way to cool them down."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, ok, I'll find a way to cool them down then."
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "I hear there's a rather chilly reception on top of a rather icey mountain."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cooling the rock cake by killing an icefiend",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Cooling the rock cake by wearing ice gloves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finishing up",
+      "sections": [
+        {
+          "title": "Freeing the dwarf",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aris",
+                  "text": "Good work adventurer, I've teleported them away to safety! You only have [number] council members left to protect!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "ref": "eve",
+  "categoryRef": "npc",
+  "title": "Eve",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Eve",
+              "text": "What is it you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I kill the dragons up here?"
+            },
+            {
+              "speaker": "Eve",
+              "text": "I suppose that's okay since you've got a Slayer assignment. But when you've finished it, leave the rest for me!"
+            },
+            {
+              "speaker": "Eve",
+              "text": "Don't even think about it - these dragons up here are for me!"
+            },
+            {
+              "speaker": "Eve",
+              "text": "There's a Slayer Master in my family, so I don't stop people doing their Slayer assignments, but otherwise these dragons are for me, not you."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you here for?"
+            },
+            {
+              "speaker": "Eve",
+              "text": "Dragon-slaying, of course. Do I look like one of those serfs who wanders around scavenging scales off the floor? I'm just having a rest now, before I get back to the fight."
+            },
+            {
+              "speaker": "Eve",
+              "text": "My cousin Slieve built the access routes through this blue dragon lair. But she's only really interested in black dragons, not blue ones, so she said I could have this area for myself."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are you dressed like that?"
+            },
+            {
+              "speaker": "Eve",
+              "text": "It's hot in here with all the dragonfire."
+            },
+            {
+              "speaker": "Player",
+              "text": "Don't you need armour, though?"
+            },
+            {
+              "speaker": "Eve",
+              "text": "I've got wizard boots on, see? What more would I want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, maybe you'd want something to help you fight the dragons? Wizard boots don't sound very useful."
+            },
+            {
+              "speaker": "Eve",
+              "text": "They're useful enough for what I'm doing. Anyway, moving on..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Eve",
+              "text": "Off you go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When attempting to kill monsters that aren't part of a player's slayer task",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Eve",
+              "text": "Oi, find yourself some other dragons - these are mine!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "ref": "bee-keeper",
+  "categoryRef": "npc",
+  "title": "Bee keeper",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "I'm sorry to bother you, [player name], but I need some help with a bee hive."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ooh, a bee hive. I'll help you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Buzz off!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Continuation after being teleported",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "Ah, [player name]. I'm sorry to drag you away like this, but I need some help building a new hive for my bees."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you expect me to do?"
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "All the parts of the beehive are jumbled up. You've got to put them in the correct order for building a hive."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, very well. Let's take a look..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After closing the interface and talking with him again",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "Ready to try again?"
+            },
+            {
+              "speaker": "Player",
+              "text": "First remind me of what I'm doing."
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "All the parts of the beehive are jumbled up. You've got to put them in the correct order for building a hive."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeah, let me get on with it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After building the beehive wrong first time",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "No, that doesn't look right. You have to put the parts in the right order, otherwise it'll be no good as a beehive."
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "I'll let you have 5 more tries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After building the beehive wrong twice",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "No, that doesn't look right. You have to put the parts in the right order, otherwise it'll be no good as a beehive."
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "I'll let you have 4 more tries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After building the beehive wrong three times",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "No, that doesn't look right. You have to put the parts in the right order, otherwise it'll be no good as a beehive."
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "I'll let you have 3 more tries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After building the beehive wrong four times",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "No, that doesn't look right. You have to put the parts in the right order, otherwise it'll be no good as a beehive."
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "I'll let you have 2 more tries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After building the beehive wrong five times",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "No, that doesn't look right. You have to put the parts in the right order, otherwise it'll be no good as a beehive."
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "I'll let you have one more try."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After building the beehive wrong six times",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "Uh-oh, the bees are fed up with waiting for you to build them a home!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Aaaaargh - BEES!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ooch!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Eek!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Beees!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ow!"
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "I'll help you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After building the beehive correctly",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "That's perfect! I'll get some bees moved in immediately."
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "Now, I'm sure I must have something to offer you for all your help..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Bee keeper looking for another player",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "Sorry, you're not the person I need."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player completed the event or is in a zone where the random event isn't allowed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "Goodbye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bee keeper",
+              "text": "Hello, [player name]?"
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "Please help me, [player name]."
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "I need your help, [player name]!"
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "Can I borrow you for a minute, [player name]?"
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

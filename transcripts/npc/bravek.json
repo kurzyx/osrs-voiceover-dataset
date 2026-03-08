@@ -1,0 +1,48 @@
+{
+  "ref": "bravek",
+  "categoryRef": "npc",
+  "title": "Bravek",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After Plague City",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bravek",
+                  "text": "Thanks again for the hangover cure."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not a problem, happy to help out."
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "I'm just having a little drop of whisky, then I'll feel really good."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey Bravek."
+            },
+            {
+              "speaker": "Bravek",
+              "text": "Hello there. Can't stop to talk I'm afraid, I've been left with a lot of work to do thanks to those mourners."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

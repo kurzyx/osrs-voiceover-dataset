@@ -1,0 +1,89 @@
+{
+  "ref": "barbara",
+  "categoryRef": "npc",
+  "title": "Barbara",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Barbara",
+              "text": "Please excuse me, I'm rather busy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "With a Mahogany Homes contract for her house",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey, I'm your contractor from Mahogany Homes, what did you want done?"
+            },
+            {
+              "speaker": "Barbara",
+              "text": "I'd like my clock fixed."
+            },
+            {
+              "speaker": "Barbara",
+              "text": "I'd like my range fixed."
+            },
+            {
+              "speaker": "Barbara",
+              "text": "I'd like a Mahogany table built."
+            },
+            {
+              "speaker": "Barbara",
+              "text": "I'd like a Mahogany drawer built."
+            },
+            {
+              "speaker": "Barbara",
+              "text": "I'd like a Mahogany bed built."
+            },
+            {
+              "speaker": "Barbara",
+              "text": "I'd like two Mahogany chairs built."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing her contract",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I've finished with the work you wanted."
+            },
+            {
+              "speaker": "Barbara",
+              "text": "Thank you so much! Would you like a cup of tea before you go?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'd love a cuppa."
+            },
+            {
+              "speaker": "Player",
+              "text": "Aaah, nothing like a nice cupppa tea!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks, I better be off."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

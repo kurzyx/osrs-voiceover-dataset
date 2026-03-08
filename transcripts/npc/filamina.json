@@ -1,0 +1,43 @@
+{
+  "ref": "filamina",
+  "categoryRef": "npc",
+  "title": "Filamina",
+  "sections": [
+    {
+      "title": "With less than 20% Arceuus Favour",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Filamina",
+              "text": "Greetings stranger. If you wish to browse my wares, you will need to be more favoured by the people of Arceuus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "With at least 20% Arceuus Favour",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Filamina",
+              "text": "What do you require, traveller? I deal in staves."
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's see what you've got."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't need anything."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

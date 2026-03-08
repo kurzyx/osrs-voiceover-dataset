@@ -1,0 +1,192 @@
+{
+  "ref": "freaky-forester",
+  "categoryRef": "npc",
+  "title": "Freaky Forester",
+  "sections": [
+    {
+      "title": "Freaky Forester random event",
+      "sections": [
+        {
+          "title": "Initial dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "Hey, [player name], can you come and help me with some pheasants?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll help with your pheasants."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I'm busy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "In the forest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "Hey there, [player name]. Could you kill a pheasant with [two/three/four] tails, please? Bring me the raw pheasant when you're done."
+                },
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "Hey there, [player name]. Can you kill the [2/3/4]-tailed pheasant please. Bring me the raw pheasant when you're done."
+                },
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "Hey there, [player name]. I need you to kill a pheasant that has [2/3/4] tails. Bring me the raw pheasant when you're done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Forester as he leaves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "Goodbye."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After killing the assigned pheasant",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "Now bring me the raw pheasant."
+                },
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "Thanks, [player name], you may use the portal to leave the area now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After killing the assigned pheasant, talking to Freaky Forester again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "Okay, [player name], you can leave the area now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to attack more pheasants",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to give the Freaky Forester a second pheasant",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "I don't need any more of those. You are free to exit the area now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Leaving the event area",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "You get a lederhosen [hat/top/shorts] for your help, many thanks!"
+                },
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "You get a lamp for your help, many thanks!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Other people's Freaky Forester",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Freaky Forester",
+              "text": "I'm looking for [player name]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Freaky Forester",
+              "text": "[player name]!"
+            },
+            {
+              "speaker": "Freaky Forester",
+              "text": "Hello? [player name]?"
+            },
+            {
+              "speaker": "Freaky Forester",
+              "text": "Talk to me, [player name]!"
+            },
+            {
+              "speaker": "Freaky Forester",
+              "text": "[player name]? Are you there?!"
+            },
+            {
+              "speaker": "Freaky Forester",
+              "text": "I'd like to talk to you, [player name]!"
+            },
+            {
+              "speaker": "Freaky Forester",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

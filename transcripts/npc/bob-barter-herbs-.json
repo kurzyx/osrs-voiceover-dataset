@@ -1,0 +1,142 @@
+{
+  "ref": "bob-barter-herbs-",
+  "categoryRef": "npc",
+  "title": "Bob Barter (herbs)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bob Barter (herbs)",
+              "text": "Hello, chum, fancy buyin' some designer jewellry? They've come all the way from Ardougne! Most pukka!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Erm, no. I'm all set, thanks."
+            },
+            {
+              "speaker": "Bob Barter (herbs)",
+              "text": "Okay, chum, would you like to show you the very latest potion prices?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Bob Barter (herbs)",
+              "text": "Why, I'm Bob! Your friendly seller of smashin' goods!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So what do you have to sell?"
+            },
+            {
+              "speaker": "Bob Barter (herbs)",
+              "text": "Oh, not much at the moment. Cuz, ya know, business being so well and cushie."
+            },
+            {
+              "speaker": "Player",
+              "text": "You don't really look like you're being so successful."
+            },
+            {
+              "speaker": "Bob Barter (herbs)",
+              "text": "You plonka! It's all a show, innit! If I let people knows I'm in good business they'll want a share of the moolah!"
+            },
+            {
+              "speaker": "Player",
+              "text": "You conveniently have a response for everything."
+            },
+            {
+              "speaker": "Bob Barter (herbs)",
+              "text": "That's the Ardougne way, my son."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you show me the prices for potions?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Decanting",
+      "sections": [
+        {
+          "title": "Doses less than 4",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bob Barter (herbs)",
+                  "text": "Lets see what you have..."
+                },
+                {
+                  "speaker": "Bob Barter (herbs)",
+                  "text": "You're a bit short of inventory space."
+                },
+                {
+                  "speaker": "Bob Barter (herbs)",
+                  "text": "You're a bit short of empty vessels or cash. Empty vials cost 5 coins each, cups 8 coins each, and anything else is 5 coins each."
+                },
+                {
+                  "speaker": "Bob Barter (herbs)",
+                  "text": "There, I've done what I can, but you're a bit short of empty vessels or cash. Empty vials cost 5 coins each, cups 8 coins each, and anything else is 5 coins each."
+                },
+                {
+                  "speaker": "Bob Barter (herbs)",
+                  "text": "There, all done."
+                },
+                {
+                  "speaker": "Bob Barter (herbs)",
+                  "text": "Two plus two is four, minus one that's three..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "4 Dose",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bob Barter (herbs)",
+                  "text": "There, all done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nothing Decantable",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bob Barter (herbs)",
+                  "text": "I don't think you've got anything that I can decant."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

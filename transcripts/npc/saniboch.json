@@ -1,0 +1,232 @@
+{
+  "ref": "saniboch",
+  "categoryRef": "npc",
+  "title": "Saniboch",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Right-click \"Pay\" option",
+          "sections": [
+            {
+              "title": "If the player does not have at least 875 coins and has not paid for permanent access",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Saniboch",
+                      "text": "I'll want 875 coins to let you enter; this is a dungeon for the more wealthy discerning adventurer. Begone with you, riff raff."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "If the player has at least 875 coins, but less than 1 million coins",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "If the player has not paid for permanent access",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Saniboch",
+                      "text": "Many thanks. You may now pass the door. May your death be a glorious one!"
+                    },
+                    {
+                      "speaker": "Saniboch",
+                      "text": "Many thanks. You may now pass the door as many times as you wish, and I will not charge you again. May your death be a glorious one!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "If the player has paid to enter once",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Saniboch",
+                      "text": "You have already given me lovely coins, so you may go in, and may your death be a glorious one!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay, thanks."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "If the player has paid for permanent access",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Saniboch",
+                      "text": "You have already given me lots of nice coins, you may go in."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Saniboch",
+              "text": "Good day to you, Bwana."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I go through that door please?"
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "Most certainly, you have already given me lots of nice coins."
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "Most certainly, but I must charge you the sum of 875 coins first."
+            },
+            {
+              "speaker": "Player",
+              "text": "I haven't got that much money with me."
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "I'll want 875 coins to let you enter; this is a dungeon for the more wealthy discerning adventurer. Begone with you, riff raff."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, here's 875 coins."
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "Many thanks. You may now pass the door. May your death be a glorious one!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Why is it worth the entry cost?"
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "It leads to a huge fearsome dungeon, populated by giants and strange dogs. Adventurers come from all around to explore its depths."
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "I know not what lies deeper in myself, for my skills in agility and woodcutting are inadequate, but I hear tell of even greater dangers deeper in."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I pay you for permanent access?"
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "I suppose so, yes. My employer will let you in for free, forever, in exchange for 1,000,000 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "I haven't got 1,000,000 coins with me."
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "Then perhaps you would rather pay 875 coins for one visit."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, here's 1,000,000 coins."
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "Many thanks. You may now pass the door as many times as you wish, and I will not charge you again. May your death be a glorious one!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where does this strange entrance lead?"
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "To a huge fearsome dungeon, populated by giants and strange dogs. Adventurers come from all around to explore its depths."
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "I know not what lies deeper in myself, for my skills in agility and woodcutting are inadequate."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm impressed, that tree is growing on that shed."
+            },
+            {
+              "speaker": "Saniboch",
+              "text": "My employer tells me it is an uncommon sort of tree called the Fyburglars tree."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good day to you too."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "While holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Saniboch",
+                      "text": "My guard dogs can do puzzles better than that!"
+                    },
+                    {
+                      "speaker": "Saniboch",
+                      "text": "Excellent work!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Saniboch",
+                  "text": "You're not done yet! Do this for me!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

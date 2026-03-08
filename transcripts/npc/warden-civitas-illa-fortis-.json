@@ -1,0 +1,83 @@
+{
+  "ref": "warden-civitas-illa-fortis-",
+  "categoryRef": "npc",
+  "title": "Warden (Civitas illa Fortis)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Warden",
+              "text": "Yes? Do you have business with one of the prisoners?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't think so. What are they in for?"
+            },
+            {
+              "speaker": "Warden",
+              "text": "Does it matter? They are criminals."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are all criminals the same?"
+            },
+            {
+              "speaker": "Warden",
+              "text": "They will be if they're found guilty."
+            },
+            {
+              "speaker": "Player",
+              "text": "What happens if they are?"
+            },
+            {
+              "speaker": "Warden",
+              "text": "In most cases, death."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, nice. Bit brutal though, right?"
+            },
+            {
+              "speaker": "Warden",
+              "text": "Brutal? Yes. Effective? Yes."
+            },
+            {
+              "speaker": "Player",
+              "text": "Fair enough."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Final Dawn quest have been completed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Warden",
+              "text": ": Adventurer. If you're here to speak with our newest guest, I wouldn't waste your time."
+            },
+            {
+              "speaker": "Player",
+              "text": ": Why not?"
+            },
+            {
+              "speaker": "Warden",
+              "text": ": Because she hasn't said a word since she arrived."
+            },
+            {
+              "speaker": "Player",
+              "text": ": Ah, I see. Fair enough."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

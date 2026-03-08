@@ -1,0 +1,2213 @@
+{
+  "ref": "a-taste-of-hope",
+  "categoryRef": "quest",
+  "title": "A Taste of Hope",
+  "sections": [
+    {
+      "title": "Starting out",
+      "sections": [
+        {
+          "title": "Talking to Garth",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Garth",
+                  "text": "Hello there. Interested in hearing the tale of Serafina?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Garth",
+                  "text": "Great! Now, in case you didn't know, the castle before you is Ver Sinhaza. It's home to the Theatre of Blood."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So it's a form of entertainment for them? Why do the citizens take part?"
+                },
+                {
+                  "speaker": "Garth",
+                  "text": "The Theatre is run by a famous vampyre noble, Lady Verzik Vitur. She has promised that any citizen of Meiyerditch who survives the Theatre will be freed of the vampyre blood tithes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose that must be rather tempting to a lot of people. So who's this Serafina?"
+                },
+                {
+                  "speaker": "Garth",
+                  "text": "The Theatre has been around for many years and thousands of people have tried their luck against it. However, in all that time, only one person has ever survived until the end."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Serafina?"
+                },
+                {
+                  "speaker": "Garth",
+                  "text": "Exactly. Serafina's younger brother was very ill and he wasn't going to survive many more blood tithes. She couldn't just let him die, so she did what no other person ever had."
+                },
+                {
+                  "speaker": "Garth",
+                  "text": "She entered the Theatre and succeeded in every challenge she faced. They say that Verzik wasn't too happy about that, but she kept her promise. Serafina and her brother were freed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds like you're a big fan of her."
+                },
+                {
+                  "speaker": "Garth",
+                  "text": "Well of course. When she survived the Theatre, she provided hope to every person in Meiyerditch. Hope that they can one day follow in her footsteps."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what happened to her in the end?"
+                },
+                {
+                  "speaker": "Garth",
+                  "text": "Well I suppose she left Meiyerditch. Can't imagine any free person wanting to stick around here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You suppose? So you don't know for sure?"
+                },
+                {
+                  "speaker": "Garth",
+                  "text": "Well... No. It was a long time ago. Not many people around who remember it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmmm..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That was Vanstrom Klause and Ranis Drakan!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Safalaan and the Myreque will want to hear about this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not right now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan",
+          "sections": [
+            {
+              "title": "Talking to Safalaan again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "What do you need me to do again?"
+                    },
+                    {
+                      "speaker": "Safalaan Hallow",
+                      "text": "Go to Ver Sinhaza and see if you can work out what Vanstrom and Ranis are up to. We recently sent a few of King Roald's mercenaries in that direction, talk to them if you need help."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "It's nice to see you again, [player name], and congratulations on your well deserved promotion!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Safalaan! I've seen something I think you should know about."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "What is it, [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was at Ver Sinhaza and I saw Vanstrom Klause and Ranis Drakan."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "What were they doing?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not sure, they arrived at the same time and both entered the castle."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "Ver Sinhaza is home to the Theatre of Blood. Maybe they were just there as spectators?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Hmmm. Ranis is known to visit the Theatre quite regularly. However, I've never heard of Vanstrom going there before. I'd say this is worth investigating."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you need from me?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Return to Ver Sinhaza and see if you can work out what Vanstrom and Ranis are up to. If you need some help, we recently sent a few of King Roald's mercenaries in that direction."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Vampyric espionage",
+      "sections": [
+        {
+          "title": "Talking to the mercenaries",
+          "sections": [
+            {
+              "title": "Talking to the mercenaries again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Mercenary",
+                      "text": "Hello again. Did you manage to work out what Vanstrom and Ranis are up to?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not yet."
+                    },
+                    {
+                      "speaker": "Mercenary",
+                      "text": "You might be able to spy on them through one of the windows. You'll need to climb to reach them though."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Mercenary",
+                  "text": "Hello. You don't look like the usual rabble around here. What's your story?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Safalaan sent me. He said you could help me with something."
+                },
+                {
+                  "speaker": "Mercenary",
+                  "text": "Ahh Safalaan. Interesting chap isn't he? Those eyes of his are a bit creepy."
+                },
+                {
+                  "speaker": "Mercenary",
+                  "text": "Anyway, we might be able to help but it will need to be quick. We're just about to head into the Theatre. Compared to the citizens, we shouldn't have any issues in there."
+                },
+                {
+                  "speaker": "Mercenary",
+                  "text": "So what help do you need?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I saw Vanstrom Klause and Ranis Drakan arriving at the castle earlier. Do you know if they're still here?"
+                },
+                {
+                  "speaker": "Mercenary",
+                  "text": "Yeah we saw them as well. Pretty hard to miss. We haven't seen them leave yet so I guess they're still inside."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to know what they're doing in there. Any idea how I can do that?"
+                },
+                {
+                  "speaker": "Mercenary",
+                  "text": "Well this place has quite a few windows. Maybe you could use one of them. They're all high up though so you'd need to climb to reach them."
+                },
+                {
+                  "speaker": "Mercenary",
+                  "text": "Aye that might work. Parts of the castle wall have been damaged, it shouldn't be too hard to climb."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Interesting. Thanks for the help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to climb up the rubble near the bank",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vyrewatch",
+                  "text": "Get away from there food sack."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Doesn't look like I'll be able to climb up here with that guard watching. I'll need to distract them somehow."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Harpert",
+          "sections": [
+            {
+              "title": "Talking to Harper after getting enough coins",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Harpert",
+                      "text": "Do you have my money yet?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have it here."
+                    },
+                    {
+                      "speaker": "Harpert",
+                      "text": "Hand it over then."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Harper after giving him 1,000 coins",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Harpert",
+                      "text": "Climb the wall when you're ready. I'll distract the guard when you do."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. I was wondering if you could help me with something."
+                },
+                {
+                  "speaker": "Harpert",
+                  "text": "What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you think you could distract that guard for me while I climb this wall?"
+                },
+                {
+                  "speaker": "Harpert",
+                  "text": "I ain't getting on the wrong side of a vyrewatch for nothing. You'll have to pay me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Eugh fine. How much?"
+                },
+                {
+                  "speaker": "Harpert",
+                  "text": "1,000 coins should do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "1,000 coins? What can you even buy around here for that?"
+                },
+                {
+                  "speaker": "Harpert",
+                  "text": "There's a guy in sector three who sells weapons. Top secret, the vampyres can't know about it. I want to buy a sword from him so I have a better chance in the Theatre."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fine. I'll come back when I have the money."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fine, here's the money."
+                },
+                {
+                  "speaker": "Harpert",
+                  "text": "Thanks. Climb the wall when you're ready. I'll distract the guard when you do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not paying."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to climb up the rubble near the bank after paying Harpert",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Harpert",
+                  "text": "Hey vampyre! Over here!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Spying on Ranis and Vanstrom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "...and you believe this creature will be suitable?"
+                },
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "I have no doubt that it will adequately meet your requirements."
+                },
+                {
+                  "speaker": "Vanstrom Klause",
+                  "text": "Perhaps. But I still believe the vyrewatch can handle this."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "We've given your vyrewatch more than enough opportunities and yet the Myreque still elude us. It's time for another strategy."
+                },
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "The creature before you has advantages over a vyre. It is the perfect hunter. Once it gets a taste of its foes blood, it can track them anywhere."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "We'd still need the blood though."
+                },
+                {
+                  "speaker": "Vanstrom Klause",
+                  "text": "I may have a solution to that, if this is indeed the route we're taking. There is also the question of your sister. She's specifically requested that Safalaan and that outsider be left to her."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "Now is not the time for her games. We can't afford to let the enemy slip through our fingers again."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "Anyway, you worry about the Myreque. I'll handle Vanescula."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "Vanstrom?"
+                },
+                {
+                  "speaker": "Vanstrom Klause",
+                  "text": "Hmm?"
+                },
+                {
+                  "speaker": "Vanstrom Klause",
+                  "text": "Very well, I will make preparations immediately. The sooner we deal with the Myreque the better. Even our kind have weaknesses and if Serafina could discover them, the Myreque can as well."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "Then I think we're done here. Thank you for your time Verzik."
+                },
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "And thank you Ranis. You're always welcome here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well that didn't sound good. I'd better let Safalaan know."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reporting back to Safalaan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Hello again, [player name]. Do you have any news for us?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I do. It's not good I'm afraid."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I managed to spy on a meeting between Vanstrom, Ranis and Verzik Vitur. Verzik gifted them this strange creature which she said would help them track down the Myreque."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Track down the Myreque? How?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "She claimed that the creature could track anyone provided it got a taste of their blood."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "So they'd still need blood from one of us? We might be okay then. It's not like the vampyres name and number the tithes they take."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wouldn't be so sure. Vanstrom seemed to think he had a way around that. Not only that, it sounded like he'd be making his move very soon."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "This isn't good. If Vanstrom thinks he can use this creature against us, I have no reason to disbelieve him. He's proven time and time again that he should not be underestimated."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "So what's our plan?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I'm not sure yet. We'll need to make one quickly though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I help with anything?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Vertida and I will begin forming a plan of action. In the meantime, do you remember that book on haemalchemy you found for us?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I do."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Well our head researcher, Flaygian Screwte, has been working on translating it. Could you check up on him and see how things are going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Remind me."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Following a hint given to you by Sarius Guile, Vanescula Drakan's servant, you found a secret laboratory beneath Meiyerditch. Inside you found a book on haemalchemy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah yes. So, what's happening with this book?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Well our head researcher, Flaygian Screwte, has been working on translating it. Could you check up on him and see how things are going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Flaygian",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there. Safalaan said you were working on translating the haemalchemy book."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "Indeed I am. It's not a quick process I'm afraid. Large parts of the book are written using the vampyric language which isn't easy to translate."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I didn't know the vampyres had their own language."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "Oh yes. It seems to be very old and they don't use it much anymore but it does exist. I suspect it comes in quite useful for things like this where they don't want humans prying into their work."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But you can translate it? How's that going so far?"
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "Like I say, it's slow. My knowledge on the language only comes from things I've seen around the city so I'm having to make a lot of assumptions. I'm making progress though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anything to report?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anything to report?"
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "The book seems to document a lot of the experiments being performed in that lab you found. Interestingly, the experiments were performed on vampyres themselves, as well as humans."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "It appears that they were trying to use the power of haemalchemy to modify both humans and vampyres."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is haemalchemy?"
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "There are some that believe there is a hidden power in blood. Haemalchemy is the act of modifying blood, both magically and scientifically, to harness this power."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "It seems that the vampyres are strong believers in the power of haemalchemy as they've been experimenting quite heavily."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why?"
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "It looks like they had two reasons. First of all they were looking for a way to increase the amount of blood that can be harvested from a human."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "Unsurprisingly, the vampyres here have multiplied much faster than the humans. Perhaps there's no longer enough blood to go around."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And the other reason?"
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "That's the more interesting one. As we're already aware, vampyres possess some form of immunity against our attacks."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "It starts off as only partial in juveniles and juvinates but by the time they become vyres they are totally invulnerable."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "This book implies that the vampyres immunity isn't perfect and that it can be overcome. It seems they were trying to improve this immunity."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Overcome? How?"
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "I haven't got that far yet I'm afraid."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmmm. I might actually be able to help with that bit. I was spying on Vanstrom and Ranis earlier for Safalaan and I heard Vanstrom say something quite interesting."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "What did he say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He implied that Serafina had discovered their weakness."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "Serafina? As in the Serafina who survived the Theatre of Blood?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I believe so."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "That would actually make a lot of sense. We've always wondered how Serafina managed to survive all of the challenges in the Theatre."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "But what if she never needed to? Maybe she took advantage of the vampyres weakness and forced them to let her leave?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you think this is worth exploring?"
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "I do. I'll stay here and keep working on this book. You head out and see if you can find out what Serafina discovered. Safalaan should be able to help you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Flaygian again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What do I need to do again?"
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "We need to find out what Serafina discovered about the vampyres. Talk to Safalaan, he should be able to help you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan",
+          "sections": [
+            {
+              "title": "Talking to Safalaan again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "How can I find the house again?"
+                    },
+                    {
+                      "speaker": "Safalaan Hallow",
+                      "text": "You'll find it in sector four. To get there, leave the base, head north and then head west. Go all the way to the western wall and you'll find a broken fountain. The house is the one directly south of the fountain."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi Safalaan. How are things going?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Not good I'm afraid, [player name]. We've looked over our options and we can't see any solution to this problem. If the vampyres truly have the ability to track us then we won't be safe anywhere in Morytania."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what do we do?"
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "We'll have to leave. We should be able to sneak out of Meiyerditch using the same route you did."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "We can meet up with Veliaf and the rest of the Myreque in Burgh de Rott. Once we're all together, we can travel to Paterdomus and cross the Salve into Misthalin."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Retreat to Misthalin? But what about all the people here that need our help? They'll die without us."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I know it's not ideal, but we can't help anyone if we're dead. The only place we'll be safe from this new threat is on the other side of the Salve."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There must be another way. What about Roald's mercenaries? Can't they help us?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Even with their help the vampyres outnumber us ten to one. The only reason we've survived this long is by hiding in the shadows. Once the vampyres know where we are, we'll be doomed."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I'm sorry, [player name]. This isn't the end of our fight though. Once we're in Misthalin we can build up our strength and find more support. We'll come back stronger than ever before."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So when do we leave?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "It will take a while to pack up all of our equipment but we aim to be gone as soon as possible."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you think there's time for one last job before we go?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I guess that depends what it is."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "While translating the haemalchemy book, Flaygian found reference to a possible weakness in the vampyres."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not only that, I also heard Vanstrom talking about this same weakness. He implied that Serafina found a way to take advantage of it."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Serafina? I suspect she's nothing more than a myth. A tale fabricated by the vampyres to drive people to that Theatre of theirs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But this came from Vanstrom himself."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "That is a valid point I guess. Old Man Ral used to tell plenty of stories about Serafina and he did once tell me where she apparently lived."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I suppose we have time to go and have a quick look around while the others pack everything up here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So where do we go?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "You'll find the house in sector four. To get there, leave the base, head north and then head west. Go all the way to the western wall and you'll find a broken fountain. The house is the one directly south of the fountain."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "It's best that we travel separately so you head out first and I'll meet you there."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The myth of Serafina",
+      "sections": [
+        {
+          "title": "Inspecting the broken fountain",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "This looks like the fountain that Safalaan mentioned. Serafina's house must be this one to the south."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "So this is where Serafina lived. Or so they claim."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Everyone else I've spoken to looks up to Serafina, but you don't even think she was real."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I guess it's not about if she was real or not. It's about what she is now. A symbol. A false one."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Every day, citizens of Meiyerditch throw their lives away in that damn Theatre. All because of her."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But why don't they fight with the Myreque instead?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I guess they don't think the vampyres will ever be beaten. They believe that joining the Myreque will lead to certain death."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Thanks to Serafina, they believe that they at least have a chance with the Theatre."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Anyway, I'm getting distracted. There's a locked door here that might be hiding what we're looking for. Let's see if we can find a way to open it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again before finding any ingredients or checking the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Found anything yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "We should keep looking."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again after finding the Mysterious herb but before checking the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Found anything yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found a herb. It's not a type I recognise."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Maybe a potion is needed. See if you can make one. You can get some water from the broken fountain outside."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again after finding the Mysterious meat but before checking the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Found anything yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found a herb. It's not a type I recognise."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "How odd. We should see if we can find anything else."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again after making the unfinished potion but before checking the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Found anything yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found some ingredients and started making a potion with them."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "A potion? See if you can finish it off."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again after making the potion but before checking the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Found anything yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found some ingredients and made a potion with them."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Interesting. Maybe there's something you can use it with."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again after checking the door but before using the potion on it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Found anything yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The door has an inscription on it."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "What does it say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "'Blood is the price of victory.'"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Blood? Maybe haemalchemy is involved here. We should keep looking around."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again after using the potion on the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Found anything yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found some ingredients for a potion. I made it and tried using it with the door but nothing happened. I also found an inscription on the door."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "What does it say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "'Blood is the price of victory.'"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Hmm... I wonder..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you thinking?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I have an idea that may work. Bring me an empty vial."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "'Blood is the price of victory.' Now try making the potion with this. If my suspicions are correct it should work."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fine. Next time please warn me before you start cutting yourself."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again if the player did not have an empty vial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Do you have that vial?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Well bring one to me. I have an idea."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again after getting the Vial of blood",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Could I have another vial of blood."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I don't have unlimited blood you know! Use the one you've got."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again after losing the Vial of blood",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Could I have another vial of blood."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I hope you don't think I have unlimited blood to spare. Bring me another vial and try not to lose this one."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Please be more careful with this one. I'd rather not die of blood loss."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again if the blood potion has been partially made",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Any luck with that potion?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still working on it."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Keep at it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again if the blood potion has been made but not used on the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Any luck with that potion?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've got a finished potion here."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Well try using it with the door. If my suspicions are correct it should work."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan again if the blood potion has been made and was used on the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Any luck with that potion?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It worked this time. The door is unlocked."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Good work. Hopefully there's something useful behind it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan after obtaining the old notes",
+          "sections": [
+            {
+              "title": "Talking to Safalaan after giving him the old notes",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Safalaan Hallow",
+                      "text": "I think we're all done here. We should head back to the hideout."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Any luck?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found some old notes behind the door."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Excellent. Hopefully they contain something useful. We should head back to the hideout and give them to Flaygian. I can take them if you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here you go."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Thanks. We should head back to the hideout."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll look after them."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "As you wish. Just make sure they get to Flaygian at the hideout."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "It's a trap!",
+      "sections": [
+        {
+          "title": "Talking to Safalaan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "How are things looking Vertida?"
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "All of the essentials are packed up and ready to go."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Excellent. Let the others know that we'll be leaving shortly."
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "I... I don't understand..."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "What is it, Flaygian?"
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "I'm looking through these notes you found but there's nothing here."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "What do you mean nothing?"
+                },
+                {
+                  "speaker": "Flaygian Screwte",
+                  "text": "As in nothing. It's just a load of rubbish. Why would Serafina have written this?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "..."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Because she might not have been the one to write it. [player name], what was it that Verzik said about this creature Vanstrom is using?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That it can track anyone if it has a taste of their blood."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "And when we were at Serafina's home, we used our blood to open that door."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "You don't mean..."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Vanstrom! He used us as bait. Vertida, get the others. We need to leave now!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attack of the abomination",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mekritus A'hara",
+                  "text": "Oh f..."
+                },
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "Mekritus!"
+                },
+                {
+                  "speaker": "Andiess Juip",
+                  "text": "Time to die beast!"
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "Flaygian look out!"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "No! Flaygian!"
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "What's happening? Safalaan?"
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "It's weakened! Let's finish it off!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The abomination's death",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "Safalaan! Are you okay?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I'll be fine. Now we need to get out of here before Vanstrom and his vampyres turn up."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "[player name], we have an old hideout beneath Old Man Ral's house in southern Meiyerditch. Meet us there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Veliaf before talking to Vertida",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well met!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello Veliaf."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Anything to report?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Vanstrom attacked the Myreque in Meiyerditch!"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well we need to go help!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The attack is already over. We won but there were casualties."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Damn them vampyres. We need to find a way to turn things in our favour."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The legendary weapon",
+      "sections": [
+        {
+          "title": "Talking to Safalaan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Mekritus... Andiess... Flaygian... How many more need to die to those monsters?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you okay, Safalaan?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I knew Serafina was a lie. But I wanted so hard to believe. To believe that someone could have actually beaten those vampyres."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "But I was naive and people died because of it."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "More would have died if not for you. Your magic weakened that thing. We would never have been able to kill it without that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What was that magic?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "To be honest, I don't know. It's a power I've had for as long as I can remember. I've never been able to control it though, it only seems to come on when I'm angry or threatened."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How strange."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Indeed. I wish I could tell you more about it but I don't actually remember much about the times it has happened. It's like I have these blank spots in my memory."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Anyway, now is not the time to dwell on it."
+                },
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "So what's the plan boss?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "We should make our way to Burgh de Rott and meet up with Veliaf and the others."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You mean we're still leaving?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "What other choice do we have?"
+                },
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "I just lost some very good friends of mine. I can't walk away from that. The vampyres need to pay."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "We all nearly died back there. I don't intend to throw any more lives away today. We are leaving."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just think for a second though. The vampyres will probably think we all died in the attack. They'll have dropped their guard. Now is the best time to retaliate."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "That is a good point."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "It is. However, in case you'd forgotten, we don't have anything to retaliate with. Serafina was a lie, just another one of Vanstrom's little plots."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "We have no weapon to use against the vampyres. And with Flaygian gone, that won't be changing."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "Actually, I think you might be wrong there."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "Flaygian managed to translate some more of the haemalchemy book while you two were investigating Serafina."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "We never got the chance to look over his new discoveries before the attack. However, I did recover his notes as we left."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Hmmm... All right. [player name], work with Vertida and see if you can finish off Flaygian's work. Make no mistake though, if this doesn't come to anything then we will be leaving."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Vertida",
+          "sections": [
+            {
+              "title": "After reading Flaygian's notes",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Do you need any help with Flaygian's notes?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I need the Rod of Ivandis"
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "I imagine you'd know more about that than me. Weren't you the one who remade it?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I was but I gave it to Veliaf."
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Well I'm sure he still has it. You should ask him if you can have it back. Alternatively, you could always make another."
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Do you need anything else?"
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Check the crates around here, we should have some chain lying around."
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Do you need anything else?"
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Well we have some blessed silver sickles in storage here. You should check the crates. What kind of enchantment does it need?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "An emerald enchantment"
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Well you'll need to get an emerald and attach it to the sickle. You'll be needing a chisel to do that. Once you've attached the emerald, you should be able to enchant the sickle using an enchantment spell."
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Do you need anything else?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After reading creating the Ivandis Flail",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello Vertida. I've finished the weapon."
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Great work. You should let Safalaan know."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Vertida."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "Hello there. I have these notes for us to review. Come back when you have room for them and we'll get started."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "Hello there. Here are the notes Flaygian made. Have a read through and let me know if you need any help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Veliaf",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well met!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello Veliaf."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Anything to report?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was wondering if I could ask a favour?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Of cause, ask away."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Would it be possible for me to have the Rod of Ivandis back?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "What do you need it for?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to convert it into a flail. I have reason to believe that will make it even more effective against vampyres."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well I can hardly say no to that. Here you go."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well I'd be happy to help but you don't have enough room for it."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Looks like you have one right there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh yeah, how didn't I notice."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "But I already gave it to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I lost it."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well you'll just have to make another then. That was the only one I had."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kael",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "Hopefully Flaygain's work will help us against the vampyres."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Safalaan after creating the Ivandis flail",
+          "sections": [
+            {
+              "title": "Talking to Kael",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Kael Forshaw",
+                      "text": "Hello, player. I'll be leaving for Ver Sinhaza soon. You should meet me there."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Vertida",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Hello, player. You'd better get moving. Ranis will be starting his speech soon."
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Well I have made a few more. I suppose I could let you have one. I'll have to charge you though, some of this stuff isn't easy to get hold of."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How much?"
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "20,000 coins should do it."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sounds good to me. I'll take it."
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "Here you go. Put it to good use"
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "I'm afraid you don't have enough room for it. Come back when you do."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "That's a bit too much for me. I guess I'll make myself another one instead."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I don't have that much on me."
+                    },
+                    {
+                      "speaker": "Vertida Sefalatis",
+                      "text": "I'll be here when you do."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good news Safalaan, the weapon is complete."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "About time we had some good news. Great work."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do we do now?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Well I wasn't convinced at first but it turns out you were right. The vampyres seem to believe we're all dead. That's not all though, tell them Kael."
+                },
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "Ranis Drakan himself has sent an open invitation to the people of Meiyerditch, inviting them to Ver Sinhaza."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How come?"
+                },
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "Apparently he intends to officially announce the defeat of the Myreque."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "This is quite possibly one of the best opportunities we've ever been given. Ranis Drakan is brother to Lowerniel Drakan himself and is one of the most senior figures in vampyric society."
+                },
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "And for the first time, we have a weapon that could actually defeat him."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Exactly. This is our chance to bring real hope to these people. The death of any vampyre would send a strong message but the death of Ranis Drakan could change everything."
+                },
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "You don't need to convince me. It's time to show these monsters that their days are done."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "[player name], you are not a citizen of Meiyerditch. You have never felt the pain that these people have. And yet, you have fought for them all the same."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Now I must ask that you fight for them again. You are the most experienced amongst us. You have the best chance of defeating Ranis."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've come this far. I'm not about to leave now. What's our plan."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Take the new weapon and head to Ver Sinhaza. Kael will meet you there. Wait until Ranis has begun his speech, that will be the best time to strike."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I won't let you down."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Thank you, [player name]. Myreque prevail."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The Taste of Hope",
+      "sections": [
+        {
+          "title": "Talking to Kael",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "Well met, [player name]. Ranis will be starting his speech soon. Are you ready?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm ready."
+                },
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "Very well. Good luck."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "Well just let me know when you are."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ranis' speech",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "Citizens of Meiyerditch! I stand before you today so that we may share in a moment of triumph!"
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "For years, the Myreque have lurked in the shadows of this city! Their acts of defiance tainting the greatness that we have all achieved together!"
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "Today, that defiance finally came to an end! Today, we entered the home of the Myreque and eradicated their kind!"
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "Our efforts today would not have been possible without every single one of you. The blood you provide ensures that we remain ever capable of facing these threats."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "For that, you should all be proud."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "However, while today is very much a day of celebration, it should also act as a reminder."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "Rebellion. Resistance. Defiance. These are not the path to freedom. They are merely the path to death."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "Anyone who wishes to be free of this life should instead look to Serafina."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "Follow in her footsteps. Enter the Theatre and survive. Do this and freedom will be yours."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "As good as all of that sounds, I do have just a few issues with it."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "What is this?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You stand here claiming the Myreque are dead but I'm here to prove otherwise."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "For too long you have lorded yourself over these people. Today, that comes to an end. Today..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...you die."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "You know, over the course of my life, I have tasted more blood than you could ever imagine. The variety of flavours is incredible, and yet, there's one taste that all others pale in comparison to."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "You see, there's nothing sweeter than a taste of hope. And you're full of it."
+                },
+                {
+                  "speaker": "Ranis Drakan",
+                  "text": "I'm going to enjoy killing you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The fight with Ranis",
+          "sections": [
+            {
+              "title": "After reaching 65% of his health",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ranis Drakan",
+                      "text": "I take it you killed that abomination then? It was a human once you know. How does that feel?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After killing a vyrewatch",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ranis Drakan",
+                      "text": "He was doomed. With his illness he'd have soon died with or without our tithing. We saved him, just like she wanted. All for you to just kill him!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After reaching 25% of his health",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ranis Drakan",
+                      "text": "She was one of the smart ones. She was willing! Saving him was all that mattered. She was ready to sacrifice anything for that."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After killing the final vyrewatch",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ranis Drakan",
+                      "text": "It's a shame her mind is no longer there. One of the negatives of the process unfortunately. Otherwise I'd have introduced you. I'm sure she'd have loved to meet her brother's killer."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "A speech of hope",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Sooo... I guess this is the part where I say something..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "For hundreds of years, the people of Morytania have suffered under Lord Lowerniel Drakan and his vampyres."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "For too long, they've filled you with false hope. Hope of freedom. All you have to do is follow Serafina and you'll be free. Or so they claim."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well whoever Serafina was, she is gone. There is no freedom in that Theatre. No hope. Just lies. If freedom is truly what you want, there is another path."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You see, the vampyres are not as powerful as they'd have you believe. Ranis Drakan lies dead before you. Killed by a mere human. If he can die, so can the rest."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So now, I ask that you join us. Fight alongside the Myreque and together, we will push back the darkness of Hallowvale."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Together, we will end the tyranny of the Drakan family. Together, we will bring hope to all of Morytania."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Myreque prevail!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finishing up",
+      "sections": [
+        {
+          "title": "Returning to Safalaan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good news Safalaan, Ranis Drakan is no more!"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "I've already heard. The whole city is talking about it."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "[player name], it can never be understated what you have done today. This is the turning of the tide in our battle and it's all down to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks Safalaan. What happens now?"
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Lowerniel Drakan is unlikely to ignore the death of his brother. He will do everything he can to destroy us. I don't expect things to be easy for us from here."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "However, thanks to you, we should hopefully see more support for our own cause. You've finally given these people something to fight for. Something real."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "We'll start planning what our next steps should be right away. You can leave that to us though, you've earnt a break."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Also, it seems only right that you are rewarded for what you've done today. I can't offer much but I do have this tome of knowledge that might come in useful. I think Kael has something for you as well."
+                },
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "That's right. I recovered this medallion from Ranis, you might find a good use for it."
+                },
+                {
+                  "speaker": "Safalaan Hallow",
+                  "text": "Anyway, we'll let you get off. And once again, [player name], thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kael",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Kael Forshaw",
+                  "text": "Much better thanks to you. It actually feels like we're winning for once."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Glad to hear it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Vertida",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vertida Sefalatis",
+                  "text": "Good to have you here, player.Everthing seems to feel more positive when you're around."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Epilogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vanstrom Klause",
+                  "text": "Hmmm... Lord Drakan won't be pleased about this."
+                },
+                {
+                  "speaker": "Vanescula Drakan",
+                  "text": "Oh I'm counting on it..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Kael Forshaw",
+              "text": "That was amazing, [player name]. Now you'd better get back to the hideout. This place will be filled with vampyres soon."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

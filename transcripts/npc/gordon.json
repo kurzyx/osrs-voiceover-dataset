@@ -1,0 +1,114 @@
+{
+  "ref": "gordon",
+  "categoryRef": "npc",
+  "title": "Gordon",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has received Gordon's initial greeting already",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again. How are things?"
+                },
+                {
+                  "speaker": "Gordon",
+                  "text": "Hello there. Not too bad, thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Need a hand with anything?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great to hear. All the best."
+                },
+                {
+                  "speaker": "Gordon",
+                  "text": "Thank you friend. See you later."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Getting Ahead",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gordon",
+                  "text": "Hello again. Thank you for dealing with that beast."
+                },
+                {
+                  "speaker": "Gordon",
+                  "text": "Hello again. Thank you for dealing with that beast. As promised, here's your reward."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's my pleasure."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello. Who are you?"
+            },
+            {
+              "speaker": "Gordon",
+              "text": "The name's Gordon. Good day to you."
+            },
+            {
+              "speaker": "Player",
+              "text": "It's a nice farm you've got here."
+            },
+            {
+              "speaker": "Gordon",
+              "text": "Thank you. We built it ourselves."
+            },
+            {
+              "speaker": "Player",
+              "text": "Really? So you haven't been here long?"
+            },
+            {
+              "speaker": "Gordon",
+              "text": "Nope. Not too long ago you couldn't safely travel around these parts. Too many lizardmen. But then some Hosidius explorers discovered how fertile this land was."
+            },
+            {
+              "speaker": "Gordon",
+              "text": "Lord Hosidius made a deal with Lord Shayzien and the lizardmen were cleared out to make room for the Farming Guild."
+            },
+            {
+              "speaker": "Gordon",
+              "text": "When we heard, we decided to come up here and start up our own farm."
+            },
+            {
+              "speaker": "Player",
+              "text": "Need a hand with anything?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Very nice. Well I hope it goes well for you."
+            },
+            {
+              "speaker": "Gordon",
+              "text": "Thank you friend. See you later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

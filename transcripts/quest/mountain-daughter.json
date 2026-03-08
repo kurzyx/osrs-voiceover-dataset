@@ -1,0 +1,2290 @@
+{
+  "ref": "mountain-daughter",
+  "categoryRef": "quest",
+  "title": "Mountain Daughter",
+  "sections": [
+    {
+      "title": "Entering the camp",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Hamal's Daughter",
+      "sections": [
+        {
+          "title": "Talking to Hamal again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Uhm... any idea on where I should start looking for your daughter?"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "There is a large pool of water beyond the camp. She used to go there often, it was her favourite spot."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Ragnar, her fiance, is probably there as well. I will give him my permission to talk to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What does your daughter look like?"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "She is the fairest maiden of all our tribe, and I daresay of all the northern lands. She has flowing black hair, and when last we saw her, she was wearing a brown dress."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Perhaps you should speak to the man she is to marry, tribesman Ragnar. He can probably tell you more."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "You can find him out by the pool beyond the camp, where my daughter used to go so often."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Greetings, outerlander, I am Hamal. I am the chieftain of this tribe."
+            },
+            {
+              "speaker": "Player",
+              "text": "And my name is [player name/Fremennik name], honourable chieftain."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Ah, an outerlander with manners."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "So tell me what you want from us."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I'm a Fremennik, not an outerlander."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "We are not Fremennik, outerlander."
+            },
+            {
+              "speaker": "Player",
+              "text": "But you look like Fremennik!"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "And you do not look like a Fremennik, but still claim to be one."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "But I will not deceive you. We were part of the Fremennik once, but left the village of Rellekka long ago."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's fascinating, but I'm afraid I have other things to do at the moment."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why is everyone being so hostile to me?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "We are a solitary group, outerlander, and have little experience or interest in outside contact."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "It is also our custom not to talk to outerlanders without my sanction. And I see no reason to sanction it for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "So what are you lot all doing up here in the mountains?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "We left Rellekka because we wanted to live closer to nature. We feel that the people of Rellekka have grown complacent and rely too much on their tools rather than their skill. And while they share our view on the sanctity"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "of the runestones, they still employ and actively use magic."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Their Seer is an affront to the gods!"
+            },
+            {
+              "speaker": "Player",
+              "text": "And you haven't even seen what he did to his house!"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "What?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Anyway."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "We do not recognise the council of Rellekka and want nothing more to do with them. We live on rock and stone now, pure and hard."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "We move on to another part of the mountain slope when the rough land cannot sustain us anymore."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "That said, we have tarried at this location for too long and should be moving on."
+            },
+            {
+              "speaker": "Player",
+              "text": "So why are you still here?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "For one thing, this side of the mountain is mostly free from the menace of the trolls and the delvings of the deformed dwarves."
+            },
+            {
+              "speaker": "Player",
+              "text": "And?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Well, you see..."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "My daughter has gone missing. We have been looking for her and cannot go on without her."
+            },
+            {
+              "speaker": "Player",
+              "text": "A damsel in distress! I will search for her!"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Haha, you have spirit, [player name/fremennik name]."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "But we do not employ outerlanders."
+            },
+            {
+              "speaker": "Player",
+              "text": "You don't need to employ me! Just let me look for her."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Hmmm."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "That seems acceptable to me. Very well, I will allow you to look for her."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "I will instruct my people to let you roam about the area freely, and give limited consent to them to talk to you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Great! I'll be back with her soon. Just wait here."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Oh, I'll be waiting here alright."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry to hear that."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "We do not need your sympathy, outerlander."
+            },
+            {
+              "speaker": "Player",
+              "text": "Maybe the trolls got her?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Do not say such things in jest, outerlander."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Besides, stealth and kidnapping is not their way."
+            },
+            {
+              "speaker": "Player",
+              "text": "Forget it then, you can figure it out on your own."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, I'll stop talking to you then."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "As you wish, outerlander."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm looking for a quest! Do you have any for me?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "We do not employ outerlanders."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, I know the drill, where do I sign up for the trials to join your tribe?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "And we certainly don't let them join us!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Crisis",
+      "sections": [
+        {
+          "title": "Camp dwellers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello! I'm trying to help your chieftain here."
+                },
+                {
+                  "speaker": "Camp dweller",
+                  "text": "We don't need any help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there! Can you help me?"
+                },
+                {
+                  "speaker": "Camp dweller",
+                  "text": "Stay away from me, outerlander."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I need some help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, yes..."
+                },
+                {
+                  "speaker": "Camp dweller",
+                  "text": "Run along then!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello, I'm-"
+                },
+                {
+                  "speaker": "Camp dweller",
+                  "text": "No."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I-"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Isn't there-"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Guard by the entrance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you come and help me? The chieftain's daughter-"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "No, outerlander, I'm guarding this mountain pass from trolls and inquisitive people like you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Doesn't look like you were very successful in the last regard."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "If the chieftain would let me, I would correct that oversight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jokul",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any idea where the chieftain's daughter is?"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "That's what we would all like to know."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ragnar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ragnar",
+                  "text": "So, you are the outerlander whom Hamal said would look for Asleif."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who?"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "You don't even know her name!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "I am sorry outerlander, I have not spoken with your kind for a long time and I'm not feeling so well. You see, I was set to marry Asleif, the most beautiful woman ever to grace this world."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any idea where she might be?"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "She used to come here every day, you know, whenever our camp was set up in the vicinity. She would come to sing, her voice reflecting on the mountains and falling into the pool like sparkling silver. Sometimes I think I can hear her singing, but when I follow the sound around the pool I just end up here again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So... do you have any idea where she might be now?"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "We were supposed to meet here, at the tree by the pool. I think if I wait long enough maybe she will show up again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But... you don't actually have any idea where she is right at the moment?"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "If I knew I wouldn't be standing here, would I?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean, my kind? I'm a Fremennik you know."
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Yet you still use magic, I assume, and have little actual knowledge of the earth and the rock that you stand on every day."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose..."
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Then you are an ignorant, an insult to the gods... and an outerlander."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, okay, you made your point!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Shining Pool",
+          "sections": [
+            {
+              "title": "Listening to the outer shining pools",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Attempting to climbing the slippery tree",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Gathering the mud",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Using the mud on the tree",
+          "sections": [
+            {
+              "title": "Climbing the tree",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Jumping across the clump of rocks",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Using the plank on the flat stones",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Listening to the center shining pool",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Er... yes, hello?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I think I'm going mad, I'm starting to hear things."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hello! Who are you? And where for that matter?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well, I suppose that answered both questions then."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Wait, you're Asleif? I think I was looking for you! Where are you hiding?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "But I thought you said you were Asleif?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I think I'd better have a lie down, I'm starting to get a little dizzy."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So what exactly do you want from me?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Er, I don't think they like the idea of me helping them."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "All right, that sounds like something I can do."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll get right on it."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So let's see, peace with Rellekka, and a new supply of food.'"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm sorry, but I'm not really a farmer. You'll have to find someone else."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm sorry, but I'm not really a diplomat. You'll have to find someone else."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Don't tell me, there's an anthem involved?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Returning to shore",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Attempting to enter the cave",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Speaking with Ragnar again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I spoke to Asleif!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Really? You found her? Where is she, tell me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... there's something you should know."
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, she's sort of... well..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "She's sort of dead."
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "What? Do not say such things! Tell me where you saw her!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I didn't actually see her, not as such. But I did talk to her, right there, on that island in the center of the pool."
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "That island is bare! There's no one there! Do not try to deceive me, outerlander, she is not dead and you did not talk to her!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fine, don't believe me then."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Hamal the Chieftain",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I have found your daughter!"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Where is she? Tell me, outerlander!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, er, she is dead."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Do not play games with me. I gave you leave to walk about our camp, not to trick us."
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "About the people of Rellekka..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why do you hate them so much?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "We do not hate them, outerlander, but we do not approve of their ways either."
+            },
+            {
+              "speaker": "Player",
+              "text": "But don't you basically believe in the same things?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "It is true that our beliefs are not all that different, but we have a different way of applying them, a stricter way."
+            },
+            {
+              "speaker": "Player",
+              "text": "So you've never considered, say, making peace with them?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "We are not at war with them, outerlander, but we try to ignore each other."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "But I must admit that I have, in fact, sent out a representative to Rellekka to talk about improving relations and perhaps setting up a basic trade route."
+            },
+            {
+              "speaker": "Player",
+              "text": "Great! Well, that was easy."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Unfortunately we have not heard from Svidi, our representative, for a few days."
+            },
+            {
+              "speaker": "Player",
+              "text": "Shall I go looking for him as well then?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Do as you wish, outerlander."
+            },
+            {
+              "speaker": "Player",
+              "text": "You're all such a group of petty bickerers! I've only just gone and made peace between Miscellania and Etceteria!"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Miscellania? So that group survived?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Why, do you know them?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Oh yes... that group left the mainland a long time ago. And good riddance to them, I say."
+            },
+            {
+              "speaker": "Player",
+              "text": "Don't tell me you're fighting them as well."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Oh, we're not fighting anyone. But we cannot forgive them for their insulting behaviour before they left."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "It is quite inappropriate to pray to the gods when the moon is half full. Yet it is almost as if they wanted to make a point of it, holding parties in honour of gods almost every night."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "That, and they like to dress up in fancy clothes a bit too much to our tastes."
+            },
+            {
+              "speaker": "Player",
+              "text": "Go on then, go on, tell me, who else split off from your little group of infighting barbarians?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "How do you mean? There is no one else. Well, there's the Gunnarian people who left this area over a century ago, but they don't really count, do they?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "And I suppose that the people of-"
+            },
+            {
+              "speaker": "Player",
+              "text": "No! Forget it! I didn't really want to hear all that!"
+            },
+            {
+              "speaker": "Player",
+              "text": "About your food supplies..."
+            },
+            {
+              "speaker": "Player",
+              "text": "From what I understand you're starting to run out?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "Where did you get that idea from, outerlander?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Er, I just happened to overhear it."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "There is some truth to it, yes. If it were not for my missing daughter, we would have moved on already, and finding food would be easier again for a while."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I help you with finding a new supply of food?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "I would be interested to see how you would manage that, outerlander. But if you insist on trying, go ahead."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Making peace",
+      "sections": [
+        {
+          "title": "Leaving the mountain camp",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Go, outerlander, and do not hurry back."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Svidi",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Are you, by any chance, Svidi? Sent by Hamal to talk to Brundt and the council of Rellekka?"
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Maybe... who is asking? You're an outerlander, aren't you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, but Hamal asked me to rescue you from a Rellekka prison. What are you doing here?"
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "I haven't actually been in Rellekka yet..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why, can't you find the way?"
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Well, I'm not actually sure if I should go in there, you see."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why not?"
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "I've always been told that the people of Rellekka are ignorants, almost as bad as other outerlanders. I think they might kill me if I go there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nonsense. I'm an outerlander and I haven't killed you either!"
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Yes, but you're on your own, they have a whole village."
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "So I don't want to go in there, but I don't want to go back to the camp and tell Hamal that I didn't dare to go to Rellekka either."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Aren't you supposed to be a ferocious warrior?"
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Not all of us are warriors."
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Some of us are schooled in the fine art of diplomacy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can't I persuade you to go in there somehow?"
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "I won't go in there unless I know it's safe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you want me to go with you as your bodyguard?"
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "You? But you're an outerlander! You'd probably lead me to a cave to kill me yourself!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What if I get you some kind of guarantee of safe passage from the village? Will that do?"
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Hmmmm..."
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Yes, that will do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Svidi before receiving the safety guarantee",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Weren't you on your way to Rellekka?"
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Weren't you on your way to get me a guarantee of safe passage into Rellekka?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh yes, I almost forgot."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Brundt doesn't want to talk to any representative until your tribe gives back some rock or other."
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "In that case I'm staying right here. I don't have the authority to trade away our rock."
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Besides, it's ours and he can't have it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Brundt the Chieftain",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "The chieftain from the mountain camp has sent a representative to Rellekka!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Very unusual, outerlander, but we have not seen him yet."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, that's the problem, he doesn't dare to come into Rellekka. He's afraid he's going to get hurt."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "What? He's not much of a warrior, is he?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's what I thought. He says he wants a guarantee of safety."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "I will meet with this man on one condition, outerlander."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "When their group split off from Rellekka, they stole one of the ancient relics of the Fremennik. Our ancient rock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ancient rock? What did it do?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Do?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did it contain vast magical powers?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did it give the owner unimaginable strength?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Was it the eternal prison of an immortal demon?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Amusing, [Fremennik name], but as a Fremennik yourself you know better than that."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "No, no, no. Little do you understand our ways, outerlander."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "The rock was just that, a rock. It had no special properties and was in essence no different from any other rock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what did it mean?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "It symbolised our refusal to use the runestones for ourselves, instead relying on our own abilities."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "The people you speak of took the stone with them when they left for the mountains. They claimed their way of living was more pure and closer to nature."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And is that true?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Maybe, but where's the harm in a bit of feasting from time to time?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "In any case, before the council and I meet with anyone from their camp, they will have to give our rock back."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did it look pretty?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Hmm, not especially I think..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Brundt before receiving the rock",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Why won't you meet with the representative of the mountain camp?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Like I said, we don't want anything to do with them until they give back our ancient rock."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning into the camp through the rockslide",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "I suppose I might as well let you pass now, since I can't seem to stop you anyway."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Just remember that I'm watching you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hamal before removing the rock",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "What is it, outerlander?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "About the people of Rellekka..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Chieftain Brundt says that he won't meet with Svidi unless you give him back some rock or other."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "What, do you mean our ancient rock that our fathers took with them when they left the ignorants of Rellekka?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, that's the one."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Out of the question. That rock belongs to us. It symbolises what we stand for. What would Brundt want with it anyway?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So I can't persuade you to part with the rock?"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Did you not hear me the first time, outerlander? It belongs to us, we will not part with it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Removing the half a rock from the Ancient Rock",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Exiting tent with half a rock",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "What do you have there, outerlander? It's not our rock, is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, of course not! See? It's a completely different rock, it's much smaller."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Alright, you be on your way then."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Brundt the Chieftain after obtaining half a rock",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've brought you back your rock!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Really? Let me see!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "This rock seems a lot smaller than our bard made it out to be."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, it's not the whole rock, it's part of the rock..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I split it in two."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "You truly have the Fremennik spirit in you, [player name]"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "You are unusually insightful for an outerlander!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Yes, we are satisfied with sharing the rock. I'll meet with this representative and will inform the council to join us here in the longhall."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Although I see that Manni is already here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I have that guarantee of safe passage, then, to give to the representative?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I have that guarantee of safe passage, then, to give to the representative?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Oh yes, here it is."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning to Svidi with the safety guarantee",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Brundt gave me the guarantee of safe passage to give to you!"
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Let me see that, I want to be sure it's authentic."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here you go."
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Hmmm..."
+                },
+                {
+                  "speaker": "Svidi",
+                  "text": "Okay, this looks valid enough. I'll go and talk to Brundt."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning to Hamal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "What is it, outerlander?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I did it, I persuaded Brundt to speak to your representative!"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Indeed, outerlander, and how did you accomplish that without giving him our rock?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, yeah, I need to talk to you about that..."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Worry not, you made a wise decision and your boldness is impressive."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "It does not matter, after all, how large the rock is, or what its shape is. And perhaps the two halves of the rock will have extra symbolism now, representing the two halves of the Fremennik culture."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "But first things first. Did Svidi go into Rellekka yet, to speak to Brundt on behalf of our tribe?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oops, I completely forgot about that. I'd better hurry back to him."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "I understand that Svidi's meeting with Brundt went quite well. I must thank you for your assistance, outerlander."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finding food",
+      "sections": [
+        {
+          "title": "Talking to Hamal before obtaining the white pearl",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for some bushes that carry White Pearl fruit. Do you know where I can find any?"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Weren't you the one who was supposed to be looking for it for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh yes, good point."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jokul",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How goes the goat herding?"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "It goes, outerlander..."
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "Times are hard here at the moment. We've been here for too long and there is not much food left, or places where I can take my goats."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I'm trying to find a new supply of food for your people. Any ideas on where to start?"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "If only it were so easy!"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "That being said..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes..?"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "I have heard there is a certain kind of fruit... that will grow even here, in the mountains."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the name of the fruit?"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "It is called White Pearl, named after its white appearance."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Any ideas on where to find some?"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "I do not know. I believe it grows mainly in the mountains, and it can grow in even the most difficult circumstances."
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "We cannot move on until we find the chieftain's daughter, and we do not generally move far inland. But perhaps you can search for it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll see what I can find."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jokkul again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Where could I find that fruit again?"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "You mean the White Pearl?"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "I do not know, outerlander, but you might want to try looking on mountains."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What about this one?"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "No, if it grew on here I would have known."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Obtaining the white pearl seed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jokul after obtaining the white pearl",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Look, I found the White Pearl fruit!"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "You seem to be quite resourceful, outerlander. Go and show it to the chieftain."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hamal after obtaining the white pearl",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "What is it, outerlander?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here, I have something that might interest you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's White Pearl fruit, which grows in even the hardiest circumstances. I found this growing on White Wolf Mountain."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "And what use is one piece of fruit to us, outerlander? It won't feed our tribe for even a day."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oops, I hadn't thought of that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've found this seed that may be of interest to you."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Interesting, what is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's the seed of the White Pearl fruit. It grows on White Wolf mountain, even in the snow."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "With luck, you'll be able to grow it here as well."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "This is a great gift, [player name/fremennik name], which I humbly accept."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jokul after giving Hamal the white pearl seed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jokul",
+                  "text": "I must thank you for your generous gift, outerlander."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Gift?"
+                },
+                {
+                  "speaker": "Jokul",
+                  "text": "Yes, the seed of the White Pearl. It grows remarkably well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah... well, glad to be of help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hamal before fighting the Kendal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hamal, I'm sorry, but your daughter is dead."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "I told you before not to say such things."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "What proof of it do you have anyway?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ehm, none really..."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Then do not say it again. I appreciate what you've done for us already, but don't try our patience."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Fighting the Kendal",
+      "sections": [
+        {
+          "title": "Shining Pool",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, ehm... Asleif spirit thing? Hello?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I did what you asked me to! I improved the relations between Rellekka and the mountain camp, and I found a new supply of food!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So do you have any other quests for me, perhaps with some bigger rewards?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I do that, exactly? I don't think I'll be able to get him down to this little island."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering the cave",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "The Kendal",
+          "sections": [
+            {
+              "title": "Attacking him before talking to him",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "The Kendal",
+                      "text": "Do not attack me, puny mortal [player name/fremennik name]!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Trying to pick up the corpse of woman before killing him",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "The Kendal",
+                      "text": "I did not give you permission to touch that, mortal!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Trying to kill the Kendal if it belongs to another player",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Talking to him",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Errr... hello?"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "Who dares to disturb my slumber?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "It's just me, [player name/fremennik name], no one special."
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "Have you come, then, to pay your respects?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How... exactly do I do that?"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "With your blood, mortal!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Time to go, see you later!"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "Go now, mortal, but I'll be watching you!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You mean a sacrifice? Are you some kind of god?"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "I am the guardian of the mountain, the god of the northern lands. I move the earth and control the skies. I am the Kendal!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I seek your advice, oh great one."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I seek the cowardly murderer of a young lady of a nearby clan of mountain people. Do you know where I can find this person?"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "I am not here to answer questions of such trivial nature! Go now before doom befalls you, mortal!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You look like you escaped from a fairground!"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "I would not say such things if I were you, mortal!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You look like a man in a bearsuit!"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "What did you say, mortal?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I said, you look like a man wearing a bearsuit!"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "How did you figure that out? How did you know?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I just said you looked like a man wearing a bearsuit, I didn't know you were!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So what are you doing here, pretending to be a god?"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "Ah, the people that live in the mountains here, they are a superstitious lot. They fear few things, but magic and gods they're scared to death of."
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "So I took on the guise of one of their legends. It's a good way of being left alone."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "And do you leave them alone as well?"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "Ah, you're referring to the skeletons you see here? Yes, I did. Most of the time, at least. When there was no troll to be ambushed, and I had to eat..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Did you kill a young lady, by the lake? Just recently?"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "Recently? Oh no, the entrance you came through has been blocked off for a good many years now. I've only seen trolls and the occasional stray dwarf since then, until you came along."
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "But yes, more than ten years ago, I did kill someone like that."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh, never mind then, that can't be the person I'm looking for. I'll be off."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Can I see that corpse? I'd like to make sure of something."
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "She is just over there, in the centre, with the dress. I did not eat her after I killed her, she was too beautiful for that."
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "I felt sorry for killing her, but by then it was already too late."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes, she does match the description I was given, it is her after all!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I demand that you hand the body over to me! I must return them to her father!"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "You demand nothing! You may have uncovered my disguise, but my claws can still tear you apart at will!"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "I will not allow you to leave!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I humbly request to be given the remains, so I can return them to her father."
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "I cannot do that. If they knew I wasn't a god, and if her father knew I killed his daughter, the whole tribe would come in here at once and I'd be finished."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I will kill you myself!"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "Come and try!"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "I'm afraid I can't allow you to leave either. You cannot tell anyone about me."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I think you're completely mad, walking around in your silly bearsuit, killing innocent people!"
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "And how is that very much different from you, walking around in silly suits of armour, killing everything that moves?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Never mind."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "It's [player name/fremennik name], of whom many legends are sung."
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "You are brave, to come into my cave and say a thing like that!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Slumber? You didn't seem to be sleeping."
+                    },
+                    {
+                      "speaker": "The Kendal",
+                      "text": "Do not mock me, mortal!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Killing the Kendal",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Trying to pick up another corpse",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Trying to bury the corpse before talking to Hamal",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Leaving the cave",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to Ragnar before Hamal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I found the man who murdered Asleif! He was in a cave just by the pool, but I killed him!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Do not say such things, outerlander! She is not dead, merely missing."
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "She'll show up again... yes, yes, I'm sure of it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But she's been missing for more than ten years!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Yes, I know... well, that doesn't mean she can't still come back, right?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, yeah, right... sure."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Look, here, I even have her corpse!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "I do not want to see any of the corpses you're carrying around with you! Begone!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Shining pool before Hamal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I found him! I found your murderer! It was some bear-like man who called himself the Kendal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, it was actually a guy in a bearsuit. But he's dead now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hamal about the Kendal for the first time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you know there is a strange bear like thing in a cave near the pool?"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Yes, it is the Kendal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Only the cave is hidden behind some trees, you see-"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What, you mean you know that already?"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Of course. We planted the trees there ourselves many years ago."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "It is unwise to come too close to a god, so we made sure no one would go there anymore."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But but but..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He's not a god! He's a man in a bearsuit! And he killed your daughter!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And why didn't you tell me she's been missing for more than ten years?"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Fourteen years, to be exact. And I didn't say otherwise, did I? As for the Kendal, what proof have you of these serious accusations?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You want proof for everything, don't you? Why don't you just go and have a look?"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Like I said, it is not wise to approach a god so closely."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... I've only gone and killed him, haven't I?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... I've only gone and killed him, haven't I? I'm even wearing his hat!"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "You have? Then we made an enormous mistake."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "As did he. Impersonating a god bears the highest penalty imaginable, but I did not think that kind of justice would be delivered by the hand of an outerlander."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I also found your daughter. The bearman killed her."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "So it is true then, after all? Let me see her body please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I didn't bring it with me, I'll go and look for it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Yes, I see it is her. So it is also true that you spoke to her spirit at the pool?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, it's true."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Then she must be buried there, on the island at the center of the pool... to bring peace to her spirit. This is a most unusual situation, but will you bury her, [player name/fremennik name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Then please listen closely. If she is given a proper burial, she is to be buried with some of her possessions. I see she's still wearing her dress, so you will need one more item."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "When she has been buried, you must build a cairn on top. It is our tradition to build these cairns in the shape of our longboats that we use when we need to cross the seas. You can use rocks for this purpose, about five or so should be enough."
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Only then are the burial rites complete."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So I need to bury her with one of her possessions, and build a cairn on top made out of rocks. So where do I get another one of her possessions?"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "Asleif had little possessions in life and none that have survived the years. I do not know where you might find such a thing, but perhaps Ragnar does, out by the pool."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I won't."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I... ehm..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Errr..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hamal again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I killed the bearman! He really was just a man after all, like I said!"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "You have? Then we made an enormous mistake."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need some help with killing this bear thing in the cave. Do you have any warriors to come with me?"
+                },
+                {
+                  "speaker": "Hamal the Chieftain",
+                  "text": "If you wish to confront the god it is your own affair, outerlander, but we will not be any part of it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ragnar again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ragnar",
+                  "text": "I heard the news from Hamal, outerlander. Alas, I have known this had to be so for a long time, but Hamal just didn't want to listen."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh huh."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, Hamal asked me to bury her with some of her possessions. But he doesn't have any anymore."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have anything that may help?"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "I'm not altogether sure... I do have one thing that may be appropriate."
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "I was going to give her a necklace, when we were supposed to meet here many years ago."
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "I still have it, and since it was a gift for Asleif, technically it's hers."
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Take it, outerlander, and bury it with her. It will be my parting gift."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You've been waiting to give it to her all that time?"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Oh yes... she is my only love, you see, and will be so forever."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But that's ridiculous! Don't you ever go out and have some fun? What is wrong with you people!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "I do not expect you to understand such things. But perhaps you will find your own love one day, and then you will remember these words."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've already got a marriage lined up, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Listening to the Shining pool before laying Asleif to rest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Uhm... Asleif? Hello?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I convinced your father about your death. He asked me to give you a proper burial, here on this island."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, it's kind of awkward... can you maybe be silent while I bury you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, right. Well, I'd better get on with it then."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Laying Asleif to rest",
+          "sections": [
+            {
+              "title": "Burying the corpse",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Listening to the Shining pool before building the cairn",
+          "sections": [
+            {
+              "title": "Building the cairn",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Uhm... Asleif? Hello?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello? Are you there?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Burying her must have really helped! I should get on with building the cairn on top."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to Hamal after quest completion",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "You are a most unusual outerlander. The council of Rellekka was wise to make you an honourary Fremennik."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "You are a most unusual outerlander. Perhaps you should seek to become an honourary Fremennik, in Rellekka."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "You are a most unusual outerlander. I'm sure that you will be able to complete your Fremennik trials some time."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "You have my thanks, in any case."
+            },
+            {
+              "speaker": "Player",
+              "text": "So what are you all going to do now? Are you finally going to move to another location?"
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "No, I've decided to set up a permanent camp here."
+            },
+            {
+              "speaker": "Hamal the Chieftain",
+              "text": "There is no need to move now with our new supply of food. Also, there is a protective spirit looking after us now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

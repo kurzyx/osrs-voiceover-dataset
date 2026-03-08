@@ -1,0 +1,29 @@
+{
+  "ref": "elf-tracker",
+  "categoryRef": "npc",
+  "title": "Elf Tracker",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Elf Tracker",
+              "text": "How goes it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

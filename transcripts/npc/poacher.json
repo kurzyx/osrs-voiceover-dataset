@@ -1,0 +1,101 @@
+{
+  "ref": "poacher",
+  "categoryRef": "npc",
+  "title": "Poacher",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When poachers place a new trap",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Poacher",
+                  "text": "Come here little fox!"
+                },
+                {
+                  "speaker": "Poacher",
+                  "text": "I'll just pop this here..."
+                },
+                {
+                  "speaker": "Poacher",
+                  "text": "This'll get that mangy fox!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When dismantling a trap",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Poacher",
+                  "text": "Hey, you're not a fox!"
+                },
+                {
+                  "speaker": "Poacher",
+                  "text": "Hey, don't touch that!"
+                },
+                {
+                  "speaker": "Poacher",
+                  "text": "Oi, leave those traps alone!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the Frightened Fox is saved",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Poacher",
+                  "text": "You win this time!"
+                },
+                {
+                  "speaker": "Poacher",
+                  "text": "Let's get out of here!"
+                },
+                {
+                  "speaker": "Poacher",
+                  "text": "We'll get you next time, fox!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the Frightened Fox is killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Poacher",
+                  "text": "We've got you now, fox!"
+                },
+                {
+                  "speaker": "Poacher",
+                  "text": "Maybe I'll make a nice new hat!"
+                },
+                {
+                  "speaker": "Poacher",
+                  "text": "Its pelt will fetch a nice price!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

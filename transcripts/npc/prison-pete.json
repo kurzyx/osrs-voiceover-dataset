@@ -1,0 +1,267 @@
+{
+  "ref": "prison-pete",
+  "categoryRef": "npc",
+  "title": "Prison Pete",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Entering ScapeRune",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "So you've been captured too?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Captured?"
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Yes, Evil Bob captured me and stuck me in this prison."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I get out of here? I can't be held captive by a cat!"
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Some of these balloon animals have keys in them, and if you pull the big lever it tells you which shape animal contains the correct key, but I can never find it."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "You need to pull the lever to find out which shape animal contains the key, then pop that sort of animal to get the key."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Bring me any keys you get and I'll try them on the doors."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Oh. Well I guess you can leave but I'll still be stuck here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to pop a balloon animal before pulling the lever",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "You're meant to pull the lever to find out which sort of animal to pop!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prison Pete again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Don't you remember? This is ScapeRune's prison. Evil Bob caught you and brought you here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What gives him the right to lock me up? I demand to see a lawyer! I know my rights!"
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Evil Bob doesn't care about people's rights. He's cruel and utterly merciless. He's a cat."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I get out of here? I can't be held captive by a cat!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I get out of here? I can't be held captive by a cat!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using an item other than a prison key on Prison Pete",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "No thanks, I don't want that just now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pulling the lever for the first time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "That's right, pull it. Then remember what kind of animal shape you see. That's the animal that contains the right key."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Popping a balloon animal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Great, now you've got a key! Bring it to me so I can try it on the doors."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Ooh, thanks! I'll see if it's the right one..."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Aww, that was the wrong key! You must have popped the wrong sort of animal. Try the big lever again - it'll tell you which animal to pop."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Hooray, you got the right one! Now pull the lever again and let's get the next portal unlocked!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to pop a balloon animal whilst holding a prison key",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Hey, bring me that key you've got! I wanna get out of here!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After unlocking the last barrier",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "You did it, you got all the keys right! Thank you! You're my friend FOREVER!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's get out of here before that cat notices."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to pop a balloon animal after unlocking last barrier",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Come on, we should leave before Evil Bob comes back! You go first; I'll follow along."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to leave through the prison doors",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Oi! we'll be using the exit that's over here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to drop items in the exit",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Oi! No dropping stuff in the exit! Chuck it somewhere else!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Leaving through the exit",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Thanks a lot for your help! Here, have a present:"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks! See you around!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prison Pete after getting rewarded",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Don't mind me, I was just leaving..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

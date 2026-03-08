@@ -1,0 +1,67 @@
+{
+  "ref": "nolar",
+  "categoryRef": "npc",
+  "title": "Nolar",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Nolar",
+              "text": "I have a wide variety of crafting tools on offer, care to take a look?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Catching the player trying to steal from his crafting stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nolar",
+                  "text": "Hey you, hands off that!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with him after stealing from his crafting stall recently",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nolar",
+                  "text": "Thief! You stole from me!"
+                },
+                {
+                  "speaker": "Nolar",
+                  "text": "Guards, guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

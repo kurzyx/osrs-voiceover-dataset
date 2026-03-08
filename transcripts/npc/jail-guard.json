@@ -1,0 +1,41 @@
+{
+  "ref": "jail-guard",
+  "categoryRef": "npc",
+  "title": "Jail guard",
+  "sections": [
+    {
+      "title": "Historical dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi, who are you guarding here?"
+            },
+            {
+              "speaker": "Jail guard",
+              "text": "Can't say, all very secret. You should get out of here. I am not supposed to talk while I guard."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hey, chill out, I won't cause you trouble. I was just wondering what you do to relax."
+            },
+            {
+              "speaker": "Jail guard",
+              "text": "You never relax with these people, but it's a good career for a young man."
+            },
+            {
+              "speaker": "Player",
+              "text": "I had better leave, I don't want trouble."
+            },
+            {
+              "speaker": "Jail guard",
+              "text": "Thanks, I appreciate that. Talking on duty can be punishable by having your mouth stitched up. These are tough people, no mistake."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

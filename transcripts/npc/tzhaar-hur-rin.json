@@ -1,0 +1,127 @@
+{
+  "ref": "tzhaar-hur-rin",
+  "categoryRef": "npc",
+  "title": "TzHaar-Hur-Rin",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "TzHaar-Hur-Rin",
+              "text": "Can I help you [TzHaar caste]-[player name]?"
+            },
+            {
+              "speaker": "TzHaar-Hur-Rin",
+              "text": "Are you not [TzHaar caste]-[player name]?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's a '[TzHaar caste]'?"
+            },
+            {
+              "speaker": "TzHaar-Hur-Rin",
+              "text": "That what you are... you tough and strong no?"
+            },
+            {
+              "speaker": "TzHaar-Hur-Rin",
+              "text": "That what you are... you user of mystic powers no?"
+            },
+            {
+              "speaker": "TzHaar-Hur-Rin",
+              "text": "That what you are... you agile and quick no?"
+            },
+            {
+              "speaker": "TzHaar-Hur-Rin",
+              "text": "That what you are... you skilled at making things no?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well yes I suppose I am..."
+            },
+            {
+              "speaker": "TzHaar-Hur-Rin",
+              "text": "Then you [TzHaar caste]!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you then?"
+            },
+            {
+              "speaker": "TzHaar-Hur-Rin",
+              "text": "Silly JalYt, I am TzHaar-Hur, one of the crafters for this city."
+            },
+            {
+              "speaker": "TzHaar-Hur-Rin",
+              "text": "There are the wise TzHaar-Mej who guide us, the mighty TzHaar-Ket who guard us, and the swift TzHaar-Xil who hunt for our food."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks for explaining it."
+            },
+            {
+              "speaker": "Player",
+              "text": "I guess so..."
+            },
+            {
+              "speaker": "TzHaar-Hur-Rin",
+              "text": "Well then, no problems."
+            },
+            {
+              "speaker": "Player",
+              "text": "No I'm not!"
+            },
+            {
+              "speaker": "TzHaar-Hur-Rin",
+              "text": "What ever you say, crazy JalYt!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No I'm fine thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Catching the player trying to steal from their stalls",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "TzHaar-Hur-Rin",
+                  "text": "No no no! TzHaar-Hur-Rin not approve. Hands off."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with them after stealing from their stalls recently",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "TzHaar-Hur-Rin",
+                  "text": "You are bad JalYt. You stole from this store."
+                },
+                {
+                  "speaker": "TzHaar-Hur-Rin",
+                  "text": "TzHaar-Ket!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ref": "fisherman-rellekka-",
+  "categoryRef": "npc",
+  "title": "Fisherman (Rellekka)",
+  "sections": [
+    {
+      "title": "Before The Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Fisherman",
+              "text": "Don't talk to me outerlander. Anything you have to say to me, you can say to the Chieftain. Goodbye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Fisherman",
+              "text": "Welcome back [brother/sister] [Fremennik name]. It has been too long since last we spoke! The fish are really biting today!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

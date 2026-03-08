@@ -1,0 +1,113 @@
+{
+  "ref": "edmond",
+  "categoryRef": "npc",
+  "title": "Edmond",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After Plague City",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Ah hello. Thank you again for rescuing my daughter."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No problem."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "During Song of the Elves",
+          "sections": [],
+          "dialogues": []
+        },
+        {
+          "title": "After the Song of the Elves quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Edmond",
+                  "text": "Hello there friend. I hope you're looking after Elena out there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think she might be the one looking after me."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Ha. That's my Elena."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When holding the scroll",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Edmond",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Edmond",
+                      "text": "Is that your final answer? Because it sounds unlikely to me."
+                    },
+                    {
+                      "speaker": "Edmond",
+                      "text": "Sounds good!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Edmond",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Possibly, do you have a challenge for me?"
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Yes, I do as a matter of fact."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

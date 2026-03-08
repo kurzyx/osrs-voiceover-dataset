@@ -1,0 +1,156 @@
+{
+  "ref": "cook-lumbridge-",
+  "categoryRef": "npc",
+  "title": "Cook (Lumbridge)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After Cook's Assistant",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cook",
+                  "text": "How is the adventuring going, my friend?"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "I don't have anything for you to do right now, sorry."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am getting strong and mighty. Grrr"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Glad to hear it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I keep on dying."
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Ah well, at least you keep coming back to life!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I use your range?"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Go ahead - it's a very good range. It's easier to use than most other ranges."
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Its called the Cook-o-matic 100. It uses a combination of state of the art temperature regulation and magic."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will it mean my food will burn less often?"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Well, that's what the salesman told us anyway..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Recipe for Disaster",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cook",
+                  "text": "You were seriously great when you defeated the Culinaromancer! I can't believe I nearly caused all of those people to be killed! So how is the adventuring going now?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with the cooking range in Lumbridge Castle before finishing Cook's Assistant",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cook",
+                  "text": "Hey, who said you could use that?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Beginner",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cook",
+                  "text": "Well done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Cook",
+                      "text": "Please tell me how many cannons there are."
+                    },
+                    {
+                      "speaker": "Cook",
+                      "text": "Hmm, I don't think that's right."
+                    },
+                    {
+                      "speaker": "Cook",
+                      "text": "Cheers!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cook",
+                  "text": "I've always wondered how many cannons the castle has. Could you find out for me?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

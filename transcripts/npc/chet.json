@@ -1,0 +1,93 @@
+{
+  "ref": "chet",
+  "categoryRef": "npc",
+  "title": "Chet",
+  "sections": [
+    {
+      "title": "Before completing Troubled Tortugans",
+      "sections": [
+        {
+          "title": "Trying to use the coral nurseries",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chet",
+                  "text": "Leave the coral nurseries alone please."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Chet",
+              "text": "Hello, human. Please be careful around the coral nurseries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing Troubled Tortugans",
+      "sections": [
+        {
+          "title": "Initial dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chet",
+                  "text": "Human. Apparently you helped out with a gryphon problem or something. Reggle says you're now trusted enough to use the coral nurseries."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Would you look after my coral for me?"
+                },
+                {
+                  "speaker": "Chet",
+                  "text": "I suppose. Which nursery were you thinking of?"
+                },
+                {
+                  "speaker": "Chet",
+                  "text": "You haven't put any frags in that nursery yet. Do so and I might agree to look after it for you."
+                },
+                {
+                  "speaker": "Chet",
+                  "text": "You haven't put any frags in that nursery yet. Do so and I might agree to look after it for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you sell me something?"
+                },
+                {
+                  "speaker": "Chet",
+                  "text": "That depends on whether I have it to sell. What is it that you're looking for?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll come back another time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent Dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

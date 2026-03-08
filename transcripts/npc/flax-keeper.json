@@ -1,0 +1,126 @@
+{
+  "ref": "flax-keeper",
+  "categoryRef": "npc",
+  "title": "Flax keeper",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Flax keeper",
+              "text": "Hello. I'm the flax keeper. I tend to the flax fields, keeping the yield and continued flax harvest healthy."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ooh! Great work!"
+            },
+            {
+              "speaker": "Flax keeper",
+              "text": "Thank you. I must get back to work. You never know when a great flax harvest will begin!"
+            },
+            {
+              "speaker": "Flax keeper",
+              "text": "Hello. Do you want to exchange some flax banknotes for bowstrings? I'll exchange [amount] for you today, and you can come back tomorrow for more."
+            },
+            {
+              "speaker": "Player",
+              "text": "I didn't actually bring [amount] flax banknotes with me."
+            },
+            {
+              "speaker": "Flax keeper",
+              "text": "Oh. Well, if you fetch that many flax banknotes, I'll swap them for bowstrings for you."
+            },
+            {
+              "speaker": "Flax keeper",
+              "text": "Um... Actually, you seem to have so much stuff that you can't hold the bowstrings."
+            },
+            {
+              "speaker": "Flax keeper",
+              "text": "Hello again. I'm afraid I won't be able to exchange any more flax for bowstrings today. Try me again tomorrow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Exchange option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Flax keeper",
+              "text": "Hello. I'm the flax keeper. I tend to the flax fields, keeping the yield and continued flax harvest healthy."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ooh! Great work!"
+            },
+            {
+              "speaker": "Flax keeper",
+              "text": "Thank you. I must get back to work. You never know when a great flax harvest will begin!"
+            },
+            {
+              "speaker": "Flax keeper",
+              "text": "Today I can exchange [amount] flax banknotes for bowstrings, if you bring me enough flax banknotes."
+            },
+            {
+              "speaker": "Flax keeper",
+              "text": "Sorry, your inventory's too full of stuff."
+            },
+            {
+              "speaker": "Flax keeper",
+              "text": "Hello again. I'm afraid I won't be able to exchange any more flax for bowstrings today. Try me again tomorrow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Flax keeper",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Flax keeper",
+                      "text": "No, try again."
+                    },
+                    {
+                      "speaker": "Flax keeper",
+                      "text": "Correct!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Flax keeper",
+                  "text": "I have a question for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

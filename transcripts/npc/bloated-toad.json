@@ -1,0 +1,53 @@
+{
+  "ref": "bloated-toad",
+  "categoryRef": "npc",
+  "title": "Bloated toad",
+  "sections": [
+    {
+      "title": "When filling a bloated toad with ogre bellows without carrying a rock or ball of wool",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "When filling a bloated toad with ogre bellows while carrying both",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When eaten by a chompy bird",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chompy bird",
+                  "text": "Sqwark!"
+                },
+                {
+                  "speaker": "Bloated toad",
+                  "text": "!!Croak!!"
+                },
+                {
+                  "speaker": "Chompy bird",
+                  "text": "Gobble!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

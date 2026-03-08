@@ -1,0 +1,151 @@
+{
+  "ref": "ungadulu",
+  "categoryRef": "npc",
+  "title": "Ungadulu",
+  "sections": [
+    {
+      "title": "Standard Dialogue",
+      "sections": [
+        {
+          "title": "After finishing Legends' Quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ungadulu",
+                  "text": "Your Legendary exploits are travelling the whole jungle."
+                },
+                {
+                  "speaker": "Ungadulu",
+                  "text": "Gujuo has been to see me. He told me that you have been given a sacred totem pole. It was constructed by one of my ancestors many moons ago. It is a noble prize Bwana, you have earned it. Look after it well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player attempts to attack Ungadulu while inside the ring",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ungadulu",
+                  "text": "I hope that teaches you to respect your elders!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player attempts to attack Ungadulu with curse spells while outside the ring",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "If the player attempts to attack Ungadulu with melee while outside the ring",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "If attacking Ungadulu with holy water",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ungadulu",
+                  "text": "Vile serpent, thou wilt pay for that!"
+                },
+                {
+                  "speaker": "Ungadulu",
+                  "text": "...What, what happened? Why am I all wet?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player casts the curse spell on Ungadulu before talking to him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ungadulu",
+                  "text": "What...what's happening..."
+                },
+                {
+                  "speaker": "Ungadulu",
+                  "text": "Ha ha ha ha! Die, Vacu!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player talks to Ungadulu and then casts curse on him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ungadulu",
+                  "text": "Please, just run..."
+                },
+                {
+                  "speaker": "Ungadulu",
+                  "text": "Welcome Vacu, to eternal..."
+                },
+                {
+                  "speaker": "Ungadulu",
+                  "text": "Foolish Vacu... now thou shalt be my pawn..."
+                },
+                {
+                  "speaker": "Ungadulu",
+                  "text": "Iles Resti Yam Darkus Spiritus Possesi Yanai..."
+                },
+                {
+                  "speaker": "Ungadulu",
+                  "text": "Run, Bwana! Stay away from here!"
+                },
+                {
+                  "speaker": "Ungadulu",
+                  "text": "Thank you, Bwana! You have released me from the demon's grasp, but only for a short while! You must seek out the Book of Binding - it's hidden in these caves somewhere!."
+                },
+                {
+                  "speaker": "Ungadulu",
+                  "text": "There are many trials you must pass... but please, you're my only hope of escape!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player uses the Book of Binding on Ungadulu",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ungadulu",
+                  "text": "Curse you... foul intruder... wretched Vacu! Thy meddling ways hath brought thee to thy doom!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

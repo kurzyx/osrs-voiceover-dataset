@@ -1,0 +1,54 @@
+{
+  "ref": "bartender-the-big-heist-lodge-",
+  "categoryRef": "npc",
+  "title": "Bartender (The Big Heist Lodge)",
+  "sections": [
+    {
+      "title": "Before Desert Treasure I",
+      "sections": [
+        {
+          "title": "Attempting to trade with the Bartender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bartender",
+                  "text": "Get out of here, we don't like your sort in these parts."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartender",
+              "text": "Get out of here. I have nothing to say to the likes of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing Desert Treasure I",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartender",
+              "text": "So you're the [fella/lass] that freed Azzanadra, huh? Fair play to ya. What will you have?"
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Didn't feel like a drink after all, huh? Well, stop by anytime, hero."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

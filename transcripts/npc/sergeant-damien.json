@@ -1,0 +1,191 @@
+{
+  "ref": "sergeant-damien",
+  "categoryRef": "npc",
+  "title": "Sergeant Damien",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sergeant Damien",
+              "text": "Private [player name], atten-SHUN! You've been recommended for my corps. Do you think you can be the best?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sir, yes sir!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks, I'm not interested."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "At the Drill Demon training area",
+      "sections": [
+        {
+          "title": "After being teleported",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "Move yourself, Private! Follow my orders and you may, just may, leave here in a fit state for my corps!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to use an exercise mat before an instruction",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "I haven't given you the order yet, worm!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After performing the correct exercise or starting the random event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "I want to see you on that mat doing star jumps, private!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to leave."
+                },
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "Pathetic. Get out of here then."
+                },
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "Drop and give me push ups on that mat, private!"
+                },
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "Get yourself over there and jog on that mat, private!"
+                },
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "Get on that mat and give me sit ups, private!"
+                },
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "Well I'll be, you actually did it, Private. Now take this and get out of my sight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After performing the incorrect exercise",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "Wrong exercise, worm! Drop and give me push ups on that mat, private!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to leave."
+                },
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "Pathetic. Get out of here then."
+                },
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "Wrong exercise, worm! I want to see you on that mat doing star jumps, private!"
+                },
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "Wrong exercise, worm! Get on that mat and give me sit ups, private!"
+                },
+                {
+                  "speaker": "Sergeant Damien",
+                  "text": "Wrong exercise, worm! Get yourself over there and jog on that mat, private!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "If the player completed the event or is in a zone where the random event isn't allowed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sergeant Damien",
+              "text": "As you were, soldier."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sergeant Damien",
+              "text": "Private [player name], atten-SHUN!"
+            },
+            {
+              "speaker": "Sergeant Damien",
+              "text": "Private [player name], atten-SHUN!"
+            },
+            {
+              "speaker": "Sergeant Damien",
+              "text": "Stop day-dreaming, Private [player name]!"
+            },
+            {
+              "speaker": "Sergeant Damien",
+              "text": "Get your rear in gear, Private [player name]!"
+            },
+            {
+              "speaker": "Sergeant Damien",
+              "text": "I want you for my corps, Private [player name]!"
+            },
+            {
+              "speaker": "Sergeant Damien",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

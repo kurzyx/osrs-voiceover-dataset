@@ -1,0 +1,249 @@
+{
+  "ref": "tree-draynor-guard-",
+  "categoryRef": "npc",
+  "title": "Tree (Draynor guard)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without stew",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Ssshhh! What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, it's not every day you see a man up a tree."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "I'm trying to observe a suspect. Leave me alone!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's this all about?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Hadn't you heard? You'd better go and talk to the other guard, the one by the bank door. He'll tell you all about it."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Go on, ask him what's wrong with the bank wall. He loves when people ask him that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, if you say so.."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This is about the bank robbery, right?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Yes, that's right. We're keeping the suspect under tight observation for the moment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can't you just... I dunno... arrest him?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "I'm not meant to discuss the case. You know what confidentiality rules are like."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're not being very subtle up there."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "I'd be doing a lot better if nits like you didn't come crowding around me all day!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But your legs are hanging down!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Go away!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please yourself!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I do anything to help?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "That's very kind of you. I'd rather like a nice bowl of stew, if you could fetch me one. I don't get many meal breaks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You want a bowl of stew?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "If you wouldn't mind..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll think about it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With stew",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Yes, what do you... I say, is that stew for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, take the stew!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Gosh, that's very kind of you! Here, have a few coins for your trouble..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I want to keep this stew!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Fair enough. But if you change your mind, I'll probably still be here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a stew on the tree",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Here's some stew."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Gosh, that's very kind of you! Here, have a few coins for your trouble..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with the guard before he drops his bowl",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I think I should leave him in peace to finish his stew!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using any other item on the tree",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Why the demoninikin are you waving THAT at me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I thought you'd like it."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Erm... No thanks! Now, if you don't mind, I'm trying to observe this suspect!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using the right-click chop-down option with an axe on hand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Ooooch!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Watch what you're doing with that axe, you nit!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "You'll blow my cover! I'm meant to be hidden!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Will you stop that?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Don't draw attention to me!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Hey - gerroff me!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Ow! That really hurt!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

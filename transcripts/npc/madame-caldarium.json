@@ -1,0 +1,132 @@
+{
+  "ref": "madame-caldarium",
+  "categoryRef": "npc",
+  "title": "Madame Caldarium",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello!"
+            },
+            {
+              "speaker": "Madame Caldarium",
+              "text": "Good morrow, adventurer."
+            },
+            {
+              "speaker": "Player",
+              "text": "I guess so."
+            },
+            {
+              "speaker": "Madame Caldarium",
+              "text": "You guess? The sun is shining, the sea breeze is salty, what's not to enjoy?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't know... The sand? It's coarse and rough and irritating, and it gets everywhere."
+            },
+            {
+              "speaker": "Madame Caldarium",
+              "text": "Hmm, well my spa isn't quite ready yet, but when it is, I'm sure that'll solve all of your sand related issues!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Madame Caldarium",
+              "text": "I am Madame Caldarium! A pirate's life was for me, but lately I've been looking to expand my business, I'm getting old, ya see."
+            },
+            {
+              "speaker": "Player",
+              "text": "A spa business? Do you really think these Corsairs are the washing type?"
+            },
+            {
+              "speaker": "Madame Caldarium",
+              "text": "Ha! That's what the Rum is for!"
+            },
+            {
+              "speaker": "Madame Caldarium",
+              "text": "I'm more concerned of their laziness, 'Can't work today Madame, I'm cursed!'. Bunch of idiots, the lot of 'em."
+            },
+            {
+              "speaker": "Player",
+              "text": "Surely you never expected this lot to be any different... They're either stealing, killing or both!"
+            },
+            {
+              "speaker": "Madame Caldarium",
+              "text": "Yes... I have plans adventurer, the local cave dwelling population are... Let's say, sorting something out."
+            },
+            {
+              "speaker": "Player",
+              "text": "Interesting, I'm sure that'll be an entertaining turn of events."
+            },
+            {
+              "speaker": "Madame Caldarium",
+              "text": "We'll see..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye!"
+            },
+            {
+              "speaker": "Madame Caldarium",
+              "text": "Farewell, adventurer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Madame Caldarium",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Madame Caldarium",
+                      "text": "No, try again."
+                    },
+                    {
+                      "speaker": "Madame Caldarium",
+                      "text": "Correct!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Madame Caldarium",
+                  "text": "I have a question for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

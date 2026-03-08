@@ -1,0 +1,33 @@
+{
+  "ref": "thormac",
+  "categoryRef": "npc",
+  "title": "Thormac",
+  "sections": [
+    {
+      "title": "Standard dialogue after Scorpion Catcher",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Thormac",
+              "text": "Thank you for rescuing my scorpions."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's ok."
+            },
+            {
+              "speaker": "Player",
+              "text": "You said you'd enchant my battlestaff for me."
+            },
+            {
+              "speaker": "Thormac",
+              "text": "Yes, it'll cost you [20,000 / 30,000 / 40,000] coins for the materials needed though. Which sort of staff did you want enchanting?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

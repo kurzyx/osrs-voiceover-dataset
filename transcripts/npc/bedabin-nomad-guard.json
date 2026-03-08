@@ -1,0 +1,41 @@
+{
+  "ref": "bedabin-nomad-guard",
+  "categoryRef": "npc",
+  "title": "Bedabin Nomad Guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has not completed The Tourist Trap",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bedabin Nomad Guard",
+                  "text": "Sorry, but you can't use the tent without permission. Orders of Al Shabim."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has completed The Tourist Trap",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bedabin Nomad Guard",
+                  "text": "Sorry, but you can't use the tent without permission. But thanks for all your help with the Bedabin people."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

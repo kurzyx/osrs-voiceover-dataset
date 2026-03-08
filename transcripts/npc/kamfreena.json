@@ -1,0 +1,536 @@
+{
+  "ref": "kamfreena",
+  "categoryRef": "npc",
+  "title": "Kamfreena",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Kamfreena",
+              "text": "Why hello there! I'm Kamfreena. Like the look of my pets? I think they're eyeing you up."
+            },
+            {
+              "speaker": "Player",
+              "text": "That was a really bad pun."
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "Sorry... I don't get to see the rest of the guild much, stuck up here. The Cyclopes don't talk much you see."
+            },
+            {
+              "speaker": "Player",
+              "text": "Shouldn't that be cyclopses?"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "Nope! Cyclopes is the plural of cyclops. One cyclops, many cyclopes."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, right, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where are they from?"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "They're from the far east lands."
+            },
+            {
+              "speaker": "Player",
+              "text": "How did they get here?"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "Ahh.. our guildmaster, Harrallak, went on an expedition there. He brought them back with him."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are they here?"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "For the warriors to train on of course! They also drop a rather nice blade."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh? What would that be?"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "Defenders."
+            },
+            {
+              "speaker": "Player",
+              "text": "Err what are they?"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "It's a blade you can defend with using your shield hand, like I have."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow!"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "For every 10 tokens you collect around the guild, you can spend one minute in with my pets. As you get defenders you can show them to me to earn even better ones... but remember if you lose them you'll have"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "to start at bronze again. I'd advise keeping a spare in your bank."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay!"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "Oh, by the way, you'll need to earn 100 tokens before I'll let you in!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Right, I'd better go play some games then!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Bye!"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "See you back here soon I hope!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "First time entering the door",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Kamfreena",
+              "text": "Well, since you haven't shown me a defender to prove your prowess as a warrior,"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "I'll release some cyclopes which might drop bronze defenders for you to start off with, unless you show me another. Have fun in there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to enter the room while owning a defender",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Kamfreena",
+              "text": "Ahh I see that you have one of the defenders already! Well done."
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "I'll release some cyclopes which might drop the next defender for you. Have fun in there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After running out of tokens in the room",
+      "sections": [
+        {
+          "title": "If the player does not leave the room after 100 ticks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kamfreena",
+                  "text": "Next time, please leave as soon as your time is up."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Kamfreena",
+              "text": "Your time is up, please make your way to the exit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to take off the Attack cape or max cape while in the room",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Kamfreena",
+              "text": "You must keep your attack skillcape or max cape equipped to stay in the area."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Entering the door after losing every defender",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Kamfreena",
+              "text": "I remember you...."
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "You don't have the defender you earned last time."
+            },
+            {
+              "speaker": "Player",
+              "text": "Err... no, don't have it on me. I kind of... lost it."
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "Sorry, but as you've lost any that you earned before I can only let you in to kill the cyclopes that drop the bronze defenders. Go on in when you're ready."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Showing Kamfreena defenders",
+      "sections": [
+        {
+          "title": "Showing Kamfreena a bronze defender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have a Bronze defender, please let me in to kill some more Cyclopes!"
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "Bronze eh? The next cyclopes are ready, toddle in when you're ready."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Showing Kamfreena a iron defender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have a Iron defender, please let me in to kill some more Cyclopes!"
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "Wow, iron eh? The next cyclopes are ready, toddle in when you're ready."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Showing Kamfreena a steel defender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have a Steel defender, please let me in to kill some more Cyclopes!"
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "Strong as steel eh? The next cyclopes are ready, toddle in when you're ready."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Showing Kamfreena a black defender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have a Black defender, please let me in to kill some more Cyclopes!"
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "Black, hmmm, about half way to Rune then! Keep going! Cyclopes have been released. Enter when you're ready."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Showing Kamfreena a mithril defender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have a Mithril defender, please let me in to kill some more Cyclopes!"
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "Mithril? Getting good at this aren't you! Okay, I've released those cyclopes that sometimes drop adamant defenders. Enter when you're ready."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Showing Kamfreena a adamant defender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have an Adamant defender, please let me in to kill some more Cyclopes!"
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "An adamant defender eh? Trying for the Rune defender I'm betting. Okay, I've released those cyclopes. Enter when you're ready."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Showing Kamfreena a rune defender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have a Rune defender, please let me in to kill some more Cyclopes!"
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "Well done, you truly are a brilliant warrior! You should speak to my apprentice Lorelai in the basement for an additional challenge."
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "If you'd rather stay up here, I've released the cyclopes. Enter when you're ready."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unknown condition",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kamfreena",
+                  "text": "Ahh I see that you've collected the highest defender I can offer you. Well done."
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "There's an old friend of mine named Lorelai in the guild basement. You should go visit her and maybe she'll let you search for a dragon defender."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When opening the door to the Cyclopes with a rune defender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kamfreena",
+                  "text": "Ahh I see that you have one of the rune defenders already! Well done."
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "You should speak to my apprentice Lorelai in the basement and test yourself against even stronger Cyclopes!"
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "The Cyclopes up here will continue to have a chance of dropping rune defenders. Have fun in there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Showing Kamfreena a dragon defender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have a Dragon defender, please let me in to kill some more Cyclopes!"
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "Well done! You can only get more Dragon defenders from the basement."
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "If you'd rather stay up here, I've released the cyclopes that can drop rune defenders. Enter when you're ready."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When opening the door to the Cyclopes with a dragon defender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kamfreena",
+                  "text": "I see you have one of the dragon defenders already! Well done, but you can only get more dragon defenders from the basement."
+                },
+                {
+                  "speaker": "Kamfreena",
+                  "text": "If you'd rather stay up here, I've released the cyclopes that can drop rune defenders. Enter when you're ready."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Claim-tokens dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "May I claim my tokens please?"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "You don't have space to carry them."
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "Of course! Here you go, you've earned [number] token[s]!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "I'm afraid you have not earned any tokens yet. Try some of the activities around the guild to earn some."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, I'll go see what I can find."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Kamfreena",
+              "text": "Life isn't fair, that doesn't mean you can't win."
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "Be master[sic] of your mind rather than master by your mind."
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "A reflection on a pool of water does not reveal its depth."
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "When you aim for perfection, you discover it's a moving target."
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "He who speaks in anger makes his anger heard, but his words forgotten."
+            },
+            {
+              "speaker": "Kamfreena",
+              "text": "Patience and persistence can bring down the tallest trees."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using any non-defender item on her",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Kamfreena",
+              "text": "I don't need that."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Elite",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kamfreena",
+                  "text": "Here, have this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

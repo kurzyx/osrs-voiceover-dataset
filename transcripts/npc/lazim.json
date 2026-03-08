@@ -1,0 +1,213 @@
+{
+  "ref": "lazim",
+  "categoryRef": "npc",
+  "title": "Lazim",
+  "sections": [
+    {
+      "title": "Once, after completing Enakhra's Lament",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lazim",
+              "text": "Well, thank you, adventurer. You've just deprived me of a wonderful chance to learn from one of Zamorak's first followers."
+            },
+            {
+              "speaker": "Player",
+              "text": "What? What about that treasure you were looking for?"
+            },
+            {
+              "speaker": "Lazim",
+              "text": "You utter imbecile! Did you think I was looking for gold?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Um... sorry."
+            },
+            {
+              "speaker": "Lazim",
+              "text": "'Sorry' won't bring those Mahjarrat back."
+            },
+            {
+              "speaker": "Lazim",
+              "text": "*sigh* I might as well stay to study this temple. It has some interesting magical properties."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ooh, you're a mage? Can you teach me any spells?"
+            },
+            {
+              "speaker": "Lazim",
+              "text": "Well..."
+            },
+            {
+              "speaker": "Lazim",
+              "text": "If you really want to learn my spells, you'll have to dedicate yourself to Zamorak."
+            },
+            {
+              "speaker": "Player",
+              "text": "I couldn't do that!"
+            },
+            {
+              "speaker": "Lazim",
+              "text": "Then you won't be learning any of my spells."
+            },
+            {
+              "speaker": "Lazim",
+              "text": "Ha ha ha ha!"
+            },
+            {
+              "speaker": "Player",
+              "text": "You're not very nice, are you?"
+            },
+            {
+              "speaker": "Lazim",
+              "text": "What did you expect from a Zamorakian mage?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, sign me up!"
+            },
+            {
+              "speaker": "Lazim",
+              "text": "You really thought I would teach you my secrets just like that? Ha ha ha! You are a naive fool."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's not very nice of you."
+            },
+            {
+              "speaker": "Lazim",
+              "text": "I'm a mage of Zamorak, after all. What else do you expect?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has lost the Camulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "How are you and your defective brain doing nowadays, adventurer?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've lost the amulet that Akthanakos gave me."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You really are an idiot, aren't you? You dropped it in here when you left. Try not to lose it next time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has not upgraded the Camulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "How are you and your defective brain doing nowadays, adventurer?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey! That's not very nice."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'm not very nice. If you want to see who ruined all of my plans, adventurer, just look in a mirror."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Suit yourself. At least I got a nice amulet for my trouble."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "About that amulet - I might be able to improve it for you, for a fee. Have you got it with you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I've got it here."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Yes, it's what I thought. This amulet will run out of charges all the time, if you keep using it. For one million coins I can give it unlimited charges."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why do you need so much money for it?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Three reasons. Firstly, I'm a Zamorakian mage - we're not big on charity work. Secondly, I want the money. Finally, in case you need reminding, I hate you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right. Well, I haven't got that kind of money on me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, here's one million coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not interested."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Your loss."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe another time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has upgraded the Camulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "How are you and your defective brain doing nowadays, adventurer?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey! That's not very nice."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'm not very nice. If you want to see who ruined all of my plans, adventurer, just look in a mirror."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Suit yourself. At least I got a nice amulet for my trouble."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "And don't forget who gave it unlimited charges for you!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

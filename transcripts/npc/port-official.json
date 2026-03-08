@@ -1,0 +1,45 @@
+{
+  "ref": "port-official",
+  "categoryRef": "npc",
+  "title": "Port Official",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello! What are you doing here?"
+            },
+            {
+              "speaker": "Port Official",
+              "text": "Hello, I'm keeping this berth free for the return of Lady Piscarilius."
+            },
+            {
+              "speaker": "Player",
+              "text": "Lady Piscarilius is out at sea?"
+            },
+            {
+              "speaker": "Port Official",
+              "text": "Indeed, As a keen seafarer Lady Piscarilius often leads voyages herself."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is she expected to return soon?"
+            },
+            {
+              "speaker": "Port Official",
+              "text": "Lady Piscarilius did not reveal how long she may be at sea for nor where she intended to explore."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "ref": "amelia",
+  "categoryRef": "npc",
+  "title": "Amelia",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Amelia",
+              "text": "Hello. Do you need something?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nope. Just thought I'd say hi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "During Dragon Slayer II",
+      "sections": [
+        {
+          "title": "Talking to Amelia again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there. Have you heard of Camorra?"
+                },
+                {
+                  "speaker": "Amelia",
+                  "text": "I'm sure we've already spoken about this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We probably have. I'm very forgetful."
+                },
+                {
+                  "speaker": "Amelia",
+                  "text": "The most likely place to find answers is the Shayzien Crypts. You'll find the entrance in the Graveyard of Heroes, south of our chapel. Be careful, it's filled with zombies."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there. Have you heard of Camorra?"
+            },
+            {
+              "speaker": "Amelia",
+              "text": "Not that I remember."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well she was a great hero during the Dragonkin Conflicts. I think she travelled to Kourend before the war ended. I'm trying to find out more about her."
+            },
+            {
+              "speaker": "Amelia",
+              "text": "Well Shayzien was founded by those fleeing the Dragonkin Conflicts. And the city has never been short of heroes. There's a good chance she was from Shayzien."
+            },
+            {
+              "speaker": "Player",
+              "text": "But you've never heard of her?"
+            },
+            {
+              "speaker": "Amelia",
+              "text": "No but that's not surprising. Most of our history was lost during Xeric's reign. There is somewhere you might find answers though."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where's that?"
+            },
+            {
+              "speaker": "Amelia",
+              "text": "The Shayzien Crypts. They were built before the kingdom even existed. Some of the oldest Shayzien heroes are buried there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Let me guess. There's a catch isn't there?"
+            },
+            {
+              "speaker": "Amelia",
+              "text": "I'm afraid so. For hundreds of years, the crypts have been overrun by the dead. We've tried clearing them out but they just come back again."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well thankfully I'm afraid of no ghost. Where do I start?"
+            },
+            {
+              "speaker": "Amelia",
+              "text": "They're zombies, not ghosts. You'll find the entrance to the crypts in the Graveyard of Heroes, south of our chapel. Be careful."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you for the help."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

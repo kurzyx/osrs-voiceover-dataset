@@ -1,0 +1,187 @@
+{
+  "ref": "raeli",
+  "categoryRef": "npc",
+  "title": "Raeli",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing The Forsaken Tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raeli",
+                  "text": "Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Raeli",
+                  "text": "Minecart rides are 20 coins."
+                },
+                {
+                  "speaker": "Raeli",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing The Forsaken Tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raeli",
+                  "text": "Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Raeli",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unlimited ride fee refund",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raeli",
+                  "text": "As a loyal customer of the Lovakengj Minecart Network, you're entitled to this."
+                },
+                {
+                  "speaker": "Raeli",
+                  "text": "Now, can I help you today?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to travel to Port Piscarillius while already there",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raeli",
+                  "text": "You're already here, human."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "When spoken to before Miriam",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raeli",
+                  "text": "Sorry, human, you can't use the Lovakengj Minecart Network. Speak to Miriam, at the main station by the southern Lovakengj bank, if you've got any questions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Setting up the Lovakengj Minecart Network",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raeli",
+                  "text": "Sorry, human, the Lovakengj Minecart Network is for citizens of Lovakengj only."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've got this control scroll for you."
+                },
+                {
+                  "speaker": "Raeli",
+                  "text": "Thanks, human. I guess it's okay for you to ride my carts after all. So, can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After giving her the Minecart control scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raeli",
+                  "text": "Thanks again for bringing me that control scroll. Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to use a second Minecart control scroll on her",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raeli",
+                  "text": "No thanks, you've already given me one of those."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

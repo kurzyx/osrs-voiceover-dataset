@@ -1,0 +1,155 @@
+{
+  "ref": "monkey-child",
+  "categoryRef": "npc",
+  "title": "Monkey Child",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has previously taken a toy from the monkey child",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How are you today?"
+                },
+                {
+                  "speaker": "Monkey Child",
+                  "text": "I'm good, uncle! I'd quite like my toy back now..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've lost that toy you gave me..."
+                },
+                {
+                  "speaker": "Monkey Child",
+                  "text": "You lost it!? What am I going to play with now?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If enough time has passed or the player has logged in and out after taking the toy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Monkey Child",
+                  "text": "I'm feeling a bit better now..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's good to see you've cheered up then."
+                },
+                {
+                  "speaker": "Monkey Child",
+                  "text": "Yes - Aunty gave me a new toy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's really sweet of her!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow - can I borrow it?"
+                },
+                {
+                  "speaker": "Monkey Child",
+                  "text": "Only if you promise to give it back..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, I promise!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I don't really need it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using items",
+          "sections": [],
+          "dialogues": []
+        },
+        {
+          "title": "Using the monkey talisman on the monkey child",
+          "sections": [
+            {
+              "title": "Using another monkey talisman on the monkey child",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Monkey Child",
+                      "text": "Thank you uncle, but I don't want one!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Monkey Child",
+                  "text": "Hello there, uncle!"
+                },
+                {
+                  "speaker": "Monkey Child",
+                  "text": "Thank you uncle - I love you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using any enchanted greegree on the monkey child",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Monkey Child",
+                  "text": "Hello there, uncle!"
+                },
+                {
+                  "speaker": "Monkey Child",
+                  "text": "I don't want that - it looks really scary!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using any other item on the monkey child",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Monkey Child",
+                  "text": "Hello there, uncle!"
+                },
+                {
+                  "speaker": "Monkey Child",
+                  "text": "I have no use for that."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

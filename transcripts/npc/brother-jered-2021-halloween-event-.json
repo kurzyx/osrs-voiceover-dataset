@@ -1,0 +1,588 @@
+{
+  "ref": "brother-jered-2021-halloween-event-",
+  "categoryRef": "npc",
+  "title": "Brother Jered (2021 Halloween event)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has just arrived to Brother Jered",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Brother Jered, the monks in Varrock sent me. What is going on?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Thank Saradomin that you came! We need help! Oziach is trying to buy the monastery!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can I do to help?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "We've tried everything, there is nothing!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Unless..."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Are you any good at climbing trees?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Pretty good, why?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Oziach is scared of ghosts! If you can climb a tree and make a scary noise, that might scare him off!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see, I can give that a go! What should I make the scary noise with?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "How about one of these wine bottles? I have loads!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sure there's a perfectly sane explanation why."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "I might have looked for a solution in them... And I found one, too!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Take this wine bottle and climb the tree nearest Oziach, then blow on it to scare him!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can you do to help a bold adventurer like myself?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Not a lot from down here, sorry, I'm currently dealing with this mess! Come and see me upstairs and I can assist you with your question there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Praise be to Saradomin!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Yes! Praise he who brings life to this world."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If Brother Jered said to take the wine bottle, but the player has never received Jered's empty wine bottle before",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've lost the bottle, can I have another one please?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You don't have any space for the bottle! Talk to me again once you have space."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "There you go. You can blow into the top to make a spooky sound."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "If you're hiding up a tree when you do it, it should fool Oziach into thinking it's a ghost!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Would you like to try that now?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Take this wine bottle and climb the tree nearest Oziach, then blow on it to scare him!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You don't have any space for the bottle! Talk to me again once you have space."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "There you go. You can blow into the top to make a spooky sound."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "If you're hiding up a tree when you do it, it should fool Oziach into thinking it's a ghost!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Would you like to try that now?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has received Jered's empty wine bottle at least once",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've lost the bottle, can I have another one please?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You don't have any space for the bottle! Talk to me again once you have space."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "There you go, try not to lose this one!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Would you like to try and scare Oziach now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Brother Jered!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Hi [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could I have another wine bottle? I dropped the other one."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Sure, I have plenty."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You don't have any space for the bottle! Talk to me again once you have space."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "There you go, try not to lose this one!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Would you like to try and scare Oziach now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, let's scare Oziach!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Be careful, make sure you don't get too close to him, or take too long, he'll be sure to spot you!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Good luck!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not just yet."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Okay, come back and talk to me when you're ready to try scaring Oziach!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has just attempted to scare Oziach and he wasn't scared of one ghost",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've lost the bottle, can I have another one please?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You don't have any space for the bottle! Talk to me again once you have space."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "There you go. You can blow into the top to make a spooky sound."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "If you're hiding up a tree when you do it, it should fool Oziach into thinking it's a ghost!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It didn't work!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Scaring Oziach? He wasn't scared?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No! He said one ghost wasn't enough! But I have a plan..."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "A plan?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes! ONE ghost wasn't enough. We need more than one ghost. We need TWO ghosts!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will you be my accomplice and be the second ghost?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "I would, but I don't feel too well from all the stress."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you sure it's not all the wine and food?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing! That's okay, I hope you feel better soon!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to find an accomplice elsewhere, then. Do you have any ideas?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Hmm... you could try placing an ad in the Varrock Herald. You can speak to Benny by the protesters in Varrock Square to do this."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "The price to place an advert is 500,000 coins. I've always had good responses to my ads in the past."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "500,000 coins? That is quite a lot!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Ah yes, don't worry about that. I have this pre-paid ad coupon you can use."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "I bought an ad spot in the paper the other week. I was going to place an ad for recruiting some new monks."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "However with everything going on right now, I think this is more important."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You don't have any space for the coupon! Talk to me again once you have space."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Here you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you! You had me worried there that I was going to have to find 500,000 coins. I'll go and place the advert."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Good luck, I hope you find a good accomplice!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has never received a coupon from Brother Jered yet, and there's a coupon waiting",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You don't have any space for the coupon! Talk to me again once you have space."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Here you go."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has received an ad coupon at least once, but Benny has not finalized it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've lost the coupon, can I have another one please?"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Have you placed the advert in the Varrock Herald yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Don't wait too long, the purchase will go through soon!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You can find Benny in the Varrock Square. You should talk to him about the ad."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll go and do that now!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could I have another coupon before I go? I lost the other one."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You don't need a coupon anymore!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You don't have any space for the coupon! Talk to me again once you have space."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Here is a copy of it. I made it before I gave you the original, try not to lose this!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If Benny has finished the advert, but the player hasn't visited the Blue Moon Inn to see Iffie",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brother Jered",
+                  "text": "How is it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well thanks, I've just placed the advert in the Herald."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Lovely! Where are you meeting the candidates?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "At the Blue Moon Inn, I'm going to head there now."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Good luck!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has visited the Blue Moon Inn to see Iffie, but Iffie hasn't moved to south of the monastery yet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi Brother Jered!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Hello [player name]. I thank you for helping us, we've been running out of ideas!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If Iffie has moved to south of the monastery, but before the player has finished watching the cutscene where Oziach runs off until the very end:",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi Brother Jered!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "Hello! I saw an old lady sneaking around in the trees south of the monastery, that wouldn't be anything to do with you, would it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That sounds like Iffie, she is my accomplice! I'd be careful calling her an old lady!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You found somebody! Great, good luck!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "I'll make sure not to say that to her face if we meet!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has finished watching the cutscene where Oziach runs off until the very end, but before the player given Iffie her reward and started watching the cutscene at Thessalia's Fine Clothes.",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi Brother Jered!"
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "I hear Oziach has been scared, thank you! And thank your friend too."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Iffie? She helped a lot, I need to go and give her the reward I promised."
+                },
+                {
+                  "speaker": "Brother Jered",
+                  "text": "You better go and do that then, thanks again!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Cutscene dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Brother Jered",
+              "text": "Hello there!"
+            },
+            {
+              "speaker": "Iffie",
+              "text": "Hello, Brother Jered!"
+            },
+            {
+              "speaker": "Brother Jered",
+              "text": "Hello! I was just passing by and saw you both in here."
+            },
+            {
+              "speaker": "Brother Jered",
+              "text": "I'd like to thank you Iffie, and you [player name]. You both saved the monastery."
+            },
+            {
+              "speaker": "Brother Jered",
+              "text": "That means more than you can imagine!"
+            },
+            {
+              "speaker": "Player",
+              "text": "It was really no problem, if anything, it was rather fun!"
+            },
+            {
+              "speaker": "Iffie",
+              "text": "Yes, very fun! I haven't had such an adventure in years!"
+            },
+            {
+              "speaker": "Brother Jered",
+              "text": "Well, I am glad you both enjoyed it! I do have something for you, [player name]..."
+            },
+            {
+              "speaker": "Brother Jered",
+              "text": "It's not a reward as such, but it is interesting. I've been tidying up my office since I don't need it anymore."
+            },
+            {
+              "speaker": "Brother Jered",
+              "text": "And in doing so, I found this old bottle."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is that... a ghost, inside? It's haunted?!"
+            },
+            {
+              "speaker": "Brother Jered",
+              "text": "Yes! There is a ghost inside, it's trapped! Would have been handy to have earlier on, really. Would have been very scary for Oziach!"
+            },
+            {
+              "speaker": "Brother Jered",
+              "text": "But the monastery is saved, so I don't need it anymore. I'd like you to have it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you. What do I do with it?"
+            },
+            {
+              "speaker": "Brother Jered",
+              "text": "Not a lot really. I did shake it earlier and the ghost got pretty angry with me, so I'd probably avoid doing that too much."
+            },
+            {
+              "speaker": "Brother Jered",
+              "text": "It does seem quite chatty for a ghost, although it doesn't always make sense."
+            },
+            {
+              "speaker": "Brother Jered",
+              "text": "There you go. Now I'll be off, I've got a monastery to look after!"
+            },
+            {
+              "speaker": "Iffie",
+              "text": "See you later Brother Jered!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

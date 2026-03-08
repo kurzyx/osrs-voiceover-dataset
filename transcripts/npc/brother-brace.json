@@ -1,0 +1,159 @@
+{
+  "ref": "brother-brace",
+  "categoryRef": "npc",
+  "title": "Brother Brace",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Good day, brother."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "Hello, I'm Brother Brace. I'm here to tell you all about Prayer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dialogue before opening prayer menu",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Brother Brace",
+              "text": "You should open the indicated menu to continue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dialogue after opening prayer menu",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Brother Brace",
+              "text": "This is your Prayer list. Prayers can help a lot in combat. Click on the prayer you wish to use to activate it, and click it again to deactivate it."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "Active prayers will drain your Prayer Points, which you can recharge by finding an altar or other holy spot and praying there."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "As you noticed, most enemies will drop bones when defeated. Burying bones, by clicking them in your inventory, will gain you Prayer experience."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "I'm also the community officer 'round here, so it's my job to tell you about your friends and ignore lists."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dialogue before opening friends menu",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Brother Brace",
+              "text": "You should open the indicated menu to continue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dialogue after opening friends menu",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Brother Brace",
+              "text": "Right. Now I'll tell you a little about each list. You can add people to either list by clicking the add button then typing their name into the box that appears."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "You remove people from the lists in the same way. If you add someone to your ignore list they will not be able to talk to you or send any form of message to you."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "Your friends list shows the online status of your friends. Friends in red are offline, friends in green are online and on the same world and friends in yellow are online, but on a different world."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, thanks, I'll bear that in mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dialogue afterwards",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Brother Brace",
+              "text": "Peace be with you, my child. Can I help you?"
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "Ah, yes, your prayer list. Prayers can help a lot in combat. Click on the prayer you wish to use to activate it, and click it again to deactivate it."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "Active prayers will drain your Prayer Points, which you can recharge by finding an altar or other holy spot and praying there."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "As you noticed, most enemies will drop bones when defeated. Burying bones, by clicking them in your inventory, will gain you Prayer experience."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "Do you need anything else?"
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "Your friends and ignore lists, yes... I'll tell you a little about each. You can add people to either list by clicking the add button then typing their name into the box that appears."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "You remove people from the lists in the same way. If you add someone to your ignore list they will not be able to talk to you or send any form of message to you."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "Your friends list shows the online status of your friends. Friends in red are offline, friends in green are online and on the same world and friends in yellow are online, but on a different world."
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "Do you need anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nope, I'm ready to move on!"
+            },
+            {
+              "speaker": "Brother Brace",
+              "text": "Okay then."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

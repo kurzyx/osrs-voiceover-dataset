@@ -1,0 +1,103 @@
+{
+  "ref": "arnor",
+  "categoryRef": "npc",
+  "title": "Arnor",
+  "sections": [
+    {
+      "title": "Standard dialogue before Royal Trouble",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Excuse me..."
+            },
+            {
+              "speaker": "Moldof",
+              "text": "Can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you tell me anything about the castle?"
+            },
+            {
+              "speaker": "Moldof",
+              "text": "There aren't many guards in it."
+            },
+            {
+              "speaker": "Moldof",
+              "text": "We don't have an army, you see."
+            },
+            {
+              "speaker": "Player",
+              "text": "How's the weather doing?"
+            },
+            {
+              "speaker": "Moldof",
+              "text": "Could be better."
+            },
+            {
+              "speaker": "Player",
+              "text": "How's life in Etceteria?"
+            },
+            {
+              "speaker": "Moldof",
+              "text": "*sigh* Times are tough."
+            },
+            {
+              "speaker": "Moldof",
+              "text": "Though they're getting better."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's it like being an Etceterian?"
+            },
+            {
+              "speaker": "Moldof",
+              "text": "Fairly pleasant, though it gets cold in the winter."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nice town you have here."
+            },
+            {
+              "speaker": "Moldof",
+              "text": "Thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Royal Trouble",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Excuse me..."
+            },
+            {
+              "speaker": "Arnor",
+              "text": "Yes, what is it?"
+            },
+            {
+              "speaker": "Arnor",
+              "text": "Thank you for finding my sword for me. Did you find everyone's belongings?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I did! Thank you for the reward."
+            },
+            {
+              "speaker": "Arnor",
+              "text": "You're more than welcome to it, for getting our belongings back."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

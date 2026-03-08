@@ -1,0 +1,51 @@
+{
+  "ref": "kent",
+  "categoryRef": "npc",
+  "title": "Kent",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After completion of Sea Slug",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kent",
+                  "text": "Hello there, [player name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello again Kent."
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "I never did get the chance to thank you properly for saving Kennith and myself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, don't be silly, it was nothing really."
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "Play it down if you will. It was a truly brave thing you did."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I only did what anyone would have done in my position. I have to go now, take care."
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "You too, [player name]. Goodbye."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

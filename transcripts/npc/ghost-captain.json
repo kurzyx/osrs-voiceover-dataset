@@ -1,0 +1,133 @@
+{
+  "ref": "ghost-captain",
+  "categoryRef": "npc",
+  "title": "Ghost captain",
+  "sections": [
+    {
+      "title": "Standard dialogue - Port Phasmatys",
+      "sections": [
+        {
+          "title": "Before unlocking permanent access",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ghost captain",
+                  "text": "Would you like to visit Dragontooth Island? It is a most pleasant island in the sea between Morytania and the lands of the east. It'll cost you 25 ectotokens for the return trip."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, here's 25 ectotokens. Let's go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If I pay 500 ectotokens, can I get unlimited trips?"
+                },
+                {
+                  "speaker": "Ghost captain",
+                  "text": "Yes, that seems fair. Okay, hand them over and we can set off."
+                },
+                {
+                  "speaker": "Ghost captain",
+                  "text": "Yes, I'd accept that deal. But as you don't have enough ectotokens for that, would you like to pay 25 ectotokens for a trip now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not now, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After unlocking permanent access",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ghost captain",
+                  "text": "Would you like to visit Dragontooth Island? It is a most pleasant island in the sea between Morytania and the lands of the east."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Standard dialogue - Dragontooth Island",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can you take me back to Phasmatys, now?"
+            },
+            {
+              "speaker": "Ghost captain",
+              "text": "Yes, climb in."
+            },
+            {
+              "speaker": "Player",
+              "text": "There isn't much on this island, is there?"
+            },
+            {
+              "speaker": "Ghost captain",
+              "text": "Woooo wooo wooooo woooo"
+            },
+            {
+              "speaker": "Ghost captain",
+              "text": "Beautiful isn't it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "But it cost me a lot of ectotokens to get here!"
+            },
+            {
+              "speaker": "Ghost captain",
+              "text": "Worth every token, if you ask me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I don't want anything."
+            },
+            {
+              "speaker": "Ghost captain",
+              "text": "Woooo wooo wooooo woooo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click 'Travel' option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ghost captain",
+              "text": "Woooo wooo wooooo woooo"
+            },
+            {
+              "speaker": "Ghost captain",
+              "text": "A return trip to Dragontooth Island costs 25 ectotokens."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

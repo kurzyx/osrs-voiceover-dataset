@@ -1,0 +1,85 @@
+{
+  "ref": "osmumten",
+  "categoryRef": "npc",
+  "title": "Osmumten",
+  "sections": [
+    {
+      "title": "Talking to Osmumten for the first time",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Spirit",
+              "text": "You. You fought against the Devourer. Her influence here has been lessened as a result. You are to be commended for your strength."
+            },
+            {
+              "speaker": "Player",
+              "text": "I take it you're Osmumten?"
+            },
+            {
+              "speaker": "Osmumten",
+              "text": "Once, but who I was in life means nothing. Vengeance is all that matters now. The Devourer may be gone, but my home has been corrupted. This corruption must be destroyed."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I help?"
+            },
+            {
+              "speaker": "Osmumten",
+              "text": "You can. Take your prize and leave, but when you are ready, return here. The Devourer's thralls will soon be back. You must fight them."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll do what I can."
+            },
+            {
+              "speaker": "Osmumten",
+              "text": "We shall see if it is enough."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Osmumten afterwards",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Osmumten",
+              "text": "The Devourer's thralls will be back, but they have been weakened because of you. Your prize awaits."
+            },
+            {
+              "speaker": "Osmumten",
+              "text": "You have done well, but it is time for you to leave. The Devourer's thralls will soon return."
+            },
+            {
+              "speaker": "Osmumten",
+              "text": "You fought well. The Devourer's influence here has lessened, but it will soon be restored. It is time for you to leave."
+            },
+            {
+              "speaker": "Osmumten",
+              "text": "The Devourer's thralls will be back, but they have been weakened because of you. Now, leave this place."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Osmumten after defeating a demi-boss",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Osmumten",
+              "text": "We are done here, but the Devourer's thralls are everywhere. They must be removed."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

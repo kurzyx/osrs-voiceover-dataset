@@ -1,0 +1,51 @@
+{
+  "ref": "sheep-penguins-",
+  "categoryRef": "npc",
+  "title": "Sheep (penguins)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Attempting to shear it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "That's a sheep...I think. I can't talk to sheep."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cold War",
+      "sections": [
+        {
+          "title": "Attempting to speak to \"sheep\" as a human",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I can't speak to the penguins when I'm not in my disguise."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "ref": "petrified-pete",
+  "categoryRef": "npc",
+  "title": "Petrified Pete",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "When using the right-click pay option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "There are some crazy things down there, I don't think you're capable so I'll let you keep your Numulites."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "It doesn't look like you have 30 Numulites with you unfortunately."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Thanks [player name]. That will grant you access to the mine. You're a crazy one."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "You've already paid up! You can head right on in. Better you than me..."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Sorry, I'll need paying before I can return your stuff."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Sorry, I'll need paying before I can return your stuff."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using the right-click retrieve option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Sorry, I've got nothing for you. I'm not sure what you'd have been doing in there anyway, since I wouldn't expect to let you in."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Sorry, I've got nothing for you. If I had some of your stuff earlier, but you died before collecting it, it'd be lost."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When trying to enter the Volcanic Mine",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Sorry [player name], you won't last a minute in there. You got to prove yourself as a capable archeologist, and be good at the minin'."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "It doesn't look like you have 30 Numulites with you unfortunately."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Sorry [player name] I can't let people head in mid way through a mine out session. It's not safe and will cause mine collapse!"
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Sorry [player name], I cannot allow someone to go in there without paying first. Come see me."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Sorry [player name] I can't let people head in mid way through a mine out session. It's not safe and will cause mine collapse!"
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "You should probably pick up the stuff you left in there earlier before you return. Come and see me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Exiting the Volcanic Mine",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Well why am I going to reward you for that?! Might wanna contribute next time. I am not standin' out here for nothin'."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "I'll give you a bit of minin' trainin' and I'll remember the contribution you've made."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "I'll quickly take those fragments off your hands [player name], thank you! I'll give you a bit of minin' trainin' and I'll remember the contribution you've made."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi there Pete."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Argh! Who be there?"
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Oh, it's just the adventurer, phew! Things can be scary around here, I've seen some weeeeeiiiird stuff in that cavern."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is in the cavern?"
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Oh no, now I'm thinking about it again! *screams*"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay okay, calm down! Why are you guarding it? What is the purpose of this cavern?"
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "It's a mine. It's special but dangerous, things move around and the mine could collapse at any moment!."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "I'd say you'll need at least level 50 Mining to be capable."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not quite up to scratch then..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well sounds like I am capable then!"
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "The main idea is to chip down the big boulders, in order to find the fragments inside. Deliver them to me and I'll show you some minin' tips to help you get better at it."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I traverse the mine? Isn't it full of lava?"
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "I have a handy supply of heat-proof water containers. I'll give them out to anyone going in with bit of water inside. They only hold so much though."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "I reckon you could harden the lava with it! Just throw a bit of water on it. Make yourself a path, but be careful, they won't last forever."
+            },
+            {
+              "speaker": "Player",
+              "text": "Anything else?"
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Uh oh, there is one more thing, but it hurts. My backside has never felt the same since, one of the reasons I don't dare go in there anymore. There are some gas holes around, just feel 'em."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I keep the mine stable?"
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Don't let it collapse!! It's petrifying, it will stick with you forever. The rumbles create a flashback in my mind, arghhh."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "There are some vents and chambers in there. Do better than I did with them, you want around a 50% gas level in each chamber."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "There are 3 in total, we spent awhile coming up with names, such as 'Vent west of the pillar near the entrance on the left hand side', but decided A, B and C would be easier."
+            },
+            {
+              "speaker": "Player",
+              "text": "Presumably, a western chamber, central chamber and eastern chamber?"
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Yep! That's right. Block the chamber to let gas build up, unblock 'em to let gas out. Any creatures in there will cause instability too."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Oh, also, if you have more than one rock to mine, keep them going at roughly the same pace too. Everything gets a bit wobbly if you proceed too quickly down one channel."
+            },
+            {
+              "speaker": "Player",
+              "text": "Explain the dangers for me."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "It is bad, very bad in there. If you're not prepared, you will be done for. Wouldn't catch me in there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, so how do I prepare?"
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Look out for the Lava beasts, they'll throw projectiles at anyone they see. You'll have stalacmites falling on you, fire jumping out the lava towards you. Seriously, you're insane."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, I'll keep that in mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I go inside?"
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "There are some crazy things down there, I don't think you're capable."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Well luckily for you, or rather, unlucky for you, I'll let you go inside as you've definitely got the mining skills."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "I'll have to charge you though - upkeep of this place ain't cheap and cheerful. I'll need 30 Numulites for one visit or 3,000 for unlimited trips."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't have 30 Numulites with me unfortunately."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Thanks [player name]. That will grant you access to the mine. You're a crazy one."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Thanks [player name]. That will grant you permanent access to the mine. You're a crazy one."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "You've already paid the entrance fee too, so you can head right on in."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "I've got some of your stuff that you left here earlier. You'd better deal with it before trying to go into the cavern again."
+            },
+            {
+              "speaker": "Player",
+              "text": "Have you anything to trade?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Have you picked up anything I left in the mine?"
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Sorry, I've got nothing for you. I'm not sure what you'd have been doing in there anyway, since I wouldn't expect to let you in."
+            },
+            {
+              "speaker": "Petrified Pete",
+              "text": "Sorry, I've got nothing for you. If I had some of your stuff earlier, but you died before collecting it, it'd be lost."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll leave you be."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue when a player starts a game",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Petrified Pete",
+              "text": "[player name] has started up a mine! Join [him/her/them] down there now!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dragon pickaxe (broken)",
+      "sections": [
+        {
+          "title": "Using a dragon pickaxe (broken) on Pete",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi Pete, I found this in one of my ore packs..."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Woah, what is that you've got there?!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's... a pickaxe, a broken one."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "That's not just any broken pickaxe, it's a dragon one! They're really rare!"
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "I have no idea how that ended up in your ore pack, but you can keep it, it's broken anyway."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Maybe you can find someone to help you repair it! I've heard tales that some dwarves used to fix pickaxes."
+                },
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "One of them was called Nurmof. I think he used to reside in the Falador mines. If you're lucky, he could still be there."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Large water container",
+      "sections": [
+        {
+          "title": "After buying the large water container",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Petrified Pete",
+                  "text": "Nice one [player name]! In future I'll give you twice as much water when you go into the mine!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "When attempting to climb down the volcano entrance on a Deadman Mode world",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Petrified Pete",
+              "text": "Sorry [player name], this a Deadman world. People are fighting all over the shop. No one gets in the mine here!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

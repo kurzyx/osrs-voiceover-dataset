@@ -1,0 +1,126 @@
+{
+  "ref": "cecilia",
+  "categoryRef": "npc",
+  "title": "Cecilia",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cecilia",
+              "text": "Greetings! Have you come to gaze in rapture at the natural beauty of Falador's parkland?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Um, yes, very nice. Lots of... trees and stuff."
+            },
+            {
+              "speaker": "Cecilia",
+              "text": "Trees! I do so love trees! And flowers! And squirrels!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I have a strange urge to be somewhere else."
+            },
+            {
+              "speaker": "Cecilia",
+              "text": "Come back to me soon and we can talk again about trees!"
+            },
+            {
+              "speaker": "Player",
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on Cecilia",
+      "sections": [
+        {
+          "title": "Any item",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cecilia",
+                  "text": "No thank you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "When playing her requested song",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cecilia",
+                  "text": "Thank you, I love that song!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cecilia",
+              "text": "Have you come to play music to me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I have."
+            },
+            {
+              "speaker": "Cecilia",
+              "text": "Select the song I asked you to play, and speak to me again."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm not interested in that."
+            },
+            {
+              "speaker": "Cecilia",
+              "text": "Then you must have come to gaze in rapture at the natural beauty of Falador's parkland!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Um, yes, very nice. Lots of... trees and stuff."
+            },
+            {
+              "speaker": "Cecilia",
+              "text": "Trees! I do so love trees! And flowers! And squirrels!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I have a strange urge to be somewhere else."
+            },
+            {
+              "speaker": "Cecilia",
+              "text": "Come back to me soon and we can talk again about trees!"
+            },
+            {
+              "speaker": "Player",
+              "text": "..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

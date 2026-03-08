@@ -1,0 +1,53 @@
+{
+  "ref": "san-tojalon",
+  "categoryRef": "npc",
+  "title": "San Tojalon",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking to San Tojalon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "San Tojalon",
+                  "text": "Are you ready to have your mettle tested?"
+                },
+                {
+                  "speaker": "San Tojalon",
+                  "text": "You have defeated me in battle, and still you search for the source?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fighting San Tojalon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "San Tojalon",
+                  "text": "Prepare yourself..."
+                },
+                {
+                  "speaker": "San Tojalon",
+                  "text": "You have proved yourself an honourable foe."
+                },
+                {
+                  "speaker": "San Tojalon",
+                  "text": "You have fought the good fight this day."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

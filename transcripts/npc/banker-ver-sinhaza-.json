@@ -1,0 +1,57 @@
+{
+  "ref": "banker-ver-sinhaza-",
+  "categoryRef": "npc",
+  "title": "Banker (Ver Sinhaza)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player isn't wearing a Vyre disguise",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Banker",
+                  "text": "What do you want meat bag?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Banker",
+                  "text": "You blind meat bag? It's a bank. You can store your valuables here... not that I expect you to have any."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is wearing a Vyre disguise",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Banker",
+                  "text": "What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Banker",
+                  "text": "You blind? It's a bank. You can store your valuables here... if you have any."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

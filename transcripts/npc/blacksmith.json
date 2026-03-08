@@ -1,0 +1,73 @@
+{
+  "ref": "blacksmith",
+  "categoryRef": "npc",
+  "title": "Blacksmith",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Blacksmith",
+              "text": "Nilsal. Interested in buying some weapons or armour?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you make these yourself?"
+            },
+            {
+              "speaker": "Blacksmith",
+              "text": "Of course, and you won't find anything finer than what I offer. I didn't become the official blacksmith to the Royal Family of Varlamore by producing subpar goods."
+            },
+            {
+              "speaker": "Player",
+              "text": "You're the official blacksmith? Does that mean you can sell me some armour like the knights around here wear?"
+            },
+            {
+              "speaker": "Blacksmith",
+              "text": "Are you a Knight of Varlamore?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No."
+            },
+            {
+              "speaker": "Blacksmith",
+              "text": "Than I cannot. However, I still have plenty of other items that might interest you. Would you like to take a look?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you repair something for me?"
+            },
+            {
+              "speaker": "Blacksmith",
+              "text": "You don't have anything I can repair."
+            },
+            {
+              "speaker": "Blacksmith",
+              "text": "I'll need [x] coins to repair that."
+            },
+            {
+              "speaker": "Blacksmith",
+              "text": "There you go, happy doing business with you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Blacksmith",
+              "text": "As you wish. You are always welcome to return if you change your mind."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "ref": "khazard-warlord",
+  "categoryRef": "npc",
+  "title": "Khazard warlord",
+  "sections": [
+    {
+      "title": "Dialogue before taking the orb of protection",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, how are you?"
+            },
+            {
+              "speaker": "Khazard warlord",
+              "text": "Don't speak to me you insignificant wretch! Die in the name of Khazard!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After taking the orb of protection",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Khazard warlord",
+              "text": "You think you're so clever. You know nothing!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What?"
+            },
+            {
+              "speaker": "Khazard warlord",
+              "text": "I'll crush you and those pesky little green men!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After giving the orb of protection to King Bolren",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "You there, stop!"
+            },
+            {
+              "speaker": "Khazard warlord",
+              "text": "Go back to your pesky little green friends."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've come for the orbs."
+            },
+            {
+              "speaker": "Khazard warlord",
+              "text": "You're out of your depth traveller. These orbs are part of a much larger picture."
+            },
+            {
+              "speaker": "Player",
+              "text": "They're stolen goods, now give them here!"
+            },
+            {
+              "speaker": "Khazard warlord",
+              "text": "Ha, you really think you stand a chance? I'll crush you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After killing him in Tree Gnome Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I thought I killed you?"
+            },
+            {
+              "speaker": "Khazard warlord",
+              "text": "Fool, warriors blessed by Khazard don't die. You can't kill that which is already dead. However I can kill you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Any time he is aggressive but not attacked and cannot attack the player for long enough",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

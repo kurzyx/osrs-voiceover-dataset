@@ -1,0 +1,50 @@
+{
+  "ref": "cat-farming-guild-",
+  "categoryRef": "npc",
+  "title": "Cat (Farming Guild)",
+  "sections": [
+    {
+      "title": "When petted",
+      "sections": [
+        {
+          "title": "Without a catspeak amulet equipped and Dragon Slayer II not completed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "With a catspeak amulet equipped or Dragon Slayer II completed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sleepy Cat",
+                  "text": "Hmm... Oh yes, that's purrfect....."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cat",
+              "text": "Zzz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

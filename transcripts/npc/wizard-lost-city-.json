@@ -1,0 +1,51 @@
+{
+  "ref": "wizard-lost-city-",
+  "categoryRef": "npc",
+  "title": "Wizard (Lost City)",
+  "sections": [
+    {
+      "title": "Standard dialogue before Lost City",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Why are all of you standing around here?"
+            },
+            {
+              "speaker": "Wizard",
+              "text": "Hahaha you dare talk to a mighty wizard such as myself? I bet you can't even cast windstrike yet amateur!"
+            },
+            {
+              "speaker": "Player",
+              "text": "...You're an idiot."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after learning how to enter Zanaris",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wizard",
+              "text": "Hahaha you're such an amateur!"
+            },
+            {
+              "speaker": "Wizard",
+              "text": "Go away and play with some cabbage amateur!"
+            },
+            {
+              "speaker": "Player",
+              "text": "...right."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

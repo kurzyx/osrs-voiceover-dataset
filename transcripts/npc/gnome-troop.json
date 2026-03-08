@@ -1,0 +1,63 @@
+{
+  "ref": "gnome-troop",
+  "categoryRef": "npc",
+  "title": "Gnome troop",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Gnome Troop",
+              "text": "Draw your sword warrior, and fight along side us."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Gnome Troop",
+              "text": "Death to Khazard, and all who serve him."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Gnome troop",
+              "text": "I can't talk now, can't you see we're trying to win a battle here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue on the Khazard Battlefield",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gnome Troop",
+              "text": "You won't take us without a fight!"
+            },
+            {
+              "speaker": "Gnome Troop",
+              "text": "Get out of our lands!"
+            },
+            {
+              "speaker": "Gnome Troop",
+              "text": "Tally ho!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

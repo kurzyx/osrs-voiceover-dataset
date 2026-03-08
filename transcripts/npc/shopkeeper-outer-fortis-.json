@@ -1,0 +1,37 @@
+{
+  "ref": "shopkeeper-outer-fortis-",
+  "categoryRef": "npc",
+  "title": "Shopkeeper (Outer Fortis)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shopkeeper",
+              "text": "Hello there. How can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you have for sale?"
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "See for yourself."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "Very well"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

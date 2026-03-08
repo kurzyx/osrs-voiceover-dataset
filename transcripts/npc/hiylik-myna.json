@@ -1,0 +1,153 @@
+{
+  "ref": "hiylik-myna",
+  "categoryRef": "npc",
+  "title": "Hiylik Myna",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can you tell me why you're here?"
+            },
+            {
+              "speaker": "Hiylik Myna",
+              "text": "Of course. I plan to assist the forces of Saradomin who will come to our aid, and fight against the legions of vampyres that infest this foul place. These brave mercenaries shall need a guide."
+            },
+            {
+              "speaker": "Hiylik Myna",
+              "text": "When a guide arrives, I will aid the mercenary by holding their wealth for their eventual return. The mercenary will repay the guide by giving [him/her/them] a token for items which I am holding."
+            },
+            {
+              "speaker": "Hiylik Myna",
+              "text": "I shall give such items to the guide as payment for their services once I'm handed the token."
+            },
+            {
+              "speaker": "Player",
+              "text": "What items will you hold?"
+            },
+            {
+              "speaker": "Hiylik Myna",
+              "text": "Oh, the range of items is very varied. Mercenaries tend to hold raw materials in high esteem and so will deposit those with me. They also seem to be good bartering items."
+            },
+            {
+              "speaker": "Hiylik Myna",
+              "text": "Generally, things like uncooked lobsters, coal, silver bars, bow strings. Things which are useful! Plus the odd tome of experience, which are considered incredibly useful."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after Darkness of Hallowvale",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hiylik Myna",
+              "text": "Hello friend. What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Could you exchange my tokens for me?"
+            },
+            {
+              "speaker": "Hiylik Myna",
+              "text": "No need, friend. You can do that yourself."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you know what these nail beast nails are used for?"
+            },
+            {
+              "speaker": "Hiylik Myna",
+              "text": "Hmmm, not really sure. They do look disgusting though..oh, actually, I remember some other adventurers taking some of these to Sanfew now...something about being able to make a potion with them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, so perhaps Sanfew knows then?"
+            },
+            {
+              "speaker": "Hiylik Myna",
+              "text": "Maybe. It's worth a try. Next time you're in Taverley, pop in and ask him. I think I remember some adventurers saying something about a serum though, some sort of potion that can be made with them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you tell me why you're here?"
+            },
+            {
+              "speaker": "Hiylik Myna",
+              "text": "Of course. These mercenaries are here waiting for someone to take them down to Burgh de Rott. They want to do their bit against the vampyres."
+            },
+            {
+              "speaker": "Hiylik Myna",
+              "text": "I hold some items for these good hearted souls so that the guide can be recompensed when the job is done."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on Hiylik Myna",
+      "sections": [
+        {
+          "title": "Using nail beast nails on Hiylik",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you know what these are? Or what they're used for?"
+                },
+                {
+                  "speaker": "Hiylik Myna",
+                  "text": "Hmmm, not really sure. They do look disgusting though..oh, actually, I remember some other adventurers taking some of these to Sanfew now...something about being able to make a potion with them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, so perhaps Sanfew knows then?"
+                },
+                {
+                  "speaker": "Hiylik Myna",
+                  "text": "Maybe? It's worth a try. Next time you're in Taverley, pop in and ask him. I think I remember some adventurers saying something about a serum though, some sort of potion that can be made with them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a reward token on Hiylik",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hiylik Myna",
+                  "text": "Oh well done! Thank you for aiding our citizens."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

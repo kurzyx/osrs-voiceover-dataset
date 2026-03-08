@@ -1,0 +1,29 @@
+{
+  "ref": "gem-trader",
+  "categoryRef": "npc",
+  "title": "Gem trader",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gem trader",
+              "text": "Good day to you traveller. Would you be interested in buying some gems?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            },
+            {
+              "speaker": "Gem trader",
+              "text": "Eh, suit yourself."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

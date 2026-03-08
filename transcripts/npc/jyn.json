@@ -1,0 +1,97 @@
+{
+  "ref": "jyn",
+  "categoryRef": "npc",
+  "title": "Jyn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Jyn",
+              "text": "C'mon, almost got it..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Having problems?"
+            },
+            {
+              "speaker": "Jyn",
+              "text": "Agh! You scared me! Now I've lost my lockpick."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, sorry about that. Do you want one of mine?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, sorry about that. I'm afraid I don't have one for you."
+            },
+            {
+              "speaker": "Jyn",
+              "text": "Don't worry about it, I brought an extra just in case. Lockpicks really do help with disarming these traps."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, that's good to know, thanks for the tip! Out of curiosity, what outfit is that?"
+            },
+            {
+              "speaker": "Jyn",
+              "text": "It's called the Rogue's outfit. I got it from the Rogue's Den in Burthorpe. I've found it helps me blend in when pickpocketing people, allowing me to steal more coins from them."
+            },
+            {
+              "speaker": "Player",
+              "text": "It looks cool. Does it also help here?"
+            },
+            {
+              "speaker": "Jyn",
+              "text": "Ha ha ha, of course not! I don't think the coffin cares whether or not I blend in."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good point. Why are you wearing it though if it doesn't help you get more loot?"
+            },
+            {
+              "speaker": "Jyn",
+              "text": "Honestly, I just really like how it looks. You've got to look your best while travelling right?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Each to their own I suppose. I'll be off. Best of luck down here."
+            },
+            {
+              "speaker": "Jyn",
+              "text": "And the same to you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attempting to open a coffin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jyn",
+                  "text": "C'mon, almost got it..."
+                },
+                {
+                  "speaker": "Jyn",
+                  "text": "Agh, thought I had it that time!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "ref": "saradominist-recruiter",
+  "categoryRef": "npc",
+  "title": "Saradominist recruiter",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey there, what's this all about?"
+            },
+            {
+              "speaker": "Saradominist recruiter",
+              "text": "Our Lord Saradomin needs your help!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh great, what is it this time?"
+            },
+            {
+              "speaker": "Saradominist recruiter",
+              "text": "You're needed at Castle Wars, our forces are weakening and we need you as reinforcements."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, I'll play some Castle Wars."
+            },
+            {
+              "speaker": "Saradominist recruiter",
+              "text": "Praise Saradomin, I'll send you there right away!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hmm, I'm alright actually, I don't want to play Castle Wars right now."
+            },
+            {
+              "speaker": "Saradominist recruiter",
+              "text": "I urge you to reconsider, before it's too late."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "On seasonal or permanent Deadman Mode worlds",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Saradominist recruiter",
+              "text": "Fight for the greater good today!"
+            },
+            {
+              "speaker": "Saradominist recruiter",
+              "text": "Fight for Saradomin today!"
+            },
+            {
+              "speaker": "Saradominist recruiter",
+              "text": "The light of Saradomin is fading, he needs your help!"
+            },
+            {
+              "speaker": "Saradominist recruiter",
+              "text": "Zamorak is a false god who is a stain on this world, Saradomin will guide you forward."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

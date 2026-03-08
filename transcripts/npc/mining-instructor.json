@@ -1,0 +1,199 @@
+{
+  "ref": "mining-instructor",
+  "categoryRef": "npc",
+  "title": "Mining Instructor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mining Instructor",
+              "text": "Hi there. You must be new around here. So what do I call you? 'Newcomer' seems so impersonal, and if we're going to be working together, I'd rather call you by name."
+            },
+            {
+              "speaker": "Player",
+              "text": "You can call me [player name]."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "Ok then, [player name]. My name is Dezzick and I'm a miner by trade. Let's teach you how to mine."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "Mining is very simple, all you need is a pickaxe. The rocks around here contain tin and copper. Why don't you get started by mining some?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Before mining both tin and copper",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mining Instructor",
+              "text": "The rocks around here contain tin and copper. You should try mining some."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After mining both tin and copper",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mining Instructor",
+              "text": "Now that you have some ore, you should smelt it into a bronze bar. You can use the furnace over there to do so."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After smelting a bronze bar",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I have a bronze bar. What now?"
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "Now that you've got a bar, you can smith it into a weapon. To smith something, you need a hammer and an anvil. There's some anvils just here that you can use. See if you can make a bronze dagger."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Before smithing a bronze dagger",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mining Instructor",
+              "text": "See if you can use the anvil here to make a bronze dagger."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After smithing a bronze dagger",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mining Instructor",
+              "text": "Would you like me to recap anything?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about mining again."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "Certainly. To mine you need a pickaxe. Different pickaxes let you mine more efficiently."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "Earlier I gave you a bronze pickaxe, which is the most inefficient pickaxe available, but is perfect for a beginner."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "To mine, simply click on a rock that contains ore while you have a pickaxe with you, and you will keep mining the rock until you manage to get some ore, or until it is empty."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "The better the pickaxe you use, the faster you will get ore from the rock you're mining."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "You will be able to buy better pickaxes from the Dwarven Mine when you reach the mainland, but they can be expensive."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "Also, the better the pickaxe the higher the Mining level required to use it will be. Was there anything else you wanted to hear?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about smelting again."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "Smelting is very easy. Simply take the ores required to make a metal to a furnace, then use the ores on the furnace to smelt them into a bar of metal."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "Furnaces are expensive to build and maintain, so there are not that many scattered around the world. I suggest when you find one you remember its location for future use."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "An alternative to using a furnace to smelt your ore is to use high-level magic to do it."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "As well as letting you smelt ore anywhere, it has a guaranteed success rate in smelting all ores."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "Some metals, such as iron, contain impurities and can be destroyed during the smelting process in a traditional furnace, but magical heat does not destroy them."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "Anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about Smithing again."
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "When you have acquired enough bars of the metal you wish to work with, you are ready to begin smithing."
+            },
+            {
+              "speaker": "Player",
+              "text": "[sic] Take the hammer I gave you, or buy a new one from a general store, and proceed to a nearby anvil."
+            },
+            {
+              "speaker": "Player",
+              "text": "[sic] By using a metal bar on an anvil you will be presented with a screen showing the objects you are able to smith at your current level."
+            },
+            {
+              "speaker": "Player",
+              "text": "[sic] It's a pretty straightforward skill as I'm sure you discovered while making me that lovely bronze dagger."
+            },
+            {
+              "speaker": "Player",
+              "text": "[sic] The higher Smithing level you are, the better quality the metal you can work with. You start off on bronze and work your way up as your smithing skills increase."
+            },
+            {
+              "speaker": "Player",
+              "text": "[sic] Anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nope, I'm ready to move on!"
+            },
+            {
+              "speaker": "Mining Instructor",
+              "text": "Okay then."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

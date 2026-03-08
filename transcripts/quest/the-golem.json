@@ -1,0 +1,700 @@
+{
+  "ref": "the-golem",
+  "categoryRef": "quest",
+  "title": "The Golem",
+  "sections": [
+    {
+      "title": "Talking to the golem to start the quest",
+      "sections": [
+        {
+          "title": "Talking to the Golem after starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Broken clay golem",
+                  "text": "Damage... severe..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Broken clay golem",
+              "text": "Damage... severe... Task... incomplete..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Shall I try to repair you?"
+            },
+            {
+              "speaker": "Broken clay golem",
+              "text": "Repairs... needed..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not going to find a conversation here!"
+            },
+            {
+              "speaker": "Broken clay golem",
+              "text": "Graar!"
+            },
+            {
+              "speaker": "Broken clay golem",
+              "text": "Must... not... injure... human..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using the soft clay on the golem",
+      "sections": [
+        {
+          "title": "Before starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After using the first soft clay",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After using the second soft clay",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After using the third soft clay",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After using the fourth soft clay",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clay golem",
+                  "text": "Damage repaired..."
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "Thank you. My body and mind are fully healed."
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "Now I must complete my task by defeating the great enemy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What enemy?"
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "A great demon. It broke through from its dimension to attack the city."
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "The golem army was created to fight it. Many were destroyed, but we drove the demon back!"
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "The demon is still wounded. You must open the portal so that I can strike the final blow and complete my task."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Golem again after learning about the demon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clay golem",
+                  "text": "My task is incomplete. You must open the portal so I can defeat the great demon."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I open the portal?"
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "The four statuettes in the temple must be turned to the correct pattern."
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "I do not know the pattern. Golems are not permitted to open the portal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What makes you think you can defeat the demon?"
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "If not I, then who else? No living being can destroy the demon. That is why the golems were created in the first place."
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "But the demon was badly wounded and elder-demons heal very slowly indeed. It was almost dead when it retreated to its own dimension."
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "Now that I am repaired, I will be able to destroy it easily!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll get right on it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Visiting the Digsite",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to Elissa in the Digsite",
+      "sections": [
+        {
+          "title": "Talking to Elissa again after learning where the notes are",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elissa",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where did you say the notes were?"
+                },
+                {
+                  "speaker": "Elissa",
+                  "text": "They're on a bookcase in the Exam Centre."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the bookcase",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Elissa after reading Varmen's notes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elissa",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is the statuette that Varmen took back from Uzer?"
+                },
+                {
+                  "speaker": "Elissa",
+                  "text": "The statuette? Oh, yes..."
+                },
+                {
+                  "speaker": "Elissa",
+                  "text": "That statuette was the only thing we had to show from that expedition."
+                },
+                {
+                  "speaker": "Elissa",
+                  "text": "It was very worn, but you can still make out a lot of detail. The Uzerians were expert sculptors. It's a pity we only have that small example."
+                },
+                {
+                  "speaker": "Elissa",
+                  "text": "Now it's on display in the Varrock museum."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elissa",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do here?"
+            },
+            {
+              "speaker": "Elissa",
+              "text": "I'm helping with the dig. I'm an expert on Third Age architecture."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Elissa",
+              "text": "In the Third Age, this was a great city. Look at these giant walls! They put Varrock to shame!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't know, Varrock palace is impressive."
+            },
+            {
+              "speaker": "Elissa",
+              "text": "Hmph. I don't think it will look this good when it's been buried in the ground for three thousand years!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What happened to the city?"
+            },
+            {
+              "speaker": "Elissa",
+              "text": "No one knows for sure."
+            },
+            {
+              "speaker": "Elissa",
+              "text": "But the Third Age was a time of destruction, when the gods were violently at war."
+            },
+            {
+              "speaker": "Elissa",
+              "text": "Many great civilizations were destroyed then."
+            },
+            {
+              "speaker": "Player",
+              "text": "I found a letter in the desert with your name on."
+            },
+            {
+              "speaker": "Elissa",
+              "text": "Ah, so you've found the ruins of Uzer."
+            },
+            {
+              "speaker": "Elissa",
+              "text": "AI wrote that letter to my late husband when he was exploring there."
+            },
+            {
+              "speaker": "Elissa",
+              "text": "that was a great city as well, but the museum could only fund one excavation and this one was closer to home."
+            },
+            {
+              "speaker": "Elissa",
+              "text": "If you're interested in his expedition, the notes he made are in the library in the Exam Centre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Visiting the Varrock Museum",
+      "sections": [
+        {
+          "title": "Talking to Curator Haig in the Varrock Museum",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "Welcome to the museum of Varrock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for a statuette recovered from the city of Uzer."
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "Ah yes, a very impressive artefact. The people of that city were excellent sculptors."
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "It's in the display case upstairs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I need to take it away with me."
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "What do you want it for?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to open a portal to the lair of an elder-demon."
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "Good heavens! I'd never let you do such a dangerous thing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I, er, just want it."
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "Well, you can't have it! This museum never lets go of its treasures."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Curator Haig",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Opening the display case",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Curator Haig after losing the statuette",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "Welcome to the museum of Varrock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for a statuette recovered from the city of Uzer."
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "Ah yes, a very impressive artefact. The people of that city were excellent sculptors."
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "It's in the display case upstairs."
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "That statuette was stolen recently, but now it's been returned."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I need to take it away with me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Returning to Uzer",
+      "sections": [
+        {
+          "title": "Using the strange implement on the Golem without the new instructions",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using statuette on alcove",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Unlocking the door with statuettes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Trying to turn statuettes after opening the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to the golem after opening the portal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clay golem",
+                  "text": "My task is incomplete. You must open the portal so I can defeat the great demon."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I opened the portal."
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "Golems cannot pass through the portal. But the demon will soon emerge. I must ready myself for combat!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering the portal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using hammer on throne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to the golem after entering the throne of the demon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clay golem",
+                  "text": "My task is incomplete. You must open the portal so I can defeat the great demon."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's okay, the demon is dead!"
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "The demon must be defeated..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, you don't understand. I saw the demon's skeleton. It must have died of its wounds."
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "Demon must be defeated! Task incomplete."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the golem again after being told the demon must be defeated",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clay golem",
+                  "text": "My task is incomplete. You must open the portal so I can defeat the great demon."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I already told you, he's dead!"
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "Task incomplete."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, how am I going to convince you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taking the phoenix feather",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Desert Phoenix",
+                  "text": "Squawk!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Picking a black mushroom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Crushing the mushroom with a pestle and mortar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Crushing the mushroom without having an empty vial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using the phoenix feather on papyrus",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using a phoenix feather on the black dye",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using the phoenix quill on the papyrus",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using program on golem before using the strange implement",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After using the strange implement on the golem in Uzer and adding the new instructions",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clay golem",
+                  "text": "New instructions... Updating program..."
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "Task complete!"
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "Thank you. Now my mind is at rest."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Post quest",
+      "sections": [
+        {
+          "title": "Talking to the Golem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clay golem",
+                  "text": "Thank you for helping me. A golem can have no greater satisfaction than knowing that its task is complete."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But the whole city is destroyed! Doesn't that bother you?"
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "I was never programmed to appreciate the city. My only purpose was the destruction of the demon, and that is achieved!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

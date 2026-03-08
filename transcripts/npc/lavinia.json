@@ -1,0 +1,212 @@
+{
+  "ref": "lavinia",
+  "categoryRef": "npc",
+  "title": "Lavinia",
+  "sections": [
+    {
+      "title": "Standard dialogue (inside her residence)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lavinia",
+              "text": "Have I seen you before?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't think so... I've just got one of those faces."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "You're probably right."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "I'm rather busy at the moment. I've got to organise my cupboards of jewels."
+            },
+            {
+              "speaker": "Player",
+              "text": "Want any help?"
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "Absolutely not! You stay away from my jewels."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "Interested in buying a house like mine?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not sure I've got enough coins to do that."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "Silly me! I mistook you for one of us wealthy folk."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well that's rude."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "You'll catch on."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "Hello there. Are you liking the city?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's beautiful!"
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "It really is."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "Huh? Are you an encyclopedia salesman?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, madam, I'm a burglar. I burgle people."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "Hmm... I think you're an encyclopedia salesman?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not at all. I just want to ransack the place. Honestly."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "Hmm... Alright then."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue (outside her residence)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lavinia",
+              "text": "I've just spent so much money!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Good for you."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "Sorry, but I don't have time to chat. I've got important errands to run."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "I've got something in the back of my mind telling me I should go back home."
+            },
+            {
+              "speaker": "Player",
+              "text": "You don't say..."
+            },
+            {
+              "speaker": "Lavinia",
+              "text": "Lovely day for a stroll, wouldn't you say?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It is!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When Lavinia leaves the house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lavinia",
+                  "text": "Time to go check how rich I am!"
+                },
+                {
+                  "speaker": "Lavinia",
+                  "text": "Lovely day for a stroll."
+                },
+                {
+                  "speaker": "Lavinia",
+                  "text": "Time to see what's at the bazaar!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is still inside when Lavinia leaves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "When Lavinia returns to the house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lavinia",
+                  "text": "Now where did I put my keys..."
+                },
+                {
+                  "speaker": "Lavinia",
+                  "text": "Ah, there they are!"
+                },
+                {
+                  "speaker": "Lavinia",
+                  "text": "It smells funny in here..."
+                },
+                {
+                  "speaker": "Lavinia",
+                  "text": "There's mud all over the floor!"
+                },
+                {
+                  "speaker": "Lavinia",
+                  "text": "Something isn't right here..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When Lavinia returns and catches you inside",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lavinia",
+                  "text": "How did you get in here?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

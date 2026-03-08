@@ -1,0 +1,222 @@
+{
+  "ref": "duradel",
+  "categoryRef": "npc",
+  "title": "Duradel",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Duradel",
+              "text": "'Ello, and what are you after then?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I need another assignment."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Excellent, you're doing great. Your new task is to kill [amount] [task monster]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Got any tips for me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Great, thanks!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, great!"
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Good luck! Don't forget to come back when you need a new assignment."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "You're still hunting [monster]; you have [amount] to go. Come back when you've finished your task."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "You're still hunting [monster], with [amount] to go."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "I don't think that's a suitable task for you. Shall I cancel it? This will not wipe your task streaks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, please cancel it."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Alright, consider the task cancelled. You can now get a new assignment when you want one."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thanks, I want to try doing it."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Good luck with that."
+            },
+            {
+              "speaker": "Player",
+              "text": "Have you any rewards for me, or anything to trade?"
+            },
+            {
+              "speaker": "Duradel",
+              "text": "I have quite a few rewards you can earn, and a wide variety of Slayer equipment for sale."
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's talk about the difficulty of my assignments."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "The Slayer Masters may currently assign you any task in our lists, regardless of your combat level."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's fine - I can handle any task."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "That's the spirit."
+            },
+            {
+              "speaker": "Player",
+              "text": "In future, please don't give anything too tough."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Okay, from now on, all the Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "The Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's fine - I don't want anything too tough."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Okay, we'll keep checking your combat level."
+            },
+            {
+              "speaker": "Player",
+              "text": "Stop checking my combat level - I can take anything!"
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Okay, from now on, all the Slayer Masters will assign you anything from their lists, regardless of your combat level."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about your skillcape, please."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "This is a Slayer's Skillcape. Only a true Slayer master is permitted to wear one and in recognition of such an achievement, Slayer masters may be persuaded to allow you to select the same assignment in a row."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "You need more training before you earn that honour, though."
+            },
+            {
+              "speaker": "Player",
+              "text": "May I buy a Slayer's Skillcape, please?"
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Well you have performed well as a student. I guess you have earned the right to wear such a prestigious cape now. The Slayer masters will recognize this cape and may offer you the same assignment twice in a row."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "That will be 99000 coins, please."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've changed my mind; I don't want it."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Okay. Well, if you change it back again, I will be waiting."
+            },
+            {
+              "speaker": "Player",
+              "text": "Great, I've always wanted one!"
+            },
+            {
+              "speaker": "Player",
+              "text": "But, unfortunately, I don't have enough money with me."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Well, come back and see me when you do."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Unfortunately all Skillcapes are only available with a free hood, it's part of a skill promotion deal; buy one get one free, you know. So you'll need to free up some inventory space before I can sell you one."
+            },
+            {
+              "speaker": "Duradel",
+              "text": "Good hunting, [player name]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Er... Nothing..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Via the NPC Contact spell",
+      "sections": [
+        {
+          "title": "Before the update Game Improvements (26 March 2020)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello?"
+                },
+                {
+                  "speaker": "Duradel",
+                  "text": "'Ello, who's that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm [player name]. I'm using my magic to communicate with you."
+                },
+                {
+                  "speaker": "Duradel",
+                  "text": "Bizarre, go on, what do you want then?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Duradel",
+              "text": "'Ello, can I help you?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

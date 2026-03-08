@@ -1,0 +1,2672 @@
+{
+  "ref": "enakhras-lament",
+  "categoryRef": "quest",
+  "title": "Enakhra's Lament",
+  "sections": [
+    {
+      "title": "Starting out",
+      "sections": [
+        {
+          "title": "Talking to Lazim",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "Ah, an adventurer. Could you spare some of your time to help me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why, what's the matter?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "It's a sorry tale. I was once an accomplished sculptor, you see."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I made statues for the kings, queens and rulers of Gielinor. But then there was the accident..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "After that, I could never hold a chisel again."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "But I have been struck by my muse while travelling the desert, and want nothing more than to build a statue in this area."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "The desert's plain and full of sand, and needs more decoration."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, what would you need my help with?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "As I said, I can't hold a chisel, but I can guide you in crafting the statue for me."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'd need you to quarry the stone for it, as well."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, will you help me with my art?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You'll have to explain it to me as you go along, but count me in."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Excellent."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What should I be doing to make your statue?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "There is a stone quarry nearby; I require several blocks of sandstone in order to make the statue."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Each of these blocks should be around... well, let's say thirty two kilograms for the first one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can't mine a block that big!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, then, bring me enough smaller blocks to make thirty two kilograms, and I will deal with it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, how much do different blocks of sandstone weigh?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "From what the last adventurer told me, there are tiny blocks that weigh 1 kg, small blocks that weigh 2 kg, and medium-sized blocks that weigh 5 kg."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "There are also large blocks that weigh 10 kg, but I doubt a weedy adventurer like you could even carry one, let alone mine one cleanly."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Apparently, the more skilled you are at mining, the larger the blocks you can chip off the rock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll get on with it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know, that sounds like a lot of work."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "All true art requires work."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim again before accepting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What should I be doing to make your statue?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "There is a stone quarry nearby; I require several blocks of sandstone in order to make the statue."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Each of these blocks should be around... well, let's say thirty two kilograms for the first one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can't mine a block that big!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, then, bring me enough smaller blocks to make thirty two kilograms, and I will deal with it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim while holding sandstone for the base",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have some sandstone for you!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, hand it over, then."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "That makes [1-32] kg I'm carrying now."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'm now carrying [1-32] kg of your inexpertly-quarried stone."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "That's [1-32] kg I have now."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I need [1-32] kg more stone to make the base. Any more stone you want to burden me down with?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I need [1-32] kg more stone to make the base. Have you any more to make me carry?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I need [1-32] kg more stone to make the base. Do you have any more stone you want to offload onto me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I have more stone."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's a large 10 kg block."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Thank you, adventurer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's a medium 5 kg block."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Oh, joy. I'm sure I'll treasure it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's a small 2 kg block."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "So generous of you, adventurer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's a tiny 1 kg block."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Either you've been splitting stone into smaller blocks, or you're worse at quarrying stone than I expected."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why won't you take more than 32 kg of stone?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Because, adventurer, I'm not going to carry more of your blocks than I absolutely must."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "If your blocks are too big, break them with a chisel or a pick."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "That makes [1-32] kg I'm carrying now."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'm now carrying [1-32] kg of your inexpertly-quarried stone."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "That's [1-32] kg I have now."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "That's enough for the base of the statue, certainly."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Here you are, adventurer. Now, use a chisel to craft it into a base for the statue."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How am I supposed to carry that? It's huge!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Oh, stop whining. The last adventurer who helped me was carrying around a girl in a barrel."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Zamorak only knows why, but [he/she] didn't complain."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, that's all for now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim after getting the Sandstone (32kg)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have this large block of sandstone you gave me..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I told you to carve it into the base of the statue, correct?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, you did."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Then why are you standing around brainlessly? Get on with it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using chisel on the Sandstone (32kg)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim with the Sandstone base",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've made the base of the statue!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Excellent. Now, just put it on the flat ground next to me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim after placing the Sandstone base",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What do you want me to do now?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Hmph. Well, the base of the statue is done, but it needs a body. Twenty kilograms should be enough for you to make it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll do it right away!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim while holding sandstone for the body",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have some sandstone for you!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, hand it over, then."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "That makes [1-20] kg I'm carrying now."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'm now carrying [1-20] kg of your inexpertly-quarried stone."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "That's [1-20] kg I have now."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I need [1-20] kg more stone to make the body. Any more stone you want to burden me down with?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I need [1-20] kg more stone to make the body. Have you any more to make me carry?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I need [1-20] kg more stone to make the body. Do you have any more stone you want to offload onto me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I have more stone."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's a large 10 kg block."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Thank you, adventurer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's a medium 5 kg block."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Oh, joy. I'm sure I'll treasure it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's a small 2 kg block."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "So generous of you, adventurer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's a tiny 1 kg block."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Either you've been splitting stone into smaller blocks, or you're worse at quarrying stone than I expected."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why won't you take more than 32 kg of stone?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Because, adventurer, I'm not going to carry more of your blocks than I absolutely must."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "If your blocks are too big, break them with a chisel or a pick."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "That makes [1-20] kg I'm carrying now."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'm now carrying [1-20] kg of your inexpertly-quarried stone."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "That's [1-20] kg I have now."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "That should be enough to use for the statue's body."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "All you have to do with it, adventurer, is chisel it into the body of the statue."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, that's all for now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim while holding the Sandstone (20kg)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have this large block of sandstone you gave me."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Very nice, adventurer. You're supposed to make it into the statue's body."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Get your chisel ready and start working."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using chisel on the Sandstone (20kg)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim while holding the Sandstone body",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've made the statue's body!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well done, adventurer. Not as dense as you look."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Go on, add it to the base of the statue."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim after using the body on the statue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "You utter incompetent! Have you added the body to the statue yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course I have!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Hmm, then perhaps I'm still missing something..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you want me to do next?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Oh, I don't know, adventurer. Go and chisel the statue a bit more, or something."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay then."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim after chiseling the statue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "It shouldn't have taken this long... did I miscalculate?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Ah, adventurer. As you can see, the statue is nearly complete. All it needs is a head."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "The head should be made out of granite, which you can find in that quarry nearby."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "As for whose head... well, perhaps I'll let you impose your own artistic vision on it."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Whose head do you think should be on the statue?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think it should have my head!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Are you mad?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You'd start carving it, then you'd take a helmet off or change your hairstyle, and nobody would know who on Gielinor it was supposed to be!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Statues are far more permanent than you adventurers and your fashions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So I can't put my head on the statue?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "No. Now choose something sensible."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think it should have your head."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "After all, it's your statue."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Why, that's very generous of you, adventurer."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Are you hoping for a bigger reward for saying that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, maybe."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Wonderful. Well, at least you have me here for reference."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Now, go and find a suitable block of granite and make that head."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "And do try to remember which one it is you're carving."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think it should have a god's head."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I see..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "And which god were you thinking of? There's very little reference material here in the desert."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's true."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Whose head do you think I should make?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, some of the people in the desert worship a god called Icthlarin."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Or, if you prefer, I'm sure you could sculpt Zamorak instead."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll use Zamorak's head for the statue."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Ah, an excellent choice."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Now you should find a suitable block of granite, and make that head."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Try to remember which head you've decided to carve - I know you adventurers. Memories like fishing nets."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll use Icthlarin's head for the statue."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "An interesting choice - I'm sure there's some reference material you can use around here."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Find a suitable block of granite, and get carving."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "And make sure to remember which one you're supposed to be carving. I've known some of you adventurers to forget things you were told three seconds ago."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "A human statue with a camel's head? Is there any particular reason?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, no. I just thought it would be funny."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, it is appropriate, all things considered..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Very well, it'll work well in a desert setting. Now, find a suitable block of granite, and carve that head."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Make sure you remember which head you're carving. The last adventurer who tried to help me forgot half- way through carving, and produced the strangest mixture of camel and human I've ever seen."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You know, I've done something like this before."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I had to help rebuild a statue in the city of Keldagrim, and then choose whose head should be placed on the top!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Keldagrim? Hmph. Technically good sculptors, the dwarves, but they have no sense of art."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'm sure that none of them would even think of travelling to the desert and building a statue here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I use the head I chose for that statue on yours?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Do you even remember what it looked like?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... no."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Then no, you can't. Now, choose something else."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using chisel on the Granite (5kg)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hmm. Which head did I decide to use for the statue?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There, that looks good."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There, that looks good."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Was it supposed to look like that?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim after choosing a head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim after creating a head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have a head for the statue, but..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not sure it's the right one."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Let me see..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You decided to make the statue's head look like me, you said."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Hmm. I don't think much of your artistic skills, adventurer, but it's a passable likeness."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "...You really have a shorter attention span than a grain of sand, don't you?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You said you'd make the statue's head look like me, not like modern art!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I'll remember next time."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Perhaps it was too difficult for you. Do you want to change what head you'll make?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I'll stay with the one I chose first."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Fair enough. Remember, you're carving my head for the statue."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I'd like to change my choice."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, which will you choose this time?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You said you'd make the statue's head look like Zamorak."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Hmm. You're not a particularly good sculptor, adventurer, but it's at least recognisable."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Do you even remember who you were supposed be carving?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "It was supposed to be Zamorak, not the horrific monstrosity you've carved!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I thought that was what he looked like."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "How dare you?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Ahem, that is to say, er..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, it was obviously too tough for you. Do you want to change what head you'll make?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, you said that you'd make the statue's head look like Icthlarin."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You're not much of an artist, but at least you did your research. It'll pass."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Weren't you supposed to be carving Icthlarin's head?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...I was?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, you're paying lots of attention, aren't you? Honestly, you adventurers."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "It would be easier on your poor little brain if you changed what head you'll make, don't you agree?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You said you'd make the statue's head look like a camel, and that looks like..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, it wouldn't fool a camel, but it's close enough for the statue."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I don't believe it. You said you were planning to make a camel head, but what's this?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, not a camel head?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Correct, adventurer! Have a cake."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Really?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Of course not! Why would I give something to you for having a worse memory than a piece of burnt fish?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Do you want to change what head you'll make to something you have a chance of remembering?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the head on the statue before talking to Lazim",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "Hold it! I know you adventurers."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I bet you've managed to make the wrong head, or something like that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I know what I'm doing, honest..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I don't care if you think you know what you're doing. Let me have a look at that head."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fine, fine..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the head on the statue after confirming it with Lazim",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What's going on?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ow!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ouch!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Argh, my duodenum!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ow... Lazim has some explaining to do!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Bottom floor of Enakhra's Temple",
+      "sections": [
+        {
+          "title": "Talking to Lazim inside the temple",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "Ah, excellent, it's all gone as planned."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Gone as planned?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We just fell through the ground into some weird temple!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Of course we did! That's why I had you build a statue."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't think you really are a sculptor. What are you looking for in this temple?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Oh, nothing. No treasure here. No priceless artefacts from the lost ages of Gielinor, or anything like that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll be leaving, then."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Wait! If you help me, then..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'll give you a share of whatever we find."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That sounds better. So, where's the treasure?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "At the top of the temple. We've fallen through to the very bottom, so you'll have to climb up to the next floor."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's good, but..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I get further into the temple?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "The stories I've heard say there are odd doors in this temple, that have locks that don't need keys, but... rather large limbs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yuck!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You can use your chisel or pick to take them from the statue. They should be the right size."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Be thankful they're the statue's limbs and not yours, adventurer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How do I get further into the temple?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "The stories I've heard say there are odd doors in this temple, that have locks that don't need keys, but... rather large limbs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yuck!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You can use your chisel or pick to take them from the statue. They should be the right size."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Be thankful they're the statue's limbs and not yours, adventurer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know where the statue's head is?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Ah, it fell off when the statue dropped through the ceiling. I've been keeping it safe since then."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Try not to lose it, adventurer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim after getting the stone head once",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you know where the statue's head is?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You didn't get far from here before you mislaid it."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "This time, try not to drop it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know where the statue's head is?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "...You're carrying it, adventurer."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Been at the Asgarnian Ale a little too much, have we?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using chisel on the Fallen statue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim while holding the stone limbs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Could you make these stone limbs easier to carry?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They're really heavy, and they weigh me down."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Of course not! I'm not a carnival conjurer."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Adversity builds character, adventurer. Heft them around by yourself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, okay."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim after losing the stone limbs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I mislaid the statue's right arm."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I suppose I'm useful to have around at these times. I found it when you dropped it around here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can't find the statue's left arm."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "It's lucky for you that I notice these things. Here, you managed to drop it in this room."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... I don't know where I put the statue's left leg."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You dropped it near the statue. Do I have to hold your hand through everything?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Here it is."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I lost the statue's right leg."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, it didn't go far - I found it in here. Take better care of it next time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Open door to the north",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ow, my head..."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "At last, it's complete. A temple fit for my lord."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Take-sigil from Pedestal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Open door to the north-west",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ow, my head..."
+                },
+                {
+                  "speaker": "Knight",
+                  "text": "All right, men, destroy that evil sorceress... and her temple with her!"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "You will never have this temple - it belongs to my lord!"
+                },
+                {
+                  "speaker": "Knight",
+                  "text": "F-for Avarrocka!"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "Ah ha ha ha ha!"
+                },
+                {
+                  "speaker": "Knight",
+                  "text": "Aaaaaargh!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Open door to the south-west",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ow, my head..."
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "Well, why would Zamorak want a temple? You said he needed weapons instead."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "I wish I'd never supported him."
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "So you've seen sense? You'll join our side?"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "Heh heh heh..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Open door to the south-east",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ow, my head..."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "Surely this would make a good weapon..."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "No, no! Curse it, that doesn't work!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Placing sigil in the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Middle floor of Enakhra's Temple",
+      "sections": [
+        {
+          "title": "Talking to Lazim after going upstairs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you help me with this pedestal I've found?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "What pedestal?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's on the floor above this. It looks sort of important."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Really? Did it have some sort of recess on the top?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Now that you mention it, it did..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "In that case, perhaps you should try using the head of the statue on it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know where the statue's head is?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Ah, it fell off when the statue dropped through the ceiling. I've been keeping it safe since then."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "...You're carrying it, adventurer."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Been at the Asgarnian Ale a little too much, have we?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You didn't get far from here before you mislaid it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim after trying to use the statue's head on the pedestal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you help me with this pedestal I've found?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "What pedestal?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's on the floor above this. It looks sort of important."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Really? Did it have some sort of recess on the top?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, and I tried using the statue's head with it..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...but it didn't fit properly."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Hmm. Intriguing, adventurer."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Perhaps you should find out what shape the recess is, so you can sculpt something that will fit in it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you sure that will work?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Adventurer, I know more about this temple than you do."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "All you need to do is make a mould of the recess somehow, then use it as a guide to make another head."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "It should be made from the same granite as the statue's head was."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using soft clay on the pedestal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using chisel on Granite (5kg) while holding the mould",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using the stone head (cavity) on the pedestal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ow, not another headache..."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "But it's still a nice temple, isn't it?"
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "Wait... What is this?"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "Ha ha ha. You believed me, didn't you?"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "I would never desert my lord!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim on the middle floor",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "Well done unlocking those doors, adventurer. Did you have any problems?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I saw some really strange visions. Everything went grey..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Those are some of the traps to keep people away from this temple."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Thankfully, they didn't send you mad this time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That doesn't sound good."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, are we at the top of the temple now?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "No, there is another floor above this. You have to go up a ladder in the room to the north."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hah, that's easy. Treasure, here I come!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "There's a magic barrier in the way. And right now, it won't let anything through."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there any other way to get upstairs?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "No, but I suspect the other rooms on this floor have magical properties. If you solve all the puzzles they present, then..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How will I know when I've solved them?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Oh, it'll be quite obvious."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "The globes on the pedestal here will also light when you've solved the room they correspond to."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Pentyn",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Pentyn",
+                  "text": "Have you come to torture me again?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "Oh, you may look human, but I know you're not. I've heard stories."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "How you Mahjarrat can take on any form, and use magic to inflict pain without any weapons."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I, er... what?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have no idea what you're talking about, but I'm just as human as you are."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "You'll never get what you want from me. I'm a soldier of Avarrocka, and will stand strong!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Look, I'm not going to hurt you!"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "Besides, I am already wounded, and have been so for many years, thanks to this spell you cast on me. And hungry. So very, very hungry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using food on Pentyn",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've got some food you can have. It's quite tasty."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here, try this. It should fill you up."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have some of this food. It's really good, I promise!"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "My daughter was learning to cook this when I left."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I haven't remembered her in so long... thank you for reminding me of her."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "My son loved this dish. He would have eaten it every day if we had let him."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I haven't remembered him in so long... thank you for reminding me of him."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "A cake? There's nothing to celebrate, is there?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "So many years gone by. My children must have grown up and left home."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I haven't remembered them in so long... thank you for reminding me of them."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "Did you just dig that up and throw it into an oven?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "It doesn't look good at all."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I'd prefer it with some sort of topping..."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "That doesn't look too bad at all."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "It could almost be my wife's wonderful cooking."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I haven't remembered her in so long... thank you for reminding me of her."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "What do you take me for? A rabbit?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "What's this? Did you just dig it out of the ground?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "What do you think I am, a bear? It's not even seasoned!"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I'm a civilised man, not a barbarian gnawing on his kill!"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "Oh, how pleasant. I'm surprised you remembered to cook it after you killed it!"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I'm hungry, but not so hungry that I'll eat your leftovers."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "That's revolting! Why would you give people food you've already eaten half of?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I'm not touching that!"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I might have enjoyed that food if you hadn't already eaten part of it."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "So, you're throwing scraps of food to me like I'm a dog, are you?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "If only you could feel the bite of my sword!"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "Do you think I'm a gnome, or something? I'm not going to eat that!"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "What are you trying to feed me? I don't want that!"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "Are you just trying to feed me everything you have?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "What do you take me for? A goat who'll eat whatever's in front of him?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "What are you trying to do, kill me?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "Oh, I get it, you're experimenting on me with different things to see what I'll eat."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I'm not going to eat something your cat dragged in!"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I'd rather have some good human home baking."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "Some fresh home baking would be delicious."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I'd like something that's had some care put into making it."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I'd like to have a hearty meal fresh from the oven."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you feeling better now?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "Yes, thank you."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "The food you gave me healed my wounds, and it also reminded me of my family; that helped me to remember who I was."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I'm afraid that I'm trapped here, but I still remember something of this floor of the temple."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "If you need any hints about the rooms nearby, I can give you some help."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "When we came to the temple, that fountain was frosted with ice."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "Even chipping at it with swords or lighting fires under it didn't do anything."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "My guess is that some sort of magic is keeping it that way."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about the room with the furnace."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I tried to go in there, but the smoke was so thick I could barely see the furnace."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "It may be that it's blocked, in which case you'll have to clear it out."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "A good breeze should do the trick."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about the dark room."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I never went in there myself, but I peered through the door."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "There seemed to be fires of some sort all around the room, but they were burning low."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I'd imagine they've gone out by now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's okay, I don't need any help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cast Fire Bolt, Blast, Wave, or Surge on Crust of ice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Investigating Braziers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using items on Braziers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Casting Wind Bolt, Blast, Wave, or Surge on Furnace grate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Pass through Magic barrier",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim after unlocking the gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "The treasure's up ahead, adventurer. Be careful of the traps."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What traps?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Oh, I don't know. Perhaps, say, huge skeletons that'll tear your arms and legs off?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Nothing, adventurer, nothing. You just trot along and get that treasure, now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the first Boneguard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Boneguard",
+                  "text": "Leave this temple at once, or I shall be forced to attack!"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "I will defend this door until I am released from this prison of bone..."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "You shall not pass me, unless I crumble into dust!"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "These bones that trap me will block your path!"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Now, flee before I attack you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Casting crumble undead on the Boneguard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Freed Spirit",
+                  "text": "Thank you, kind [sir/lady]... now I am free from my imprisonment."
+                },
+                {
+                  "speaker": "Freed Spirit",
+                  "text": "I no longer need these bones - take them, please, and bury what you can."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Enakhra before the second Boneguard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Enakhra",
+                  "text": "Don't interrupt me, human! I have to concentrate."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing?"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "I'm keeping a weapon under control. If my attention wavers..."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "...then it tries to escape me. I must keep it safe for my lord Zamorak."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talk to the second Boneguard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Boneguard",
+                  "text": "Leave this place, before I am forced to attack!"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "If you value your life, young [man/woman/one], then flee!"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "You should not be here! This is a dangerous place for beings such as you!"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "I am impressed, young [man/woman/one]. You seem to have more resilience than those I have fought off before."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Perhaps, then, you could help me with my predicament?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why, what's wrong?"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "I am trapped in this form against my will... it has been a long and painful struggle to even regain control over my own mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why did you attack me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I didn't do anything to deserve it!"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "As I said, I am trapped like this against my will."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "I am forced to defend the one who enslaved me from any harm, even though it disgusts me to do so!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who's trapped you in this form?"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "SHE has. She was my rival before we came to this world, and supported that upstart Zamorak in his quest to be a god."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "It angers me to think at how she tricked me into slavery..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I understand, but who is 'she'?"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Her name is Enakhra, and she is the one who made this accursed temple and this boneguard that I am trapped in."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Now, since you show some interest in my situation, will you help me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course, I'll help you out. But first of all, do you have any treasure?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I, er, was just wondering..."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Certainly, young [man/woman/one]. If you help me, I will give you a valuable amulet, and some of my knowledge."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's good enough for me. What do I have to do?"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Enakhra keeps me trapped in this form with magic."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Her hold over me grew weaker over the years, and I began to build a wall to keep her trapped in her own temple forever."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Unfortunately, she has strengthened her spells lately, and I can no longer will myself to continue building."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "I want you to finish building this wall, that we might seal her in this temple forever, where she cannot taint the world with her creations again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "About this wall..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where do I get the stone?"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "There is a pile of rubble nearby, made of blocks that have fallen from the walls and the ceiling over time."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "I have been trapped here for several thousand years, after all..."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Is there anything else you wish to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I build the wall?"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Since the blocks are heavy, you will need to be quite strong in order to lift them up to the wall."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Once you have placed the stones up on the wall, you must trim them with a chisel so that they do not fall off when you place the next layer."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Is there anything else you wish to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How long will it take?"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "I was not far from finishing, I must say. It will most likely only take you three loads to finish building it."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Is there anything else you wish to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could you tell me more about Enakhra?"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "She is a coward, and a despicable traitor. She even supported Zamorak when he tried to become a god."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Of course, even though she built a temple for him, he didn't care, and she's been hiding here ever since."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Is there anything else you wish to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could you tell me more about yourself?"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "I was once a proud mage, and now look at me. Trapped inside a bone skeleton and forced to defend my rival's temple."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "To think I believed her when she said she wanted to become allies and make amends for our rivalry!"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "That two-faced, conniving, backstabbing wretch..."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "I suppose it is our nature, after all."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Is there anything else you wish to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll start building."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Thank you. Once you are finished, the wall itself will shield me from most of her magic, and I will be free to move once more."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Enakhra after the second Boneguard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Enakhra",
+                  "text": "So, you're determined to meddle in other people's business?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "That weapon has suddenly become a lot harder to control."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "And I know it's your doing. He's tried to get you to help, hasn't he?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If you're talking about Akthanakos, then yes!"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "Of course, I don't suppose he's told you who he's trying to support, has he?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, no. But if you hate him so much, I suppose he doesn't support Zamorak..."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "How dare you throw around his name so casually?"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "No, Akthanakos never supported Zamorak. Not even after these thousands of years..."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "He has pledged his allegiance to someone much more foul."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who?"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "...There are some names it is wiser not to mention, human."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "Such as the name of my lord Zamorak, that you seem so fond of throwing around."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But you said 'Zamorak' first!"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "Out of my sight, you unworthy scum, before I rend your flesh from your bones."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "Never dishonour his name again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim after before building the wall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, adventurer, do you have the treasure yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There doesn't seem to be any treasure there."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "None at all?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... the big skeleton promised to give me something if I helped him."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Ah ha! So, it's not attacking you? Well done, adventurer. Your second brain cell must be working overtime today."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using sandstone on the wall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using chisel on the wall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Finishing the wall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Enakhra",
+                  "text": "No! What have you done?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Boneguard after finishing the wall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "The wall's finally built!"
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "Thank you. Thank you very much for all your help."
+                },
+                {
+                  "speaker": "Boneguard",
+                  "text": "I can feel Enakhra's control over me fading. Finally, I can be free from this imprisonment..."
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "After thousands of years... finally, I am no longer her slave."
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "Honour demands that I reward you... and yet you have no room to carry my reward. Please, return when you can take it from me."
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "As thanks for your help, young [man/woman/one], please take this amulet of mine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow. Er, what does it do?"
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "It allows you to understand the speech of the Ugthanki, my patron animals, and other camels."
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "It is also bound to the desert, and can thus transport you back to this temple if you wish."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Akthanakos before finishing the cutscene",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Akthanakos",
+                  "text": "After thousands of years... finally, I am no longer her slave."
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "Honour demands that I reward you... and yet you have no room to carry my reward. Please, return when you can take it from me."
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "As thanks for your help, young [man/woman/one], please take this amulet of mine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow. Er, what does it do?"
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "It allows you to understand the speech of the Ugthanki, my patron animals, and other camels."
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "It is also bound to the desert, and can thus transport you back to this temple if you wish."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Enakhra cutscene",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Enakhra",
+                  "text": "After so many years, why didn't you just give up?"
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "Now my lord will punish you for destroying his weapon."
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "Ha ha... in that case, I'm sure lord Zaros will be happy to intervene."
+                },
+                {
+                  "speaker": "Enakhra",
+                  "text": "I'll be waiting for you in the north, Akthanakos."
+                },
+                {
+                  "speaker": "Akthanakos",
+                  "text": "It'll be a pleasure to fight you once more..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Post-quest",
+      "sections": [
+        {
+          "title": "Talking to Lazim after the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "Well, thank you, adventurer. You've just deprived me of a wonderful chance to learn from one of Zamorak's first followers."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? What about that treasure you were looking for?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You utter imbecile! Did you think I was looking for gold?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I want knowledge!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um... sorry."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "'Sorry' won't bring those Mahjarrat back."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "*sigh* I might as well stay to study this temple. It has some interesting magical properties."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ooh, you're a mage? Can you teach me any spells?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Well..."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'm sure I've dropped hints the size of Varrock, but you might not have noticed. I'm a Zamorakian mage."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "If you really want to learn my spells, you'll have to dedicate yourself to Zamorak."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I couldn't do that!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Then you won't be learning any of my spells."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Ha ha ha ha!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're not very nice, are you?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "What did you expect from a Zamorakian mage?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You really thought I would teach you my secrets just like that? Ha ha ha! You are a naive fool."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's not very nice of you."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'm a mage of Zamorak, after all. What else do you expect?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lazim again after the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lazim",
+                  "text": "How are you and your defective brain doing nowadays, adventurer?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've lost the amulet that Akthanakos gave me."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You scatterbrained fool. You dropped it in here. Since you have no space to carry it, I can't give it back yet."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "You really are an idiot, aren't you? You dropped it in here when you left. Try not to lose it next time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey! That's not very nice."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "I'm not very nice. If you want to see who ruined all of my plans, adventurer, just look in a mirror."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Suit yourself. At least I got a nice amulet for my trouble."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "And don't forget who gave it unlimited charges for you!"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "About that amulet - I might be able to improve it for you, for a fee. Have you got it with you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I don't have it on me at the moment. I must have stored it somewhere."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Of course you did. I bet you spend your life collecting junk, storing it, then complaining you've run out of storage space. Fetch the amulet if you want my help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I've got it here."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Yes, it's what I thought. This amulet will run out of charges all the time, if you keep using it. For one million coins I can give it unlimited charges."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why do you need so much money for it?"
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Three reasons. Firstly, I'm a Zamorakian mage - we're not big on charity work. Secondly, I want the money. Finally, in case you need reminding, I hate you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right. Well, I haven't got that kind of money on me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, here's one million coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not interested."
+                },
+                {
+                  "speaker": "Lazim",
+                  "text": "Your loss."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe another time."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

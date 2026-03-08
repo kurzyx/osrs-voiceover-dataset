@@ -1,0 +1,95 @@
+{
+  "ref": "gnome-traveller",
+  "categoryRef": "npc",
+  "title": "Gnome traveller",
+  "sections": [
+    {
+      "title": "Speaking to the male gnome traveller",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there! What're you doing in the city?"
+            },
+            {
+              "speaker": "Gnome traveller (male)",
+              "text": "Why do you want to know?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I was just wondering, I thought this was a dwarven city, not a gnome city."
+            },
+            {
+              "speaker": "Gnome traveller (male)",
+              "text": "It's not a human city either, but you're here all the same."
+            },
+            {
+              "speaker": "Player",
+              "text": "Fair point."
+            },
+            {
+              "speaker": "Gnome traveller (male)",
+              "text": "Anyway, we're here to do some business with one of the companies of the Consortium. Getting supplies for our people back at, er, the Grand Tree."
+            },
+            {
+              "speaker": "Player",
+              "text": "What kind of special supplies do the dwarves have that you need then?"
+            },
+            {
+              "speaker": "Gnome traveller (male)",
+              "text": "Oh, nothing special, nothing special I assure you... it's just that the dwarves have everything in large supplies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Speaking to the female gnome traveller",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there mister gnome!"
+            },
+            {
+              "speaker": "Gnome traveller (female)",
+              "text": "Miss gnome to you, thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, sorry about that... So what are you doing in fair Keldagrim?"
+            },
+            {
+              "speaker": "Gnome traveller (female)",
+              "text": "Fair? Hardly..."
+            },
+            {
+              "speaker": "Gnome traveller (female)",
+              "text": "We are the companions of the leader of our expedition. We have come here to bargain for much needed supplies for our people."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh yes, where are you from?"
+            },
+            {
+              "speaker": "Gnome traveller (female)",
+              "text": "Ehm... from Tree Gnome Village."
+            },
+            {
+              "speaker": "Gnome traveller (male)",
+              "text": "The Grand Tree!"
+            },
+            {
+              "speaker": "Gnome traveller (female)",
+              "text": "Oh yes, sorry, that's what I meant to say."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

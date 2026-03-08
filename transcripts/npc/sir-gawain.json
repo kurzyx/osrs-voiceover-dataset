@@ -1,0 +1,65 @@
+{
+  "ref": "sir-gawain",
+  "categoryRef": "npc",
+  "title": "Sir Gawain",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Gawain",
+                  "text": "Good day to you [sir/madam]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Know you of any quests sir knight?"
+                },
+                {
+                  "speaker": "Sir Gawain",
+                  "text": "The king is the man to talk to if you want a quest."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Merlin's Crystal and Holy Grail",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Gawain",
+                  "text": "Good day to you [sir/madam]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Know you of any quests sir knight?"
+                },
+                {
+                  "speaker": "Sir Gawain",
+                  "text": "I think you've done the main quest we were on right now..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

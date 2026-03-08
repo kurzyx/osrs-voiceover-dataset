@@ -1,0 +1,41 @@
+{
+  "ref": "cheerleader",
+  "categoryRef": "npc",
+  "title": "Cheerleader",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When scoring a goal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cheerleader",
+                  "text": "GOAL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When scoring five goals",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cheerleader",
+                  "text": "[Player name] Wins"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

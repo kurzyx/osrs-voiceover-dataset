@@ -1,0 +1,142 @@
+{
+  "ref": "adventurer-ada",
+  "categoryRef": "npc",
+  "title": "Adventurer Ada",
+  "sections": [
+    {
+      "title": "Standard dialogue before recruiting",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Hello!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello there. Who are you?"
+            },
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Ada! Nice to meet you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you waiting here for?"
+            },
+            {
+              "speaker": "Adventurer Ada",
+              "text": "I'm looking for an adventure! This place is meant to be the perfect place to find one for a budding pirate like me!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Pirate?"
+            },
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Well... the good kind!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. Well, I've never really had to look for an adventure myself. Personally I find I just stumble into them instead."
+            },
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Really? Well, I hope that happens to me soon!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sure it will. Good luck!"
+            },
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Really? Well, perhaps I'd be better off sticking with you then."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, but I'm still pretty new to it all. I don't think I'm ready to be hiring a crew yet, but I'll let you know when I am."
+            },
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Oh, fair enough."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd definitely be happy to have you on my crew."
+            },
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Hang on... You don't actually look like much of an adventurer to me. I don't think this will work."
+            },
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Great! I reckon this will be a fun adventure! I'll see you on your boat..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, but I'm not really in a place for you to join me right now."
+            },
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Oh, fair enough."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Subsequent dialogue before recruiting",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Hello again! Reckon you're ready for me to join you yet?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When at the Pandemonium after joining crew",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Captain!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hey there. How are you enjoying being part of the crew?"
+            },
+            {
+              "speaker": "Adventurer Ada",
+              "text": "I'm looking forward to the next adventure! I might start writing down what we get up to."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, that might save me a bit of time on my captain's log."
+            },
+            {
+              "speaker": "Adventurer Ada",
+              "text": "Great!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "While at sea",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "ref": "selene",
+  "categoryRef": "npc",
+  "title": "Selene",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "While holding the Seal of Passage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me a bit about your people?"
+                },
+                {
+                  "speaker": "Selene",
+                  "text": "Ok. Like what?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How about the values of the Moon clan!"
+                },
+                {
+                  "speaker": "Selene",
+                  "text": "Let me see... We value knowledge of self because it is this that gives us our strength! It is most important!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... I know things about myself. I know I like hot chocolate!"
+                },
+                {
+                  "speaker": "Selene",
+                  "text": "I was meaning something a little deeper than that. We also like to see someone listen. You know how they say a wise man listens?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...."
+                },
+                {
+                  "speaker": "Selene",
+                  "text": "Did you hear me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": ".... I'm listening."
+                },
+                {
+                  "speaker": "Selene",
+                  "text": "Most wise."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Huh?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Without the Seal of Passage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi, I..."
+                },
+                {
+                  "speaker": "Selene",
+                  "text": "What are you doing here, Fremennik?!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a seal of pass..."
+                },
+                {
+                  "speaker": "Selene",
+                  "text": "No you do not! Begone!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ooops. Suppose I need a seal of passage when I'm walking around that island."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

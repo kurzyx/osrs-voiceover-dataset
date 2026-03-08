@@ -1,0 +1,89 @@
+{
+  "ref": "clerk",
+  "categoryRef": "npc",
+  "title": "Clerk",
+  "sections": [
+    {
+      "title": "Before Plague City",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Clerk",
+              "text": "Hello, welcome to the Civic Office of West Ardougne. How can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who is through that door?"
+            },
+            {
+              "speaker": "Clerk",
+              "text": "The city warder Bravek is in there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I go in?"
+            },
+            {
+              "speaker": "Clerk",
+              "text": "He has asked not to be disturbed."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm just looking thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Plague City",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Clerk",
+              "text": "Hello, welcome to the Civic Office of West Ardougne. How can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who is through that door?"
+            },
+            {
+              "speaker": "Clerk",
+              "text": "The city warder Bravek is in there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I go in?"
+            },
+            {
+              "speaker": "Clerk",
+              "text": "I suppose so."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Clerk in eastern room",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Clerk",
+              "text": "Sorry, I don't have time to talk. Bravek needs lots of help running the city."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

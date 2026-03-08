@@ -1,0 +1,78 @@
+{
+  "ref": "messenger-the-frozen-door-",
+  "categoryRef": "npc",
+  "title": "Messenger (The Frozen Door)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "The first delivery",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Messenger",
+                  "text": "I have a letter for you. I'm told it's quite important. Please read it when you get a chance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player destroys the first letter without reading it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Messenger",
+                  "text": "Apparently you destroyed that last letter I gave you without reading it, or something like that. The sender doesn't appreciate that sort of thing, so I've got another one for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player destroys the second letter without reading it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Messenger",
+                  "text": "Look, you can destroy that letter as many times as you want, but it won't change anything. The sender isn't the kind of individual who takes no for an answer, so for both of our sakes, please just read it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player destroys the third letter without reading it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Messenger",
+                  "text": "Please... don't keep doing this. You don't know who you're dealing with..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player destroys the fourth letter without reading it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

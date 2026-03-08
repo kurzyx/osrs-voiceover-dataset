@@ -1,0 +1,79 @@
+{
+  "ref": "sir-palomedes",
+  "categoryRef": "npc",
+  "title": "Sir Palomedes",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Palomedes",
+                  "text": "Hello there adventurer, what do you want of me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like some advice on finding a quest."
+                },
+                {
+                  "speaker": "Sir Palomedes",
+                  "text": "I do not know of any myself... but it would perhaps be worth your while asking the King if he has any tasks for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Palomedes",
+                  "text": "Hello there adventurer, what do you want of me?"
+                },
+                {
+                  "speaker": "Sir Palomedes",
+                  "text": "After your help freeing Merlin, my help is the least I can offer as a man of honour."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing right now, but I'll bear it in mind. Thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing King's Ransom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Palomedes",
+                  "text": "Hello there adventurer, what do you want of me?"
+                },
+                {
+                  "speaker": "Sir Palomedes",
+                  "text": "I was glad to get my revenge on those knights in the keep. They were no match for us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Makes you wonder how they kidnapped you in the first place."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

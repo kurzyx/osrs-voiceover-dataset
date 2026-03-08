@@ -1,0 +1,230 @@
+{
+  "ref": "group-ironman-tutor",
+  "categoryRef": "npc",
+  "title": "Group Ironman tutor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Using the \"Armour\" right-click option",
+          "sections": [
+            {
+              "title": "If the player is missing at least one piece of the armour set",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Group Iron tutor",
+                      "text": "There you go. Wear it with pride."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "If the player already has the full armour",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Group Iron tutor",
+                      "text": "I think you've already got the whole set."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Interacting with the nearby armour crates",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Group Iron tutor",
+                  "text": "You can only change your Group Iron mode if you haven't been to the mainland."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey there."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Hail, Group Iron Man! My name is Tony, and I'm here to teach you everything you need to know about Group Iron Men. What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is a Group Iron Man?"
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Group Iron Man is a game mode where you do everything as a group. You can only trade items with player's in your group, take their items and accept their help."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "This means if your friend in the group has something you want to borrow, you can - assuming you have Individual Prestige status or are a Hardcore Group Iron player! But don't confuse Individual and Group"
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Can I help you with anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is Individual Prestige?"
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Individual Prestige is automatically awarded to you the very first time you create a group. It is proof that you were one of the original members of that group."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "This proof is displayed as a gold star next to your name on the group sidepanel. Note that if you join an existing group, you will not be considered an original member."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "The limits are gold and items worth up to 1,000,000 coins for the 1st week, 20,000,000 coins for the 2nd week, 50,000,000 coins for the 3rd week and 100,000,000 coins for the 4th week."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "During these 5 weeks you will also have restrictions to what you can equip: certain items will require you to have killed the monster that drops them."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Can I help you with anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is Group Prestige?"
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Non-Hardcore groups can show their dedication to the group through Group Prestige. This status can be viewed on the group's sidepanel, just below the group's name."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Group Prestige is lost upon inviting new members into the group, or upon doing certain activities with players outside of your group."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Can I help you with anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is a Hardcore Group Iron Man?"
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Hardcore Group Iron mode is a more challenging version of the regular mode, in which you have only a set number of lives for the entire group."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "If you die in an unsafe area, you will lose one of your group's lives. When your shared lives hit 0, you will all be downgraded to regular Group Iron players."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Can I help you with anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to manage my group status."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to leave the group."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "We can start the process for you to leave. The process will take 7 days to complete."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Are you sure you want to leave your group?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I changed my mind."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Can I help you with anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm fine, thanks."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Can I help you with anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to change my group's name."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Only the group leader can do that."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I leave a group?"
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "You can leave your group by talking to me about group management. However, know that there will then be a 7 day grace period before it takes effect. In this time you can come back to cancel the request if you've"
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "changed your mind."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "You could also be kicked from the group. If you are kicked from the group, you also have a 7 day grace period before you are removed. Only the leader of a group can kick other people. The leader must talk to me"
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "in person about group management so I can confirm that they're really the leader before I let them kick anyone."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "The leader can come back to me at any point during those 7 days to cancel the request if they have changed their minds about kicking someone."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Can I help you with anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I change my Group Iron mode?"
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Unfortunately, Group Iron players who are not new to the island can't change their Group Iron mode."
+            },
+            {
+              "speaker": "Group Iron tutor",
+              "text": "Can I help you with anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm fine, thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

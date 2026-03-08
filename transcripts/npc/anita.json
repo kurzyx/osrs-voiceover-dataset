@@ -1,0 +1,38 @@
+{
+  "ref": "anita",
+  "categoryRef": "npc",
+  "title": "Anita",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "After completing Monkey Madness II",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi Anita."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry about what happened to Glough, Anita."
+            },
+            {
+              "speaker": "Anita",
+              "text": "Glough was deeply troubled, [player name]. Fortunately Carado has helped me move on."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

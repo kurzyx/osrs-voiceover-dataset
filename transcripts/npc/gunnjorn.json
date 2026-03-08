@@ -1,0 +1,72 @@
+{
+  "ref": "gunnjorn",
+  "categoryRef": "npc",
+  "title": "Gunnjorn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gunnjorn",
+              "text": "Haha welcome to my obstacle course. Have fun, but remember this isn't a child's playground. People have died here."
+            },
+            {
+              "speaker": "Gunnjorn",
+              "text": "The best way to train, is to go round the course in a clockwise direction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "While holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Gunnjorn",
+                      "text": "Sorry but you haven't solved the puzzle yet."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I don't have the puzzle box with me."
+                    },
+                    {
+                      "speaker": "Gunnjorn",
+                      "text": "That's not much use is it, go and fetch it!"
+                    },
+                    {
+                      "speaker": "Gunnjorn",
+                      "text": "Thanks [player name]!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gunnjorn",
+                  "text": "Please solve this for me. I have other things to be thinking about."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

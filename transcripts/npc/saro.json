@@ -1,0 +1,193 @@
+{
+  "ref": "saro",
+  "categoryRef": "npc",
+  "title": "Saro",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Saro",
+              "text": "Welcome to my store, human! Are you interested in buying anything?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'm looking for some armour."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keldagrim tasks",
+      "sections": [
+        {
+          "title": "Getting an armour item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Saro",
+                  "text": "Say, would you be interested in doing a little task for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you need me to do?"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "A special client has a little request for me. I will need [3/4/5] [item] in the next [15/20/25] minutes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, I'll get you [3/4/5] [item] in the next [15/20/25] minutes. I can do that, yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have time for that, no."
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "That's really unfortunate. I hope I can find someone else."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Getting a bar or ore item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Saro",
+                  "text": "Say, would you be interested in doing a little task for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the task?"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "I'm running a low on raw supplies at the moment. In the next [X] minutes, I need [X] [item]. Sounds agreeable?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, I'll get you [X] [item] in the next [X] minutes. I can do that, yes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him before acquiring the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Saro",
+                  "text": "How are you doing getting me my [X] [item]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't want to look for them anymore."
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "Next time, can you decide on that in advance?"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "You've put me in a spot of trouble now. I suppose I'll find a way out though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still looking for them."
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "Good, good. Hurry back!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after failing to bring the request in time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Saro",
+                  "text": "Great, now the [X] minutes are up and you didn't get me [X] [item]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, yeah, sorry..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bringing him the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've brought you your [X] [item]!"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "Excellent, much appreciated!"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "Do you want me to pay you in gold or do you want me to show you how to fight properly in these?"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "Do you want me to pay you in gold or would you prefer me to teach you a bit about how you can mine more efficiently?"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "Do you want me to pay you in gold or would you like me to show you some smithing tricks?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like the gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please teach me that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Show me the gold!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Enlighten me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

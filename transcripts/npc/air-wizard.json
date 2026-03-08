@@ -1,0 +1,27 @@
+{
+  "ref": "air-wizard",
+  "categoryRef": "npc",
+  "title": "Air wizard",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacked by an air-based spell",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Air wizard",
+                  "text": "Gratias tibi ago!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

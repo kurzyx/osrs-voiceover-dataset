@@ -1,0 +1,75 @@
+{
+  "ref": "sir-pelleas",
+  "categoryRef": "npc",
+  "title": "Sir Pelleas",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Pelleas",
+                  "text": "Greetings to the court of King Arthur!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello. I'm looking for a quest. Who should I talk to?"
+                },
+                {
+                  "speaker": "Sir Pelleas",
+                  "text": "King Arthur will let you know. I believe he has a quest at the moment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Pelleas",
+                  "text": "Greetings to the court of King Arthur!"
+                },
+                {
+                  "speaker": "Sir Pelleas",
+                  "text": "You are a very talented Knight indeed to have freed Merlin so quickly. You have all of our gratitude."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing King's Ransom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Pelleas",
+                  "text": "Greetings to the court of King Arthur!"
+                },
+                {
+                  "speaker": "Sir Pelleas",
+                  "text": "I am proud to have you as a member of the Round Table."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

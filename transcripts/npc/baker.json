@@ -1,0 +1,77 @@
+{
+  "ref": "baker",
+  "categoryRef": "npc",
+  "title": "Baker",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Baker",
+              "text": "Good day [Sir/Madame]. Would you like some nice freshly baked bread? Or perhaps a nice piece of cake?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Catching the player trying to steal from a bakery stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Baker",
+                  "text": "Hey! Get your hands off there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with him after stealing from a bakery stall recently",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Baker",
+                  "text": "You're the one who stole something from me!"
+                },
+                {
+                  "speaker": "Baker",
+                  "text": "Guards[sic] guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Baker",
+              "text": "Good day, Monsieur. Would you like ze nice freshly-baked bread? Or perhaps a nice piece of cake?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

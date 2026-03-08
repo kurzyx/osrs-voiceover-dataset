@@ -1,0 +1,69 @@
+{
+  "ref": "daga",
+  "categoryRef": "npc",
+  "title": "Daga",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Daga",
+              "text": "Would you like to buy or sell some scimitars?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have any Dragon Scimitars in stock?"
+            },
+            {
+              "speaker": "Daga",
+              "text": "It just so happens I recently got a fresh delivery, do you want to buy one?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, please."
+            },
+            {
+              "speaker": "Daga",
+              "text": "Sorry but you don't have enough to buy one, at the moment it costs 100000 gold coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Elite",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Daga",
+                  "text": "Here, have this!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

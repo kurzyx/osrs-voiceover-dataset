@@ -1,0 +1,72 @@
+{
+  "ref": "thirus",
+  "categoryRef": "npc",
+  "title": "Thirus",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Thirus",
+              "text": "If you're looking for dynamite, you've come to the right place, human."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Thirus",
+              "text": "The name's Thirus Urkar. The Urkars have supplied the blast mines with the finest dynamite since they opened many ages ago."
+            },
+            {
+              "speaker": "Thirus",
+              "text": "Now, can I help you today?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to buy some dynamite."
+            },
+            {
+              "speaker": "Thirus",
+              "text": "Sorry, human, I'm afraid you need more of a reputation in Lovakengj before I can sell you anything."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm fine."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-Click Trade",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Claiming Dynamite",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Thirus",
+              "text": "There you go, [20/40/80] free dynamite. Return tomorrow for some more."
+            },
+            {
+              "speaker": "Thirus",
+              "text": "I've already given you your free allowance for today. Come back to me tomorrow for some more."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

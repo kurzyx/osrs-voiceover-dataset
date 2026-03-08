@@ -1,0 +1,107 @@
+{
+  "ref": "soldier-lizardman-kill-count-",
+  "categoryRef": "npc",
+  "title": "Soldier (Lizardman kill count)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Soldier",
+              "text": "Are you here to fight the lizardmen? Be careful - they're fierce!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about the lizardmen."
+            },
+            {
+              "speaker": "Soldier",
+              "text": "The lizardmen are the bane of Kourend. I'm not much for history, but the Shayzien Army have been fighting them off for as long as anyone can remember."
+            },
+            {
+              "speaker": "Soldier",
+              "text": "They can be aggressive, and they've got something nasty in their bite that can make you pretty ill."
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Why are you up here instead of fighting?"
+            },
+            {
+              "speaker": "Soldier",
+              "text": "I got a bite from a lizardman. I'm all cured, but I'm not going down there again until I feel stronger, otherwise I'll be no use in the fight."
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Do you know how many I've killed already?"
+            },
+            {
+              "speaker": "Soldier",
+              "text": "The Shayzien records say you've killed [COUNT] lizardmen since they began tracking your kills. [COUNT] were lizardman shamans."
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Thanks for the warning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kill-count",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Soldier",
+              "text": "The Shayzien records say you've killed [COUNT] lizardmen since they began tracking your kills. [COUNT] were lizardman shamans."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Canyon-count (east)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Soldier",
+              "text": "I see no adventurers in the canyon to the east."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Canyon-count (west)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Soldier",
+              "text": "I see no adventurers in the canyon to the west."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

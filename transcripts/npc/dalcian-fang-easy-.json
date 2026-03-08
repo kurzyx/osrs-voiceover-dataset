@@ -1,0 +1,274 @@
+{
+  "ref": "dalcian-fang-easy-",
+  "categoryRef": "npc",
+  "title": "Dalcian Fang (easy)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "When a piece of acceptable food is used on them",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Ah, so you want to give me some supplies, eh? Let me just open me backpack."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there. What are you doing here?"
+            },
+            {
+              "speaker": "Dalcian Fang (easy)",
+              "text": "I'm waiting here hoping that someone can guide me to the Paterdomus, the temple on the Salve."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where is Paterdomus?"
+            },
+            {
+              "speaker": "Dalcian Fang (easy)",
+              "text": "Oh, Paterdomus is that rather impressive looking temple on the Salve... I'm sure you must have passed it on your way into Morytania."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why do you want to go to Paterdomus?"
+            },
+            {
+              "speaker": "Dalcian Fang (easy)",
+              "text": "I'm hoping to get back to civilisation and see what the lands of Misthalin look like."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could you defend yourself if we met enemies on the route to Paterdomus?"
+            },
+            {
+              "speaker": "Dalcian Fang (easy)",
+              "text": "Let's just say that I'm somewhat experienced and I'm happy to take on my fair share of bad guys. You don't need to worry about that."
+            },
+            {
+              "speaker": "Player",
+              "text": "I can take you to Paterdomus."
+            },
+            {
+              "speaker": "Dalcian Fang (easy)",
+              "text": "Hmmm, it seems that you have a follower. I think it may get lost on this journey if it's left to wander on its own. Let's leave when your follower is safe."
+            },
+            {
+              "speaker": "Dalcian Fang (easy)",
+              "text": "Oh really? That would be great! I'll give you a small reward once we reach our destination."
+            },
+            {
+              "speaker": "Dalcian Fang (easy)",
+              "text": "Ok, which route should we take?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Temple Trekking dialogue",
+      "sections": [
+        {
+          "title": "Standard dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Oh, I hate this trip, but it's better than staying in Burgh de Rott."
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "It's scary here...let's get going!"
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "When are we going to get to Paterdomus?"
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "We don't have all day to stand around chatting; let's press on."
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Do you visit Paterdomus often? You seem to know the route well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player or Dalcian is in combat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Can't you see I'm being attacked...?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When a piece of acceptable food is used on them and they are not full health",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Thanks, I'll get this down my neck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bridge event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Blimey! Looks like we're going to have to go back to Burgh de Rott. We can't get over that bridge!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm sure we can find a way!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bog event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Well that's torn it... Looks like we can't get over this bog. We'll have to go back to Burgh de Rott."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm sure we can find a way!"
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Hey...that's great...you did a great job...I'll follow you."
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Whahay...that was great!"
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "But we really should be heading off now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "River event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Well that's torn it... Looks like we can't get over this bog. We'll have to go back to Burgh de Rott."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm sure we can find a way through!"
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "That's amazing! I'll have to do the same."
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Whahay! That was great! But we really should be heading off now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tentacle event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Wh...what are those bubbles?"
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "This is scary!"
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Ahhh, that would be a tentacle..."
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Ahhh, two tentacles!"
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "...three tentacles!"
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "I think I'm going to faint!"
+                },
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Blimey! Look at that beast! You're gonna have to sort that thing out on your own!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Finishing a trek",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dalcian Fang (easy)",
+                  "text": "Many thanks for getting me safely to the temple. Here's your reward."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

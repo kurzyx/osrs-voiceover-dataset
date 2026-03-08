@@ -1,0 +1,129 @@
+{
+  "ref": "weave",
+  "categoryRef": "npc",
+  "title": "Weave",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Weave",
+              "text": "Greetings, stranger. How can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Weave",
+              "text": "It's a cave filled with araxytes, a rare form of arachnid. I've been here researching them for some time."
+            },
+            {
+              "speaker": "Weave",
+              "text": "My niece, Nieve, is one of those Slayer Masters. You know, they tell people what to go kill. I also look after this cave for people on assignments like that."
+            },
+            {
+              "speaker": "Weave",
+              "text": "My nephew, Steve, is one of those Slayer Masters. You know, they tell people what to go kill. I also look after this cave for people on assignments like that."
+            },
+            {
+              "speaker": "Player",
+              "text": "Discovered anything interesting?"
+            },
+            {
+              "speaker": "Weave",
+              "text": "Hmm... Not really."
+            },
+            {
+              "speaker": "Weave",
+              "text": "However, the araxytes here are rather venomous... and when I say venomous, I mean venomous."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is that really noteworthy?"
+            },
+            {
+              "speaker": "Weave",
+              "text": "Well, I didn't think so by itself, but lots of other people seem to find it very interesting."
+            },
+            {
+              "speaker": "Weave",
+              "text": "For example, there were some particularly pale wanderers doing their own research in here. They didn't bother me though."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hmm..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Weave",
+              "text": "Bye bye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using a jar of venom on her",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I found this Jar, I think it's full of venom."
+            },
+            {
+              "speaker": "Weave",
+              "text": "Oh wow, can I see it?."
+            },
+            {
+              "speaker": "Weave",
+              "text": "That is really fascinating. Thank you for sharing that with me."
+            },
+            {
+              "speaker": "Weave",
+              "text": "Next I'll need to find something a little more potent to progress my research..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll keep my eyes open!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Did you want to see the Jar again?"
+            },
+            {
+              "speaker": "Weave",
+              "text": "No that's quite alright, I've nothing else to learn from that particular sample. I need to find something else to progress my research..."
+            },
+            {
+              "speaker": "Player",
+              "text": "No problem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When attempting to kill monsters that aren't part of a player's slayer task",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Weave",
+              "text": "Bad! Don't touch these unless you have a Slayer task to kill them."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

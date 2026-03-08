@@ -1,0 +1,118 @@
+{
+  "ref": "justine",
+  "categoryRef": "npc",
+  "title": "Justine",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "When attempting to sell tradeable rewards back",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Justine",
+                  "text": "Sorry, I don't offer refunds on items that people can trade with each other."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When attempting to sell tradeable rewards back as an Ironman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Justine",
+                  "text": "Sorry, I don't offer refunds on items that people can trade with each other."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can't you make an exception for me? I'm an Ironman by the way."
+                },
+                {
+                  "speaker": "Justine",
+                  "text": "My rule applies to the item regardless. Did you think I was going to cater differently to you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Justine",
+              "text": "Hey, I'm Justine. I've got some rewards here for fighters who've done well in Lisa's Last Man Standing game. Wanna see?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What have you got?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Selling back untradeable rewards",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Justine",
+              "text": "I'll pay you [X] points for one of those."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical",
+      "sections": [
+        {
+          "title": "When attempting to open the door near her",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Justine",
+                  "text": "Hey, that door's for staff only!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When not on an official LMS world",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Justine",
+                  "text": "Sorry, shop's closed."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

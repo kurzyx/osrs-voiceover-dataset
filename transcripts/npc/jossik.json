@@ -1,0 +1,187 @@
+{
+  "ref": "jossik",
+  "categoryRef": "npc",
+  "title": "Jossik",
+  "sections": [
+    {
+      "title": "Horror from the Deep",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Initial dialogue after Horror from the Deep",
+      "sections": [
+        {
+          "title": "Using the rewards option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jossik",
+                  "text": "Ah yes, I wanted to talk to you about the casket you found on that monster's corpse..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I see you managed to escape from those monsters intact!"
+            },
+            {
+              "speaker": "Jossik",
+              "text": "It seems I was not as injured as I thought I was after all! I must thank you again for all of your help! Now, about that casket you found on that monster's corpse..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have it here. You said you might be able to tell me something about it..."
+            },
+            {
+              "speaker": "Jossik",
+              "text": "I can indeed! Here, let me have a closer look... Yes! There is something written on it!"
+            },
+            {
+              "speaker": "Jossik",
+              "text": "It is very faint, however... Can you read it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I think it says... Saradomin..."
+            },
+            {
+              "speaker": "Jossik",
+              "text": "Are you sure? I mean, are you REALLY sure? Maybe you'd better look again..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nope, it definitely says Saradomin."
+            },
+            {
+              "speaker": "Jossik",
+              "text": "I think you're right! Hand it here, and let's see what's inside!"
+            },
+            {
+              "speaker": "Jossik",
+              "text": "Wow! It's a Holy Book of Saradomin! I thought these things had all vanished! Well, it's all yours, I hope you appreciate it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nope, it definitely says Zamorak."
+            },
+            {
+              "speaker": "Jossik",
+              "text": "I think you're right! Hand it here, and let's see what's inside!"
+            },
+            {
+              "speaker": "Jossik",
+              "text": "Wow! It's an Unholy Book of Zamorak! I thought these things had all vanished! Well, it's all yours, I hope you appreciate it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nope, it definitely says Guthix."
+            },
+            {
+              "speaker": "Jossik",
+              "text": "I think you're right! Hand it here, and let's see what's inside!"
+            },
+            {
+              "speaker": "Jossik",
+              "text": "Wow! It's Guthix's Book of Balance! I thought these things had all vanished! Well, it's all yours, I hope you appreciate it."
+            },
+            {
+              "speaker": "Player",
+              "text": "I wish it were one of the other gods. I'd prefer my reward to be aligned to a different god, not Saradomin, Zamorak or Guthix."
+            },
+            {
+              "speaker": "Jossik",
+              "text": "The sea's always washing up interesting stuff around my lighthouse. Perhaps I'll find something more suitable for you in future."
+            },
+            {
+              "speaker": "Jossik",
+              "text": "For now, this casket definitely says Saradomin, Zamorak or Guthix. Which do you think it is?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I think it says... Zamorak..."
+            },
+            {
+              "speaker": "Jossik",
+              "text": "Are you sure? I mean, are you REALLY sure? Maybe you'd better look again..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think it says... Guthix..."
+            },
+            {
+              "speaker": "Jossik",
+              "text": "Are you sure? I mean, are you REALLY sure? Maybe you'd better look again..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I never had any casket from that monster...?"
+            },
+            {
+              "speaker": "Jossik",
+              "text": "Why, of course you did! You dropped it and I picked it up! Now, free up some inventory space so we can see what's inside it."
+            },
+            {
+              "speaker": "Jossik",
+              "text": "Why, of course you did! You dropped it and I picked it up! I have it right here!"
+            },
+            {
+              "speaker": "Jossik",
+              "text": "Now let's have a look at it... There is some writing on it, but it is very faint... Can you make it out?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I have it stored safely."
+            },
+            {
+              "speaker": "Jossik",
+              "text": "Well, bring it here and let's take a look at it!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Subsequent dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Jossik",
+              "text": "Hello again, adventurer. What brings you this way?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I see your wares?"
+            },
+            {
+              "speaker": "Jossik",
+              "text": "Sure thing! I think you'll find my prices are remarkable!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Have you found any more prayerbooks?"
+            },
+            {
+              "speaker": "Jossik",
+              "text": "It's amazing how things like that keep washing up on the shore in caskets. Take a look at what I've got..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing, really. Good bye."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

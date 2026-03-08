@@ -1,0 +1,113 @@
+{
+  "ref": "holgart",
+  "categoryRef": "npc",
+  "title": "Holgart",
+  "sections": [
+    {
+      "title": "Sea Slug",
+      "sections": [
+        {
+          "title": "After starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Hello m'hearty."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I would like a ride on your boat to the fishing platform."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "I'm afraid it isn't sea worthy, it's full of holes. To fill the holes I'll need some swamp paste."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Swamp paste?"
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Yes, swamp tar mixed with flour and heated over a fire."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find swamp tar?"
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Unfortunately the only supply of swamp tar is in the swamps below Lumbridge. It's too far for an old man like me to travel."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "If you make me some swamp paste I'll give you a ride in my boat."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll see what I can do."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting the Sea Slug",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Well hello. Beautiful day isn't it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not bad I suppose."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Just smell that sea air... beautiful."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... lovely..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After starting the Slug Menace",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Holgart",
+                  "text": "I don't know what to do without my boat."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

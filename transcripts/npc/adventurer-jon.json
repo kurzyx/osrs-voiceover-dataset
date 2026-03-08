@@ -1,0 +1,188 @@
+{
+  "ref": "adventurer-jon",
+  "categoryRef": "npc",
+  "title": "Adventurer Jon",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has opted out of Adventure Paths",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Adventurer Jon",
+                  "text": "You are currently not participating in Adventure Paths. Would you like to join back in?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is not eligible for Adventure Paths",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Who are you?"
+                },
+                {
+                  "speaker": "Adventurer Jon",
+                  "text": "I am simply an adventurer like yourself taking a break on my journey."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wish you luck on your next adventure."
+                },
+                {
+                  "speaker": "Adventurer Jon",
+                  "text": "And I to you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Adventurer Jon",
+              "text": "Hello [player name], what can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are Adventure Paths?"
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "A long time ago, I was a newbie just like you who didn't know what to do and I would be more than happy to pass on my experience."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "I've created some Adventure Paths which I recommend you to start off with. An Adventure Path is a list of tasks which you can complete in any order."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "To help you get started on your Adventure Path, I'll also give you a starter kit with some useful items."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "Once you've completed an Adventure Path task, come back to me and I'll give you a reward."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have any Adventure Path starter kits for me?"
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "Here are all of the starter kits you have left to claim."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "You seem to have already claimed all of your starter kits."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to claim my Adventure Path rewards."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "I have no rewards to give you at the moment."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "I have no rewards to give you at the moment. But I do have some members rewards left to give you, visit me on a members world to receive them."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "You should make sure you have space before asking for rewards."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "That is the last of the rewards you have currently earned. But I do have some members rewards left to give you, visit me on a members world to receive them."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "That is the last of your rewards which you have earned."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "I can't give you any more rewards until you come back with more inventory space."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you show me some Adventure Paths?"
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "Of course, here you go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After leaving Tutorial Island",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Adventurer Jon",
+              "text": "Hey [player name]! Come over here."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "You look new around here, welcome to the world of Gielinor!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, it's my first time here and I'm not sure where to start."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "Well, lucky for you, that is exactly why I am here."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are Adventure Paths?"
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "A long time ago, I was a newbie just like you who didn't know what to do and I would be more than happy to pass on my experience."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "I've created some Adventure Paths which I recommend you to start off with. An Adventure Path is a list of tasks which you can complete in any order."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "To help you get started on your Adventure Path, I'll also give you a starter kit with some useful items."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "Once you've completed an Adventure Path task, come back to me and I'll give you a reward."
+            },
+            {
+              "speaker": "Adventurer Jon",
+              "text": "Start by opening your quest panel and then selecting the flashing yellow star."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

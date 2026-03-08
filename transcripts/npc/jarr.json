@@ -1,0 +1,281 @@
+{
+  "ref": "jarr",
+  "categoryRef": "npc",
+  "title": "Jarr",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Jarr",
+              "text": "Hello!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I have another amulet?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "I'm Jarr, the taskmaster for the Kharidian Desert Achievement Diary."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is the Achievement Diary?"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "It's a diary that helps you keep track of particular achievements. In the Kharidian Desert it can help you discover some quite useful things. Eventually, with enough exploration, the inhabitants will reward you."
+            },
+            {
+              "speaker": "Jarr",
+              "text": "You can see the list of tasks on the side-panel."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have a question about my Achievement diary."
+            },
+            {
+              "speaker": "Jarr",
+              "text": "Well, there are four different Desert amulets, which match up with the four levels of difficulty. Each has the same rewards as the previous level and some additional benefits too... which tier of rewards would you like to"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "know more about?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me more about the Easy rewards please!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "If you complete all of the easy tasks in the Desert, you can charge a Pharaoh's sceptre with 10 charges, Simon Templeton will purchase artefacts in banknote form and Desert goat horns are dropped as notes."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me more about the Medium rewards please!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "In addition to the easy rewards, you can charge a Pharaoh's sceptre with 25 charges and the amulet will teleport you to Nardah once per day."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me more about the Hard rewards please!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "In addition to the easy and medium benefits, you can charge a Pharaoh's sceptre with 50 charges, you can adjust your Camulet to teleport you above the temple and the Nardah herbalist will create unfinished potions"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "for you, as well as cleaning noted herbs for the usual herb cleaning fee."
+            },
+            {
+              "speaker": "Jarr",
+              "text": "All your rides on a magic carpet are free and you'll receive extra Agility experience from the Pollnivneach rooftop course."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me more about the Elite rewards please!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "In addition to the previous tiers of rewards, you can charge a Pharaoh's sceptre with 100 charges, the amulet will protect you from desert heat at all times, a shortcut opens up in the Kalphite hive and the amulet will"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "teleport you to Nardah and the kalphite hive to the East of the Shantay Pass as much as you desire. You'll also get completely free passage through the Shantay passes here and at the Ruins of Unkah."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I claim the rewards?"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "Just complete the tasks in the Desert so they're ticked off, then come and speak to me for your rewards."
+            },
+            {
+              "speaker": "Player",
+              "text": "Bye!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "See you later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Easy tasks completed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I've completed all of the easy tasks in my Desert Achievement Diary!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "I can see that, well done! You'll be wanting your reward then!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "This amulet is a symbol of your exploration of the Kharidian Desert. You can now charge a Pharaoh's sceptre with 10 charges, Simon Templeton will purchase artefacts in banknote form and Desert goat horns are"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "dropped as notes."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow, thanks!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "If you ever lose your amulet, come back to me to reclaim it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Medium tasks completed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I've completed all of the medium tasks in my Desert achievement diary!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "You need to complete all of the easy tasks too before I can reward you for the more difficult sets."
+            },
+            {
+              "speaker": "Jarr",
+              "text": "I can see that, well done! You'll be wanting your reward then!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "I've upgraded your Desert amulet for you. You can now charge a Pharaoh's sceptre with 25 charges and the amulet will teleport you to Nardah once per day."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow, thanks!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hard tasks completed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I've completed all of the hard tasks in my Desert achievement diary!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "I can see that, well done! You'll be wanting your reward then!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "I've upgraded your Desert amulet for you. You can now charge a Pharaoh's sceptre with 50 charges, you can adjust your Camulet to teleport you above the temple and the Nardah herbalist will create unfinished"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "potions for you."
+            },
+            {
+              "speaker": "Jarr",
+              "text": "All rides on a magic carpet are now free and you'll receive extra Agility experience from the Pollnivneach rooftop course."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow, thanks!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Elite tasks completed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I've completed all of the elite tasks in my Desert achievement diary!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "I can see that, well done! You've completed all of the tasks in the Kharidian Desert! Here's your reward!"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "You need at least two inventory spaces, make some space and come back."
+            },
+            {
+              "speaker": "Jarr",
+              "text": "I've upgraded your Desert amulet for you. You can now charge a Pharaoh's sceptre with 100 charges, the amulet will protect you from desert heat at all times, a shortcut has been opened in the Kalphite hive and the"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "amulet will teleport you to Nardah and the kalphite hive to the East of the Shantay Pass as much as you desire. I've also negotiated completely free passage through the Shantay passes here and at the Ruins of"
+            },
+            {
+              "speaker": "Jarr",
+              "text": "Unkah."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow, thanks!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

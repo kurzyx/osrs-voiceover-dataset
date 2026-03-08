@@ -1,0 +1,89 @@
+{
+  "ref": "shop-keeper-al-kharid-",
+  "categoryRef": "npc",
+  "title": "Shop keeper (Al Kharid)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shop keeper",
+              "text": "Can I help you at all?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "During Family Crest prior to talking to the man named Avan",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shop keeper",
+              "text": "Can I help you at all?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm in search of a man named Avan Fitzharmon."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "Can't say as I've seen him... I'm sure if he's been to Al-Kharid recently someone around here will have though."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After starting the Rogue Trader minigame",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shop keeper",
+              "text": "Can I help you at all?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you think of Ali Morrisane?"
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "I don't trust him, not after he's sent his men round to threaten us."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "Did you know, we've had four different thugs come round and threaten us if we don't join them."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "I've had hammers, rakes, swords and even scissors waved at me!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What will you do about it?"
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "We'll carry on as normal with the store. Business as usual!"
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "Can I interest you in anything?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

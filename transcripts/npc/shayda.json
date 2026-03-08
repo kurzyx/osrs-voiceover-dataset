@@ -1,0 +1,57 @@
+{
+  "ref": "shayda",
+  "categoryRef": "npc",
+  "title": "Shayda",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Architectural Alliance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Greetings!"
+                },
+                {
+                  "speaker": "Shayda",
+                  "text": "Oh hello there, I'm an architect."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wondered if you might have some time to help...?"
+                },
+                {
+                  "speaker": "Shayda",
+                  "text": "So sorry, too busy at the moment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Architectural Alliance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again. How are you?"
+                },
+                {
+                  "speaker": "Shayda",
+                  "text": "Great! Since working on that statue, everyone wants a miniature - very handy for business!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

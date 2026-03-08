@@ -1,0 +1,107 @@
+{
+  "ref": "thorhild",
+  "categoryRef": "npc",
+  "title": "Thorhild",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Thorhild",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Thorhild",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacking the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Thorhild",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Thorhild",
+                  "text": "Rahr!"
+                },
+                {
+                  "speaker": "Thorhild",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Thorhild",
+                  "text": "Grr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Thorhild",
+                  "text": "Aargh!"
+                },
+                {
+                  "speaker": "Thorhild",
+                  "text": "I'm a gonner!"
+                },
+                {
+                  "speaker": "Thorhild",
+                  "text": "It's no use, I'm done for!"
+                },
+                {
+                  "speaker": "Thorhild",
+                  "text": "Uggh!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

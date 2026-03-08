@@ -1,0 +1,83 @@
+{
+  "ref": "seravel",
+  "categoryRef": "npc",
+  "title": "Seravel",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello"
+            },
+            {
+              "speaker": "Seravel",
+              "text": "Hello Bwana. Are you interested in buying a ticket for the 'Lady of the Waves'?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, that sounds great!"
+            },
+            {
+              "speaker": "Seravel",
+              "text": "Sorry Bwana, you don't have enough money. Come back when you have 25 coins."
+            },
+            {
+              "speaker": "Seravel",
+              "text": "Great, nice doing business with you."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Seravel",
+              "text": "Fair enough Bwana, let me know if you change your mind."
+            },
+            {
+              "speaker": "Seravel",
+              "text": "It's a ship that can take you to either Port Sarim or Port Khazard. The ship lies west of Shilo Village and south of Cairn Island. The tickets cost 25 coins. Would you like to purchase a ticket Bwana?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, that sounds great!"
+            },
+            {
+              "speaker": "Seravel",
+              "text": "Sorry Bwana, you don't have enough money. Come back when you have 25 coins."
+            },
+            {
+              "speaker": "Seravel",
+              "text": "Great, nice doing business with you."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Seravel",
+              "text": "Fair enough Bwana, let me know if you change your mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Seravel before completing Shilo Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Seravel",
+              "text": "I'm getting out of here Bwana, the place is infested with zombies."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

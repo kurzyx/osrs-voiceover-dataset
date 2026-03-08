@@ -1,0 +1,77 @@
+{
+  "ref": "bouquet-mac-hyacinth",
+  "categoryRef": "npc",
+  "title": "Bouquet Mac Hyacinth",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the Seal of Passage is equipped or in the inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi! What are you up to?"
+                },
+                {
+                  "speaker": "Bouquet Mac Hyacinth",
+                  "text": "Watering the pretty flowers, you want to help?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have time to water flowers, I have people to save!"
+                },
+                {
+                  "speaker": "Bouquet Mac Hyacinth",
+                  "text": "Pft, you should take time to enjoy the simple things."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not a simple person."
+                },
+                {
+                  "speaker": "Bouquet Mac Hyacinth",
+                  "text": "So it seems."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the Seal of Passage is not equipped or in the inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi, I..."
+                },
+                {
+                  "speaker": "Bouquet Mac Hyacinth",
+                  "text": "What are you doing here, Fremennik?!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a seal of pass..."
+                },
+                {
+                  "speaker": "Bouquet Mac Hyacinth",
+                  "text": "No you do not! Begone!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ooops. Suppose I need a seal of passage when I'm walking around that island."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

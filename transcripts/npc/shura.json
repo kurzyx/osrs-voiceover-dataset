@@ -1,0 +1,334 @@
+{
+  "ref": "shura",
+  "categoryRef": "npc",
+  "title": "Shura",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "When trying to interact with The Nightmare before talking to her",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Shura",
+                  "text": "Hey! Don't just go poking her without knowing what you're up against. Come talk to me first."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "First time talking to her",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What's going on here?"
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "Nothing good. This dungeon is tainted and has become the new home of the Nightmare."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The Nightmare?"
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "A being of pure darkness. No living creature is safe from her hunger. She feasts upon her victims while they sleep, draining their energy without even needing to touch them."
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "Those that she feeds upon experience horrifying nightmares, unlike anything you could possibly imagine. Eventually, they become too weak to even wake. Death claims them soon after."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nightmares? Hence the name?"
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "Indeed. Our kind are not always the most creative."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So how did she end up here?"
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "For generations, she terrorised the island of Ashihama, my home. I lost a lot of good friends to her. Sometimes, I even thought I would lose myself. For some, the nightmares become too much to bear."
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "Some of us refused to give in though. Everything has a weakness, including the Nightmare, and eventually we found it. We drove her off the island, but she managed to endure."
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "The people here are ill, suffering from a deep sleep from which few wake. They call it the Sleeper Plague. The illness made these people easy prey for the Nightmare, so she made this place her new home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And you followed her here?"
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "While she still exists, my home will never be truly safe. Thanks to the Sleeper Plague, her power has grown faster than it ever did on Ashihama. If she is allowed to grow too strong, there won't be any way to stop her."
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "I've managed to contain her within this section of the dungeon. She has no desire to leave for the moment. She has no need to, after all."
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "But make no mistake, I won't be able to stop her if she decides to move on."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "She doesn't look too dangerous at the moment."
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "Looks can be deceiving. The battle with the Nightmare is a mental one, not a physical one. If you try to take her on, she will pull you into her dream - one where she makes the rules."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But if it's a dream, how can it be dangerous?"
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "It's her dream, not yours. Dying in her dream will destroy your mind, killing you in this world as well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds lovely. So how can we stop her?"
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "If you're willing to help, enter her dream and fight to keep her at bay. Our only hope is to prevent her from growing too strong."
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "You can go in alone, but I wouldn't recommend it. The more support you have, the better your chances."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I keep her at bay?"
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "There are four totems in the area that can be used to harm her. First, you'll need to take down her shield for the totems to have an effect. Once her shield is down, use your energy to charge up the totems."
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "She won't sit about while you do this though, so you'll need to take care if you want to survive."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And what's in it for me if I do survive?"
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "You mean apart from saving the world? She's claimed many victims over the years. I'm sure she's claimed many items as well. Maybe some of them will be of value to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Works for me. I'd better get started then."
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "Good luck. Return to me if you need more information."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Right-click Collect",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Shura",
+                  "text": "Sorry, but I don't have anything for you. If I did have any of your items, but you died before collecting them, they'll now be lost."
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "I do. Try to be more careful with them next time."
+                },
+                {
+                  "speaker": "Shura",
+                  "text": "I think Sister Senga has your possessions instead, actually."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shura",
+              "text": "Human."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about the Nightmare."
+            },
+            {
+              "speaker": "Shura",
+              "text": "From the moment I was born, all I ever knew was the Nightmare. Every night she would feast upon us, filling our minds with horrors beyond comprehension."
+            },
+            {
+              "speaker": "Shura",
+              "text": "By day, our warriors would enter her lair in the caves beneath the island. We could not hope to defeat her, we knew that, but our survival was dependent on ensuring she didn't grow too strong."
+            },
+            {
+              "speaker": "Shura",
+              "text": "Here's the thing though. Even now, we know little about her. Before she claimed them, my parents would sometimes tell me a story of her origin."
+            },
+            {
+              "speaker": "Shura",
+              "text": "They told me of a group of shamans who performed an unknown ritual in the hope of gaining great power. The ritual went wrong, though, and instead, they unleashed the Nightmare on this world."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you believe the story?"
+            },
+            {
+              "speaker": "Shura",
+              "text": "I'm not sure to be honest. I suppose it doesn't matter though. We'll likely never know her true origin. But as long as we can defeat her, we don't need to."
+            },
+            {
+              "speaker": "Player",
+              "text": "Defeat her? Using the totems?"
+            },
+            {
+              "speaker": "Shura",
+              "text": "Exactly. Thanks to the Nightmare, the caves beneath our home are mostly unexplored. There's all sorts of things down there, provided you're brave enough to enter."
+            },
+            {
+              "speaker": "Shura",
+              "text": "I found the totems deep within the caves. Someone far smarter than you or I had worked out how to make them. But they perished before they could use them against her."
+            },
+            {
+              "speaker": "Shura",
+              "text": "I managed to recover them, and with them, we finally drove her off the island."
+            },
+            {
+              "speaker": "Player",
+              "text": "But she came here."
+            },
+            {
+              "speaker": "Shura",
+              "text": "Yes. And thanks to the Sleeper Plague, she's far stronger than ever before."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you know where the Sleeper Plague came from?"
+            },
+            {
+              "speaker": "Shura",
+              "text": "No. It was here long before the Nightmare apparently. It resurfaced shortly before she arrived. Probably the work of the vampyres."
+            },
+            {
+              "speaker": "Shura",
+              "text": "Is there anything else you need?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about yourself."
+            },
+            {
+              "speaker": "Shura",
+              "text": "The name's Shura. I come from an island called Ashihama, in the Pincers."
+            },
+            {
+              "speaker": "Player",
+              "text": "The Pincers?"
+            },
+            {
+              "speaker": "Shura",
+              "text": "It's a group of islands within the Wushanko Isles, a large archipelago to the far east. Over here I think the area is more commonly known as the Eastern Lands."
+            },
+            {
+              "speaker": "Player",
+              "text": "And you're a siren, right?"
+            },
+            {
+              "speaker": "Shura",
+              "text": "That's right. We rarely come this far to the west, the climate is too cold for our tastes. Although while the Nightmare lives, the climate is the least of my worries."
+            },
+            {
+              "speaker": "Shura",
+              "text": "Back home on the other hand, our numbers equal the humans. Sirens live on pretty much every island in the archipelago."
+            },
+            {
+              "speaker": "Player",
+              "text": "So why were you the only one to come here?"
+            },
+            {
+              "speaker": "Shura",
+              "text": "We took up arms against the Nightmare because we had to, not because we wanted to. We are a peaceful race, and most were all too eager to lay down their weapons once the Nightmare was gone."
+            },
+            {
+              "speaker": "Player",
+              "text": "So why didn't you?"
+            },
+            {
+              "speaker": "Shura",
+              "text": "My kind believe in something called Mo Kal. It means that anything bad that could happen, will happen. The others may have forgotten this, but I have not."
+            },
+            {
+              "speaker": "Shura",
+              "text": "The Nightmare may have left my home, but I won't rest until I know for sure that she can never return."
+            },
+            {
+              "speaker": "Shura",
+              "text": "Is there anything else you need?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have any of my items?"
+            },
+            {
+              "speaker": "Shura",
+              "text": "Doesn't look like it. If I did have any of your items, but you died before collecting them, they'll now be lost."
+            },
+            {
+              "speaker": "Shura",
+              "text": "I do. Try to be more careful with them next time."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd better get going."
+            },
+            {
+              "speaker": "Shura",
+              "text": "Good luck."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Interacting with the Nightmare with items in Shura's Item Retrieval Service",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shura",
+              "text": "Hey! I have some of your things. You should come get them before fighting the Nightmare."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

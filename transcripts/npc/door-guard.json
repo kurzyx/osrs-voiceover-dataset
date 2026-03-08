@@ -1,0 +1,101 @@
+{
+  "ref": "door-guard",
+  "categoryRef": "npc",
+  "title": "Door Guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting Fight Arena",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Door Guard",
+                  "text": "What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go in there?"
+                },
+                {
+                  "speaker": "Door Guard",
+                  "text": "Of course not! You have to be one of us, and you're clearly not. Now get out of here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to unlock the door without a disguise",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... It seems to be locked."
+                },
+                {
+                  "speaker": "Door Guard",
+                  "text": "Yeah, well spotted. You have to be one of us to go in there, and you're clearly not. Now get out of here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Door Guard while wearing Khazard armour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Door Guard",
+                  "text": "Are you new? I've never seen you around here before."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You could say that. Long live General Khazard!"
+                },
+                {
+                  "speaker": "Door Guard",
+                  "text": "Er... yeah..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completion of Fight Arena",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Door Guard",
+                  "text": "You're [him/her/them]! The one who murdered the General's pet. Leave this place at once!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

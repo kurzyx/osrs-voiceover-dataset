@@ -1,0 +1,106 @@
+{
+  "ref": "the-lady-of-the-lake",
+  "categoryRef": "npc",
+  "title": "The Lady of the Lake",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "The Lady of the Lake",
+              "text": "Good day to you [sir/madam]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "The Lady of the Lake",
+              "text": "I am the Lady of the Lake."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing Merlin's Crystal",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "The Lady of the Lake",
+              "text": "Good day to you [sir/madam]."
+            },
+            {
+              "speaker": "Player",
+              "text": "I seek the sword Excalibur."
+            },
+            {
+              "speaker": "The Lady of the Lake",
+              "text": "Aye, I have that artefact in my possession."
+            },
+            {
+              "speaker": "The Lady of the Lake",
+              "text": "'Tis very valuable, and not an artefact to be given away lightly."
+            },
+            {
+              "speaker": "The Lady of the Lake",
+              "text": "...But you have already proved thyself to be worthy of wielding it once already. I shall return it to you if you can prove yourself to still be worthy."
+            },
+            {
+              "speaker": "Player",
+              "text": "...And how can I do that?"
+            },
+            {
+              "speaker": "The Lady of the Lake",
+              "text": "Why, by proving yourself to be above material goods."
+            },
+            {
+              "speaker": "The Lady of the Lake",
+              "text": "500 gold coins ought to do it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, here you go."
+            },
+            {
+              "speaker": "The Lady of the Lake",
+              "text": "You are still worthy to wield Excalibur! And thanks for the cash! I felt like getting a new haircut!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't have that kind of money..."
+            },
+            {
+              "speaker": "The Lady of the Lake",
+              "text": "Well, come back when you do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

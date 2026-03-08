@@ -1,0 +1,59 @@
+{
+  "ref": "swensen-the-navigator",
+  "categoryRef": "npc",
+  "title": "Swensen the Navigator",
+  "sections": [
+    {
+      "title": "Before the Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello!"
+            },
+            {
+              "speaker": "Swensen the Navigator",
+              "text": "Hello outerlander. This is my home, I would be grateful if you would leave."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh. Okay."
+            },
+            {
+              "speaker": "Swensen the Navigator",
+              "text": "I am sorry outerlander, I will not offer you hospitality until my Chieftain has vouched for your honesty. This is our way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After the Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello!"
+            },
+            {
+              "speaker": "Swensen the Navigator",
+              "text": "Greetings to you [brother/sister] [Fremennik name]! How fare you today?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I am fine thanks Swensen. How are you doing?"
+            },
+            {
+              "speaker": "Swensen the Navigator",
+              "text": "I am fine too!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

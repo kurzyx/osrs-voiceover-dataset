@@ -1,0 +1,382 @@
+{
+  "ref": "larxus",
+  "categoryRef": "npc",
+  "title": "Larxus",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking to Larxus after being challenged by Leon d'Cour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "Leon d'Cour has issued you a challenge. He has stated there will be no items allowed except those you're wearing. Do you want to accept the challenge?"
+                },
+                {
+                  "speaker": "Larxus",
+                  "text": "Your challenger is ready! Please go down through the trapdoor when you're ready."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I'll pass."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Larxus after defeating Leon d'Cour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "Welcome back, champion! Leon d'Cour has granted you his cloak for you to wear as a sign of your accomplishment. Do you want it now? Or do you want something else?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please."
+                },
+                {
+                  "speaker": "Larxus",
+                  "text": "I'm afraid you don't have space to take it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like another one."
+                },
+                {
+                  "speaker": "Larxus",
+                  "text": "I'm afraid you don't have space to take it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you, and goodbye."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Larxus",
+              "text": "Is there something I can help you with?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I was given a challenge, what now?"
+            },
+            {
+              "speaker": "Larxus",
+              "text": "Hand it to me, and we'll get you started."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Larxus",
+              "text": "This is the champions' arena. The champions of various races use it to duel those they deem worthy of the honour. If you find a challenge scroll in your travels, bring it here to face your challenger."
+            },
+            {
+              "speaker": "Player",
+              "text": "Have you any rewards for me?"
+            },
+            {
+              "speaker": "Larxus",
+              "text": "No, you've not earned any."
+            },
+            {
+              "speaker": "Larxus",
+              "text": "Have a look in the chest by the Wall of Defeated Champions, on the north side of this gallery. I think you'll find something in there for you."
+            },
+            {
+              "speaker": "Larxus",
+              "text": "You're holding it already. Go and rub your lamp."
+            },
+            {
+              "speaker": "Larxus",
+              "text": "I don't think I've got anything more for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to teleport out of the room",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Larxus",
+              "text": "There's a ladder for a reason."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on Larxus",
+      "sections": [
+        {
+          "title": "Imp champion scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "So you want to accept the challenge huh? Well there are some specific rules for these Champion fights. For this fight you're not allowed to use any Special Attacks. Do you still want to proceed?"
+                },
+                {
+                  "speaker": "Larxus",
+                  "text": "Your challenger is ready! Please go down through the trapdoor when you're ready."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I'll pass."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Goblin champion scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "So you want to accept the challenge huh? Well there are some specific rules for these Champion fights. For this fight you're only allowed to use Magic attacks, no Melee or Ranged. Do you still want to proceed?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Skeleton champion scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "So you want to accept the challenge huh? Well there are some specific rules for these Champion fights. For this fight you're only allowed to use Ranged attacks, no Melee or Magic. Do you still want to proceed?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Zombie champion scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "So you want to accept the challenge huh? Well there are some specific rules for these Champion fights. For this fight you're not allowed to use any Magic attacks. Do you still want to proceed?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giant champion scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "So you want to accept the challenge huh? Well there are some specific rules for these Champion fights. For this fight you're only allowed to use Melee attacks, no Ranged or Magic. Do you still want to proceed?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Hobgoblin champion scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "So you want to accept the challenge huh? Well there are some specific rules for these Champion fights. For this fight you're not allowed to use any Melee attacks. Do you still want to proceed?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ghoul champion scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "So you want to accept the challenge huh? Well there are some specific rules for these Champion fights. For this fight you're only allowed to take Weapons, no other items are allowed. Do you still want to proceed?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Earth warrior champion scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "So you want to accept the challenge huh? Well there are some specific rules for these Champion fights. For this fight you're not allowed to use any Prayers. Do you still want to proceed?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jogre champion scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "So you want to accept the challenge huh? Well there are some specific rules for these Champion fights. For this fight you're not allowed to use any Ranged attacks. Do you still want to proceed?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lesser demon champion scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "So you want to accept the challenge huh? Well there are some specific rules for these Champion fights. For this fight you're not allowed any Weapons or Armour. Do you still want to proceed?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to give him a scroll after accepting a challenge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "You've already got a champion waiting for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to give him a scroll for a defeated champion",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "You've already defeated this Champion. The challenge is void."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Irrelevant items",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "That's great, now go show who's interested."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Climbing down the Champion Statue",
+      "sections": [
+        {
+          "title": "Trying to climb down Champion statue without giving Larxus a champion scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "You need to arrange a challenge with me before you enter the arena."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the fight with the ghoul champion with items other than a weapon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "I believe I mentioned you're only allowed to take Weapons into this duel."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "While fighting a champion",
+      "sections": [
+        {
+          "title": "Attempting to attack the skeleton champion with melee or magic",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Larxus",
+                  "text": "I believe I mentioned you're only allowed to use Ranged in this duel."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "ref": "chuck-realm-of-memories-",
+  "categoryRef": "npc",
+  "title": "Chuck (Realm of Memories)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Using a noteable item on him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chuck",
+                  "text": "If you want that converted into a banknote, take it to a bank - banks made my work useless, so they can deal with your requests now. I've retired."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a bank note on him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chuck",
+                  "text": "If you want your banknotes converted, take them to a bank - banks made my work useless, so they can deal with your requests now. I've retired."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using an item that cannot be noted on him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chuck",
+                  "text": "Even in your so-called modern era there's no such thing as a banknote for that. Hah!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Chuck",
+              "text": "It's nice to meet you here, [player name]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who were you?"
+            },
+            {
+              "speaker": "Chuck",
+              "text": "I'm Chuck. I used to exchange logs for certificates, so people could trade them in bulk more conveniently. Certificates were what we used before banks automatically issued banknotes for most tradeable items."
+            },
+            {
+              "speaker": "Chuck",
+              "text": "Even today, banknotes are sometimes referred to as 'certs', in memory of the certificates we used before."
+            },
+            {
+              "speaker": "Chuck",
+              "text": "I had colleagues who'd exchange other items for certificates - Niles, Miles and Giles were the most famous of us. But those three found new jobs rather than retiring like I did."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you think you might leave the Realm?"
+            },
+            {
+              "speaker": "Chuck",
+              "text": "No, I don't think so. The big high-street banks made my work useless, and I don't fancy joining Niles, Miles and Giles on their weird treks."
+            },
+            {
+              "speaker": "Chuck",
+              "text": "No, I'll stay here and enjoy my retirement. It's nice of you to ask, though."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

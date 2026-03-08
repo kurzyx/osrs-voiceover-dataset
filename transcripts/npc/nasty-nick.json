@@ -1,0 +1,151 @@
+{
+  "ref": "nasty-nick",
+  "categoryRef": "npc",
+  "title": "Nasty Nick",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Nasty Nick",
+              "text": "Yes?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you doing out here?"
+            },
+            {
+              "speaker": "Nasty Nick",
+              "text": "Sometimes I like to take a walk out to these shores and look for losers to laugh at."
+            },
+            {
+              "speaker": "Nasty Nick",
+              "text": "And look, I found one!"
+            },
+            {
+              "speaker": "Nasty Nick",
+              "text": "Hahahah!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Charming."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have a quest for me?"
+            },
+            {
+              "speaker": "Nasty Nick",
+              "text": "Why, yes! I do have a quest for you! I've hidden some goodies around Varlamore! Haha!"
+            },
+            {
+              "speaker": "Nasty Nick",
+              "text": "Bring them all to me and I'll give you a nasty little surprise!"
+            },
+            {
+              "speaker": "Player",
+              "text": "A treasure hunt? That's exciting! Any tips to get me started?"
+            },
+            {
+              "speaker": "Nasty Nick",
+              "text": "No."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh... I guess I'll be on my way then."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've found some strange tokens."
+            },
+            {
+              "speaker": "Nasty Nick",
+              "text": "Oh, really? Show me."
+            },
+            {
+              "speaker": "Nasty Nick",
+              "text": "You utter fool! You have failed to acquire all the tokens I desire! Now scuttle away from here, loser!"
+            },
+            {
+              "speaker": "Player",
+              "text": "You're not a very nice man..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing. I'll be going now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on him",
+      "sections": [
+        {
+          "title": "Nasty token",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've found some strange tokens."
+                },
+                {
+                  "speaker": "Nasty Nick",
+                  "text": "Oh, really? Show me."
+                },
+                {
+                  "speaker": "Nasty Nick",
+                  "text": "You utter fool! You have failed to acquire all the tokens I desire! Now scuttle away from here, loser!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're not a very nice man..."
+                },
+                {
+                  "speaker": "Nasty Nick",
+                  "text": "Yes, yes... This does appear to be all of them!"
+                },
+                {
+                  "speaker": "Nasty Nick",
+                  "text": "Would you like to trade them for a nasty little suprise? I bet you would, wouldn't you?!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure, why not?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, actually."
+                },
+                {
+                  "speaker": "Nasty Nick",
+                  "text": "Oh..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Any other item",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nasty Nick",
+                  "text": "What? I don't want that."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

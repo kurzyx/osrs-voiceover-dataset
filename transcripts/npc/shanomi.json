@@ -1,0 +1,255 @@
+{
+  "ref": "shanomi",
+  "categoryRef": "npc",
+  "title": "Shanomi",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the animated armour despawns after 5 minutes of not being killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Shanomi",
+                  "text": "Greetings [player name]. Welcome you are in the test of combat."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "My armour disappeared!"
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "Correct you are. Not killed it was. Collected your armour I did."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Excellent, may I have it so I can try the machine again?"
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "Space you will need in your pack."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll go make some room in my inventory and come back."
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "It is as you say."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shanomi",
+              "text": "Greetings [player name]. Welcome you are in the test of combat."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do I do here?"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "A spare suit of plate armour need you will. Full helm, plate leggings and platebody yes? Placing it in the centre of the magical machines you will be doing. KA- POOF! The armour, it attacks most furiously as if"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "alive! Kill it you must, yes."
+            },
+            {
+              "speaker": "Player",
+              "text": "So I use a full set of plate armour on the centre plate of the machines and it will animate it? Then I have to kill my own armour... how bizarre!"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "Yes. It is as you are saying. For this earn tokens you will. Also gain experience in combat you will. Trained long and hard here have I."
+            },
+            {
+              "speaker": "Player",
+              "text": "You're not from around here are you...?"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "It is as you say."
+            },
+            {
+              "speaker": "Player",
+              "text": "So will I lose my armour?"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "Lose armour you will if damaged too much it becomes. Rare this is, but still possible. If kill you the armour does, also lose armour you will."
+            },
+            {
+              "speaker": "Player",
+              "text": "So, occasionally I might lose a bit because it's being bashed about and I'll obviously lose it if I die... that it?"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "It is as you say."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where do the machines come from?"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "Make them I did, with magics."
+            },
+            {
+              "speaker": "Player",
+              "text": "Magic, in the Warrior's Guild?"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "A skilled warrior also am I. Harrallak mistakes does not make. Potential in my invention he sees and opportunity grasps."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see, so you made the magical machines and Harrallak saw how they could be used in the guild to train warrior's combat... interesting. Harrallak certainly is an intelligent guy."
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "It is as you say."
+            },
+            {
+              "speaker": "Player",
+              "text": "May I claim my tokens please?"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "No space you have carry them for."
+            },
+            {
+              "speaker": "Player",
+              "text": "Right, I need space in my pack for them. I'll be back!"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "Yes yes! Earned you have [number] token[s]!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "No tokens earned have you. In training activities participate you must."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, I'll go see what I can find to do around here to earn some tokens."
+            },
+            {
+              "speaker": "Player",
+              "text": "Bye!"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "Health be with you travelling."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Claim-tokens dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Using any item that isn't a standard metal full helm, platebody, or platelegs on the animator",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shanomi",
+              "text": "Plain full plate armour in those machines only you may use, of appropriate materials. When other items used, bad things happen, yes!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, so I can only use plain full plate armour of appropriate materials, no trimmed armour or unusual kit?"
+            },
+            {
+              "speaker": "Shanomi",
+              "text": "It is as you say."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Every 15 ticks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Shanomi",
+                  "text": "Those things which cannot be seen, perceive them."
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "Do nothing which is of no use."
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "Think not dishonestly."
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "The Way in training is."
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "Gain and loss between you must distinguish."
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "Trifles pay attention even to."
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "Way of the warrior this is."
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "Acquainted with every art become."
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "Ways of all professions know you."
+                },
+                {
+                  "speaker": "Shanomi",
+                  "text": "Judgment and understanding for everything develop you must."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

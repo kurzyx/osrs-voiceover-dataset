@@ -1,0 +1,119 @@
+{
+  "ref": "martin-the-master-gardener",
+  "categoryRef": "npc",
+  "title": "Martin the Master Gardener",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What is that cape you're wearing?"
+            },
+            {
+              "speaker": "Martin the Master Gardener",
+              "text": "This is a Skillcape of Farming, isn't it incredible? It's a symbol of my ability as the finest farmer in the land and wearing it increases my herb yield!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I buy a Skillcape of Farming from you?"
+            },
+            {
+              "speaker": "Martin the Master Gardener",
+              "text": "Of course, fellow farmer. If you wear this cape you'll receive increased yields from your herbs. That'll be 99000 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not paying that."
+            },
+            {
+              "speaker": "Martin the Master Gardener",
+              "text": "No skin off my teeth, but if you change your mind, the price will still be the same."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, not many people own one."
+            },
+            {
+              "speaker": "Player",
+              "text": "But, unfortunately, I don't have enough money with me."
+            },
+            {
+              "speaker": "Martin the Master Gardener",
+              "text": "Well, come back and see me when you do."
+            },
+            {
+              "speaker": "Martin the Master Gardener",
+              "text": "Unfortunately all Skillcapes are only available with a free hood, it's part of a skill promotion deal; buy one get one free, you know. So you'll need to free up some inventory space before I can sell you one."
+            },
+            {
+              "speaker": "Martin the Master Gardener",
+              "text": "That's true; us Master Farmers are a unique breed."
+            },
+            {
+              "speaker": "Player",
+              "text": "May I have another hood for my cape, please?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, this time I've really solved your problems! I've woken up the Fairy Queen!"
+            },
+            {
+              "speaker": "Martin the Master Gardener",
+              "text": "Hmm, right. You'll forgive me if I reserve judgement on this until I actually have some crops grow."
+            },
+            {
+              "speaker": "Player",
+              "text": "Of course. The problem was the Godfather, he wanted to take control of Zanaris himself, so he didn't give Fairy Nuff the Queen's secateurs!"
+            },
+            {
+              "speaker": "Martin the Master Gardener",
+              "text": "Godfather...Fairy Nuff...the Queen, I don't know what you're talking about and I don't care. I just want my crops to start growing again. Come back and claim your reward once they've had a chance to grow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Failed pickpocket attempt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Martin the Master Gardener",
+                  "text": "Cor blimey mate, what are ye doing in me pockets?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after successfully pickpocketing him recently",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Martin the Master Gardener",
+                  "text": "You're the thief who stole from me!"
+                },
+                {
+                  "speaker": "Martin the Master Gardener",
+                  "text": "Guards, guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ref": "burkor",
+  "categoryRef": "npc",
+  "title": "Burkor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Burkor",
+              "text": "Be vigilant, citizen."
+            },
+            {
+              "speaker": "Player",
+              "text": "Err, right."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gnome Restaurant",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Burkor",
+              "text": "Thank you. Can't talk now I'm on duty."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

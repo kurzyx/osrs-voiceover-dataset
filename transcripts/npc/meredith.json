@@ -1,0 +1,111 @@
+{
+  "ref": "meredith",
+  "categoryRef": "npc",
+  "title": "Meredith",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Meredith",
+              "text": "Welcome to the Games Zone!"
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I play board games?"
+            },
+            {
+              "speaker": "Meredith",
+              "text": "You can challenge someone to a game anywhere in the Games Zone (except on a PvP or Deadman world) by using the right click option."
+            },
+            {
+              "speaker": "Meredith",
+              "text": "Choose the type of game and then choose the options you want such as time per move."
+            },
+            {
+              "speaker": "Meredith",
+              "text": "If your opponent accepts the challenge you will be taken to one of the tables around where you will play your game of choice."
+            },
+            {
+              "speaker": "Meredith",
+              "text": "Once you have finished your game you will come back here where you can challenge again! We also have tables in a few pubs around the world!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What games can I play?"
+            },
+            {
+              "speaker": "Meredith",
+              "text": "Currently we offer Draughts, Runelink, Runesquares, and Runeversi."
+            },
+            {
+              "speaker": "Player",
+              "text": "Draughts?"
+            },
+            {
+              "speaker": "Meredith",
+              "text": "Draughts uses standard rules, apart from: a draw is declared if no piece has been taken or promoted for forty moves."
+            },
+            {
+              "speaker": "Player",
+              "text": "Runelink?"
+            },
+            {
+              "speaker": "Meredith",
+              "text": "Yup, you have to get four runes in row."
+            },
+            {
+              "speaker": "Player",
+              "text": "Runesquares?"
+            },
+            {
+              "speaker": "Meredith",
+              "text": "Yes, you take it in turns to add a line with the goal of making squares. Everytime you make a square you take another turn."
+            },
+            {
+              "speaker": "Player",
+              "text": "Runeversi?"
+            },
+            {
+              "speaker": "Meredith",
+              "text": "Yep, the aim is to have more of your runes on the board than your opponent. You can take your opponents pieces by trapping them between your own."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I buy a drink please?"
+            },
+            {
+              "speaker": "Meredith",
+              "text": "I'm afraid I don't sell drinks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "On seasonal or permanent Deadman Mode worlds",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Meredith",
+              "text": "Welcome to the Games Zone!"
+            },
+            {
+              "speaker": "Meredith",
+              "text": "Unfortunately we do not offer board game playing on this world. Try logging onto a non-PvP or Deadman world!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

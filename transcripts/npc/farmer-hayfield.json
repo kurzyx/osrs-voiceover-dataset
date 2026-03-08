@@ -1,0 +1,33 @@
+{
+  "ref": "farmer-hayfield",
+  "categoryRef": "npc",
+  "title": "Farmer Hayfield",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Farmer Hayfield",
+              "text": "Are you alive?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Me?"
+            },
+            {
+              "speaker": "Farmer Hayfield",
+              "text": "Tell me! How does it feel to be alive?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Huh, what a strange guy."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

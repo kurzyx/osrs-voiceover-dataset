@@ -1,0 +1,125 @@
+{
+  "ref": "bartak",
+  "categoryRef": "npc",
+  "title": "Bartak",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartak",
+              "text": "Oh no! What's broken?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What? Nothing's broken."
+            },
+            {
+              "speaker": "Bartak",
+              "text": "I'm sorry. I'm just a bit jumpy."
+            },
+            {
+              "speaker": "Bartak",
+              "text": "I'm in charge of all the metalworking of Dorgesh-Kaan. It's a big responsibility!"
+            },
+            {
+              "speaker": "Bartak",
+              "text": "If something metal breaks I have to fix it. And lots of things are made of metal!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Don't worry, I'm sure you're up to the task!"
+            },
+            {
+              "speaker": "Bartak",
+              "text": "I hope you're right."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When trying to smelt ores at the furnace near Bartak",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartak",
+              "text": "Get away from that furnace!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you worried I'll break your furnace?"
+            },
+            {
+              "speaker": "Bartak",
+              "text": "I'm worried the furnace will break you!"
+            },
+            {
+              "speaker": "Bartak",
+              "text": "It's set up to make glass and jewellery at the moment. It's not safe to use it to smelt ore. What if you accidentally burn yourself?"
+            },
+            {
+              "speaker": "Bartak",
+              "text": "What if you accidentally burn yourself and the surface people see that you're burnt and use that as a pretext to attack us?"
+            },
+            {
+              "speaker": "Bartak",
+              "text": "We'd all be killed in our sleep! And it would be my fault!"
+            },
+            {
+              "speaker": "Bartak",
+              "text": "No, no, no, no, no - I can't take the risk."
+            },
+            {
+              "speaker": "Player",
+              "text": "Alright, calm down! I won't use your furnace. To smelt ore."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When using the take option on the nearby tools",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartak",
+              "text": "What do you think you're doing?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Um...may I use your tools?"
+            },
+            {
+              "speaker": "Bartak",
+              "text": "Oh, no, no!"
+            },
+            {
+              "speaker": "Bartak",
+              "text": "Those are highly technical tools. They're not like the tools you use on the surface."
+            },
+            {
+              "speaker": "Bartak",
+              "text": "What if you hurt yourself with them? I could be held responsible!"
+            },
+            {
+              "speaker": "Bartak",
+              "text": "No, I think it's best if I don't let anyone use the tools."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh well."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

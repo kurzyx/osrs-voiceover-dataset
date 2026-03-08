@@ -1,0 +1,101 @@
+{
+  "ref": "lucy",
+  "categoryRef": "npc",
+  "title": "Lucy",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lucy",
+              "text": "Hi! I'm Lucy. Welcome to the Party Room!"
+            },
+            {
+              "speaker": "Player",
+              "text": "One beer please Lucy!"
+            },
+            {
+              "speaker": "Lucy",
+              "text": "Coming right up! That's two gold please."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry but I don't have enough money!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "During 2017 Birthday Event",
+      "sections": [
+        {
+          "title": "Claiming another beer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lucy",
+                  "text": "Hi! I'm Lucy. Welcome to the Party Room!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "One beer please Lucy!"
+                },
+                {
+                  "speaker": "Lucy",
+                  "text": "Coming right up [sir/ma'am]! As part of the birthday bash, you get your first 2 beers free!"
+                },
+                {
+                  "speaker": "Lucy",
+                  "text": "That's your last free beer [username]!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lucy",
+              "text": "Hi! I'm Lucy. Welcome to the Party Room!"
+            },
+            {
+              "speaker": "Player",
+              "text": "One beer please Lucy!"
+            },
+            {
+              "speaker": "Lucy",
+              "text": "Coming right up [sir/ma'am]! As part of the birthday bash, you get your first 2 beers free!"
+            },
+            {
+              "speaker": "Lucy",
+              "text": "You have 1 free beer left from either me or Megan!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

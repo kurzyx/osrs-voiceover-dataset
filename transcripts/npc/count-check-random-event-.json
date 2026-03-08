@@ -1,0 +1,78 @@
+{
+  "ref": "count-check-random-event-",
+  "categoryRef": "npc",
+  "title": "Count Check (random event)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Other player's event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Count Check",
+                  "text": "I came to check [player name], not you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha! I, Count Check, have checked your account. You have a Jagex Account, and you have set a Bank PIN, so you pass my checks! Enjoy your prize."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha! I, Count Check, have checked your account. You do not have a Bank PIN, so you fail my checks! Talk to a banker to set a PIN before we meet again."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha! I, Count Check, have checked your account. You do not have a Jagex Account, so you fail my checks! You should upgrade before we meet again."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha! I, Count Check, have checked your account. You do not have a Jagex Account, nor a Bank PIN, so so you fail my checks! Please upgrade before we meet again."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha! I, Count Check, have checked your account. You have set a Bank PIN, so you pass my checks! Enjoy your prize."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha, [player name]!"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Please let me check you, [player name]!"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "I have come to check you, [player name]..."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha, ONE more person ignored me..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

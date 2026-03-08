@@ -1,0 +1,35 @@
+{
+  "ref": "hetty",
+  "categoryRef": "npc",
+  "title": "Hetty",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After completing Witch's Potion",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hetty",
+                  "text": "How's your magic coming along?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm practicing and slowly getting better."
+                },
+                {
+                  "speaker": "Hetty",
+                  "text": "Good, good."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

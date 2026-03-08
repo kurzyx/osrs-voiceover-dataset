@@ -1,0 +1,47 @@
+{
+  "ref": "high-priest-of-scabaras",
+  "categoryRef": "npc",
+  "title": "High Priest of Scabaras",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello again."
+            },
+            {
+              "speaker": "High Priest of Scabaras",
+              "text": "Hello, adventurer. Thank you for freeing me from the Devourer. I would be alone now. Scabaras teaches us to remain isolated, and I have much to think about."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using dawn scarab egg on him",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "High Priest of Scabaras",
+              "text": "Adventurer... what is this? It looks like a scarab egg, but is unlike any I've seen before."
+            },
+            {
+              "speaker": "Player",
+              "text": "To be honest, I'm not sure, but I think you should have it. It has more hope of hatching with you than with me."
+            },
+            {
+              "speaker": "High Priest of Scabaras",
+              "text": "Thank you, adventurer. I know not what will come of this, but I feel you have done the right thing. May Scabaras continue to guide you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

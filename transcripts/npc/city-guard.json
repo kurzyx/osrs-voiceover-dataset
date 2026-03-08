@@ -1,0 +1,163 @@
+{
+  "ref": "city-guard",
+  "categoryRef": "npc",
+  "title": "City guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Speaking to the City guard during Watchtower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "City Guard",
+                  "text": "Grrrr, what business have you here ?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am on an errand..."
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "So what do you want with me ?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am an ogre killer come to destroy you!"
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "I would like to see you try!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I seek passage into the skavid caves"
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "Is that so..."
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "You humour me small thing, answer this riddle and I will help you... I want you to bring me an item"
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "I will give you all the letters of this item, you work out what it is..."
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "My first is in days, but not in years. My second is in evil, and also in tears. My third is in all, but not in none"
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "My fourth is in hot, but not in sun. My fifth is in heaven, and also in hate. My sixth is in fearing, but not in fate."
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "My seventh is in plush, but not in place. My eighth is in nine, but not in eight. My last is in earth, and also in in great"
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "My whole is an object, that magic will make. It brings wrack and ruin to all in it's wake..."
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "Now how long I wonder, will this riddle take?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the death rune on the guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I worked it out!"
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "Well well.. the imp has done it!"
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "Thanks for the rune"
+                },
+                {
+                  "speaker": "City Guard",
+                  "text": "This is what you be needing..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after the player has given him the rune",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "City guard",
+                  "text": "What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any other riddles for me?"
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "Yes, what looks good on a plate with salad?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know..."
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "You! Now go, and bother me no more.)"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A nice pizza?"
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "Grr! Think you are a comedian, eh? Get lost!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have lost the map you gave me."
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "What's the point? Take this one and go away!"
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "You imps always store things in places and forget. Go look for it."
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "Are you blind? What is that you are carrying?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, that map..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

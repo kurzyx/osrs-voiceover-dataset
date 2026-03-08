@@ -1,0 +1,60 @@
+{
+  "ref": "vlad-diaemus",
+  "categoryRef": "npc",
+  "title": "Vlad Diaemus",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vlad Diaemus",
+                  "text": "Human! Get back to the slave pens before I call the guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Vlad Diaemus",
+              "text": "I don't want whatever it is you're selling."
+            },
+            {
+              "speaker": "Player",
+              "text": "But I'm not selling anything."
+            },
+            {
+              "speaker": "Vlad Diaemus",
+              "text": "You think I believe that? Why else would you be here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Just seeing the sights?"
+            },
+            {
+              "speaker": "Vlad Diaemus",
+              "text": "What sights? What's wrong with you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing..."
+            },
+            {
+              "speaker": "Vlad Diaemus",
+              "text": "Get out, you weirdo!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

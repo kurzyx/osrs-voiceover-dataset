@@ -1,0 +1,224 @@
+{
+  "ref": "estate-agent-2021-halloween-event-",
+  "categoryRef": "npc",
+  "title": "Estate agent (2021 Halloween event)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talk-to",
+          "sections": [
+            {
+              "title": "If Oziach has not been attempted to be scared by one ghost",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Estate agent",
+                      "text": "Sorry [player name], I'm talking to Oziach right now."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Oziach",
+              "text": "Is this place haunted?"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I don't think so. Would it matter if it was?"
+            },
+            {
+              "speaker": "Oziach",
+              "text": "Maybe, it depends how haunted. I'm not a big fan of ghosts."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Well, let's hope it's not haunted!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Have you thought about painting the building?"
+            },
+            {
+              "speaker": "Oziach",
+              "text": "I'm thinking a nice bold red, like the dragon armour."
+            },
+            {
+              "speaker": "Oziach",
+              "text": "Or maybe a green, in memory of Elvarg, a very mean dragon."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I think green would look great, it would match the surroundings, too!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Could I get one of those rune platebodies?"
+            },
+            {
+              "speaker": "Oziach",
+              "text": "Well, normally you'd have to slay a dragon for me..."
+            },
+            {
+              "speaker": "Oziach",
+              "text": "...but maybe I can make an exception once I've moved in here."
+            },
+            {
+              "speaker": "Oziach",
+              "text": "As a little thank you for the help!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "That would be great! Let's get this deal done quickly."
+            },
+            {
+              "speaker": "Oziach",
+              "text": "I can't wait to complete the purchase!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "It's almost done Oziach, not much longer."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Do you have any plans for it?"
+            },
+            {
+              "speaker": "Oziach",
+              "text": "I have a few. I might convert the top floor into a bar!"
+            },
+            {
+              "speaker": "Oziach",
+              "text": "It'll be for all dragon slayers I know, there's a lot of us!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Interesting use of such a beautiful property!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "OoooOooOoOoOoooooooo!"
+            },
+            {
+              "speaker": "Oziach",
+              "text": "Ah!! Why did you do that?"
+            },
+            {
+              "speaker": "Oziach",
+              "text": "That scared me!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm sorry! I was just pretending to be a ghost."
+            },
+            {
+              "speaker": "Oziach",
+              "text": "Don't do that! I don't like ghosts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cutscenes",
+      "sections": [
+        {
+          "title": "When the player attempts to try and scare Oziach for the first time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Estate agent",
+                  "text": "I'm going to head back to the office."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Alright, I'll see you later. Can't wait to move in!"
+                },
+                {
+                  "speaker": "Estate agent",
+                  "text": "I know, it's a lovely place! See you!"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Ahhh... soon to be mine."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the player and Iffie have attempted to try and scare Oziach for the second time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oziach",
+                  "text": "So many ghosts... I need some help!"
+                },
+                {
+                  "speaker": "Estate agent",
+                  "text": "Oziach! Are you okay? I heard shouting!"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Hello! It's not going well. There are a lot of ghosts here!"
+                },
+                {
+                  "speaker": "Estate agent",
+                  "text": "That's not good at all!"
+                },
+                {
+                  "speaker": "Estate agent",
+                  "text": "Do you still want to go ahead with the purchase?"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Of course! TWO ghosts is scary, but not that scary!"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "I'll hire myself one of those slayers we see everywhere."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "They will help with the ghost problem!"
+                },
+                {
+                  "speaker": "Estate agent",
+                  "text": "Phew, that is lovely news! I thought it was all over, then."
+                },
+                {
+                  "speaker": "Estate agent",
+                  "text": "I'll head back to the office, meet me there shortly."
+                },
+                {
+                  "speaker": "Estate agent",
+                  "text": "I'll be doing the final paperwork."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

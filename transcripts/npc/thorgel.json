@@ -1,0 +1,249 @@
+{
+  "ref": "thorgel",
+  "categoryRef": "npc",
+  "title": "Thorgel",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Thorgel",
+              "text": "Hey there [player name], Do you want that shopping list now?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It depends, what do I get out of it again?"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "I've got this Death Talisman I could give you in return. You'll need it if you want to get into the altar."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok sure thing, what do you need?"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "You'd better take this list, we need everything on it! Just bring them to me and I'll take them off your hands."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hmm no thanks, I'm not interested."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After being given item list",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Thorgel",
+              "text": "Hi again, how're you doing with those items we need?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I've got some of them with me."
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Great, can I take everything I need?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeah sure."
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Doesn't look like you do to me."
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Thanks, I've updated your list for you."
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Great, thank you so much for getting all that for us! Please take this Death Talisman as a reward."
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Anytime you want another one of those Talismans come see me and I'll sort you out with another list."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd rather you didn't."
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Doesn't look like you do to me."
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "I see you've got the [item], can I have it please?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, here you go!"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Thanks, I've updated your list for you."
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Great, thank you so much for getting all that for us! Please take this Death Talisman as a reward."
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Anytime you want another one of those Talismans come see me and I'll sort you out with another list."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think I'll keep hold of it for now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have another copy of the list?"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Try not to lose it this time, we need everything on it! Just bring them to me and I'll take them off your hands."
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Looks like you're carrying enough stuff at the moment."
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "You already have the list! Just bring them to me and I'll take them off your hands."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you need all this stuff for?"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Oh well, we don't get many deliveries down here, so it's supplies mostly..."
+            },
+            {
+              "speaker": "Player",
+              "text": "What about the [ticket]?"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Well you see.. Umm... We don't really get much chance to.. Er.. Go out or anything... And we'd like some of the prizes some day..."
+            },
+            {
+              "speaker": "Player",
+              "text": "So why didn't you ask for the prizes then?"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Oh no, that'd just be sad."
+            },
+            {
+              "speaker": "Player",
+              "text": "So why do you want the [book]?"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Oh just some light reading, it's nice to catch up on current events occasionally."
+            },
+            {
+              "speaker": "Player",
+              "text": "Current events? But it's... Oh nevermind."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do you explain the [key]?"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Ah... Um... I'm not sure how that got on the list... Can we have it anyway?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Right, why do I get the feeling I shouldn't?"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Pretty please with a Blood Talisman on top?!"
+            },
+            {
+              "speaker": "Player",
+              "text": "A Blood Talisman?!"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "Oops! I meant 'Death Talisman'!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeah, right, all those are just 'supplies'."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you need all this stuff for?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'd better get looking for them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After finishing the item list",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Thorgel",
+              "text": "Hello again, feel like getting us some more supplies?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay sure thing, what do you need?"
+            },
+            {
+              "speaker": "Thorgel",
+              "text": "You'd better take this list, we need everything on it! Just bring them to me and I'll take them off your hands."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hmm no thanks, I'm not interested."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Thorgel",
+                  "text": "Here you go."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

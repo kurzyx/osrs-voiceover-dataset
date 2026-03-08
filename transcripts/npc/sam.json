@@ -1,0 +1,114 @@
+{
+  "ref": "sam",
+  "categoryRef": "npc",
+  "title": "Sam",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "While finding a book for them",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sam",
+                  "text": "Have you found my book yet? '[book name]'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, sorry."
+                },
+                {
+                  "speaker": "Sam",
+                  "text": "It's just typical of the Arceuus snobs that their Librarian's too good to help customers like me. They ought to be grateful to you for doing her job for her."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "While finding a book for someone else",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sam",
+                  "text": "I'll grab you later when you're not busy helping someone else."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Turning in the book",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sam",
+                  "text": "Thanks, I'll get on with reading it. Meanwhile, you can have this other book of mine - I won't be wanting to read it again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to them after giving them the book",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sam",
+                  "text": "Thanks for finding the book. I'll have to think up what I need next."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sam",
+              "text": "Can you help me find a book I want? That snotty Arceuus Librarian won't even say hello, never mind actually helping me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, what book do you want?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "I think I'd like to read: '[book name]'"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll see what I can do."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Sam",
+              "text": "I'm about to join the crew of a cargo ship, trading goods with the eastern lands. I hear our voyages can last for weeks, especially if the winds are slack."
+            },
+            {
+              "speaker": "Sam",
+              "text": "I don't want to run out of stuff to talk about with the other sailors, so I'm doing plenty of background reading before we sail. Will you find my book, please?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, sorry."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

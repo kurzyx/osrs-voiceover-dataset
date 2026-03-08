@@ -1,0 +1,278 @@
+{
+  "ref": "steve",
+  "categoryRef": "npc",
+  "title": "Steve",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completion of Monkey Madness II",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Steve",
+                  "text": "Welcome to my private little wyvern area."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you?"
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "I'm Steve. You may have heard of my big cousin Nieve - she's one of the Slayer Masters. She's the famous one in the family. But Nieve's not here - this area's mine"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why is this wyvern area private?"
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "Because I say so! My cousin Nieve thinks she's so great because she's got a big cave where she can boss people around. So I carved some steps out of the ice, and made myself a training area here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So are you a Slayer Master?"
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "No, I'm not. My cousin Nieve is a Slayer Master. There's nothing special about her, you know. All she does is tell people to kill stuff. That's Slayer Masters for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, goodbye."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Slayer Master",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Steve",
+                  "text": "'Ello, and what are you after then?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need another assignment."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "Excellent, you're doing great. Your new task is to kill [amount] [task monster]."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "You're still hunting [monster]; you have [amount] to go. Come back when you've finished your task."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "You're still hunting [monster], with [amount] to go."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "I don't think that's a suitable task for you. Shall I cancel it? This will not wipe your task streaks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please cancel it."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "Alright, consider the task cancelled. You can now get a new assignment when you want one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks, I want to try doing it."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "Good luck with that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you any rewards for me, or anything to trade?"
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "I have quite a few rewards you can earn, and a wide variety of Slayer equipment for sale."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's talk about the difficulty of my assignments."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "The Slayer Masters may currently assign you any task in our lists, regardless of your combat level."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's fine - I can handle any task."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "That's the spirit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "In future, please don't give anything too tough."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "Okay, from now on, all the Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "The Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's fine - I don't want anything too tough."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "Okay, we'll keep checking your combat level."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stop checking my combat level - I can take anything!"
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "Okay, from now on, all the Slayer Masters will assign you anything from their lists, regardless of your combat level."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see you're the new Slayer Master here."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "Yes, Nieve used to be the local Slayer Master - she's my cousin. She's gone off somewhere now, so I'm taking over."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How sad for you."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "Yes, Nieve used to be the local Slayer Master - she was my cousin. We weren't particularly close, but I came here straight away to take over the job."
+                },
+                {
+                  "speaker": "Steve",
+                  "text": "I'd hoped I'd receive a shield like Nieve's when I took over her job, but I've not been given one so far. I guess the perks of the job aren't what they used to be."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How sad for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... Nothing..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Via the NPC Contact spell",
+          "sections": [
+            {
+              "title": "Before the update Game Improvements (26 March 2020)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello?"
+                    },
+                    {
+                      "speaker": "Steve",
+                      "text": "'Ello, who's that?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm [player name]. I'm using my magic to communicate with you."
+                    },
+                    {
+                      "speaker": "Steve",
+                      "text": "Bizarre, go on, what do you want then?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Steve",
+                  "text": "'Ello, can I help you?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Steve",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Steve",
+                      "text": "Is there? I don't think so, try again."
+                    },
+                    {
+                      "speaker": "Steve",
+                      "text": "I believe you're right!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Steve",
+                  "text": "I love farming, but I need some help!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using the elysian spirit shield (Monkey Madness II) on Steve",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "ref": "ghost-villager",
+  "categoryRef": "npc",
+  "title": "Ghost villager",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player wears either an amulet of ghostspeak or the Morytania legs 2+",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ghost villager",
+                  "text": "What do you want, mortal?"
+                },
+                {
+                  "speaker": "Ghost villager",
+                  "text": "We do not talk to the warm-bloods."
+                },
+                {
+                  "speaker": "Ghost villager",
+                  "text": "Why did we have to listen to that maniacal priest?"
+                },
+                {
+                  "speaker": "Ghost villager",
+                  "text": "This cold wind blows right through you, doesn't it?"
+                },
+                {
+                  "speaker": "Ghost villager",
+                  "text": "Worship the Ectofuntus all you want, but don't bother us, human."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player does not wear either an amulet of ghostspeak or the Morytania legs 2+",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ghost villager",
+                  "text": "Woooo wooo wooooo woooo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

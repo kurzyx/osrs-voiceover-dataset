@@ -1,0 +1,41 @@
+{
+  "ref": "boot",
+  "categoryRef": "npc",
+  "title": "Boot",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Boot",
+              "text": "Hello tall person."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello short person."
+            },
+            {
+              "speaker": "Boot",
+              "text": "Hello tall person."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are you called Boot?"
+            },
+            {
+              "speaker": "Boot",
+              "text": "I'm called Boot, because when I was very young, I used to sleep, in a large boot."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeah, great, I didn't want your life story."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

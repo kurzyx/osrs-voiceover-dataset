@@ -1,0 +1,97 @@
+{
+  "ref": "league-navigator",
+  "categoryRef": "npc",
+  "title": "League Navigator",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "In Quetzacalli Gorge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "League Navigator",
+                  "text": "Hello there, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hi..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you know my name? Have we met before?"
+                },
+                {
+                  "speaker": "League Navigator",
+                  "text": "The Sage tells all of us the names of those participating in their... event."
+                },
+                {
+                  "speaker": "League Navigator",
+                  "text": "I'm here simply as an instrument of travel."
+                },
+                {
+                  "speaker": "League Navigator",
+                  "text": "Would you like me to take you to the Stranglewood?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I'll stay here for now."
+                },
+                {
+                  "speaker": "League Navigator",
+                  "text": "You know where to find me if you change your mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "In the Stranglewood",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "League Navigator",
+                  "text": "Hello there, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hi..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you know my name? Have we met before?"
+                },
+                {
+                  "speaker": "League Navigator",
+                  "text": "The Sage tells all of us the names of those participating in their... event."
+                },
+                {
+                  "speaker": "League Navigator",
+                  "text": "I'm here simply as an instrument of travel."
+                },
+                {
+                  "speaker": "League Navigator",
+                  "text": "Would you like me to take you to Varlamore's mainland?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I'll stay here for now."
+                },
+                {
+                  "speaker": "League Navigator",
+                  "text": "You know where to find me if you change your mind."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

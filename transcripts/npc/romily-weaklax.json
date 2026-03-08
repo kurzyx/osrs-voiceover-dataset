@@ -1,0 +1,61 @@
+{
+  "ref": "romily-weaklax",
+  "categoryRef": "npc",
+  "title": "Romily Weaklax",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Romily Weaklax",
+              "text": "Hello and welcome to my pie shop, how can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you need any help?"
+            },
+            {
+              "speaker": "Romily Weaklax",
+              "text": "Actually I could, you see I'm running out of stock and I don't have time to bake any more pies. Would you be willing to bake me some pies? I'll pay you well for them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, what do you need?"
+            },
+            {
+              "speaker": "Romily Weaklax",
+              "text": "Great, can you bake me [amount] [pie type] Pies please."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I can't help you."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've got those pies you wanted."
+            },
+            {
+              "speaker": "Romily Weaklax",
+              "text": "Doesn't look like you have any of the [amount] [pie type] Pies I requested."
+            },
+            {
+              "speaker": "Romily Weaklax",
+              "text": "Thank you, if you could bring me the other [amount] that'd be great!"
+            },
+            {
+              "speaker": "Romily Weaklax",
+              "text": "Thank you very much!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm good thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "ref": "ragnvald",
+  "categoryRef": "npc",
+  "title": "Ragnvald",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Ragnvald",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Ragnvald",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacking the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ragnvald",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Ragnvald",
+                  "text": "Rahr!"
+                },
+                {
+                  "speaker": "Ragnvald",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Ragnvald",
+                  "text": "Grr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ragnvald",
+                  "text": "Aargh!"
+                },
+                {
+                  "speaker": "Ragnvald",
+                  "text": "I'm a gonner!"
+                },
+                {
+                  "speaker": "Ragnvald",
+                  "text": "It's no use, I'm done for!"
+                },
+                {
+                  "speaker": "Ragnvald",
+                  "text": "Uggh!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

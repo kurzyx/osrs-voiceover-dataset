@@ -1,0 +1,43 @@
+{
+  "ref": "gossip",
+  "categoryRef": "npc",
+  "title": "Gossip",
+  "sections": [
+    {
+      "title": "Before Murder Mystery",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gossip",
+              "text": "There's some kind of commotion up at the Sinclair place I hear. Not surprising all things considered."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After King's Ransom",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gossip",
+              "text": "Well, this has certainly been exciting! The Sinclairs under house arrest, Morgan Le Faye attempting yet again to interfere with King Arthur and Merlin, and even the Black Knights sticking their noses into it."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do you know all that? It only just happened, and you weren't there!"
+            },
+            {
+              "speaker": "Gossip",
+              "text": "I have my sources. No secret is safe as long as I'm around!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

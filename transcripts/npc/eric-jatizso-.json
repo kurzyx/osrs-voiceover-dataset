@@ -1,0 +1,74 @@
+{
+  "ref": "eric-jatizso-",
+  "categoryRef": "npc",
+  "title": "Eric (Jatizso)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Collecting the window tax during The Fremennik Isles",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, I'm the tax collector. Got any windows I can tax?"
+                },
+                {
+                  "speaker": "Eric",
+                  "text": "I dream of windows."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Collecting the beard tax during The Fremennik Isles",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, I'm the tax collector. I'm taxing beards and I can't help noticing you have a beard."
+                },
+                {
+                  "speaker": "Eric",
+                  "text": "What? I'm a beggar. Do I look as if I have any money? Look, take everything I own why don't you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err, thanks. Maybe I don't need to tax you."
+                },
+                {
+                  "speaker": "Eric",
+                  "text": "No, take it!"
+                },
+                {
+                  "speaker": "Eric",
+                  "text": "I don't care any more."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Eric",
+              "text": "Spare us a few coppers [mister/miss]"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, go away!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

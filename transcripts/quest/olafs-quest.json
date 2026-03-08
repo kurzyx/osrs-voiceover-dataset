@@ -1,0 +1,645 @@
+{
+  "ref": "olafs-quest",
+  "categoryRef": "quest",
+  "title": "Olaf's Quest",
+  "sections": [
+    {
+      "title": "Talking to Olaf",
+      "sections": [
+        {
+          "title": "If The Fremennik Trials has not been completed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Get lost, outlander! I've no time for you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If The Fremennik Trials has been completed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Who is that? Identify yourself!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's me, [player name]. What are you doing out here?"
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Nothing... Just carving these horribly broken pieces of driftwood."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "In the middle of nowhere."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "In damp clothing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, have a nice day."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Wait! Would you do me a favour?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What kind of a favour?"
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Look, you see that heap of driftwood over there? That is my ship, and all that is left of my one shot at making my ancestors proud of me."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "My family have always been great explorers and seafarers, and I recently set off on my maiden voyage."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "However, a big storm - yes, a huge storm in fact - blew my ship onto the rocks. Three times."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "I've been sitting here ever since, trying to think of a way to make my family proud, and if you will help me...I think I have a way."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll help you out."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Thank you! I don't have much apart from my carvings, some driftwood and the map that I was following when I had my little..."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "...accident."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "If you help me out, then I'll gladly hand it over."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, what is your plan?"
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Well, I have a little food left, although it's a little briny."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "If you take a couple of carvings to my wife and son in the village over the hill and tell them that I sent you with them from a distant island, then I can wait out here for a week or so before returning."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, hand me over the carvings and I'll be on my way."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Well, none of these are any good. I'll need some fresh wood from a decent tree."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "When I was swimming for my life I saw an odd-looking windswept tree to the east of here, up that cliff."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Could you bring me some of that wood so I can work it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow, you must have pretty good eyes to be able to see a single tree from the water during a heavy storm."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Yes...great eyes...they run in the family."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Possibly later, when you don't smell so damp."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Bah! Well, if you aren't going to help, do me a favour and jump off that cliff!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Olaf again without the windswept logs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "So... Got the logs for me yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet. I just popped back to see how you were doing."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Still cold. Still damp. 'Bout average, really."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Olaf with the windswept logs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Olaf, I cut some logs from the tree. Here's the wood."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Wonderful! I'll carve them up now."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Done!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's it?"
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Yep!"
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "This is for my wife, Ingrid. I'm sure she will love it. Tell her it's tribal or something."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure..."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "And this one is for my son, Volf. Kids love planks in my experience. Tell him I said hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright. They live in Rellekka, right?"
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Yes. Hurry back! And don't forget the story: I'm not here, I'm someplace far away."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Delivering the presents",
+      "sections": [
+        {
+          "title": "Talking to Olaf again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "So, how did my wife like her carving?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know... I've still got it."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Well, hurry up and give it to her then!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "She was very happy with it!"
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Wonderful!"
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "I wish i could see her again..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, if this plan works out you will be able too, right?"
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Yes, you're right."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Did my son like his present? I'll bet he was thrilled."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll bet he will be... but I've still got it."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Well, take your time over it, why don't you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ingrid's present",
+          "sections": [
+            {
+              "title": "Talking to Ingrid again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ingrid Hradson",
+                      "text": "Hello again! Have you any word from my husband?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Err, no, not yet. It takes a while for the messages to reach me, you know."
+                    },
+                    {
+                      "speaker": "Ingrid Hradson",
+                      "text": "Well, when you do, tell him we'll be more than happy to see him again."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me, but are you Ingrid? The same Ingrid that is married to Olaf Hradson?"
+                },
+                {
+                  "speaker": "Ingrid Hradson",
+                  "text": "Yes I am. Why do you ask?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am a friend of your husband. He sent me here with a gift for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "An expensive, exotic gift from the far-flung and tropical shores of the Island of Obscurity."
+                },
+                {
+                  "speaker": "Ingrid Hradson",
+                  "text": "How wonderful! I assumed from the way the big oaf always referred to the rigging as 'big strings' that he couldn't navigate his way out of a soggy paper bag. So, can I see the gift he sent?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Certainly! Here it is. He sends his best wishes along with it."
+                },
+                {
+                  "speaker": "Ingrid Hradson",
+                  "text": "I see. It looks like a log with 'Olaf was here' carved in it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's tribal! Very tribal! I watched the natives carve it myself."
+                },
+                {
+                  "speaker": "Ingrid Hradson",
+                  "text": "Well, since you have come such a long way, you can have this. I baked it this morning, so it's still nice and fresh."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, thank you! Enjoy your Obscurian Tribal Artefact(tm). It has a million-and-one uses!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Volf's present",
+          "sections": [
+            {
+              "title": "Talking to Volf again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Volf Olafson",
+                      "text": "Hello again! Does my father send any word...or treasures like before?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not today, but if he does, you will be the first to know."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Volf? Son of Olaf Hradson?"
+                },
+                {
+                  "speaker": "Volf Olafson",
+                  "text": "Yes. Do I know you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, but I do know your father. He sent me with a present for you from, err..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "From the Island of Obscurity."
+                },
+                {
+                  "speaker": "Volf Olafson",
+                  "text": "Oh! That was fast! He only set off recently, and I was wondering how he was doing. So, where is this gift?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right here. Enjoy!"
+                },
+                {
+                  "speaker": "Volf Olafson",
+                  "text": "What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Very valuable. Have a nice time!"
+                },
+                {
+                  "speaker": "Volf Olafson",
+                  "text": "Wait! Here, take this. I was going to have it for my lunch, but I suppose you can have it in payment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks! Enjoy your new...thing!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to Olaf after the presents have been delivered",
+      "sections": [
+        {
+          "title": "Talking to Olaf again if the fire has not lighten up",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "So...very...cold. Almost cold enough to tear up an old map with my fevered shivering. Cough, cough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lighting up the fire",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Olaf afterwards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Ahhhhhhhh... Much better."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I'm glad you're happy. Can I have that map now?"
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Well, okay...but could I have a little of that food first? I've had nothing but seaweed and biscuits for the past week."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not a chance."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Okay, okay, I was only asking."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Well, regardless, you've more than earned this map. It was the last one my grandfather, Sven the Helmsman, ever made."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "It is supposed to show the location of one of his stashes of treasure, but I have never been able to decipher the strange, runic inscriptions that point the way."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "I wish you luck!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, thanks. What will you do now?"
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "I'll sit here and practice carving."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "If you pass this way again, I'll be glad if you drop my next load of work off with my family."
+                },
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "That or bring me some food before I starve. Whichever."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Olaf again after getting Sven's last map",
+          "sections": [
+            {
+              "title": "Reclaiming back the map if lost",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Olaf, I seem to have lost your map, can I have another?"
+                    },
+                    {
+                      "speaker": "Olaf Hradson",
+                      "text": "You lost the treasured map of Sven the Helmsman? How dare you!"
+                    },
+                    {
+                      "speaker": "Olaf Hradson",
+                      "text": "You'd best take better care of this one, or else!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olaf Hradson",
+                  "text": "Hey! I'm trying to carve and you're standing in my light! Move it!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Olaf, are you all right?"
+            },
+            {
+              "speaker": "Olaf Hradson",
+              "text": "So...cold...need...fire."
+            },
+            {
+              "speaker": "Player",
+              "text": "I delivered your carvings as you asked. Your family would like to see you again."
+            },
+            {
+              "speaker": "Player",
+              "text": "Here, let me get you to the village before you freeze to death."
+            },
+            {
+              "speaker": "Olaf Hradson",
+              "text": "I won't...go...anywhere. I don't...care if I...freeze."
+            },
+            {
+              "speaker": "Olaf Hradson",
+              "text": "I'd rather...die...than suffer...the shame."
+            },
+            {
+              "speaker": "Olaf Hradson",
+              "text": "Just get the...fire burning. Use...these."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, at least give me the map like you promised!"
+            },
+            {
+              "speaker": "Olaf Hradson",
+              "text": "Too...cold...to...hear...whining."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Entering the Brine Rat Cavern",
+      "sections": [
+        {
+          "title": "When digging beside the Windswept tree",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the picture wall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Opening the picture wall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Opening the chest inside the shipwreck",
+          "sections": [
+            {
+              "title": "After Ulfric has been defeated",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ulfric",
+                  "text": "Slay... Outlander... Intruder!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

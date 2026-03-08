@@ -1,0 +1,733 @@
+{
+  "ref": "architectural-alliance",
+  "categoryRef": "miniquest",
+  "title": "Architectural Alliance",
+  "sections": [
+    {
+      "title": "Talking to Hosa",
+      "sections": [
+        {
+          "title": "Talking to Hosa again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How are we doing on the statue?"
+                },
+                {
+                  "speaker": "Hosa",
+                  "text": "Until we have architects skilled in all areas of the statue, we cannot proceed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I guess I have to go find some more architects then!"
+                },
+                {
+                  "speaker": "Hosa",
+                  "text": "You'll find them all at home, in their respective cities."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you help?"
+                },
+                {
+                  "speaker": "Hosa",
+                  "text": "Sadly you are not favoured by the citizens of Hosidius. When you are, come back to me and I'll help too."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What happened to the statue?"
+            },
+            {
+              "speaker": "Hosa",
+              "text": "There was an awful storm, worst we've ever seen. The combination of cold and wind as well as its great age just... well... you only have to look around to find pieces."
+            },
+            {
+              "speaker": "Player",
+              "text": "Looks like you're planning on rebuilding it?"
+            },
+            {
+              "speaker": "Hosa",
+              "text": "I was, but I can't do it alone. Architects from all five cities have been working on individual projects to improve the roads around the kingdom,"
+            },
+            {
+              "speaker": "Hosa",
+              "text": "but now we're done and I hoped that they might come to help with the statue."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I help?"
+            },
+            {
+              "speaker": "Hosa",
+              "text": "Would you? The others... they refuse to talk to me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure. I assume that each city in Kourend will have an architect?"
+            },
+            {
+              "speaker": "Hosa",
+              "text": "Yes indeed. If you could call together the architects from all five cities to co-operate on this statue - that will be something that has never happened before..."
+            },
+            {
+              "speaker": "Hosa",
+              "text": "Sadly you are not favoured by the citizens of Hosidius. When you are, come back to me and I'll help."
+            },
+            {
+              "speaker": "Player",
+              "text": "But you're organising this thing."
+            },
+            {
+              "speaker": "Hosa",
+              "text": "That's all very well, but I would lose face with my people if I were to actively assist someone who was not favoured."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, that's a shame."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Arcis",
+      "sections": [
+        {
+          "title": "Without 100% Arceuus favour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you an architect?"
+                },
+                {
+                  "speaker": "Arcis",
+                  "text": "I am."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You are not favoured by the people of Arceuus. Now, if you don't mind, I have things to think about."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With 100% Arceuus favour",
+          "sections": [
+            {
+              "title": "Talking to Arcis again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Arcis",
+                      "text": "I am preparing. I will be there shortly."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you an architect?"
+                },
+                {
+                  "speaker": "Arcis",
+                  "text": "Why yes I am. How can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wondered if you might be able to lend a hand with rebuilding a statue."
+                },
+                {
+                  "speaker": "Arcis",
+                  "text": "Possibly. What might this statue be?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "King Rada I!"
+                },
+                {
+                  "speaker": "Arcis",
+                  "text": "Of course I will help you. You are referring of course to the statue that was destroyed in the storm. How large were you thinking?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Very big."
+                },
+                {
+                  "speaker": "Arcis",
+                  "text": "Hmm if it's really big, then my skills are limited to feet, legs and robes on big statues."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's ok, I can find someone else to work on the other bits. See you at the site!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to Piliar",
+      "sections": [
+        {
+          "title": "Without 100% Piscarilius favour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you an architect?"
+                },
+                {
+                  "speaker": "Piliar",
+                  "text": "Oh hello there, you've come to the right place."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wondered if you might have some time to help...?"
+                },
+                {
+                  "speaker": "Piliar",
+                  "text": "I am sorry but the people of Port Piscarilius does not favour you currently. I have to get back to my duties."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With 100% Piscarilius favour",
+          "sections": [
+            {
+              "title": "Talking to Piliar again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Piliar",
+                      "text": "Yes, yes, I'm on my way, just collecting my things! I'll be there shortly."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hi, I'm looking for an architect?"
+                },
+                {
+                  "speaker": "Piliar",
+                  "text": "I am indeed, fastest builder in Kourend and a dab hand at sculpture. How can I help?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wondered if you would be interested in helping to build a statue."
+                },
+                {
+                  "speaker": "Piliar",
+                  "text": "Maybe. What of?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "An enormous statue of King Rada I in the centre of Kourend."
+                },
+                {
+                  "speaker": "Piliar",
+                  "text": "Oh really? Who was he then?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He was your founding ruler! Surely you know your history?"
+                },
+                {
+                  "speaker": "Piliar",
+                  "text": "Of course I do, just pulling your leg. Sounds like a great idea, though I am only good at doing arms and hands on big statues - is that of use?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes it is, I can find someone else to work on the other bits. See you at the site!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to Lovada",
+      "sections": [
+        {
+          "title": "Without 100% Lovakengj favour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for an architect?"
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "What? Who're you? What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wondered if you might have some time to help...?"
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "Can't be doin' with that. Yer not favoured in my city. Go away."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With 100% Lovakengj favour",
+          "sections": [
+            {
+              "title": "Talking to Lovada again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi!"
+                    },
+                    {
+                      "speaker": "Lovada",
+                      "text": "Yes, yes, I'm on my way, give my old bones a chance! I'll be there shortly."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for an architect?"
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "Ay? What's that you say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "ARE YOU AN ARCHITECT?"
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "No need to shout. I'm a well respected architect you know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wondered if you would be interested in helping to build a statue."
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "Maybe. What's it of?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "King Rada I."
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "What? A larder that's burst? That's absurd!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "KING RADA I!"
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "All right, all right, no need to shout, I'm not deaf."
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "King Rada you say? My grandad met him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um, really? That was an awful long time ago."
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "Hmm... Might have been my great grandad..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The statue... do you want to help?"
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "What's that? Oh, yes, of course. But if it's big, I'm really only good at the main body bit, most like a house you see."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's huge, and in the centre of Kourend."
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "Well then I'm your dwarf."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, I need to find someone else to work on the other bits. See you at the site!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to Shayda",
+      "sections": [
+        {
+          "title": "Without 100% Shayzien favour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Greetings!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for an architect?"
+                },
+                {
+                  "speaker": "Shayda",
+                  "text": "Oh hello there, I'm an architect."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wondered if you might have some time to help...?"
+                },
+                {
+                  "speaker": "Shayda",
+                  "text": "So sorry but the people of Shayzien do not favour you currently. Please leave."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With 100% Shayzien favour",
+          "sections": [
+            {
+              "title": "Talking to Shayda again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Greetings!"
+                    },
+                    {
+                      "speaker": "Shayda",
+                      "text": "Yes, yes, I'm on my way, just collecting my things! I'll be there shortly."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Greetings!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you an architect?"
+                },
+                {
+                  "speaker": "Shayda",
+                  "text": "Yes [sir/ma'am]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah good, I wondered if you would be interested in helping to build a statue."
+                },
+                {
+                  "speaker": "Shayda",
+                  "text": "Of course [sir/ma'am]. What kind of statue?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "An enormous statue of King Rada I in the centre of Kourend."
+                },
+                {
+                  "speaker": "Shayda",
+                  "text": "Well! How extraordinary! I'm definitely in, but only really good at doing armour and weapons on big statues - is that of use?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It is indeed, I can find someone else to work on the other bits. See you at the site!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Building the statue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "We're all here, let's get started on this statue!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you all for agreeing to help me in this endeavour."
+            },
+            {
+              "speaker": "Piliar",
+              "text": "You earned the favour of my people and I think it's right that we honour the founding of our city in this way, that is why I am here."
+            },
+            {
+              "speaker": "Shayda",
+              "text": "I agree wholeheartedly."
+            },
+            {
+              "speaker": "Lovada",
+              "text": "Same here."
+            },
+            {
+              "speaker": "Arcis",
+              "text": "Let us commence our work."
+            },
+            {
+              "speaker": "Hosa",
+              "text": "Yep, let's begin."
+            },
+            {
+              "speaker": "Lovada",
+              "text": "Indeed we shall."
+            },
+            {
+              "speaker": "Shayda",
+              "text": "Yes, let's bash some rock."
+            },
+            {
+              "speaker": "All",
+              "text": "Ready!"
+            },
+            {
+              "speaker": "Hosa",
+              "text": "Thanks for helping us all get together to finally build this statue! I've got something for you..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh yes! I love rewards, what have you got for me?"
+            },
+            {
+              "speaker": "Hosa",
+              "text": "I've had this lamp for a while, but it'll serve you more good than it does for me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Post-miniquest dialogue",
+      "sections": [
+        {
+          "title": "Hosa",
+          "sections": [
+            {
+              "title": "If you destroyed the lamp",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I seem to have lost that antique lamp you gave me, have you got another one?"
+                    },
+                    {
+                      "speaker": "Hosa",
+                      "text": "Here you go!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Truly awesome!"
+                },
+                {
+                  "speaker": "Hosa",
+                  "text": "Isn't it just!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Arcis",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Magnificent!"
+                },
+                {
+                  "speaker": "Arcis",
+                  "text": "Truly a testament to a great King. Thank you for the opportunity to contribute."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Piliar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Truly awesome sight!"
+                },
+                {
+                  "speaker": "Piliar",
+                  "text": "Indeed, rather proud of it myself, look at those fingernails."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lovada",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How moving it looks!"
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "Move it? Not now it's built!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I meant... oh it doesn't matter..."
+                },
+                {
+                  "speaker": "Lovada",
+                  "text": "Aye, lovely statue isn't it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Shayda",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Utterly amazing! So much better than I imagined."
+                },
+                {
+                  "speaker": "Shayda",
+                  "text": "Isn't it just? I'm so proud at what we have pulled together to create."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

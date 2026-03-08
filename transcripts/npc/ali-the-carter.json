@@ -1,0 +1,91 @@
+{
+  "ref": "ali-the-carter",
+  "categoryRef": "npc",
+  "title": "Ali the Carter",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completion of the Spirits of the Elid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ali the Carter",
+                  "text": "Water, water get your fresh water here, 1000 coins a waterskin, a bargain in these difficult times."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's extortionate! Why so much?"
+                },
+                {
+                  "speaker": "Ali the Carter",
+                  "text": "Well it's the cheapest water you'll find in this town."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I'll give it a miss."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completion of the Spirits of the Elid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "You look glum."
+                },
+                {
+                  "speaker": "Ali the Carter",
+                  "text": "Business here really seems to have dried up. I had a good thing going here and you spoiled it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well it serves you right really. Taking advantage of people like that."
+                },
+                {
+                  "speaker": "Ali the Carter",
+                  "text": "So want to buy some water?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How much?"
+                },
+                {
+                  "speaker": "Ali the Carter",
+                  "text": "To you 1000 coins for a waterskin!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I'll give it a miss."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using any item on Ali's Water Cart or Water Barrel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ali the Carter",
+                  "text": "If you want water you need to buy it off me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

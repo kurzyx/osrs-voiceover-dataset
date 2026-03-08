@@ -1,0 +1,183 @@
+{
+  "ref": "gamfred",
+  "categoryRef": "npc",
+  "title": "Gamfred",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gamfred",
+              "text": "Ello there. I'm Gamfred, the engineer in this here guild. Have you seen my catapult?"
+            },
+            {
+              "speaker": "Player",
+              "text": "That's not a catapult, it's a large crossbow."
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "WHAT!? I'll have you know that is the finest piece of dwarven engineering for miles around! How DARE you insult my work!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, beautiful piece of engineering."
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "Nice to meet someone who appreciates fine work, have you tried it out yet?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes."
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "What did you think?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It was ok I guess."
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "Well I guess not everyone will like it."
+            },
+            {
+              "speaker": "Player",
+              "text": "It was fun!"
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "Glad ta hear it. Try it again sometime. We have more tests to run."
+            },
+            {
+              "speaker": "Player",
+              "text": "I didn't like it."
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "Well I guess not everyone will like it. But give it another chance before you go."
+            },
+            {
+              "speaker": "Player",
+              "text": "May I have a shield please?"
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "Silly muffin, you have one already!"
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "I'd be happy ta give you a shield but you've no space for it."
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "Of course!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, how do I do that?"
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "Well ye take the big defence shield in both hands and watch the catapult. My assistant will fire different things at you and you need to defend against them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sounds boring."
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "Your loss..."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, where is it?"
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "Are ye blind [lad/lass]? Tis over there in the next room with me assistant working it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "May I claim my tokens please?"
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "You don't have space to carry them."
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "Of course! Here you go, you've earned [number] token[s]!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "I'm afraid you have not earned any tokens yet. Try some of the activities around the guild to earn some."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, I'll go see what I can find."
+            },
+            {
+              "speaker": "Player",
+              "text": "Bye!"
+            },
+            {
+              "speaker": "Gamfred",
+              "text": "Come back soon! My catapult needs more test subjects."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Claim-Tokens dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "May I claim my tokens please?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Claim-Shield dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "May I have a shield please?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standing on the marker without a shield",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gamfred",
+              "text": "Watch out! You'll need to equip the shield as soon as you're on the target spot else you could get hit! Speak to me to get one, and make sure both your hands are free to equip it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

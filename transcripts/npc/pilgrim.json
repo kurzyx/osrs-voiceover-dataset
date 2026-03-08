@@ -1,0 +1,80 @@
+{
+  "ref": "pilgrim",
+  "categoryRef": "npc",
+  "title": "Pilgrim",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Subsequent dialogues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Pilgrim",
+                  "text": "Nilsal to you once more, fellow traveller."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello again! How are things going?"
+                },
+                {
+                  "speaker": "Pilgrim",
+                  "text": "I'm still on route to the Proudspire, but I'm having a bit of a break to enjoy the scenery. Walking the Pilgrim Path can be long and arduous."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Pilgrim",
+              "text": "Oh, nilsal, fellow traveller. You don't see many other people out here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello there! Where are you heading to?"
+            },
+            {
+              "speaker": "Pilgrim",
+              "text": "The Proudspire of course! I'm walking the Pilgrim Path."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's the Pilgrim Path?"
+            },
+            {
+              "speaker": "Pilgrim",
+              "text": "It is a sacred pilgrimage between the Teomat and the Proudspire. I do it every year, as do many others."
+            },
+            {
+              "speaker": "Pilgrim",
+              "text": "The hardest part is the last bit: Reaching the summit of the Proudspire. Only upon touching the obelisk at the top is your journey complete."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. Well good luck with your journey."
+            },
+            {
+              "speaker": "Pilgrim",
+              "text": "Thank you, traveller. May the sun light your way."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good luck with your journey."
+            },
+            {
+              "speaker": "Pilgrim",
+              "text": "Thank you, traveller. May the sun light your way."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

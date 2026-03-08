@@ -1,0 +1,519 @@
+{
+  "ref": "vale-totems-miniquest-",
+  "categoryRef": "miniquest",
+  "title": "Vale Totems (miniquest)",
+  "sections": [
+    {
+      "title": "Talking to Ranulph",
+      "sections": [
+        {
+          "title": "Talking to Ranulph after starting the quest before finding out why he's distracted",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again. If you don't mind me saying, you seem quite preoccupied."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ranulph after watching the ent interact with  the totem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ranulph",
+                  "text": "Did you see what that ent did?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ranulph or Isadora before fixing the totem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ranulph",
+                  "text": "Any luck getting that totem rebuilt?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still working on it."
+                },
+                {
+                  "speaker": "Isadora",
+                  "text": "Hurry up! You don't want the ents to stay sad, do you?"
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "I reckon you'll just need one set of logs. Oak logs should be enough, but I do wonder if using better wood would help it survive the elements better..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Oh, sorry! I was lost in thought. You gave me quite the start!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Does something have you preoccupied?"
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Yes! It's these ents you see! I'd never seen anything like them until I came here. Look, here comes one now..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Interesting... It's like some sort of ritual."
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Exactly! These totems are dotted all around here. They seem to be very important to the ents, but I don't know why."
+            },
+            {
+              "speaker": "Player",
+              "text": "Have you asked around?"
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Yes, but the locals didn't really give me much to go on. All they told me is that the ents, totems and spirits are all part of the natural cycle here in the valley."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hmm... Well, why don't we take a closer look at this totem?"
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Good idea. If nothing else, it will be useful to document the carvings on it. Come, let's have a look..."
+            },
+            {
+              "speaker": "Player",
+              "text": "It's a beautiful totem."
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Indeed! Look at this bit!"
+            },
+            {
+              "speaker": "Isadora",
+              "text": "Uh oh! The funny man broke the totem!"
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Oh... There's a child."
+            },
+            {
+              "speaker": "Isadora",
+              "text": "Excuse me? I have a name! I'm Isadora, and you're the funny man who gets confused by the ents! I've been watching you."
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Well, actually my name is Ranulph, not funny man..."
+            },
+            {
+              "speaker": "Isadora",
+              "text": "Funny man Ranulph broke the totem! Ents won't be happy with you!"
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Hmm... I think the child's assessment is correct. The ents probably won't be happy about what we've done."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not sure 'we' is the right word..."
+            },
+            {
+              "speaker": "Isadora",
+              "text": "It's okay, funny man. The totems always end up breaking. The ents get sad for a while, but if you fix them, they end up all happy again!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So we need to fix the totem. How?"
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Let's see... First, we'll need some lumber to rebuild the pole. I reckon one set of logs will do it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Any specific type?"
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "It looks like it was made from oak, so presumably oak logs should be enough. However, I do wonder if using better wood would help it survive the elements better..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Or survive interference from... you know... us."
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Hmm... The pole is only going to be the beginning though. We're going to need to carve it... I really should have made more notes on the carvings..."
+            },
+            {
+              "speaker": "Isadora",
+              "text": "Notes? Notes are boring! I know how to carve them! Daddy showed me!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, I guess you can consult with Isadora on how to carve the totem. While you do that, I'll get to work on rebuilding the pole."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, sorry to have disturbed you then."
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Not a problem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fixing the totem",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Learning to carve",
+      "sections": [
+        {
+          "title": "Attempting to carve before learning how",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ranulph or Isadora",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ranulph",
+                  "text": "That's a good start."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's next?"
+                },
+                {
+                  "speaker": "Isadora",
+                  "text": "Now you need to carve the animals!"
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "Yes, according to Isadora, the carvings that were on the totem represented the animal spirits around it. However, the animals were disturbed when the totem fell. Some left, but new ones arrived."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Meaning?"
+                },
+                {
+                  "speaker": "Isadora",
+                  "text": "Meaning you need to carve the right ones, silly."
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "The right ones being the animals that are currently in this area."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I supposed that makes sense. I'll give it a go."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ranulph or Isadora again before carving the animals",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Isadora",
+                  "text": "Have you carved the animals yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still working on it."
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "Don't forget, you'll need to make carvings of the animal spirits that are currently in this area."
+                },
+                {
+                  "speaker": "Isadora",
+                  "text": "But you won't be able to do it without a knife! Make some space and I'll give you one!"
+                },
+                {
+                  "speaker": "Isadora",
+                  "text": "But you won't be able to do it without a knife! Here!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player carves an animal not nearby",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Isadora",
+                  "text": "That's not right!"
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "Remember, you need to make carvings of the animal spirits that are currently in this area."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Finishing the carvings",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Next steps",
+      "sections": [
+        {
+          "title": "Attempting to decorate before knowing how to",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ranulph or Isadora",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ranulph",
+                  "text": "You've quite the hand at carving, my friend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you."
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "Now, the finishing touches. Apparently, the ents appreciate it when wooden items are returned to the forest."
+                },
+                {
+                  "speaker": "Isadora",
+                  "text": "Yes! You need to help them finish the cycle!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Cycle?"
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "The cycle of life, death and decay, I suppose."
+                },
+                {
+                  "speaker": "Isadora",
+                  "text": "Funny man Ranulph is learning!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay then. So wooden items? You mean things like bows and shields?"
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "Exactly! Try decorating the totem with those kinds of items. I reckon four should do. Oh, and be sure to use the same wood you used for the totem itself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll be back once I've done that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ranulph or Isadora again before decorating the totem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ranulph",
+                  "text": "How's the decorating of that totem going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still working on it."
+                },
+                {
+                  "speaker": "Isadora",
+                  "text": "You need to use the wooden things. Bows! Shields!"
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "What Isadora said basically. I reckon four should do. Oh, and be sure to use the same wood you used for the totem itself."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Decorating the totem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "There we go! I's say that's the totem finished!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Claiming the offerings",
+      "sections": [
+        {
+          "title": "Talking to Ranulph or Isadora",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ranulph",
+                  "text": "Look at that! I think it looks even better than it did before!"
+                },
+                {
+                  "speaker": "Isadora",
+                  "text": "You did a good job! Now we have to see if you've made the ents happy again!"
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "I couldn't have imagined a better outcome! Not only have the ents accepted our new totem, but they've also left something behind!"
+                },
+                {
+                  "speaker": "Isadora",
+                  "text": "It's a gift! The ents are happy again! They're saying thank you for helping! Go on, take it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Claiming",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finishing up",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ranulph",
+              "text": "Well, this is definitely the most 'dialogue' I've had with the ents. Isadora here has been a great help as well!"
+            },
+            {
+              "speaker": "Isadora",
+              "text": "Thanks, funny man Ranulph. You're not so bad yourself!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So what now?"
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "It seems the ents are very appreciative of those who maintain their totems. Given you seem to have a knack for it, you might want to keep helping them. They have plenty of other totem sites in the valley."
+            },
+            {
+              "speaker": "Isadora",
+              "text": "Yes! The ents like it when you help! They'll give you more gifts!"
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "As for me, I'm going to keep studying them. I've learnt so much today, both from Isadora and from the ents themselves. I've already documented it all, but I'm sure there's more to discover!"
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Speaking of which, here, take a notebook for yourself. I've left a copy of my notes in it, but you can also use it to document your own findings."
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Be sure to check in once in a while to compare findings. I'll happily trade items I find around the valley in exchange for your research assistance!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sounds great, thanks!"
+            },
+            {
+              "speaker": "Isadora",
+              "text": "Goddbye, other funny person. You did great!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, Isadora."
+            },
+            {
+              "speaker": "Ranulph",
+              "text": "Until next time, friend."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

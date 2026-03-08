@@ -1,0 +1,74 @@
+{
+  "ref": "waydar",
+  "categoryRef": "npc",
+  "title": "Waydar",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After travelling to Crash Island once",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Waydar",
+                  "text": "Shall we return to Crash Island?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, let's go."
+                },
+                {
+                  "speaker": "Waydar",
+                  "text": "As you wish."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet. I'll be back later."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Monkey Madness I",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "After Monkey Madness I",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Are you sure you cannot come to the island?"
+            },
+            {
+              "speaker": "Waydar",
+              "text": "I am sure."
+            },
+            {
+              "speaker": "Player",
+              "text": "I need to return to your kingdom."
+            },
+            {
+              "speaker": "Waydar",
+              "text": "Hmmm... as you wish... Why are you looking at me like that?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, no reason..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

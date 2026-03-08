@@ -1,0 +1,36 @@
+{
+  "ref": "gus",
+  "categoryRef": "npc",
+  "title": "Gus",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "First time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey there, Gus. I see you've got yourself a new job. Much nicer than working for a cultist, I bet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent times",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

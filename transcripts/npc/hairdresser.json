@@ -1,0 +1,74 @@
+{
+  "ref": "hairdresser",
+  "categoryRef": "npc",
+  "title": "Hairdresser",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hairdresser",
+              "text": "Good afternoon. In need of a haircut are we? Currently we're offering this service for free!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like a haircut please."
+            },
+            {
+              "speaker": "Hairdresser",
+              "text": "Please select the hairstyle you would like from this brochure. I'll even throw in a free recolour."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like a shave please."
+            },
+            {
+              "speaker": "Hairdresser",
+              "text": "Please select the facial hair you would like from this brochure. I'll even throw in a free recolour."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            },
+            {
+              "speaker": "Hairdresser",
+              "text": "Very well. Come back if you change your mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Beginner",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hairdresser",
+                  "text": "Well done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

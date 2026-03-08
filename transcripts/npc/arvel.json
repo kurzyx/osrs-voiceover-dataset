@@ -1,0 +1,95 @@
+{
+  "ref": "arvel",
+  "categoryRef": "npc",
+  "title": "Arvel",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Arvel",
+              "text": "Good day traveller. You are far from home, what brings you here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I am a wandering hero, I come here in search of adventure."
+            },
+            {
+              "speaker": "Arvel",
+              "text": "Sounds ghastly, I just want to live in peace."
+            },
+            {
+              "speaker": "Player",
+              "text": "Unfortunately without people like me, peace doesn't last for long."
+            },
+            {
+              "speaker": "Arvel",
+              "text": "True, but then again most adventurers cause as much trouble as they put right."
+            },
+            {
+              "speaker": "Player",
+              "text": "You've got a point there... Hmm..."
+            },
+            {
+              "speaker": "Arvel",
+              "text": "Well, good day traveller. And always do the right thing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "During Song of the Elves, after the attack on Lletya",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Arvel",
+              "text": "Good day traveller."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hi there, how's it going?"
+            },
+            {
+              "speaker": "Arvel",
+              "text": "Well we're still alive, after all that's happened, we should be thankful of that."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hopefully this war is over soon."
+            },
+            {
+              "speaker": "Arvel",
+              "text": "Indeed, but how many more need to die before that happens?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Failed pickpocket attempt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Arvel",
+                  "text": "What do you think you're doing?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

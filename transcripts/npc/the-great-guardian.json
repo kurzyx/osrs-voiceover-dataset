@@ -1,0 +1,71 @@
+{
+  "ref": "the-great-guardian",
+  "categoryRef": "npc",
+  "title": "The Great Guardian",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Interacting with the Great Guardian without any type of guardian stone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "The Great Guardian",
+                  "text": "My power level is too low. Bring me guardian stones."
+                },
+                {
+                  "speaker": "The Great Guardian",
+                  "text": "Thanks, adventurer. I am now fully powered up."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering a portal guardian with any type of guardian stone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "The Great Guardian",
+                  "text": "Human, I need the power of the guardian stones."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue after reaching full power",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "The Great Guardian",
+              "text": "Humans, I now have the power to close the rift. Thank you, brave ones."
+            },
+            {
+              "speaker": "The Great Guardian",
+              "text": "Now, for the final blow. Let the Scar be no more!"
+            },
+            {
+              "speaker": "The Great Guardian",
+              "text": "Brace yourselves!"
+            },
+            {
+              "speaker": "The Great Guardian",
+              "text": "Now, I shall rest until it opens once more..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

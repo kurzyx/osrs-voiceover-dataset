@@ -1,0 +1,43 @@
+{
+  "ref": "eebel",
+  "categoryRef": "npc",
+  "title": "Eebel",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello?"
+            },
+            {
+              "speaker": "Eebel",
+              "text": "Hello there. Can I do anything for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No I'm fine, I'm just wandering around."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gnome Restaurant",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Eebel",
+              "text": "I didn't expect a human to deliver my order! Thank you very much."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

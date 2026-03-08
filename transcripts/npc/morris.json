@@ -1,0 +1,64 @@
+{
+  "ref": "morris",
+  "categoryRef": "npc",
+  "title": "Morris",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Entering the gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Morris",
+                  "text": "Competition pass please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have one of them."
+                },
+                {
+                  "speaker": "Morris",
+                  "text": "Oh well. I can't let you past then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do I need that for?"
+                },
+                {
+                  "speaker": "Morris",
+                  "text": "This is the entrance to the Hemenster fishing competition. It's a high class competition. Invitation only."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to catch a Hemenster Whitefish."
+                },
+                {
+                  "speaker": "Morris",
+                  "text": "Whitefish, eh? Okay, since you've won the competition before, I'll let you in."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What are you sitting around here for?"
+            },
+            {
+              "speaker": "Morris",
+              "text": "I'm making sure only those with a competition pass enter the fishing contest."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

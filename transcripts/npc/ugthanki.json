@@ -1,0 +1,69 @@
+{
+  "ref": "ugthanki",
+  "categoryRef": "npc",
+  "title": "Ugthanki",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without a camulet equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Mmm... looks like that camel would make a nice kebab."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If I go near that camel, it'll probably bite my hand off."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wonder if that camel has fleas..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With a camulet equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "If I go near that camel, it'll probably bite my hand off."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Mmm... looks like that camel would make a nice kebab."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wonder if that camel has fleas..."
+                },
+                {
+                  "speaker": "Ugthanki",
+                  "text": "Come over here, I'll bite your leg off!"
+                },
+                {
+                  "speaker": "Ugthanki",
+                  "text": "Prepare to die, you two-legged combat wrangler!"
+                },
+                {
+                  "speaker": "Ugthanki",
+                  "text": "Your mother was a jackal, and your father smelt of cactuses!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "ref": "ulsquire-shauncy",
+  "categoryRef": "npc",
+  "title": "Ulsquire Shauncy",
+  "sections": [
+    {
+      "title": "Before Shades of Mort'ton as an afflicted",
+      "sections": [
+        {
+          "title": "Using a serum 207 on him before making one in the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ulsquire Shauncy",
+                  "text": "The serum it works...but it's not too fresh, make some yourself and then it might work for longer."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "After Shades of Mort'ton",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ulsquire Shauncy",
+              "text": "Ah, hello again, what can I do for you now?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Ulsquire Shauncy",
+              "text": "Hello again! Many thanks for helping us to solve the riddle with the Shades, we can start to work now putting all those Shade spirits to rest and get a little bit of a reward to go along with it!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using Serum 208 on him",
+      "sections": [
+        {
+          "title": "Using serum 208 on him again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ulsquire Shauncy",
+                  "text": "You've already used the permanent serum on me, you don't need to use that any more."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ulsquire Shauncy",
+              "text": "Well done...I feel this serum is really working on me. I think you've cracked it my friend! I'd like to give you something for your trouble!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

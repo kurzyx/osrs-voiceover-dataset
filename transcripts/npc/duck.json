@@ -1,0 +1,41 @@
+{
+  "ref": "duck",
+  "categoryRef": "npc",
+  "title": "Duck",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "At random intervals",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duck",
+                  "text": "Quack!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Female duck when responding to following ducklings",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duck",
+                  "text": "Quack?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

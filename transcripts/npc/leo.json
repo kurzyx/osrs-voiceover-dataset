@@ -1,0 +1,183 @@
+{
+  "ref": "leo",
+  "categoryRef": "npc",
+  "title": "Leo",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Gielinor",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Leo",
+                  "text": "Can you come and help me, [player name]? I've got a problem with some graves."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll help with your graves."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I'm busy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Graveyard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Leo",
+                  "text": "You have to help me, [player name]! I've put the wrong coffins into these graves."
+                },
+                {
+                  "speaker": "Leo",
+                  "text": "I need you to pick up the coffin from each grave, see who's inside it, and bury it in the grave with the correct gravestone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When talked to again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I think I've finished!"
+                },
+                {
+                  "speaker": "Leo",
+                  "text": "That's a good attempt, but it's just not right. Try looking in the coffins to learn who is in them, and read the gravestones to see who is supposed to be buried there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "All right, I'll give it another shot."
+                },
+                {
+                  "speaker": "Leo",
+                  "text": "Wonderful! That's taken care of them. I'll take you back, and give you your reward."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Remind me what I'm supposed to do."
+                },
+                {
+                  "speaker": "Leo",
+                  "text": "I need you to pick up the coffin from each grave, see who's inside it, and bury it in the grave with the correct gravestone."
+                }
+              ]
+            },
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I want to leave now."
+                },
+                {
+                  "speaker": "Leo",
+                  "text": "In that case, I'll take you back to where I found you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon dying inside the graveyard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Leo",
+                  "text": "Welcome back!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? But how am I still here?"
+                },
+                {
+                  "speaker": "Leo",
+                  "text": "You died, and now you are in a graveyard."
+                },
+                {
+                  "speaker": "Leo",
+                  "text": "Where did you think you would go?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Other player's Leo",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Leo",
+              "text": "Sorry, I need help from [player name]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When talked to while despawning",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Leo",
+              "text": "Goodbye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Leo",
+              "text": "Hello, [player name]?"
+            },
+            {
+              "speaker": "Leo",
+              "text": "Please help me, [player name]."
+            },
+            {
+              "speaker": "Leo",
+              "text": "I need your help, [player name]!"
+            },
+            {
+              "speaker": "Leo",
+              "text": "Can I borrow you for a minute, [player name]?"
+            },
+            {
+              "speaker": "Leo",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

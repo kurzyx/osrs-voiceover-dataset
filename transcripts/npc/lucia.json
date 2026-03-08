@@ -1,0 +1,64 @@
+{
+  "ref": "lucia",
+  "categoryRef": "npc",
+  "title": "Lucia",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Initial dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Lucia",
+                  "text": "Hello. A fine day for stealing, wouldn't you say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose so, just as long as you're not planning to steal from me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When a wealthy citizen is about to re-enter their house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lucia",
+                  "text": "*whistle*"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

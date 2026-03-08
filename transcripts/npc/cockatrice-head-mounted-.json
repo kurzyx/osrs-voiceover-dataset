@@ -1,0 +1,129 @@
+{
+  "ref": "cockatrice-head-mounted-",
+  "categoryRef": "npc",
+  "title": "Cockatrice head (mounted)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is a house guest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, a cockatrice!"
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "[House owner] deaded me! That wasn't very nice!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is the house owner",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cockatrice",
+                  "text": "You deaded me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, yes."
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "What did you do that for?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A slayer master told me to."
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "Why do the slayer masters all pick on poor cockatrice?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They pick on lots of other creatures too."
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "Then mount one of them on your wall and let poor cockatrice rest in peace!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So I could mount your head on my wall."
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "Another cockatrice falls victim to the dreaded mirror shield!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't take it personally! You look good on my wall!"
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "I don't care! I think I looked better with a body!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I just wanted to."
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "You dirty rotten swine, you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Steady on..."
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "I will kill you with my paralyzing-type magic eyes look!"
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "Dots appear in air between eyes and victim. Dot! Dot! Dotty!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, nothing's happening..."
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "Concentrates mental power. Eyes narrow beak clenches veins on head stand out."
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "Strain!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're dead, cockatrice. Your eyes are glass beads. It won't work."
+                },
+                {
+                  "speaker": "Cockatrice",
+                  "text": "STRA-A-AIN!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I'll leave you to it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

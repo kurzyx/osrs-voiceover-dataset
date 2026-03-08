@@ -1,0 +1,80 @@
+{
+  "ref": "claus-the-chef",
+  "categoryRef": "npc",
+  "title": "Claus the Chef",
+  "sections": [
+    {
+      "title": "Before Hazeel Cult",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Claus the Chef",
+              "text": "Sorry, can't stop to chat! You would be amazed at how many meals this family gets through daily!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hazeel Cult",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "After Hazeel Cult",
+      "sections": [
+        {
+          "title": "Sided with Carnillean",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey."
+                },
+                {
+                  "speaker": "Claus the Chef",
+                  "text": "Well hello there, adventurer! Are we fit and well?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Absolutely."
+                },
+                {
+                  "speaker": "Claus the Chef",
+                  "text": "Glad to hear it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sided with Hazeel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey."
+                },
+                {
+                  "speaker": "Claus the Chef",
+                  "text": "Oh, hello there. Sorry, but I can't really talk right now. Things haven't been great here recently, and I have a lot of work to do."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

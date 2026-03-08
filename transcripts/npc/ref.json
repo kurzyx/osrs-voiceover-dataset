@@ -1,0 +1,194 @@
+{
+  "ref": "ref",
+  "categoryRef": "npc",
+  "title": "Ref",
+  "sections": [
+    {
+      "title": "Standard Dialogue",
+      "sections": [
+        {
+          "title": "When successfully throwing a shot",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "[18lb/22lb] Shot Put Referee",
+                  "text": "Well done. You threw the shot [1-14] yards!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When attempting to pick up a shot the player failed to throw",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "[18lb/22lb] Shot Put Referee",
+                  "text": "Hey! You can't take that, it's guild property. Take one from the pile."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ref",
+              "text": "Greetings [Madam/Sir]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about the Shot Put area."
+            },
+            {
+              "speaker": "Ref",
+              "text": "Of course [Madam/Sir]. There are two different weights of shot..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Shot?"
+            },
+            {
+              "speaker": "Ref",
+              "text": "Yes [Madam/Sir]. Shot. The iron spheres that are propelled by the chemical energy stored in your body."
+            },
+            {
+              "speaker": "Player",
+              "text": "The... what?"
+            },
+            {
+              "speaker": "Ref",
+              "text": "Your strength [Madam/Sir]. The stronger you are, the further you can throw the shot, but there are other factors of course, like your technique."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's that then?"
+            },
+            {
+              "speaker": "Ref",
+              "text": "The style of the shot [Madam/Sir]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Iron has style??"
+            },
+            {
+              "speaker": "Ref",
+              "text": "[Madam/Sir], the style in which you throw the shot, not the style of the iron."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh! You mean the spinny round thing or the chuck it straight?"
+            },
+            {
+              "speaker": "Ref",
+              "text": "Crudely put [Madam/Sir], but yes. Some are more difficult than others. Experiment and see which you prefer."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks for the help!"
+            },
+            {
+              "speaker": "Ref",
+              "text": "You are welcome [Madam/Sir]."
+            },
+            {
+              "speaker": "Player",
+              "text": "May I claim my tokens please?"
+            },
+            {
+              "speaker": "Ref",
+              "text": "Of course! Here you go, you've earned [X] tokens!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Ref",
+              "text": "You don't have space to carry them."
+            },
+            {
+              "speaker": "Player",
+              "text": "May I claim my tokens please?"
+            },
+            {
+              "speaker": "Ref",
+              "text": "I'm afraid you have not earned any tokens yet. Try some of the activities around the guild to earn some."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, I'll go see what I can find."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have any tips for me?"
+            },
+            {
+              "speaker": "Ref",
+              "text": "Tips [Madam/Sir]?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, like how can I do better than everyone else."
+            },
+            {
+              "speaker": "Ref",
+              "text": "[Madam/Sir] may find that a fine powder applied to the hands may give one an advantage when putting the shot."
+            },
+            {
+              "speaker": "Player",
+              "text": "You mean if I grind something up and put dust on my hands I'll chuck the ball further?"
+            },
+            {
+              "speaker": "Ref",
+              "text": "Yes [Madam/Sir]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Ref",
+              "text": "You are welcome [Madam/Sir]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Bye!"
+            },
+            {
+              "speaker": "Ref",
+              "text": "Good luck [Madam/Sir]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When the shot hits the ref",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ref",
+                  "text": "Oi! Watch where you're throwing that [player name]!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

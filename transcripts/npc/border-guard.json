@@ -1,0 +1,119 @@
+{
+  "ref": "border-guard",
+  "categoryRef": "npc",
+  "title": "Border Guard",
+  "sections": [
+    {
+      "title": "Before completing Prince Ali Rescue quest",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can I come through this gate?"
+            },
+            {
+              "speaker": "Guard",
+              "text": "You must pay a toll of 10 gold coins to pass."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thank you. I'll walk around."
+            },
+            {
+              "speaker": "Guard",
+              "text": "Ok suit yourself."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who does my money go to?"
+            },
+            {
+              "speaker": "Guard",
+              "text": "The money goes to the city of Al-Kharid."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, ok."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh dear, I don't actually seem to have enough money."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing Prince Ali Rescue quest",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can I come through this gate?"
+            },
+            {
+              "speaker": "Guard",
+              "text": "You may pass for free, you are a friend of Al-Kharid."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "During Death to the Dorgeshuun with Prince Ali Rescue completed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can we come through this gate?"
+            },
+            {
+              "speaker": "Guard",
+              "text": "You may pass for free, for you are a friend of Al-Kharid, but your goblin friend must stay on this side."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why?"
+            },
+            {
+              "speaker": "Guard",
+              "text": "Why do you think this gate is here, if not to keep the goblins out of Al Kharid?"
+            },
+            {
+              "speaker": "Player",
+              "text": "But Zanik isn't like the other goblins!"
+            },
+            {
+              "speaker": "Zanik",
+              "text": "Nevermind, player name. I don't think we need to go to Al Kharid anyway!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "During Leagues without having the required areas unlocked",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can I come through this gate?"
+            },
+            {
+              "speaker": "Border Guard",
+              "text": "You cannot pass as you haven't unlocked access to both the Misthalin and Kharidian Desert areas in this League."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

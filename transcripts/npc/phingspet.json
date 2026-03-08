@@ -1,0 +1,331 @@
+{
+  "ref": "phingspet",
+  "categoryRef": "npc",
+  "title": "Phingspet",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting Ratcatchers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grimesquit",
+                  "text": "'Ello 'Ello!"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Who's this then?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "I don't know any more than you do!"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Well ask them!"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "You ask them!"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "No! I'm not talking to some stranger in a sewer."
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Go away, weirdo! We're busy!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the completion of Ratcatchers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Would you look at that!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "At what?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "It's [player name] again!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find Jimmy Dazzler again?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Didn't you find him in Ardougne?"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "He's normally in the Flying Horse Inn."
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Give him a kiss from me!"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "I will absolutely not be doing that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I can find Hooknosed Jack?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "He's here in Varrock!"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Who 'nose' where, though!"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Ha! I'm sure you can 'scent' him out, [player name]"
+                },
+                {
+                  "speaker": "The Sisters Grime",
+                  "text": "Hahahaha!"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Come on, it's not that funny."
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "You think our nose jokes are bad? Well..."
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Our eye jokes are even cornea!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I can find Smokin' Joe?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Last we heard he was in Keldagrim."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I can find the Face?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "She was in Port Sarim last we heard."
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "You can't miss her!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I can find Felkrash?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "We shouldn't say, but-"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "She's got a secret den in Port Sarim!"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Not secret now, is it?!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the quest without a rat pole",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Would you look at that!"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "At what?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "It's [player name] again!"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I have another rat pole please?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Here you go."
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Stick the ratsies your cat splats on it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... will do."
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Anything else?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "After the completion of Ratcatchers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Phingspet",
+                  "text": "Eh? Would you credit da."
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Wha?"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "It's [player name] again init?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Wha?"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "[player name] has come back again."
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "S' wha does 'ey want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh come on, stop the act. It's just not funny anymore."
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Ya it is."
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Ha! Ha!"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Ha! Ha!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I would find Jimmy Dazzler?"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "'Ees in Ardougne. In ee?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "'e is, e is. He stays in the Flying Horse dun 'e?"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Tell 'im we said 'ello. Will ye? She then breaks out in a burst of girly giggles."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I would find Hooknosed Jack?"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Da big ugly's ere in Vu'rock."
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Da big ugly! Ha that's a good one. 'E is big n ugly though isn't e, serve him right for all the fights e get's in."
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Ha! I nose the truth when I 'ears it! Get it? Get it? Nose the truth?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Ha, ha, ha ah ha....."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I would find Smokin' Joe?"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Short stuff's out in Keldagrime."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I would find the Face?"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "Hey features? Where is she?"
+                },
+                {
+                  "speaker": "Grimesquit",
+                  "text": "Port Sarim last I 'eard."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I would find Felkrash?"
+                },
+                {
+                  "speaker": "Phingspet",
+                  "text": "She's travels about a bit, but I reckon Port Sarim."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

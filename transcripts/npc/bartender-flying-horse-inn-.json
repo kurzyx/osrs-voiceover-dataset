@@ -1,0 +1,66 @@
+{
+  "ref": "bartender-flying-horse-inn-",
+  "categoryRef": "npc",
+  "title": "Bartender (Flying Horse Inn)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bartender",
+              "text": "Would you like to buy a drink?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you serve?"
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Beer!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll have a beer then."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Ok, that'll be two coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh dear. I don't seem to have enough money."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll not have anything then."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm doing Alfred Grimhand's Barcrawl."
+            },
+            {
+              "speaker": "Bartender",
+              "text": "Fancy a bit of Heart Stopper then do you? It'll only be 8 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I don't have 8 coins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using the barcrawl card on the Bartender",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "ref": "vonnetta-varnis",
+  "categoryRef": "npc",
+  "title": "Vonnetta Varnis",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vonnetta Varnis",
+                  "text": "Human! Get back to the slave pens before I call the guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Vonnetta Varnis",
+              "text": "Get out of my house!"
+            },
+            {
+              "speaker": "Player",
+              "text": "But I..."
+            },
+            {
+              "speaker": "Vonnetta Varnis",
+              "text": "But nothing! Get out!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

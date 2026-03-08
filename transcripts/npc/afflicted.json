@@ -1,0 +1,105 @@
+{
+  "ref": "afflicted",
+  "categoryRef": "npc",
+  "title": "Afflicted",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Random phrases",
+          "sections": [
+            {
+              "title": "Examples",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Afflicted",
+                      "text": "sfriess says knows'is says knows'is"
+                    },
+                    {
+                      "speaker": "Afflicted",
+                      "text": "pirsl nots"
+                    },
+                    {
+                      "speaker": "Afflicted",
+                      "text": "nots ughugh mee's"
+                    },
+                    {
+                      "speaker": "Afflicted",
+                      "text": "nots nots nots nots nots nots"
+                    },
+                    {
+                      "speaker": "Afflicted",
+                      "text": "says"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Afflicted",
+              "text": "~ This person doesn't make any sense at all. ~"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using Serum 207 on Afflicted",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mort'ton local",
+              "text": "Oh... thank you, you used the serum on me. Here have something for your trouble."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using Serum 208 on Afflicted",
+      "sections": [
+        {
+          "title": "Talking to a cured villager",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mort'ton Local",
+                  "text": "Oh I feel much better for that super serum, I really hate it when I'm afflicted!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mort'ton local",
+              "text": "Oh... thank you, you used the permanent serum on me. Here have something for your trouble."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

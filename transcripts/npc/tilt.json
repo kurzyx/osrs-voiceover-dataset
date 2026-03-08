@@ -1,0 +1,83 @@
+{
+  "ref": "tilt",
+  "categoryRef": "npc",
+  "title": "Tilt",
+  "sections": [
+    {
+      "title": "During Pinball",
+      "sections": [
+        {
+          "title": "Upon getting to the random event area",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tilt",
+                  "text": "You poke 10 flashing pillars, right? You NOT poke other pillars, right? Okay, you go play now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him again before tagging 10 pinball posts correctly",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Err...what am I supposed to do here again?"
+                },
+                {
+                  "speaker": "Tilt",
+                  "text": "You gotta poke dem pillars."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? All of them?"
+                },
+                {
+                  "speaker": "Tilt",
+                  "text": "No, no. If you poke dem ones dat don't have a dem flashin' rings, den dats bad."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So I have to poke the pillars that are flashing?"
+                },
+                {
+                  "speaker": "Tilt",
+                  "text": "Yer. You do dat ten times, you get prize."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after tagging 10 pinball posts correctly",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So...I'm free to go now, right?"
+                },
+                {
+                  "speaker": "Tilt",
+                  "text": "Yer, get going. We get break now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok. Err...have a nice break."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

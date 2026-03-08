@@ -1,0 +1,123 @@
+{
+  "ref": "doctor-orbon",
+  "categoryRef": "npc",
+  "title": "Doctor Orbon",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Song of the Elves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Doctor Orbon",
+                  "text": "How do you feel? No heavy flu, shivers, nausea or loss of appetite?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh... no... I feel fine..."
+                },
+                {
+                  "speaker": "Doctor Orbon",
+                  "text": "How about nightmares then? Are you experiencing any problems with especially scary nightmares?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No... not since I was young."
+                },
+                {
+                  "speaker": "Doctor Orbon",
+                  "text": "Good, good, I had to make sure. This plague really has an incredibly fast contagion rate. It spreads faster than the common cold!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The plague? Tell me more."
+                },
+                {
+                  "speaker": "Doctor Orbon",
+                  "text": "It came from the west somewhere. It is extremely quick spreading, and utterly deadly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are the symptoms?"
+                },
+                {
+                  "speaker": "Doctor Orbon",
+                  "text": "It varies slightly from case to case, but usually abnormal nightmares and flu-like symptoms, progressing as you succumb more. Eventually, it results in the presence of a thick black tar-like substance secreted"
+                },
+                {
+                  "speaker": "Doctor Orbon",
+                  "text": "from the nose and eyes."
+                },
+                {
+                  "speaker": "Doctor Orbon",
+                  "text": "Unfortunately if you reach this stage of infection then no one can save you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll be careful."
+                },
+                {
+                  "speaker": "Doctor Orbon",
+                  "text": "You do that adventurer. You do not want to become infected by the plague."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When speaking to Doctor Orbon while wearing a full set of mourner gear",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Doctor Orbon",
+                  "text": "Good day, you have my next payment? I don't keep this charade up for fun you know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry I don't."
+                },
+                {
+                  "speaker": "Doctor Orbon",
+                  "text": "Well if you would mention it next time you see the Head Mourner, it would be appreciated."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll keep it in mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Song of the Elves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Doctor Orbon",
+                  "text": "Hello there. Can't stop to talk I'm afraid, I'm very busy right now."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

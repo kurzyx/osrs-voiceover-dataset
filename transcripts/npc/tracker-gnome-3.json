@@ -1,0 +1,47 @@
+{
+  "ref": "tracker-gnome-3",
+  "categoryRef": "npc",
+  "title": "Tracker gnome 3",
+  "sections": [
+    {
+      "title": "Dialogue before starting Tree Gnome Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Tracker gnome 3",
+              "text": "I can't talk now. Can't you see we're trying to win a battle here?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After returning the orb of protection to King Bolren",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Tracker gnome 3",
+              "text": "I feel dizzy, where am I? Oh dear, oh dear I need some rest."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think you do."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "ref": "urbi",
+  "categoryRef": "npc",
+  "title": "Urbi",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Urbi",
+              "text": "Hello there; are you interested in any of my fine daggers? Ideal for slipping under desert robes to give your enemies a nasty surprise..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd rather help you in return for better prices."
+            },
+            {
+              "speaker": "Urbi",
+              "text": "I think it will take months for me to return to normal business. If you can wait that long, however, I may have tasks for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

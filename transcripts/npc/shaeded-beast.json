@@ -1,0 +1,91 @@
+{
+  "ref": "shaeded-beast",
+  "categoryRef": "npc",
+  "title": "Shaeded Beast",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has not received the temple coin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What are you?"
+                },
+                {
+                  "speaker": "Shaeded Beast",
+                  "text": "You can see me!?"
+                },
+                {
+                  "speaker": "Shaeded Beast",
+                  "text": "No matter. This creature will soon be corrupted and then I will finally have a pawn of my own to manipulate in this world!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player received the temple coin and the altar is cursed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So... Sorry for killing you?"
+                },
+                {
+                  "speaker": "Shaeded Beast",
+                  "text": "Insolent human! You have merely delayed my return to this world. I will find another puppet soon..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah Yeah, world domination, that's great and all but do you see that altar you cursed? Could you undo that? I'd like to use it for training down here."
+                },
+                {
+                  "speaker": "Shaeded Beast",
+                  "text": "Ha!Ha!Ha! You are bold adventurer, but this altar will remain a lingering memento of your decision to challenge me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sigh..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player removed the curse from the altar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What are you?"
+                },
+                {
+                  "speaker": "Shaeded Beast",
+                  "text": "I am the void in the universe. I am the answer to all things that cry out for destruction. I am the destroyer of worlds. I am the darkness that swallows the light. Ally to..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok."
+                },
+                {
+                  "speaker": "Shaeded Beast",
+                  "text": "BEGONE!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

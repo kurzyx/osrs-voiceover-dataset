@@ -1,0 +1,115 @@
+{
+  "ref": "haris",
+  "categoryRef": "npc",
+  "title": "Haris",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Haris",
+              "text": "Welcome, Effendi!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I go in?"
+            },
+            {
+              "speaker": "Haris",
+              "text": "Come now Effendi, to pass you must tell me a story, one of grand heroics!"
+            },
+            {
+              "speaker": "Player",
+              "text": "...And then I pulled the goblin mail from the corpse, but it didn't fit, so I dropped it."
+            },
+            {
+              "speaker": "Haris",
+              "text": "You thought that was a story of heroics?! Come back when you have something worth telling."
+            },
+            {
+              "speaker": "Player",
+              "text": "...And then I cut her head off, so as to make sure she was dead!"
+            },
+            {
+              "speaker": "Haris",
+              "text": "Amazing! A story well worth telling! Please Effendi, enter at your leisure."
+            },
+            {
+              "speaker": "Haris",
+              "text": "Of course Effendi! You have proved yourself worthy!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Haris",
+              "text": "Me? I am Haris! Owner of the area north of here, it is has great resources, I assure you."
+            },
+            {
+              "speaker": "Player",
+              "text": "You own the land? Who did you buy it from?"
+            },
+            {
+              "speaker": "Haris",
+              "text": "Buy? Oh no no no. Do you see this sword, Effendi?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I do."
+            },
+            {
+              "speaker": "Haris",
+              "text": "Well then, that is why it is mine! Hahaha."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, so do I pay a toll? 10 coins should do, right?"
+            },
+            {
+              "speaker": "Haris",
+              "text": "Not quite, while gold can get you to many places, I seek stories of heroics, for my land is only for the worthy."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is the story behind your sword one of heroics?"
+            },
+            {
+              "speaker": "Haris",
+              "text": "I promise you, the monkey I took it from was big! Hahaha!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Bye!"
+            },
+            {
+              "speaker": "Haris",
+              "text": "Farewell, Effendi!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player tries to enter the Corsair Cove Resource Area without  granted access",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Haris",
+              "text": "Hey! I didn't say you could go in there!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

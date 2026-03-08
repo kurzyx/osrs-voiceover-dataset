@@ -1,0 +1,39 @@
+{
+  "ref": "bonzo",
+  "categoryRef": "npc",
+  "title": "Bonzo",
+  "sections": [
+    {
+      "title": "After Fishing Contest",
+      "sections": [
+        {
+          "title": "Pay option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bonzo",
+              "text": "Hello champ!"
+            },
+            {
+              "speaker": "Bonzo",
+              "text": "So any hints on how to fish?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I think I'll keep them to myself."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

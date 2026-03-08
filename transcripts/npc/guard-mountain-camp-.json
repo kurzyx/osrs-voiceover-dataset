@@ -1,0 +1,177 @@
+{
+  "ref": "guard-mountain-camp-",
+  "categoryRef": "npc",
+  "title": "Guard (Mountain Camp)",
+  "sections": [
+    {
+      "title": "Guard at entrance to Mountain Camp",
+      "sections": [
+        {
+          "title": "Climbing over the rockslide",
+          "sections": [
+            {
+              "title": "Entering before Mountain Daughter Quest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Guard",
+                      "text": "You stay right there, outerlander."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Don't worry, I'm not an outerlander, I am [Fremennik name], a Fremennik!"
+                    },
+                    {
+                      "speaker": "Guard",
+                      "text": "I said stay there, outerlander! You are not welcome in our camp."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why, what's beyond here?"
+                    },
+                    {
+                      "speaker": "Guard",
+                      "text": "Our camp, outerlander, and we don't want any trouble there."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Entering during Mountain Daughter Quest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Guard",
+                      "text": "I suppose I might as well let you pass now, since I can't seem to stop you anyway."
+                    },
+                    {
+                      "speaker": "Guard",
+                      "text": "Just remember that I'm watching you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Exiting before or during Mountain Daughter Quest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Guard",
+                      "text": "Go, outerlander, and do not hurry back."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Entering or exiting after Mountain Daughter Quest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Guard",
+                      "text": "You may pass freely, outerlander."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to Guard",
+          "sections": [
+            {
+              "title": "Before Mountain Daughter quest, after climbing rope to the North",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Guard",
+                      "text": "Hey, how did you get here?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "During Mountain Daughter Quest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Can you come and help me? The chieftain's daughter -"
+                    },
+                    {
+                      "speaker": "Guard",
+                      "text": "No, outerlander, I'm guarding this mountain pass from trolls and inquisitive people like you."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Doesn't look like you were very successful in the last regard."
+                    },
+                    {
+                      "speaker": "Guard",
+                      "text": "If the chieftain would let me, I would correct that oversight."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After Mountain Daughter Quest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Guard",
+                      "text": "You may pass freely."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks... and try to lighten up a bit, alright?"
+                    },
+                    {
+                      "speaker": "Guard",
+                      "text": "Don't press your luck, outerlander."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Guard in the Mountain Camp",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guard",
+              "text": "Feel free to come in and see the highlight of our culture, outerlander."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

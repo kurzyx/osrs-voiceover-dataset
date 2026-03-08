@@ -1,0 +1,65 @@
+{
+  "ref": "fisherman-frodi",
+  "categoryRef": "npc",
+  "title": "Fisherman Frodi",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Fisherman Frodi",
+              "text": "Good day, Your Royal Highness."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good day. What are you doing?"
+            },
+            {
+              "speaker": "Fisherman Frodi",
+              "text": "You know very well what I'm doing, Your Royal Highness."
+            },
+            {
+              "speaker": "Player",
+              "text": "Just teasing!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Check-Approval",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can you tell me how the kingdom approves of me?"
+            },
+            {
+              "speaker": "Fisherman Frodi",
+              "text": "[amount]% of people approve of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the storerooms are full",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Fisherman Frodi",
+              "text": "The storerooms are full, your Highness. You should talk to Advisor Ghrim to collect what we've gathered for you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

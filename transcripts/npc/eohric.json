@@ -1,0 +1,124 @@
+{
+  "ref": "eohric",
+  "categoryRef": "npc",
+  "title": "Eohric",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi!"
+            },
+            {
+              "speaker": "Eohric",
+              "text": "Hi, can I help?"
+            },
+            {
+              "speaker": "Eohric",
+              "text": "Welcome to Burthorpe Castle! Home to his Royal Highness the Prince of Burthorpe, Heir to the Throne of Asgarnia!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow!"
+            },
+            {
+              "speaker": "Eohric",
+              "text": "Anything else I can help you with?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Where is the prince?"
+            },
+            {
+              "speaker": "Eohric",
+              "text": "We do not disclose his majesty's business."
+            },
+            {
+              "speaker": "Eohric",
+              "text": "Anything else I can help you with?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have any quests for me?"
+            },
+            {
+              "speaker": "Eohric",
+              "text": "Yes actually I do, we need another servant."
+            },
+            {
+              "speaker": "Player",
+              "text": "Does this noble quest have a name?"
+            },
+            {
+              "speaker": "Eohric",
+              "text": "Yes, it's the... er... Empty the Cesspit Quest!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll give it a miss!"
+            },
+            {
+              "speaker": "Eohric",
+              "text": "Anything else I can help you with?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm just looking around."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Eohric",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Eohric",
+                      "text": "No, try again."
+                    },
+                    {
+                      "speaker": "Eohric",
+                      "text": "Correct!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eohric",
+                  "text": "I have a question for you."
+                },
+                {
+                  "speaker": "Eohric",
+                  "text": "Please enter the answer to the question."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

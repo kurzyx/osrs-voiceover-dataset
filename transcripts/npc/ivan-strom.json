@@ -1,0 +1,102 @@
+{
+  "ref": "ivan-strom",
+  "categoryRef": "npc",
+  "title": "Ivan Strom",
+  "sections": [
+    {
+      "title": "Standard dialogue after completing In Search of the Myreque",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ivan Strom",
+              "text": "Is something new and exciting happening?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Maybe. Veliaf has asked me to do some work for him. Hopefully it will benefit you all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after completing Sins of the Father",
+      "sections": [
+        {
+          "title": "Recovering a lost tome of experience",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ivan Strom",
+                  "text": "[player name]. I have a tome here that I think belongs to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you, Ivan."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ivan Strom",
+              "text": "[player name]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hey Ivan."
+            },
+            {
+              "speaker": "Player",
+              "text": "How are you doing?"
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "Fine."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you sure? You know I'm here if you need anything."
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "I'm fine. Did you need something?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Just checking in. I'll leave you be."
+            },
+            {
+              "speaker": "Player",
+              "text": "I need another flail."
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "I have some here, along with a few other things. It will cost you though."
+            },
+            {
+              "speaker": "Player",
+              "text": "I need another Drakan's Medallion."
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "Sure."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd better get going."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "ref": "troll-stronghold",
+  "categoryRef": "quest",
+  "title": "Troll Stronghold",
+  "sections": [
+    {
+      "title": "Getting started",
+      "sections": [
+        {
+          "title": "Talking to Denulth",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Denulth",
+                  "text": "Welcome back friend!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How goes your fight with the trolls?"
+                },
+                {
+                  "speaker": "Denulth",
+                  "text": "I'm afraid I have bad news. We made our attack as planned, but we met unexpected resistance."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened?"
+                },
+                {
+                  "speaker": "Denulth",
+                  "text": "We were ambushed by trolls coming from the north. They captured Dunstan's son, Godric, who we enlisted at your request; we tried to follow but we were repelled at the foot of their stronghold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there anything I can do to help?"
+                },
+                {
+                  "speaker": "Denulth",
+                  "text": "The way to the stronghold is treacherous, friend. Even if you manage to climb your way up, there will be many trolls defending the stronghold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll get Godric back!"
+                },
+                {
+                  "speaker": "Denulth",
+                  "text": "God speed friend! I would send some of my men with you, but none of them are brave enough to follow."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry to hear that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Denulth after starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Denulth",
+                  "text": "How are you getting on with rescuing Godric?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I haven't found a way to climb up yet."
+                },
+                {
+                  "speaker": "Denulth",
+                  "text": "Hurry, friend! Who knows what they'll do with Godric?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Tenzig",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Tenzing!"
+                },
+                {
+                  "speaker": "Tenzing",
+                  "text": "Hello again traveller. What can I do for you?"
+                },
+                {
+                  "speaker": "Tenzing",
+                  "text": "Sure, I'll sell you some in your size for 12 gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "OK, sounds good."
+                },
+                {
+                  "speaker": "Tenzing",
+                  "text": "Was there anything else?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have the money on me."
+                },
+                {
+                  "speaker": "Tenzing",
+                  "text": "Was there anything else?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                },
+                {
+                  "speaker": "Tenzing",
+                  "text": "Was there anything else?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Climbing the rocks north of the Death Plateau",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ouch"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering Dad's Arena",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dad",
+                  "text": "No human pass through arena without defeating Dad!"
+                },
+                {
+                  "speaker": "Dad",
+                  "text": "What tiny human do in troll arena? Dad challenge human to fight!"
+                },
+                {
+                  "speaker": "Dad",
+                  "text": "Troll named after first thing try to eat!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I accept your challenge!"
+                },
+                {
+                  "speaker": "Dad",
+                  "text": "Tiny human brave. Dad squish!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Eek! No thanks."
+                },
+                {
+                  "speaker": "Dad",
+                  "text": "Coward. Dad wait for braver fighter."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Dad has been defeated",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dad",
+                  "text": "Stop! You win. Not hurt Dad."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll be going now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not done yet! Prepare to die!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Entering the prison",
+      "sections": [
+        {
+          "title": "Talking to Denulth again before freeing the prisoners",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Denulth",
+                  "text": "Welcome back friend!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've found my way into the prison."
+                },
+                {
+                  "speaker": "Denulth",
+                  "text": "...and?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's all."
+                },
+                {
+                  "speaker": "Denulth",
+                  "text": "Hurry, friend. Find a way to free Godric!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Retrieving the keys from Twig",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Twig",
+                  "text": "What do you think you're doing?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Retrieving the keys from Berry",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Berry",
+                  "text": "What do you think you're doing?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Freeing Eadgar and Godric",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eadgar",
+                  "text": "Thanks! I'm off back home!"
+                },
+                {
+                  "speaker": "Godric",
+                  "text": "Thank you, my friend."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After freeing the prisoners",
+      "sections": [
+        {
+          "title": "Talking to Denulth",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have freed Godric!"
+                },
+                {
+                  "speaker": "Denulth",
+                  "text": "Oh, what great news! You should hurry to tell Dunstan, he will be overjoyed!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Dunstan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Has Godric returned home?"
+                },
+                {
+                  "speaker": "Dunstan",
+                  "text": "He is safe and sound, thanks to you my friend!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm glad to hear it."
+                },
+                {
+                  "speaker": "Dunstan",
+                  "text": "I have very little to offer you in way of thanks, but perhaps you will accept this family heirloom. It was found by my great-great-grandfather, but we still don't have any idea what it does."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

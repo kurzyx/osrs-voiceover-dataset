@@ -1,0 +1,2281 @@
+{
+  "ref": "underground-pass",
+  "categoryRef": "quest",
+  "title": "Underground Pass",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "Talking to King Lathas again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day King Lathas."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "And to you adventurer. Have you found a way through the Underground Pass yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Well keep at it. Come to me when you have something to report."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Good day King Lathas."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "And to you adventurer. I assume you're here about King Tyras?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I am. What's our plan?"
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "Well, as we've previously discussed, my brother is currently gathering strength in the lands west of here. The only known way into those lands is through the Underground Pass."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "Unfortunately, the pass is a treacherous place. Some of my best soldiers have fallen trying to find a way though."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "To make matters worse, some crazed group of cultists has recently made their home in the pass. Their leader, some madman named Iban, claims to be the son of Zamorak himself."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well that doesn't sound good. So what do you need from me?"
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "If my brother is to be stopped, a way through the Underground Pass must be found. This is the task I have for you. Do you think you're up for it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "There's only one way to find out. Where do I start?"
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "You'll find the entrance to the Underground Pass at the far end of West Ardougne. My main tracker, Koftik, will meet you there."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "Together, you are to find a way through the pass. Once you have done so, return to me."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll do my best."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "Remember, the Underground Pass is lethal. Go prepared with food and armour or you won't last long."
+            },
+            {
+              "speaker": "Player",
+              "text": "It sounds too dangerous for me. I'd better prepare more first."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "Very well. Return to me when you are ready."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm just passing through."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "Fair enough. Return to me when you are ready and we will discuss our next steps."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Underground Pass",
+      "sections": [
+        {
+          "title": "Talking to Koftik or attempting to enter the pass",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there, you must be Koftik."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "That I am adventurer. King Lathas told me to expect you. I assume he has told you our goal?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He said we need to find a way through the Underground Pass. Shouldn't be too bad, I've travelled through many a cave in my time."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "These caves are different... There is a darkness in there unlike any other. You can feel it as you wind your way round the stalagmites... an icy chill that penetrates the very fabric of your being..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You've been in before?"
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "I have. I didn't go far though, nor did I stay for long. People change in these caves..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll take my chances."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Okay traveller, I'll catch up with you by the bridge."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me more..."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "I remember one warrior. His name was Randas. He stood tall and proud like an elven king..."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "That same pride made him vulnerable. Randas' worthy desire to be a great and mighty warrior also made him corruptible."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Within the cave, he heard the voice of Zamorak himself..."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Zamorak showed him a way to achieve his goals by appealing to that most base and dark nature... One that resides in all of us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened to him?"
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "No one knows..."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Anyway, head on in when you're ready. You'll soon come to a bridge, I will catch up with you there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Koftik outside the pass again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. What are you up to?"
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Nothing exciting, just keeping an eye out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering the cave entrance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Exiting back out to West Ardougne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the cave you exit from after getting sucked into the area below the swamp",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to cross the swamp",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Climbing over rockslides",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Climbing back to the beginning after falling through the swamp",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Reading the stone tablets",
+          "sections": [],
+          "dialogues": []
+        },
+        {
+          "title": "Firing arrows at the bridge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the abandoned equipment",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Koftik at the bridge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi Koftik."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Hello adventurer. We seem to have a bit of an issue ahead of us. The bridge is up and I can't see another way across."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you not know how to get the bridge down?"
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "I'm afraid not. This is the furthest I've ever been. It does look like someone was here before us though, there's the remains of a camp."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "I had a look through their things and found some cloth along with the charred remains of some arrows."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Charred arrows? They must have been trying to burn something. Or someone!"
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "There's plenty more cloth by the fire. I also found the remains of a book..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Probably just litter."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Well... maybe?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What does it say?"
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "It seems to be written by the adventurer Randas. Have a look."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pulling the lever to lower the bridge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Koftik after lowering the bridge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi Koftik."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Hello adventurer. I'll catch up with you further on. Have a look by the fire if you need more cloth."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mysterious Voice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "Join us..."
+                },
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "Death is only the beginning..."
+                },
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "I will release you..."
+                },
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "I'll swallow your soul..."
+                },
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "I can set you free..."
+                },
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "Blood... Pain... Hate..."
+                },
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "You can't hide..."
+                },
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "Give in to your desires..."
+                },
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "The power of the gods could be yours..."
+                },
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "Hear me..."
+                },
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "Make them all pay..."
+                },
+                {
+                  "speaker": "Mysterious Voice",
+                  "text": "Kill... Maim... Murder..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Squeezing through the pipe",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Rope swinging across",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Koftik at the grid puzzle",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Koftik."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Do you hear them? The voices tell me things."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you okay?"
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tyranny of the righteous? What?"
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "So many paths to choose... Here we must all take our own path."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stepping on the wrong tile",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Pulling the lever next to the portcullis",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Odd markings",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Trying to climb down the well before destroying the orbs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Flat rock",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Trying to pick up duplicate orbs of light",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using an orb on the well",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Destroying the orbs in the furnace",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Flat rock beneath an orb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Climbing down the well",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Climbing back up the well",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching crate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to use the pipe shortcut",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to the slaves",
+          "sections": [
+            {
+              "title": "Slave 1",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Eating me... they keep eating me! Eating me from the inside! Please stop them! I can feel them wriggling around inside me right now... please stop them!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Slave 2",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Blood, blood... never enough blood to go round. When I lift up my arm like this, it all pours back into my body."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "I hope it remembers to go back inside my arm. And don't even ask me about my legs... how much blood are they going to need?"
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Blood is important. We must offer it to Zamorak every day as proof of our devotion. I just hope I don't run out!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Slave 3",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello, are you okay?"
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Oh yes, you're a fine one. Nice red cheeks, shiny hair."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Let's see now, some potatoes, some cabbage... Maybe half a clove of garlic..."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Yes I think you'd make a fine soup. You don't mind do you?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Actually I do."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "You're welcome to have some with me of course..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Slave 4",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Mwaarrr fnnntchh. Gbpp dng sktd delp?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Pardon?"
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Kjp lar falut: Gbpp dng sktd delp?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sorry, I don't under.."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Mwaarrr fnnntchh. Gbpp dng sktd delp? GBPP DNG SKTD DELP!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Slave 5",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello..."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Kill the villagers, burn them all... every last one! I want nothing to survive... nothing but the sweet smell of burning flesh..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You're ill!"
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "What's that? You've never smelt it before? Well, let's just say that it's an acquired taste..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Slave 6",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Danger, everywhere danger! But not from man nor beast! This is the danger that is inside you."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "Bring it out, nurture it, cherish it. Stroke it like you would stroke a wounded bird... then strangle it before it takes hold of your very being. Don't say I didn't warn you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Slave 7",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "What's that... Is that a dagger I see before me? Why should I bear the slings and arrows of outrageous fortune."
+                    },
+                    {
+                      "speaker": "Slave",
+                      "text": "For what is a man but this quintessence of dust? And so I say goodnight sweet prince. The rest is silence."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Digging the loose mud",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Climbing back through the tunnel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Crossing the ledge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Crossing the stone bridge maze",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Koftik after the stone bridge maze",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Koftik",
+                  "text": "The voices, they've been telling me things..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Koftik, is everything okay? You're getting me worried."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Don't be friend. Anyway, do you know the definition of insanity?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err... what?"
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "The definition of insanity is doing the same thing over and over, expecting things to change."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "I spent years doing the same thing, day in and day out. I always wanted more but I never got it. Now, I finally see why..."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "You see, once I was insane. But now... now I am finally free..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err... what?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Crawling through the pipe into the unicorn room",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the cage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Pushing the boulder",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "It's too heavy to move with just my hands."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching smashed cage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Passing through the unicorn room tunnel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Speaking to any of the paladins",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Paladin. I wasn't expecting to see anyone else down here."
+                },
+                {
+                  "speaker": "Sir Jerro",
+                  "text": "Nor were we traveller. What are you doing in this most unholy place?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for a safe route through these caverns, under order of King Lathas."
+                },
+                {
+                  "speaker": "Sir Jerro",
+                  "text": "Ah, the king tasked us with the same mission. Alas, a little further on lies the great doors of Iban. We've tried everything, but we cannot enter."
+                },
+                {
+                  "speaker": "Sir Jerro",
+                  "text": "Anyway, you've done well to get this far traveller. Here eat..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, thanks a lot."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the paladins again after receiving supplies",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Carl",
+                  "text": "Hello again traveller. You should consider leaving this place. Let us handle things here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the well",
+          "sections": [],
+          "dialogues": []
+        },
+        {
+          "title": "Throwing the items into the well",
+          "sections": [
+            {
+              "title": "Sir Harry",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Sir Jerro",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Sir Carl",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Unicorn Horn",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "After throwing all 4 items in",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Opening the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Koftik in Iban's Lair",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Koftik",
+                  "text": "Ah, you've arrived. We've been waiting for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Koftik, you're still here? You should leave."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Leave? But this is my home now. Home with my lord. He talks to me, he's my friend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Koftik, you really should leave these caverns."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Not now, we're all the same down here. There's just you and those dwarves left."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Dwarves?"
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Foolish dwarves, still believing that they can resist. No one resists Iban."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "You could help! Deep down you know you want it! I know you already dealt with those Paladins. Now you just need to kill the dwarves!"
+                }
+              ]
+            },
+            {
+              "lines": [
+                {
+                  "speaker": "Koftik",
+                  "text": "Head south and through the tunnel. You'll find the dwarves at the other end. Go slay them. Slay them for our lord!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Koftik again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Koftik",
+                  "text": "Nice job killing those Paladins. You're much closer to his side now. Perhaps you could kill those dwarves as well. That would really please him."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Head south and through the tunnel. You'll find the dwarves at the other end. Go slay them. Slay them for our lord!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jumping across the gaps in the bridges",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Iban's temple cutscene",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Disciples of Iban",
+          "sections": [
+            {
+              "title": "If not wearing Zamorak robes",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi."
+                    },
+                    {
+                      "speaker": "Disciple of Iban",
+                      "text": "An impostor... Die, scum!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "While wearing Zamorak robes",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi."
+                    },
+                    {
+                      "speaker": "Disciple of Iban",
+                      "text": "Iban is our father, our guide. Soon he will rule all life."
+                    },
+                    {
+                      "speaker": "Disciple of Iban",
+                      "text": "Som Molica Aniul Demonte."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Pardon?"
+                    },
+                    {
+                      "speaker": "Disciple of Iban",
+                      "text": "Hail the great one, my lord Iban. I die for you again and again."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Is that possible?"
+                    },
+                    {
+                      "speaker": "Disciple of Iban",
+                      "text": "Under Iban anything is possible. Death is only the beginning."
+                    },
+                    {
+                      "speaker": "Disciple of Iban",
+                      "text": "Succumb to the might of Iban, the ruler of this world."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Tunnel to the dwarf outpost",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Niloof",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Niloof",
+                  "text": "Back away! Back away! Wait... you're human!"
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "Well good luck with that. We came here as miners, completely unaware of the evil that lurked here. There's no way through, not while Iban still rules. He controls the gateway, the only way to the other side."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What gateway?"
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "The Well of Voyage. It acts as a portal through the last section of the caverns. It's the only way into the west. Iban has corrupted it though. Now he uses it to dispose of those who displease him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I'll just have to kill him then."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "Ha! Good luck with that. If we knew how, we'd have slain him already."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "Seek out the witch, his guide, his only confidante. Only she knows how to rid us of Iban."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "She lives on the platforms above, we dare not go there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Niloof again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "You're brave to come to this place. Not many survive down here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "As I can see."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "Don't stay too long traveller. Iban's calls will soon penetrate your delicate human mind."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "You'll also become one of his minions... You must go and find the witch Kardia. She holds the secret to Iban's destruction. She lives on the platforms above."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kamen",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi there, you okay?"
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Ooooh, my head... I'm fried."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's wrong?"
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Too much of this home brew my friend. We make it from plant roots, but it blows your head off."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "You don't wanna put it near any naked flames. I've got a barrel full of it here, want some?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay then."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Here you go... Hic!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Aaarrgghh!"
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Ha ha! I warned you that it's strong stuff. Have a good meal. It may sober you up a bit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Your losh... Hic!"
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Well maybe a good meal? I've got some spare."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks. Enjoy your brew."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Oh I will."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kamen again after receiving free food",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi there, you okay?"
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Ooooh, my head... I'm fried."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's wrong?"
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Too much of this home brew my friend. We make it from plant roots, but it blows your head off."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "You don't wanna put it near any naked flames. I've got a barrel full of it here, want some?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay then."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Here you go... Hic!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Aaarrgghh!"
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Ha ha! I warned you that it's strong stuff. Have a good meal. It may sober you up a bit. I could part with some food for a few coins."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "75 coins pleashe."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "You'll need to make some room in your inventory first."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "75 coins pleashe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh dear, I haven't enough money..."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Sorry, I can't just give it away to anyone that walks past."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay then."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "75 coins pleashe."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Enjoy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Well come back any time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Your losh... Hic!"
+                },
+                {
+                  "speaker": "Kamen",
+                  "text": "Well maybe a good meal? I could part with some food for a few coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kamen overhead dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kamen",
+                  "text": "Hic!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Klank",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello my good man."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "Good day to you outsider. You should be careful down here. We're the only ones that haven't yet turned."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "If you're not careful you'll become one of them too!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who? Iban's followers?"
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "They're not followers, they're slaves, they're the soulless..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened to them?"
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "They were normal once, adventurers, treasure hunters. But men are weak, they couldn't ignore the voices."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "Now they all seem to think with one conscience... As if they're being controlled by one being..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Iban?"
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "Maybe... maybe Zamorak himself. Those who try and fight it are locked in cages, until their minds are too weak to resist."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "Eventually they all fall to his control..."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "Anyway, I have something that might help you. I crafted these to protect myself from the teeth of the soulless, their bite is vicious."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "I haven't seen another pair which can withstand their jaws..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "No problem traveller. Good luck."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No wonder their breath is so bad!"
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "You think this is funny... Eh?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not really, just trying to lighten up the conversation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Klank (unknown conditions)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi Klank."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "Traveller, I hear you plan to destroy Iban?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's right."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "I have a gift for you, they may help. I crafted these to protect myself from the teeth of the soulless, their bite is vicious."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "I haven't seen another pair which can withstand their jaws..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks Klank."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "Good luck traveller, give Iban a slap for me!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open Iban's Tomb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the door or search the window of the witch's house before talking to Niloof",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kardia",
+                  "text": "Blast them dwarves! We need to deal with them!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Brew barrel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Opening the witch's door or searching window",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kardia",
+                  "text": "Here kitty, kitty!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That witch probably won't take kindly to me going in there. Maybe I can distract her..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Witch's cat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Witch's cat",
+                  "text": "Miaoww"
+                },
+                {
+                  "speaker": "Witch's cat",
+                  "text": "Sssss! Thou art brave to wander so far into the domain of Kardia, mine mistress!"
+                },
+                {
+                  "speaker": "Witch's cat",
+                  "text": "But soon thou shalt become a soulless servant of Lord Iban, like all who come here."
+                },
+                {
+                  "speaker": "Witch's cat",
+                  "text": "Glad shall mine heart be when I see thee prostrate thineself before the altars of Zamorak the Mighty."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No milk for you, puss!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening the witch's door after finding the cat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Distracted witch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Opening the witch's chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Returning to Niloof",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Niloof",
+                  "text": "And...?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found a strange doll, but I've lost it."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "Well it's a good job I found it."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "I've heard about these dolls. This here be dark magic traveller. They say the witch resurrected Iban from death. She must have used this doll to do it."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "If this doll created Iban, it can also be his end. Find out what process the witch used to revive him and reverse it. Once that's done, cast it into the Well of Voyage. Iban will be destroyed with it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is the well?"
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "On the platforms above. Within Iban's foul temple."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "I found this old book as well. It seems to detail how Iban was resurrected. It might hold the information you need to destroy him."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "I found this old book by the way. It seems to detail how Iban was resurrected. It might hold the information you need to destroy him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks Niloof."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Niloof, I found the witch's house."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "And...?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found a strange doll."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "Ah, I've heard about these dolls. This here be dark magic traveller. They say the witch resurrected Iban from death. She must have used this doll to do it."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "If this doll created Iban, it can also be his end. Find out what process the witch used to revive him and reverse it. Once that's done, cast it into the Well of Voyage. Iban will be destroyed with it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is the well?"
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "On the platforms above. Within Iban's foul temple."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Iban's tomb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Killing Kalrag",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Opening Iban's shadow chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching half-soulless cages",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Half-soulless",
+                  "text": "Kuluf Ali Monopiate!"
+                },
+                {
+                  "speaker": "Half-soulless",
+                  "text": "Kuluf Ali Monopiate!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the cage with the dove",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching empty cages",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Smearing the doll",
+          "sections": [
+            {
+              "title": "Ashes",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Dove",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Shadow",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Searching the doll",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Entering Iban's Temple",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Iban",
+                  "text": "The doll? You mean to destroy Iban? No! I am the son of Zamorak! I can't die! And you... You are his slave now! Even if you kill me you will hear his calls forever! You have already fallen!"
+                },
+                {
+                  "speaker": "Iban",
+                  "text": "You dare to defy me?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Niloof after encountering Iban",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi Niloof."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "Traveller, thank the stars you're still around! I thought your time had come."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've still a few years in me yet."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "I found something I think you need traveller..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The doll?"
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "I found it while slaying some of the soulless. Here you go."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "I found this old book as well. It seems to detail how Iban was resurrected. It might hold the information you need to destroy him."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "Good luck to you, you'll need it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Take care Niloof."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Klank again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Klank."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "Hello again adventurer, so you're still around?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Still here!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you any more gauntlets?"
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "Well..yes, but they're not cheap to make. I'll have to sell you a pair..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How much?"
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "5,000 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "5,000, you must be joking!"
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "We don't joke down here friend..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay then, I'll take a pair."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh dear, I haven't got enough money..."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "Sorry, I can't sell them any cheaper than that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Take care Klank."
+                },
+                {
+                  "speaker": "Klank",
+                  "text": "You too adventurer..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Facing Iban",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Iban",
+                  "text": "I am the great Iban, I cannot die!"
+                },
+                {
+                  "speaker": "Iban",
+                  "text": "You will die, frail mortal!"
+                },
+                {
+                  "speaker": "Iban",
+                  "text": "Fool!"
+                },
+                {
+                  "speaker": "Iban",
+                  "text": "I'll swallow your soul!"
+                },
+                {
+                  "speaker": "Iban",
+                  "text": "You belong in the slave pits!"
+                },
+                {
+                  "speaker": "Iban",
+                  "text": "Begone from my temple!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Well of Voyage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Koftik",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Koftik",
+                  "text": "Adventurer, where am I? I can't remember a thing!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We were losing you to Iban's influence..."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "What? Of course, the voices... But they've stopped. What happened?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Iban's dead, I destroyed him."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "You've done well! Thank you for saving me."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "But what about you, adventurer? Did the voices not affect you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I... I don't think so..."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "I see. Well we must now inform the king. Follow me, I'll lead you out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "At last! I've had enough of these caves."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Koftik outside the pass after killing Iban",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for showing me the way out Koftik."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Always a pleasure. Have you informed the king about Iban?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not yet."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "This is no time to linger. The King must know that Iban is dead. This is a truly historical moment for Ardougne."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Niloof after killing Iban",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi Niloof."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "Traveller, thank the stars you're still around! I thought your time had come."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've still a few years in me yet. So what are you still doing down here?"
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "Well with Iban and his lot gone, we've been left with a great cavern filled with resources. We thought we'd actually do what we came here for and get mining."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough. Well you take care of yourselves."
+                },
+                {
+                  "speaker": "Niloof",
+                  "text": "And you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finishing up",
+      "sections": [
+        {
+          "title": "Talking to King Lathas again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day my liege. Any progress with the Well of Voyage?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Ahh... adventurer. The repair work on the Well of Voyage has been completed. We're finally ready to move against my brother."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "King Lathas",
+              "text": "The adventurer returns, any news?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Indeed, the quest is complete. I have defeated Iban and his minions."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "Incredible, you are a true warrior. So do we now have a way through to the west?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not quite. The portal through the last section of the pass has been damaged. It will need repairing."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "I see. I will send our best mages in at once. Once they have made the repairs, we will finally be ready to stop King Tyras."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "For now, I thank you for your help adventurer. Your loyalty is an inspiration to all."
+            },
+            {
+              "speaker": "Player",
+              "text": "So how long do you think the repairs will take?"
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "It shouldn't take the mages long at all. Once their work is done we will finally be ready to move against my brother."
+            },
+            {
+              "speaker": "Player",
+              "text": "I assume you have a plan?"
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "I do indeed. I recently managed to make contact with the elves that inhabit the western lands."
+            },
+            {
+              "speaker": "Player",
+              "text": "Elves? I've never seen an elf before."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "Well that may well change soon. Apparently, my brother has been causing them quite a bit of trouble. As such, they've agreed to help us get rid of him once and for all."
+            },
+            {
+              "speaker": "Player",
+              "text": "So what do I need to do?"
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "You are to head into the Underground Pass and through the Well of Voyage. The mages should have it repaired by the time you arrive."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "Once you are through, you will be met by some representatives of Lord Iorwerth."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "With their help, you are to find my brother and kill him. Once that's done, return to me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I don't think I'm ready for this yet."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "As you wish. Return to me when you are ready and we will begin."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's the deal with your brother again?"
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "My brother, King Tyras, was always a bit of an explorer. He went on numerous expeditions to the lands west of here. On one of these expeditions, he was captured by the forces of the Dark Lord."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "The Dark Lord agreed to spare his life, but only on one condition... That he would drink from the Chalice of Eternity. The chalice corrupted him. He joined forces with the Dark Lord, the embodiment of pure evil..."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "As a result, I had a wall built around West Ardougne to act as a barrier between him and the rest of the world. Tyras is king of West Ardougne, sealing off the city was the only way to stop him and the Dark Lord."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "I knew people would never believe the truth, so I had the plague made up as an excuse for the cordon. I'm not proud of it, but it was the only way to keep people safe."
+            },
+            {
+              "speaker": "Player",
+              "text": "But now we're ready to stop him."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "Indeed we are. My brother has been gathering strength in the west, preparing to move against us. But now that we have a way through, we can move against him first."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sounds good. See you later."
+            },
+            {
+              "speaker": "King Lathas",
+              "text": "Farewell adventurer. Return to me once you are ready to begin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical",
+      "sections": [
+        {
+          "title": "Talking to any of the paladins post-quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Carl/Harry/Jerro",
+                  "text": "You again... die Zamorakian scum!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

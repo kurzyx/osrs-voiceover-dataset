@@ -1,0 +1,53 @@
+{
+  "ref": "garden-supplier",
+  "categoryRef": "npc",
+  "title": "Garden supplier",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Garden supplier",
+              "text": "Do you want to buy some garden plants?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are these plants for?"
+            },
+            {
+              "speaker": "Garden supplier",
+              "text": "For planting in your house's garden, of course!"
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I do that?"
+            },
+            {
+              "speaker": "Garden supplier",
+              "text": "The same way you make furniture. You'll find plant hotspots in your garden and you just need to have one of my bagged saplings with you when you build at them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, I see."
+            },
+            {
+              "speaker": "Garden supplier",
+              "text": "So do you want to look at my stock?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

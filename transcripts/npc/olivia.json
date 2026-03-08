@@ -1,0 +1,71 @@
+{
+  "ref": "olivia",
+  "categoryRef": "npc",
+  "title": "Olivia",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Olivia",
+              "text": "Would you like to trade in seeds?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where do I get rarer seeds from?"
+            },
+            {
+              "speaker": "Olivia",
+              "text": "The Master Farmers usually carry a few rare seeds around with them, although I don't know if they'd want to part with them for any price to be honest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Catching the player trying to steal from her seed stalls",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olivia",
+                  "text": "Hey! Get your hands off there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with her after stealing from her seed stalls recently",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olivia",
+                  "text": "You're the one who stole something from me!"
+                },
+                {
+                  "speaker": "Olivia",
+                  "text": "Guards[sic] guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

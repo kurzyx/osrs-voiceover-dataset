@@ -1,0 +1,67 @@
+{
+  "ref": "guard-2020-easter-event-",
+  "categoryRef": "npc",
+  "title": "Guard (2020 Easter event)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After going through the portal in the 2020 Easter Event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Woah, what's happened to me?!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Oi you! What are you doing on this side of the portal?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh! I...."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Go report to the Duke in the castle, the greater yolk didn't tell you to return."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When talked to again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Why are you talking to me, go report to the Duke in the castle, the egg will find a way to deal with you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing the event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "You're free to do as you wish, but I'll be keeping my ears on you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

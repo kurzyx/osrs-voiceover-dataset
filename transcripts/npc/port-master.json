@@ -1,0 +1,134 @@
+{
+  "ref": "port-master",
+  "categoryRef": "npc",
+  "title": "Port master",
+  "sections": [
+    {
+      "title": "Talking to the Port master after completing Pandemonium",
+      "sections": [
+        {
+          "title": "When completing a courier task",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Port master",
+                  "text": "Thanks, sailor. Here's your payment."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Port master",
+              "text": "Hi, sailor. How can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to claim my port task rewards."
+            },
+            {
+              "speaker": "Port master",
+              "text": "Thanks, sailor. Here's your payment."
+            },
+            {
+              "speaker": "Port master",
+              "text": "According to my records, you don't have any port task rewards to claim."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to cancel a port task."
+            },
+            {
+              "speaker": "Port master",
+              "text": "I'm afraid you don't have any assigned tasks for me to cancel."
+            },
+            {
+              "speaker": "Port master",
+              "text": "There you go. That's all sorted for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm good, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to the Port master before completing Pandemonium",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Port master",
+              "text": "Hi there. How can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do around here?"
+            },
+            {
+              "speaker": "Port master",
+              "text": "I'm the port master. It's my job to keep everything around here running nice and smoothly for all the vessels coming and going."
+            },
+            {
+              "speaker": "Player",
+              "text": "So could you tell me how I could get my own vessel?"
+            },
+            {
+              "speaker": "Port master",
+              "text": "I'm afraid not, but maybe someone else around here could help. I saw a couple of people further north on the docks. I think I heard them saying they were looking for help on their boat."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sounds like quite a challenging job. I'd best not distract you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Claim-rewards or Cancel-task before completing Pandemonium",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Port master",
+              "text": "I'm afraid I can't help you with that at the moment. You'll have to come back later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Claim-rewards or Cancel-task before Sailing release",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Port master",
+              "text": "I'm afraid I can't help you with that at the moment. You'll have to come back later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

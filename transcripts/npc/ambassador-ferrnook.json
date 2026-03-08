@@ -1,0 +1,55 @@
+{
+  "ref": "ambassador-ferrnook",
+  "categoryRef": "npc",
+  "title": "Ambassador Ferrnook",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello Ambassador. Are you here visiting King Roald?"
+            },
+            {
+              "speaker": "Ambassador Ferrnook",
+              "text": "Well, in theory, but he always seems to be busy."
+            },
+            {
+              "speaker": "Player",
+              "text": "You don't seem that upset by that, though..."
+            },
+            {
+              "speaker": "Ambassador Ferrnook",
+              "text": "Oh no, I like travelling, and if you become a diplomat patience is a vital skill."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll try to remember that."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gnome Restaurant dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ambassador Ferrnook",
+              "text": "Excellent. A taste of home."
+            },
+            {
+              "speaker": "Ambassador Ferrnook",
+              "text": "You must have had to travel a long way to get this to me. Here's a little something extra as a tip."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "ref": "master-chef",
+  "categoryRef": "npc",
+  "title": "Master Chef",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before baking bread",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Master Chef",
+                  "text": "Time for you to learn the fine art of cooking bread."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After baking bread",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Master Chef",
+                  "text": "Do you need something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about making dough again."
+                },
+                {
+                  "speaker": "Master Chef",
+                  "text": "It's quite simple. Just use a pot of flour on a bucket of water, or vice versa, and you'll make dough. You can fill a bucket with water at any sink."
+                },
+                {
+                  "speaker": "Master Chef",
+                  "text": "Do you need anything else?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about range cooking again."
+                },
+                {
+                  "speaker": "Master Chef",
+                  "text": "The range is the only place you can cook a lot of the more complex foods in Gielinor. To cook on a range, all you need to do is click on it. You'll need to make sure you have the required items in your inventory though."
+                },
+                {
+                  "speaker": "Master Chef",
+                  "text": "Do you need anything else?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Master Chef",
+              "text": "Ah! Welcome, newcomer. I am the Master Chef, Lev. It is here that I will teach you how to cook food truly fit for a king."
+            },
+            {
+              "speaker": "Player",
+              "text": "I already know how to cook. Brynna taught me just now."
+            },
+            {
+              "speaker": "Master Chef",
+              "text": "Hahahahahaha! You call THAT cooking? Some shrimp on an open log fire? Oh, no, no, no. I am going to teach you the fine art of cooking bread."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

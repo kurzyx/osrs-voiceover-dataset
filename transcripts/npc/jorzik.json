@@ -1,0 +1,55 @@
+{
+  "ref": "jorzik",
+  "categoryRef": "npc",
+  "title": "Jorzik",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Jorzik",
+              "text": "Do you want to trade?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you selling?"
+            },
+            {
+              "speaker": "Jorzik",
+              "text": "The finest smiths from all over Gielinor come here to work, and I buy the fruit of their craft. Armour made from the higher metals!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's have a look then."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Jorzik",
+              "text": "You just don't appreciate the beauty of fine metalwork."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sometimes when attempting to open the gate to the anvils with less than 60 Smithing",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Jorzik",
+              "text": "Only the top smiths are allowed in there!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

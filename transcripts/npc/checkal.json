@@ -1,0 +1,59 @@
+{
+  "ref": "checkal",
+  "categoryRef": "npc",
+  "title": "Checkal",
+  "sections": [
+    {
+      "title": "Before starting Below Ice Mountain",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Checkal",
+              "text": "You best not be here to start any trouble [sir/miss]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wouldn't dream of it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing Below Ice Mountain",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Checkal",
+              "text": "[player name], I am so glad to see you are safe."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, Checkal. Why didn't you tell me about Willow?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I thought we were friends..."
+            },
+            {
+              "speaker": "Checkal",
+              "text": "I am sorry [player name]. I do respect you and your love for the muscle. But sadly I needed the money. These muscles don't pay the bills on their own."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, I understand..."
+            },
+            {
+              "speaker": "Checkal",
+              "text": "Please do not let this incident divert you from your path of becoming a strongman! I truly believe in you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

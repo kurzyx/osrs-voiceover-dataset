@@ -1,0 +1,3243 @@
+{
+  "ref": "the-heart-of-darkness",
+  "categoryRef": "quest",
+  "title": "The Heart of Darkness",
+  "sections": [
+    {
+      "title": "Starting the quest",
+      "sections": [
+        {
+          "title": "Talking to Prince Itzla Arkan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Nilsal, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey, Itzla. How are things going?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Father should make a full recovery, though given that his would-be killers are still out there, that's not anywhere near as much comfort as it should be."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I've sent word to mother about what happened here, but I've not heard back yet. Once I have, we can start planning our next move."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I've sent word to mother about what happened here, but I've not heard back yet. However, in the meantime, I've devised a little plan for how we might go about dealing with our cultist problem."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is it?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "We're going to go... undercover!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Undercover? What do you mean?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "The Twilight Emissaries of course! If they are the ones responsible for what is now two attempts on my father's life, their deaths will be swift and brutal."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "However, given we're somewhat civilised people, we can't exactly start executing cultists without definitive proof. How do we get that? By joining up of course!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You want us to join the cult?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Exactly! Quite a clever plan, if I do say so myself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right..."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Prepare for the arrival of Queen Zyanyi Arkan!"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Ah... This should be fun."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd love to hear it, but I have some things I need to do first."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Very well. I'll be here when you're ready."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Meeting with Queen Zyani Arkan to begin planning the infiltration",
+      "sections": [
+        {
+          "title": "Talking to Prince Itzla Arkan after meeting with Queen Zyani Arkan",
+          "sections": [
+            {
+              "title": "Talking to Itzla again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Nilsal, [player name]. You should head on over to the pub in Quetzacalli Gorge. Remember, you'll need to rent the basement room. My contact will meet you there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll head over there shortly."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Good luck."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So..."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "It would seem I won't be able to join you on this mission, iknami. Still, I have no doubt you will be successful all the same."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do I need to do?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Head to the pub in Quetzacalli Gorge and ask to rent the basement room. I have a contact who will meet you there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Someone you can trust?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "One of the only people left that I can trust. They'll fill you in on the details of how you'll infiltrate the Emissaries. Good luck, [player name]. May the sun light your way."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Mother."
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "As I stand here, the healers toil to save the life of the Teokan of Ralos."
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "Why?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "He wished to return to the Teomat. I advised against it, but..."
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "So you would blame him?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Not exactly..."
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "Then take responsibility. You were charged with rooting out those who would plot against us. You failed. Why?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "With respect, progress has been made. We believe the Twilight Emissaries to be responsible, but we need to obtain proof before we can act."
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "How?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "We will infiltrate the cult and gather any information we can. Once we have confirmed their guilt, they will be eradicated."
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "We?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "This is a task of upmost importance. I intend to lead the infiltration myself."
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "So you would chase glory like it is gold to be hoarded? You are the heir to Varlamore. It is not your place."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "In Varlamore we lead from the front!"
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "You do not lead at all, boy! You command the Knights of Varlamore. Use them!"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "I cannot trust them. We have been infiltrated and our enemies now sit beside us."
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "You speak of Metzli?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "It could be more than just her. One of my knights was implicated, but another may have incriminated him."
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "Who?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "There have been suspicions directed at Furia and Ennius."
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "Then all the more reason that you exclude yourself. Determine who you can trust and send them on this mission of yours."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "And if there is no one I can trust?"
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "Then you have failed as a leader."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Mother..."
+            },
+            {
+              "speaker": "Queen Zyanyi Arkan",
+              "text": "Now go. You have work to do. I don't expect you to fail me again."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Yes, my Queen. May the sun light your way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Visiting the Windbreaker Bar",
+      "sections": [
+        {
+          "title": "Talking to the Bartender at Quetzacalli Gorge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bartender",
+                  "text": "Welcome to the Windbreaker. We've got the best drinks around."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to rent the basement room."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "We don't have a basement room... but I do have a nice big one here on the ground floor that's available. It's 30 coins for the night."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Like I said, we don't have a basement room. However, I do have a nice big one here on the ground floor that's available. It's 30 coins for the night."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have that much on me right now."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Well you know where we are if that changes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll take it."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Thank you very much. The room is all yours. Enjoy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's too much."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Well you know where we are if you change your mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Resting in the bed",
+          "sections": [
+            {
+              "title": "Talking to Itzla again before fully going through the initial dialogue",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Itzla? Is that you? What are you doing here?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Itzla again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Nilsal, [player name]. Any luck with that shopkeeper?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not yet."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Keep at it. He's our only way of infiltrating the Emissaries."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Guess I may as well have a little rest while waiting for this contact."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Rise and shine!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Itzla? Is that you? What are you doing here?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Isn't it obvious? I'm your contact!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But... no?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Look, I fully appreciate what my mother said. I have carefully considered her instructions, but in this one very specific situation, I have come to the conclusion that they must be disregarded."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But you're the heir to the throne of Varlamore... What if someone recognises you?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Well that's why I've covered my face of course. Simple!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This seems like a bad idea..."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "You may well be right, iknami, but that is a bridge we will cross, and then quite possibly burn, when we get to it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay..."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I can see you're still not convinced, so let me be frank. I wasn't lying when I spoke to mother. The number of people we can trust is concerningly low."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Metzli, one of the most important people in the entire kingdom, has seemingly betrayed us. If your suspicions are right, Furia and Ennius are guilty as well. For all we know, there could be even more."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "At this point, the fewer people who know about our mission, the better."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But you trust me?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "The irony is, my friend, that as an outsider, you're actually far more trustworthy than any Varlamorian now. You almost certainly can't be part of this conspiracy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'm still not sure if I like this plan, but I see your point. What's our next move?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "We need to infiltrate the Twilight Emissaries and confirm their guilt. I've done some digging, and rumour has it that they're on a bit of a recruitment spree at the moment. That's our way in."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "The cult makes their home in the Twilight Temple, east of here. I suspect they won't take kindly to us just walking in, but the local shopkeeper here might be able to help us out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How so?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "He's been engaging in many a charitable undertaking recently. Food for the poor, potions for the sick, that sort of thing. You'd be mistaken for thinking him to actually be a reasonable person."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But he's not?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Sadly not in this case. The Emissaries accept members from all walks of life, but the vast majority of their recruits are those from more unfortunate backgrounds."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah I see. They have people like this shopkeeper using charity to attract people to their cause."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Exactly. It is... unfortunate. The War of Betrayal was over a lifetime ago, but many still feel the impacts, especially in this part of the kingdom."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I'd like to think we have made great improvements over the years, but this is a clear reminder that far more needs to be done."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Anyway, it's not something to dwell on now. Let us get back to the more pressing matter of joining a dangerous cult."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right. So this shopkeeper... If I go to him and pose as a potential recruit, your hope is that he'll contact the Emissaries?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Exactly! Return to me here once you've hopefully been successful and we can discuss the next steps."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The Queen didn't seem very happy with you."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "That's parents for you. Do as I say, but not as I do. She was never afraid to get her own hands dirty. Did you know that before she was even my age, she became a champion in the Colosseum?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You think she sees herself in you? If so, maybe she doesn't want you to make the mistakes that she once did?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I suspect you are right, but I would prefer to learn from my own mistakes. Every ruler must forge their own path. The people will never follow a leader who cannot stand alone."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose that makes sense, but I'm not sure how I feel about you learning from your mistakes while we infiltrate a dangerous cult together."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Fear not, iknami. I am confident that you will probably survive this mission."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's good, I think..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you really think Metzli, Furia and Ennius are traitors?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Metzli has always been an odd one. Everyone was always quick to dismiss it as just a little side effect of spending a lot of time with dead people. Now I wonder if she used that to her advantage."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "No one cared to pay close attention to her. No one wanted to spend much time around her. She probably got away with all sorts of things without anyone even noticing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But a traitor?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "The evidence seems to suggest so. Why else would she have disappeared after the attack?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe they captured her?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Maybe, but surely someone would have noticed. People generally don't go quietly when captured."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What about Furia and Ennius?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Well their family has of course produced traitors before, but they've never seemed to have much love for old Imafore."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "By the end of the war, I think he'd ended up killing more of his own family members than he left alive. Amazing what paranoia will do to a man."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Still, even if they never cared for him, his blood still runs in their veins, and they've never been short on ambition themselves."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If they are guilty... what will you do to them?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "The same thing we do to all traitors in Varlamore."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happens if they try to attack Servius again?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "He's in the capital now, where I wanted him to be from the start. He should be much safer there."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Still, safer is not safe, especially if we do have traitors in our midst. At any moment we risk someone showing some basic competence and actually managing to kill him properly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you don't consider the enemy to be competent?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "All I'm saying is that if I'd have been the one trying to assassinate my father, I'd probably have done a half- decent job."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But if the enemy isn't a threat, why are you here?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "What do you mean, iknami?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If this isn't an enemy to be taken seriously, why do you feel you yourself need to be the one to deal with them? If they're incompetent, shouldn't anyone be able to handle them?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "So you challenge me, iknami? I'm wounded. However, as I said before, I do not feel we can trust many people while we have potential traitors around us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But if they've managed to position some of their members in very important roles, surely they can't be completely incompetent?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "We do not need to do this dance, [player name]. I understand that where you come from, there is a certain art to holding a conversation. We do not bother with that here. You may be direct."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I guess I just still don't know you that well. If we're about to infiltrate this cult together, I'd like to understand why you think it's important you do this yourself."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I see. I understand your doubts, my friend. I suppose I have a few reasons for wanting to be here."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "First, I do truly believe this mission has the highest chance of success if fewer people know about it. While I am not convinced on the competence of our foe, I still do not intend to underestimate them."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Second, I suppose I feel a certain level of responsibility. My father was attacked on my watch. When someone falters, it is their duty to fix it, especially when they hold a position like mine."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "After all, a leader who sits by and lets others deal with his mistakes is not someone to have faith in."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Finally, Servius is my father. Our relationship is not a simple one, but he is my father all the same. I would see to it personally that his attackers face justice."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I hope that satisfies you, iknami."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It does. Thank you, Itzla."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd better go and speak to this shopkeeper."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to the Quetzacalli Gorge Shopkeeper",
+      "sections": [
+        {
+          "title": "Talking to him again after getting directions to the Twilight Temple",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Shopkeeper",
+                  "text": "Hello there. Looking for some supplies?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "About the Emissaries..."
+                },
+                {
+                  "speaker": "Shopkeeper",
+                  "text": "I already told you to keep your voice down! Fetch your friend and then head east to the Twilight Temple. I will send word for them to expect you both."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great! Thanks!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reporting back to Prince Itzla Arkan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Nilsal, [player name]. Any luck with that shopkeeper?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He's going to reach out to the Emissaries and let them know to expect us at their temple."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Kuani! Let us not waste any time then. I will meet you at the Twilight Temple. You'll find it east of here, on the other side of the Proudspire."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds good. I'll see you there shortly."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shopkeeper",
+              "text": "Hello there. Looking for some supplies?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I hear you can offer help to those in need."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "Well I'm always happy to help those less fortunate than I, but you don't really look like you need that sort of thing."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not sure if I should be insulted by that, or flattered... But anyway, you misunderstand. I'm not looking for help myself. Instead I was hoping to do some helping alongside you."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "Thank you for the offer, but I'm not really looking for help right now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you sure? I do also quite like death."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "What are you on about?"
+            },
+            {
+              "speaker": "Player",
+              "text": "You know, end of the world, holy fire, final dawns, that sort of thing."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "Are you a fool? Keep your voice down!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Look, I'm not here to cause problems. I just want to help."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "You want to join the Emissaries?"
+            },
+            {
+              "speaker": "Player",
+              "text": "And a friend as well."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "You know there are tests you'd need to pass, right? Not everyone can be considered worthy."
+            },
+            {
+              "speaker": "Player",
+              "text": "Fine by me. I love tests!"
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "There is a penalty for failing them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, not quite as fun, but I'm still up for it."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "Well... if you're sure, fetch your friend and then head east to the Twilight Temple. I will send word for them to expect you both."
+            },
+            {
+              "speaker": "Player",
+              "text": "Lovely! Thanks!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Prince Itzla Arkan",
+      "sections": [
+        {
+          "title": "Talking to Itzla again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "We still haven't been called upon yet. We may as well mingle with these other potential recruits while we wait."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Nova",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi there!"
+                },
+                {
+                  "speaker": "Nova",
+                  "text": "Greetings, iknami. It's good to see so many who are willing to contribute to the Final Dawn. The word of the Augur has changed everything. The time to act is now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Augur?"
+                },
+                {
+                  "speaker": "Nova",
+                  "text": "You have not heard? She is the one who now leads the Emissaries. She has taken this once helpless collective and turned them into the ones who will guide us all to Mokhaiotl."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you know all this? You're not even a member yet."
+                },
+                {
+                  "speaker": "Nova",
+                  "text": "I was once. In my time of need, I turned to the Emissaries, but they were even more helpless than I was."
+                },
+                {
+                  "speaker": "Nova",
+                  "text": "Now though, she has changed everything. Now it is my duty to rejoin their ranks so that we may bring about the Final Dawn."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. Thanks for the information."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Caritta",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there!"
+                },
+                {
+                  "speaker": "Caritta",
+                  "text": "Hello! You're not from around here, are you? It's exciting to see that even people from outside of Varlamore are looking to join the Emissaries!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well after I heard about all the good work they were doing, I could hardly say no! What about you? What made you want to join them?"
+                },
+                {
+                  "speaker": "Caritta",
+                  "text": "Well it's our duty of course! The Church of Ralos has become lost, but the Emissaries know the truth. Ximoua will not come to be unless we make it so!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you're quite eager to see the end of the world then?"
+                },
+                {
+                  "speaker": "Caritta",
+                  "text": "End? Ximoua is no end! It is the beginning! We will all come together as one and bring about a new world! I can't wait!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I'm glad to see you're so excited. Good luck with the tests."
+                },
+                {
+                  "speaker": "Caritta",
+                  "text": "And you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Felius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Felius",
+                  "text": "Leave me be. I am not here to make friends."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sergius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Sergius",
+                  "text": "I'm not sure I should be here. Maybe all this was a bad idea."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What makes you say that?"
+                },
+                {
+                  "speaker": "Sergius",
+                  "text": "I want to help... I want to believe... I really do! It's just all so intimidating..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sure it will be fine."
+                },
+                {
+                  "speaker": "Sergius",
+                  "text": "I hope so."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reporting back to Prince Itzla Arkan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Nilsal, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I had a chat to some of the other recruits. One of them had something rather interesting to say."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Apparently, the Emissaries gained a new leader recently. They refer to her as the Augur."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Metzli?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I guess there's only one way to find out."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Hmm... Did you learn anything else of note?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Apparently this Augur will lead the Emissaries to Mokhaiotl. Do you know what that means?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Mokhaiotl? I'm not my father, so you'll have to forgive my knowledge on this sort of thing, but if I remember right, Mokhaiotl plays a key role in Ximoua."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could you remind me what Ximoua is?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "It is said that one day, Ralos and Ranul will come together, uniting all souls as one. In doing so, they will bring about the destruction of this world, but also the birth of a new one."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Most accept that we cannot predict when this day will come. However, our friends in the Twilight Emissaries don't seem happy with that. They instead believe in something called Tsak Tauli, the Final Dawn."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah yes, I remember. They see it as their duty to make Ximoua happen. So where does this Mokhaiotl fit in?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "When Ralos and Ranul come together, it is said they will do so at Mokhaiotl, the centre of the world."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. Given that the Emissaries see it as their duty to bring about the end, I suppose it makes sense that they'd want to reach Mokhaiotl themselves."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Well I'd love to know how they plan on reaching the centre of the world. I can't imagine it's the kind of place that you can just stroll on down to."
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Itzlan. [player name]. It is time for you to prove your worth. Enter the tower when you're ready."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "But it seems we will have to ponder this mystery later. Pick up your follower and then let us head inside and see what tests await us."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "But it seems we will have to ponder this mystery later. Let us head in and see what tests await us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How so?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "It is said that Ralos and Ranul will come together at Mokhaiotl, the centre of the world. It is there that they will unite all souls as one, destroying this world and creating a new one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. Given that the Emissaries see it as their duty to bring about the end, I suppose it makes sense that they'd want to reach Mokhaiotl themselves."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Well I'd love to know how they plan on reaching the centre of the world. I can't imagine it's the kind of place that you can just stroll on down to."
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Itzlan. [player name]. It is time for you to prove your worth. Enter the tower when you're ready."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "But it seems we will have to ponder this mystery later. Pick up your follower and then let us head inside and see what tests await us."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "But it seems we will have to ponder this mystery later. Let us head in and see what tests await us."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Ah, there you are, [player name]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good to see you, er..."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Itzlan."
+            },
+            {
+              "speaker": "Player",
+              "text": "Itzlan?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Itzlan."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay... So what happens now that we're here?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "It seems this tower is where the Emissaries evaluate possible new members. If we're to get anywhere here, we're going to need to pass whatever tests they might have for us."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Apparently, someone called Forebearer Janus will call upon us when it's our turn to be tested. In the meantime, we may as well mingle with these other potential recruits."
+            },
+            {
+              "speaker": "Player",
+              "text": "You think they might know something of note?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Unlikely, but it would be interesting to know why they woke up one day and decided their calling in life was to join a cult."
+            },
+            {
+              "speaker": "Player",
+              "text": "This whole place is very fancy."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Yes, I must admit the Emissaries have a more elaborate setup than expected. They've never been this organised before, nor have their numbers been so great. Something must have changed."
+            },
+            {
+              "speaker": "Player",
+              "text": "Did they build everything here themselves?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Thankfully they are not quite that well put together. The temple here was built not long before the War of Betrayal. It is said that Imafore wanted somewhere dedicated to Ranul that would rival the Teomat."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "I'm guessing he was too foolish to realise that the Teomat is equally dedicated to both Ralos and Ranul."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Anyway, the temple was considered an affront to both the Church of Ralos and the Sect of Ranul. After Imafore died, most people were more than happy to see it abandoned."
+            },
+            {
+              "speaker": "Player",
+              "text": "And the Emissaries eventually moved in?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Yes, but only very recently."
+            },
+            {
+              "speaker": "Player",
+              "text": "Interesting... I wonder what the cause was."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "If all goes well, we will hopefully soon find out."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "We still haven't been called upon yet. We may as well mingle with these other potential recruits while we wait."
+            },
+            {
+              "speaker": "Player",
+              "text": "Alright, I'll get mingling."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Descending into the Tower of Ascension",
+      "sections": [
+        {
+          "title": "Attempting to climb up before speaking to Janus",
+          "sections": [
+            {
+              "title": "Speaking to Forebearer Janus again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Itzlan. [player name]. When you are ready to begin, climb the stairs. Your first trial awaits."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Speaking to Forebearer Janus in the lobby after restarting or failing some trials",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "You have trials to complete, [player name]. Climb up the stairs when you are ready."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Attempting to open the chest in the lobby without permission",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Hey! You haven't been given permission to open that!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Hey you! You're not allowed up there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "First Trial",
+          "sections": [
+            {
+              "title": "Pickpocketing a cultist",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Unlocking the south-west gate and chest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Unlocking the south-west chest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Talking to Prince Itzla Arkan before receiving the poem",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "These emissaries here are acting a bit strange... They keep putting their hands in their pockets."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Interesting..."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "We should keep looking for that passphrase."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Found anything of note, iknami?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have this book that might be of use."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Hmm... Seems some of the words are highlighted. I doubt that's a coincidence."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Prince Itzla Arkan after reading the poem",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Do you think you could help me translate some words?"
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Translate? Well I guess I can give it a go."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Silam."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Ah, I recognise this language. It's the language of the Old Ones. Servius did teach me a few of their words, though I may not have paid as much attention as he'd have liked..."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "This one means... 'West'!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks! Could you translate another?"
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "I can try."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Silam? I think that means 'west'."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Makt."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Makt? I believe that means..."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Er..."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "'North'! It means 'north'."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Makt? I think that means 'north'."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Uitt."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Uitt? If I remember correctly, that translates to 'south'."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Uitt? I think that means 'south'."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Uitt? I believe that means..."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Er..."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "'South'! It means 'south'."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Takam."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Ah, I recognise this language. It's the language of the Old Ones. Servius did teach me a few of their words, though I may not have paid as much attention as he'd have liked..."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "This one means... 'East'!"
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Takam? If I remember correctly, that translates to 'east'."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Takam? I think that means 'east'."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks! I'm done translating for now."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Well I hope it helps, iknami."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Prince Itzla Arkan with the Completed note",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I think I might have the passphrase."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Kuani! You'd better let Forebearer Janus know."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Forebearer Janus with the Completed note",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Recruit."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "About that passphrase..."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Do you have it yet?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I think so!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Moki Koma Ikam."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "No, that's not quite right."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I guess I'd better keep searching."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "That is correct. Well done! You and your companion may progress to the next trial."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm not quite ready."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Speak to me when you are ready to start."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm ready!"
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Welcome to your next trial. Here, there is one simple goal..."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Survive."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Speak to me when you are ready to start."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to an Emissary Ascended before completing the First Trial",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Emissary Ascended",
+                      "text": "I don't know if you'll ever figure this one out!"
+                    },
+                    {
+                      "speaker": "Emissary Ascended",
+                      "text": "Struggling? I've seen a lot of people fail to work this one out."
+                    },
+                    {
+                      "speaker": "Emissary Ascended",
+                      "text": "Do you think you've got the intellect to complete this one?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Welcome to your first trial. The aim is simple: Speak the correct pass phrase to me and you will be allowed to proceed. Let the trial begin!"
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Recruit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "About that passphrase..."
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Do you have it yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not quite yet, but I'll have it in no time."
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "We shall see."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... Sure!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are we meant to be doing again?"
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "It's quite simple: You just need to work out the passphrase and say it to me. You may use whatever you have available in this room to discover it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to an Emissary Ascended after completing the First Trial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Emissary Ascended",
+                  "text": "I admit, that was pretty fast. Still, it will take more than that for you to prove your worth."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Forebearer Janus after completing the first trial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Are you ready to start the next trial?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not quite ready."
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Then come back to me when you are."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Second Trial",
+          "sections": [
+            {
+              "title": "Talking to Forebearer Janus",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Recruit. Are you ready to start?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Can you remind me what this trial is?"
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "The goal is simple: Survive. That is the only advice I can offer you."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Now, are you ready to begin?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No, I'm not quite ready yet."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Speak to me again when you are."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes! I'm ready."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "As am I."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Then let the trial commence."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Itzla before beginning the fight",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "It seems some of the boxes have been left around the edges of the room..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll check them out."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "I think it's time for a fight! This one should be fun!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Dialogue during the fight",
+              "sections": [
+                {
+                  "title": "Wave 1",
+                  "sections": [],
+                  "dialogues": []
+                },
+                {
+                  "title": "Wave 2",
+                  "sections": [],
+                  "dialogues": []
+                },
+                {
+                  "title": "Wave 3",
+                  "sections": [],
+                  "dialogues": []
+                },
+                {
+                  "title": "Wave 4",
+                  "sections": [],
+                  "dialogues": []
+                },
+                {
+                  "title": "If Itzla dies during the fight",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Forebearer Janus",
+                          "text": "It appears your companion has fallen in battle!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Restarting the trial after Itzla dies",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Forebearer Janus",
+                          "text": "An unfortunate fate for your companion on your last attempt. Do you want to try again?"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": []
+            },
+            {
+              "title": "After the fight",
+              "sections": [
+                {
+                  "title": "Talking to Itzla",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Prince Itzla Arkan",
+                          "text": "Great work there, [player name]. I wonder what our next trial will be."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "You have fought well... This trial is now complete!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Third Trial",
+          "sections": [
+            {
+              "title": "Talking to Forebearer Janus again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Recruit. Any luck finding the traitor yet?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm working on it."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Remember, only one of the four before you is guilty of disloyalty. Question all four and determine who it is. I suggest you choose carefully."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Strategizing with Prince Itzla",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "So, what's our plan here?"
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "My guess is that one of them has some beliefs that don't quite line up with those of the Emissaries."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So we question them about that sort of thing? I can't imagine they'd be willing to be truthful about that."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "They can't be truthful about something they don't know about. Take advantage of gaps in their knowledge - gaps that a true Emissary wouldn't have."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You know, it sounds like they plan to kill whoever is guilty."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Shouldn't have joined a crazy murder cult then. Or if they really were committed to joining a crazy murder cult, they should have at least made sure they were actually good at it!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you not even have a little bit of sympathy for them?"
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "No."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Fair enough. I guess I'd better get questioning."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Prince Itzla again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "How's it going, [player name]?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What do we know about the Emissaries and their beliefs?"
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Probably not as much as we should, but what we do know is that the Emissaries believe in Tsak Tauli, more commonly known as the Final Dawn."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Like with Ximoua, the Final Dawn sees Ralos and Ranul come together, uniting all souls as one. In doing so they destroy this world and create a new one."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "After that, the two gods separate again, but the souls they united stay within them. The cycle then starts over once more."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "The Emissaries seem to consider it their singular purpose to bring about the Final Dawn. Nothing else matters to them."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I see. Thanks for the information. Hopefully it will help me work out who this traitor is."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I still have some questioning to do."
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Good luck!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Janus during the trial",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Recruit. Any luck finding the traitor yet?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm working on it."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Remember, only one of the four before you is guilty of disloyalty. Question all four and determine who it is. I suggest you choose carefully."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Questioning Tenoch",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "You! Time for some questions."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why did you join the Emissaries?"
+                    },
+                    {
+                      "speaker": "Tenoch",
+                      "text": "To do my duty, of course. Ralos and Ranul wish us to bring about the end of this world. Only then will we see the birth of a new one."
+                    },
+                    {
+                      "speaker": "Tenoch",
+                      "text": "To do my duty, of course. Ralos and Ranul wish us to bring about the end of this world. Only then will we will all unite in Mictl."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Who do you worship?"
+                    },
+                    {
+                      "speaker": "Tenoch",
+                      "text": "I worship both Ralos and Ranul equally, for in reality they are one. They have been separated for now, but soon they will rejoin once more."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Tell me about the Final Dawn."
+                    },
+                    {
+                      "speaker": "Tenoch",
+                      "text": "The Final Dawn is our destiny. Ralos and Ranul will unite us all and end this world, but in doing so, we will all play a part in forming a new one."
+                    },
+                    {
+                      "speaker": "Tenoch",
+                      "text": "The Final Dawn is our destiny. Ralos and Ranul will unite us all and end this world, but in doing so, they will grant us eternal life in Mictl."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Questioning Silia",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "You! Time for some questions."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why did you join the Emissaries?"
+                    },
+                    {
+                      "speaker": "Silia",
+                      "text": "I always knew people were wrong about me. I knew I would serve a higher purpose. I never cared what it was. I only cared that in doing so, I would be serving the will of Ralos."
+                    },
+                    {
+                      "speaker": "Silia",
+                      "text": "I always knew people were wrong about me. I knew I would serve a higher purpose. I never cared what it was. I only cared that in doing so, I would be granted a place in Mictl."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Who do you worship?"
+                    },
+                    {
+                      "speaker": "Silia",
+                      "text": "I have served Ralos my whole life. I am his humble servant. It was he who guided me here so that I may serve his will."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Tell me about the Final Dawn."
+                    },
+                    {
+                      "speaker": "Silia",
+                      "text": "The Final Dawn is an end, but also a beginning. It is when Ralos will use his holy fire to destroy this world so that he and Ranul can build a new one."
+                    },
+                    {
+                      "speaker": "Silia",
+                      "text": "The Final Dawn is an end, but also a beginning. It is when Ralos will use his holy fire to destroy this world. Then he and Ranul will guide us to Mictl."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Questioning Adrius",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "You! Time for some questions."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why did you join the Emissaries?"
+                    },
+                    {
+                      "speaker": "Adrius",
+                      "text": "To be honest, I wasn't too sure about joining at first. My friend convinced me though. Here we're part of something bigger than ourselves."
+                    },
+                    {
+                      "speaker": "Adrius",
+                      "text": "To be honest, I wasn't too sure about joining at first. My friend convinced me though. Here we have a chance to be granted a place in Mictl."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Who do you worship?"
+                    },
+                    {
+                      "speaker": "Adrius",
+                      "text": "I've never been one for proper worship, but I believe in the teachings of Ralos and Ranul. I hope those teachings guide me through whatever is to come."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Tell me about the Final Dawn."
+                    },
+                    {
+                      "speaker": "Adrius",
+                      "text": "They say the Final Dawn is inevitable. It's the end that we can't escape from. It's a scary thought, but the Twilight Emissaries have embraced it, so I have as well."
+                    },
+                    {
+                      "speaker": "Adrius",
+                      "text": "They say the Final Dawn is inevitable. It's the end that we can't escape from. It's a scary thought, but at least here I have a chance to control my destiny and obtain a place in Mictl."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Questioning Eleuia",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "You! Time for some questions."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why did you join the Emissaries?"
+                    },
+                    {
+                      "speaker": "Eleuia",
+                      "text": "I wished to see my god in mortal form and serve his will. In return for my service, the Emissaries promised me they could grant that wish."
+                    },
+                    {
+                      "speaker": "Eleuia",
+                      "text": "I wished to see my god in mortal form and be granted eternity in Mictl. In return for my service, the Emissaries promised me they could grant that wish."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Who do you worship?"
+                    },
+                    {
+                      "speaker": "Eleuia",
+                      "text": "I am a humble servant of Ranul. It has always been my hope to stand before him and be judged as worthy."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Tell me about the Final Dawn."
+                    },
+                    {
+                      "speaker": "Eleuia",
+                      "text": "The Final Dawn is the will of Ranul. He will show us all that death is nothing to be feared as he and Ralos guide us into forming a new world."
+                    },
+                    {
+                      "speaker": "Eleuia",
+                      "text": "The Final Dawn is the will of Ranul. He will show us all that death is nothing to be feared. He and Ralos will lead us into forming a new world before then guiding us to Mictl."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Choosing the traitor",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I choose [member's name]. This is your traitor."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Very well."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "I'm afraid you have made the wrong choice. Let's try this again..."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Nicely done. [member's name] was indeed the traitor. You have both done well, but I wonder how well you will work together in the final trial..."
+                    },
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Speak to me when you are ready to proceed."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Restarting the trial after a false accusation",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Forebearer Janus",
+                      "text": "Be sure to choose more carefully this time, recruit."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll do my best."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Choosing a member after the traitor has been killed",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "[Innocent member]",
+                      "text": "Hey! No need for that. You found the failure among us already."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Prince Itzla Arkan after the execution",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Great work, [player name]. On to the final trial!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Are you ready to start the next trial?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm ready!"
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Welcome to your third trial. Before you stand some recently initiated acolytes. However, it seems one of them was not as loyal to our cause as first believed."
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Your task is to question all four and determine who the traitor is. I suggest you choose carefully. Good luck."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not quite ready."
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Then come back to me when you are."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fourth Trial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Are you ready to start the next trial?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm ready!"
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Well done, recruits. Victory is within your reach, but one more trial awaits..."
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Face your opponent."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait..."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Er..."
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "An Emissary must be prepared to sacrifice anything and everything. Only through sacrifice will we deliver Twilight's Promise. Only through sacrifice will we achieve the Final Dawn."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Well, you heard the man, [player name]. Shall we dance?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not sure if you should be so..."
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Ready yourselves! May the best warrior win!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not quite ready."
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Then come back to me when you are."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "During the fight against Prince Itzla",
+          "sections": [
+            {
+              "title": "Sweep attack",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "You might want to dodge this one!"
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Reckon you can dodge this?"
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "I'd move if I were you!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Prayer-disable attack",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Prayers? What prayers?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using a special attack",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "You're not allowed to do that!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After dealing the final blow",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "I yield!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Speaking to Forebearer Janus after defeating Prince Itzla",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "You and your companion will fit in nicely here. Let us head to the main chamber to discuss what happens next."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to head back up the stairs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "You don't need to be going up there. You've already completed your trials."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking to Prince Itzla in the lobby",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Well that was fun!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You know you're not meant to be enjoying yourself, right?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Don't be like that! Surely you must admit you enjoyed it a bit as well?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose I liked the part where I beat you."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Right, moving swiftly on. Let's see what Forebearer Janus has to say to us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking to Forebearer Janus in the lobby",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Congratulations to you both on completing the trials. You will make fine Emissaries."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what happens now?"
+                },
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "Now the Augur herself will oversee your initiation. You may collect your new robes from that chest over there. Put them on and proceed into the temple."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Itzla after talking to Forebearer Janus",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "We'd better change into those robes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Itzla after getting the robes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Let's head over to the temple."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Forebearer Janus after getting the robes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Janus",
+                  "text": "You should proceed to the temple. The Augur awaits."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the chest without enough inventory space",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Reclaiming the robes if they're lost",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the chest with the robes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter initiation without the robes on",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Emissary Ascended",
+                  "text": "Hey! You don't have permission to go in there!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Forebearer Janus",
+              "text": "Itzlan and [player name], I take it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "That's us."
+            },
+            {
+              "speaker": "Forebearer Janus",
+              "text": "Good. Allow me to welcome you to the Tower of Ascension. You are here because you hope to be welcomed into our family. We hope to welcome you as well, but alas, not all can be deemed worthy."
+            },
+            {
+              "speaker": "Forebearer Janus",
+              "text": "Here, in the Tower of Ascension, you will demonstrate your intellect, strength, loyalty and ability to sacrifice. In doing so, you will prove your worth to Ralos and Ranul."
+            },
+            {
+              "speaker": "Forebearer Janus",
+              "text": "When you are ready to begin, climb the stairs. Your first trial awaits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Initiation",
+      "sections": [
+        {
+          "title": "Talking to Fides before Itzla after the initiaion",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Fides",
+                  "text": "Welcome, acolyte, and congratulations on your initiation. I am just making the final preparations on the duties for you and your companion. They will be ready shortly."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Itzla after the initiation",
+          "sections": [
+            {
+              "title": "Talking to Itzla again before Fides",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Let's see what duties this Forebearer Fides has for us."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Well that was a level of insanity that even I wasn't ready for."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They think Ennius and Furia are Ralos and Ranul reborn..."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Like I say, complete insanity! Metzli has twisted the minds of everyone here. They eagerly lap up her outlandish claims without ever stopping to consider how ludicrous they are."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "In some ways, I pity them, but alas, there is only one cure for this sort of thing. This cult must be eradicated, especially Metzli, Furia and Ennius."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still confused over what their plan is... They want to reach Mokhaiotl, but why would they need to kill Servius to do that? And why the whole set up with that Knight of Varlamore?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "What do you mean, iknami?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "When Furia and Ennius set that knight up, it was so obvious. It's like they wanted us to know it was them."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Hmm... A very good point. Could be this cult has just addled their brains, but it may be that they wanted us here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A trap?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I guess we will find out soon enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Should we not leave? We know the cult is guilty now, and we know Metzli, Furia and Ennius are part of it. We have everything we need."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "You said yourself, there are questions still unanswered. We must rectify that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So if there is a trap, you'd willingly spring it?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Well it would be the last thing they'd expect."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh boy..."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Let's have a chat to this Forebearer Fides about our new duties. Whatever they are, hopefully they give us a chance to learn more."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Forebearer Fides",
+          "sections": [
+            {
+              "title": "Talking to Fides again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Forebearer Fides",
+                      "text": "Welcome back, acolytes. You should head below and support the efforts in opening the path into Tapoyauik. Do this, and you will be rewarded by Ralos and Ranul themselves!"
+                    },
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "We'll get right to it!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Prince Itzla after Fides",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prince Itzla Arkan",
+                      "text": "Let's head down into these ruins."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Fides",
+                  "text": "Welcome, acolytes. Congratulations on your initiation."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Thank you! We're absolutely ecstatic to be here and we're ready to serve!"
+                },
+                {
+                  "speaker": "Forebearer Fides",
+                  "text": "I am glad to see you are so eager. We have an essential task for you to help perform. The completion of this task may well be essential in us finding a route to Mokhaiotl."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What would you have us do?"
+                },
+                {
+                  "speaker": "Forebearer Fides",
+                  "text": "After the Augur was blessed with glorious purpose, she felt a calling to this place. She came to this fallen temple and built us a home. However, it was not the temple that called to her, but what lies below."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Below?"
+                },
+                {
+                  "speaker": "Forebearer Fides",
+                  "text": "This temple was built atop Tapoyauik, a ruined fortress of the Old Ones. They walked the world during the last cycle, and when the time came for their cycle to end, they embraced their destiny willingly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Willingly?"
+                },
+                {
+                  "speaker": "Forebearer Fides",
+                  "text": "Of course! They basked in the glory of Ralos and Ranul and united with them as one, but before they did, they left behind the secrets needed to ensure that we too could fulfil our purpose."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "And the Augur? She found those secrets below?"
+                },
+                {
+                  "speaker": "Forebearer Fides",
+                  "text": "She did, but there is more to be uncovered. That is where you come in. Tapoyauik is a hostile environment and the passage into the ruins has been blocked."
+                },
+                {
+                  "speaker": "Forebearer Fides",
+                  "text": "Head below and support the efforts in opening the path once more. Do this, and you will be rewarded by Ralos and Ranul themselves!"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "We'll get right to it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering Tapoyauik",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "How are you with a pickaxe, iknami? I must confess, my own skills with one are rather poor."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did they never teach you how to do a bit of hard labour back when you were young?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "We all have different callings, my friend. Mining just wasn't mine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Clearly combat wasn't either given that performance earlier."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Oh I see! You win one fight and you start thinking you're something special."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... yes actually."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Well then a bit of mining shouldn't be any issue for you then. Get to it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After clearing the rocks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Forebearer Vulcan",
+                  "text": "Excellent work! Ralos and Ranul have blessed us on this day!"
+                },
+                {
+                  "speaker": "Emissary Acolyte",
+                  "text": "What's going on?!"
+                },
+                {
+                  "speaker": "Emissary Acolyte",
+                  "text": "Nagua! Run!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Itzla! Are you okay?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Well... I'm alive, which I must be honest, I wasn't really expecting after that!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can't see any way over to you."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Nor can I. I think we're just going to have to press on and hope that we can meet up again further ahead."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you sure?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Do you see any other options?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I guess not."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Than I shall meet you up ahead. Good luck!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Itzla by the frozen door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "There you are! I was starting to worry you'd got lost."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There were a few obstacles in my way."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Well unfortunately it seems we have another before us. I can't see any way to open this door."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... I'll have a look around and see what I can find."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Itzla again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Any luck with this door?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could I ask you about some words I found carved into the wall?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I'll do my best."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oma."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Oma? If I remember right, that means the number 'two'."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeya."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Yeya? That means..."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I think it means 'three'."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Naui."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Naui? Hmm..."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I'm afraid I don't know what that one means."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not to worry. I'm sure I can still work it out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Zema."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Zema? Let's see... That could mean a few things. 'Together', 'people' and 'one' are the ones I remember."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Interesting... Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you think Metzli found down here?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Nothing is my guess. The whole point of Ximoua is that it can't be, and shouldn't be, predicted. It's meant to teach us to live freely and not worry about that which we can't control."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So she's lying?"
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "That, or she herself was so desperate to find a greater meaning in something, that she misinterpreted what she did find."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "I suppose it doesn't matter though. This Final Dawn business is total nonsense, but if the Emissaries believe in it, then we need to work out what they consider so important about this place."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "On that note, I guess I should get back to the door."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Indeed. There must be some way to open it..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing yet."
+                },
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "There must be some way to open it..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If Prince Itzla targets an ice nagua",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Help me kill this thing, would you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After opening the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Itzla Arkan",
+                  "text": "Great work opening the door, [player name]. Time to see what awaits us on the other side."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Forebearer Fides",
+              "text": "Welcome, friends. You chosen few stand here because you have proven yourselves to be worthy. Here, you will not just find a home, you will find a family. Together, this family will bring about the Final Dawn."
+            },
+            {
+              "speaker": "Forebearer Fides",
+              "text": "No doubt you are wondering how we will achieve our destiny. I call upon our glorious leader, the Augur, to explain our holy mission."
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "This morning, you were nothing more than ants, scrambling to find purpose amongst the dirt. Now though... now you have achieved ascension."
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "Once, I was just the same. Like so many of you, I started my life with nothing. I would wake each morning and pray that I would find enough food to last through the day."
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "All the while, those above me treated me worse than a common criminal. I was a villain to them! Why? Simply because they were born with privilege, and I was not."
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "Eventually, I looked to the Sect of Ranul for guidance. I thought they might have shown me my path, but I was wrong."
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "Before long, I was their leader and it was instead me who was being looked to for guidance, for purpose. In truth though, even then I had nothing I could offer. I was as blind as I had always been."
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "But the day came when I finally saw my purpose, for I was blessed with a vision, granted to me by Ralos and Ranul themselves! I will share now with you what they shared with me."
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "Thirty one years ago, the moon eclipsed the sun and a false night fell across the land. That day marked a beginning, for it saw the birth of a pair of twins."
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "To most, they were children like any other, but I was shown the truth of their birth, for as the sun and moon combined, Ralos and Ranul were born in mortal forms!"
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "Now, they seek Mokhaiotl. There, they will unite us all as one, and a new world will be born. My purpose, which I now share with you, is to lead them there."
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "Blasphemy! Deceit! That is what people cry when they hear the truth. The Church of Ralos teaches that our work is false, and our royal leaders lap up their every word!"
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "Perhaps you still harbour doubts yourselves. I do not judge you. We have all been lied to our entire lives, and in truth, even after I was blessed by our gods, I held many doubts myself."
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "But you have all been chosen. You have all achieved ascension. I know that you are among the few who will understand. You are among the few who can see the truth!"
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "And see it you will! You do not need to take the word of a mere herald. Instead, bask in the glory of our gods reborn!"
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "You may recognise these faces as Ennius and Furia Tullus, but now I give you the truth. Before you stand our gods! Ralos and Ranul!"
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "Together, we will accompany them on their glorious journey! We will guide them to Mokhaiotl and bring about the Final Dawn! This is our purpose! This is our destiny! This is Twilight's Promise!"
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "You all have a part to play in what is to come. Forebearer Fides will assign you your duties. Speak with her and then go forth. Go forth and serve our gods!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Heart of the Ruins",
+      "sections": [
+        {
+          "title": "After defeating Amoxliatl",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Amoxliatl",
+                  "text": "Zema ami miki!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd better get to Fortis and let them know what happened!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to re-enter the ruins",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I need to get over to Fortis rather than going in there again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to climb the tower again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Servius, Teokan of Ralos",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Servius, Teokan of Ralos",
+                  "text": "Ah, nilsal, my child. It is good to see you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Servius? I wasn't expecting you to be up so soon."
+                },
+                {
+                  "speaker": "Servius, Teokan of Ralos",
+                  "text": "Ralos still has need of me, my child. I will not bow down to a mere knife wound."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I'm glad to see you're doing well, but I'm afraid I have some bad news. Itzla has been captured!"
+                },
+                {
+                  "speaker": "Servius, Teokan of Ralos",
+                  "text": "Captured? What do you mean?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We infiltrated the Twilight Emissaries together. We discovered Metzli to be their new leader, with Ennius and Furia at her side. She's claiming the two of them are Ralos and Ranul reborn!"
+                },
+                {
+                  "speaker": "Servius, Teokan of Ralos",
+                  "text": "Blasphemy and betrayal in equal measure! They will all burn in the light of Ralos for this! And you say they have captured the Prince as well?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They have. I don't know where they've taken him."
+                },
+                {
+                  "speaker": "Servius, Teokan of Ralos",
+                  "text": "This is dire news. I must speak to the Queen at once. Is there anything else I should be aware of before doing so?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The cult are apparently trying to reach Mokhaiotl."
+                },
+                {
+                  "speaker": "Servius, Teokan of Ralos",
+                  "text": "Mokhaiotl is not a place that can be reached! These fools are truly lost!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know... Something isn't right about all of this. We encountered a nagua in some Old One ruins. She called Mokhaiotl the Tlati archive."
+                },
+                {
+                  "speaker": "Servius, Teokan of Ralos",
+                  "text": "You should be careful of trusting the words of a nagua. Still, I must seek the guidance of Ralos on this matter. First though, I will speak with the Queen."
+                },
+                {
+                  "speaker": "Servius, Teokan of Ralos",
+                  "text": "I would suggest you make yourself scarce. The Queen will not take kindly to this development. I would hate for you to face her fire, my child."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I want to help."
+                },
+                {
+                  "speaker": "Servius, Teokan of Ralos",
+                  "text": "And help you will. I will ensure you are involved in whatever plans are made for dealing with this cult, but for now, you should leave this to me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thank you, Servius."
+                },
+                {
+                  "speaker": "Servius, Teokan of Ralos",
+                  "text": "Timoiva, my child, and may the sun light your way."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Amoxliatl",
+              "text": "Humans... You stand before Amoxliatl. State your intent."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Oh... Hello there."
+            },
+            {
+              "speaker": "Amoxliatl",
+              "text": "A greeting is not a statement of intent. State your intent."
+            },
+            {
+              "speaker": "Player",
+              "text": "Er... Well we're looking for information. The cultists in the temple above apparently found something down here. We need to know what they found so we can stop them."
+            },
+            {
+              "speaker": "Amoxliatl",
+              "text": "Your statement lacks specificity. Clarify. What information?"
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "On Mokhaiotl. The cultists are trying to get there."
+            },
+            {
+              "speaker": "Amoxliatl",
+              "text": "Mokhaiotl? The Tlati archive? That place is not for your kind. You misused the gifts you were granted. You are unworthy."
+            },
+            {
+              "speaker": "Prince Itzla Arkan",
+              "text": "Tlati? As in the rainforest? What do you mean? And what gifts?"
+            },
+            {
+              "speaker": "Player",
+              "text": "You! Where's Itzla?"
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "Itzla? He is no longer your concern."
+            },
+            {
+              "speaker": "Ennius Tullus",
+              "text": "Allow me to deal with this nuisance, Augur. The fire of Ralos is within me. He can be the first to bask in it."
+            },
+            {
+              "speaker": "Furia Tullus",
+              "text": "Save your fury, brother. This one is unworthy of it."
+            },
+            {
+              "speaker": "Amoxliatl",
+              "text": "Human arrogance. Here in Tapoyauik, I decide who is worthy."
+            },
+            {
+              "speaker": "Ennius Tullus",
+              "text": "Silence, nagua! Do you not know who stands before you?"
+            },
+            {
+              "speaker": "Amoxliatl",
+              "text": "You? You are nothing. You defile this place. Now face the consequences."
+            },
+            {
+              "speaker": "Augur Metzli",
+              "text": "There is nothing more for us here. If the nagua wants blood, our friend here will provide plenty..."
+            },
+            {
+              "speaker": "Amoxliatl",
+              "text": "You have been abandoned."
+            },
+            {
+              "speaker": "Player",
+              "text": "I need to get after them!"
+            },
+            {
+              "speaker": "Amoxliatl",
+              "text": "After them? No. You will not be going anywhere..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

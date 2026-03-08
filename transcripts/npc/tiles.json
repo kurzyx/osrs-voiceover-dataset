@@ -1,0 +1,41 @@
+{
+  "ref": "tiles",
+  "categoryRef": "npc",
+  "title": "Tiles",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tiles",
+              "text": "Hello. Do you wish me to exchange banknotes for you? I charge only 5 coins for each banknote."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Tiles",
+              "text": "Hand me the banknotes you wish me to exchange."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Tiles",
+              "text": "I am Tiles. I can exchange banknotes for real items. Do you want any banknotes converted?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

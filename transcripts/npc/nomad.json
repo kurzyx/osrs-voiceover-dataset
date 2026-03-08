@@ -1,0 +1,1310 @@
+{
+  "ref": "nomad",
+  "categoryRef": "npc",
+  "title": "Nomad",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Initial dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me, what is this place?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "What is this place? This is Soul Wars, a glorious battleground where you must fight to crush the souls of your enemies!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Really? Are souls easy to crush?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Easier than you'd imagine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. So how does it all work?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "I can give you a demonstration if you're interested?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's do it."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Hmm, you're not looking so great. You should cure yourself of poison before I give you the demonstration."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Hmm, you don't look so good. You should cure yourself of disease before I give you the demonstration."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Hmm, it looks like you have some restricted items with you. You should put them somewhere safe before we continue. Food, potions, capes, followers and non-combat items are all restricted."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Hmm, it looks like you're not actually ready for a demonstration right now."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Very well. Let's get started."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I'm good."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "So be it. You know where to find me if you change your mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pre-demonstration dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nomad",
+                  "text": "Ah, you again. Are you ready for that demonstration?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll pass."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "So be it. You know where to find me if you change your mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Post-demonstration dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nomad",
+                  "text": "Ah, you again. If you're here to crush some souls then I'm afraid you won't be able to. I can still help with anything else you need though."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Ah, you again. Are you here to crush some souls? Just head into a waiting area if you want to get started."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about Soul Wars?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Well I've given you the demonstration. Best thing now is to head into a waiting area and get started. That said, you won't be able to do that at the moment."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "I can give you the demonstration again if you want? I also have a book that might be useful."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Well I've given you the demonstration. Best thing now is to head into a waiting area and get started. That said, I can give you the demonstration again if you want? I also have a book that might be useful."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could you give me the demonstration again?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Hmm, you're not looking so great. You should cure yourself of poison before I give you the demonstration."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Hmm, you're not looking so great. You should cure yourself of disease before I give you the demonstration."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Hmm, it looks like you have some restricted items with you. You should put them somewhere safe before we continue. Food, potions, capes, followers and non-combat items are all restricted."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Very well. Let's get started."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could I have the book?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "It looks like you already have one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, alright then."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Is there something else you need?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Of course. Here you go."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Now, is there something else you need?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm good."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "So be it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I'm good."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "So be it. You know where to find me if you change your mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can we talk about rewards?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Certainly! I sell various rewards to those who have earned Zeal from Soul Wars battles."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What kinds of rewards are there?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "I can offer you some of my knowledge in various skills, I can use my abilities to imbue some of your items with additional power, and I also have some items I have found on my travels."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Would you like to see?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Very well. Is there something else you need?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can we talk about ammunition?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "How are the new capes working out for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just fine, thanks!"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Great, now get back in there and crush some souls!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, right away!"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "How are the new capes working out for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not bad. But I was wondering if they could be improved any further?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Well if you show me a better device I might be able to sort something out for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How about this one?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "You've already shown me this dead chicken. I don't really need to see it again. I might be able to do something if you show me a better one, though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How about this one?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Hmm, very interesting. Let's see what we can do."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "There we go! It's not quite the same, but it should work out just fine for you."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Bear in mind that the enchantment is bound to my power and so will only work for you while you are in a Soul Wars battle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great! Thanks for the help!"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "I don't really have time to discuss the finer points of Fletching, you know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not like that! You see, I helped create a device which returns my ammunition."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Really? If you could show it to me, I might be able to sort something out for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't want to talk to you."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "So be it. You know where to find me if you change your mind."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Soul Wars demonstration dialogue",
+      "sections": [
+        {
+          "title": "Introduction",
+          "sections": [
+            {
+              "title": "Attempting to pass through the blue or neutral barriers",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Hey! Where are you going?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Attempting to pass through the red barrier",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Attempting to take items from tables",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Hey! You don't need those. You're not in a real battle yet."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Attempting to attack another player's Zimberfizz or before instructed by Nomad",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Attempting to attack any opponents",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Hey! Don't attack those. You're not in a real battle yet."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "To continue the demonstration, come speak to me. I'm by the avatar in the south-west of the battleground."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Stepping inside the western neutral graveyard",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "This is one of the graveyards that your team can capture."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "For the purposes of this demonstration, however, I have kept it inactive."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "To continue the demonstration, come speak to me. I'm by the avatar in the south-west of the battleground."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nomad",
+                  "text": "Welcome to Soul Wars! Let's get started."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, what's this place all about?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "To the south you will have seen an avatar. You must fight to protect your team's avatar, and defeat the opposing team's avatar."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you crazy? Have you seen the size of it?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "You're here to fight, not whine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But how am I supposed to take on one of those?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "By capturing the Soul Obelisk, which lies at the centre of the battleground, and offering it soul fragments."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Let's head towards the Obelisk now. I can point out some of the important landmarks on the way. Meet me to the north when you are ready to learn more."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Supplies",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nomad",
+                  "text": "You might find this little area behind me useful for defending your avatar. There's one in the other team's base, too."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "During battle, you can gather supplies here to aid you and your teammates."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "The Soul Obelisk is just a little way from here. Let's continue on; I'll meet you to the east."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Souls",
+          "sections": [
+            {
+              "title": "Zimberfizz' soul fragment",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "When you kill a creature in Soul Wars, they will leave a soul fragment behind, which you can use to charge the Soul Obelisk."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Zimberfizz has such a soul fragment. Why don't you kill him and take it?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You want me to kill him?"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Yes!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Nomad before killing Zimberfizz",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Come on! Kill him already and get that soul fragment."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Nomad with the soul fragment",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Good job! Let's carry on to the Soul Obelisk and channel this soul fragment into it. It's just to the east, over a bridge and on a small island."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Nomad without the soul fragment",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Good job! Now, you've got that soul fragment, right?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "About that..."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "You've lost it? You're lucky you're not in a real battle yet!"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Here, have this one. Just look after it this time."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Make some space and I'll give you one. Just look after it this time."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll try..."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Now! Let's carry on to the Soul Obelisk and channel this soul fragment into it. It's just to the east, over a bridge and on a small island."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nomad",
+                  "text": "Now, to have a chance against an avatar, you are going to need souls. Lots of souls."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What am I going to do with souls?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "The Soul Obelisk is immensely powerful and, by channelling souls into it, you can weaken the enemy avatar."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How does that work?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "All I know is that it does, and that you should do it. Lots."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, where do I get these souls from?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "You can kill the souls that inhabit the arena ruins and harvest their soul fragments."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "For the purposes of this demonstration however, we will use my minion Zimberfizz."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Zimberfizz! Heel!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Soul Obelisk",
+          "sections": [
+            {
+              "title": "Talking to Nomad without the soul fragment",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Here we are at the Soul Obelisk. Now, you've got that soul fragment, right?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "About that..."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "You've lost it? You're lucky you're not in a real battle yet!"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Here, have this one. Just look after it this time."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Make some space and I'll give you one. Just look after it this time."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll try..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Nomad with the soul fragment",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Here we are at the Soul Obelisk. Now, to reap the full benefit of the soul fragment, you will need to first be in control of the Obelisk."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How do I do that?"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Various areas of the battleground can come under your team's control. To gain control, you must have more team members than the opposing team in these areas."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "If you outnumber the enemy, you will gradually take control. Let's try it out now."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "We shall use Zimberfizz to represent an enemy team member."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Minion! Heel!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Zimberfizz returns",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Come on, give him a good kick."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I thought he was dead? Didn't we kill him earlier?"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Ha! He wishes! No, his service to me is far from over."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Area control",
+          "sections": [
+            {
+              "title": "After killing Zimberfizz",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Poor little guy."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Ha! I'm sure he loves the attention, right Zimberfizz?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Zimberfizz's re-appearance",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Right, now that Zimberfizz is no longer in the Obelisk's capturable area, you outnumber the enemy! The Soul Obelisk will now begin to fall under your control."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Area control (continued)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Right. Now, go and charge the Obelisk with that soul fragment and see what happens."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Charging the Soul Obelisk",
+          "sections": [
+            {
+              "title": "If the player destroyed the soul fragment",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Here we are at the Soul Obelisk. Now, you've got that soul fragment, right?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "About that..."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "You've lost it? You're lucky you're not in a real battle yet!"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Here, have this one. Just look after it this time."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll try..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Nomad before sacrificing the soul fragment",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Go on, use the soul fragment on the Obelisk."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Sacrificing the soul fragment",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Angry avatars",
+          "sections": [
+            {
+              "title": "Talking to Nomad after sacrificing the soul fragment",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Good job! Now that you have charged the Obelisk, the enemy avatar will have been weakened."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So, once I've charged the Obelisk, can I just kick back and wait for the end of the game?"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Ha! I think not! I'm not about to reward those who don't put the effort in!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh well. Say, do you think the enemy avatar minds us weakening it like this?"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Hmm, why don't we go find out?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "At the read team's base",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "So, here we are in the enemy base."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Is that the enemy avatar over there?"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Yeah, and it looks like you made it pretty mad."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What? You're the one that told me to weaken it!"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Ha! Don't worry - I won't let it kill you."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Phew!"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Of course, that doesn't mean I won't kill you."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What did you say?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Argh!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Ghost",
+          "sections": [
+            {
+              "title": "Talking to Nomad as a ghost",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Wooooooooooo!"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "What?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Woooooo! Woooooo!"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Sorry, I don't speak ghost."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "There we go! Much better."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Death",
+          "sections": [
+            {
+              "title": "Talking to Nomad as a human",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "There we go! Much better."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hey! You killed me."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "At least it wasn't permanent! Think of it as an opportunity to learn."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How so?"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "The other team will be after you and any soul fragments you have collected, after all."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "I needed to show you what happens when you fall in battle."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Did you turn me into a ghost?"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Not exactly. The Soul Obelisk tried to claim your soul, as it does with all who perish in the battleground."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Only my power brought you here, and returned you to life."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Erm, thanks, I guess."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "You're more useful to me alive... for now."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Are there any other painful things to learn about this place?"
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "There is much more to this place, but you don't need to know about it yet."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "If you want to learn more, I can give you a Soul Wars guide upon our return to the waiting area."
+                    },
+                    {
+                      "speaker": "Nomad",
+                      "text": "Use the large blue portal at the back of this graveyard to return to the waiting area. Why not sign up for a battle while you're there?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Leaving Soul Wars",
+          "sections": [
+            {
+              "title": "Talking to Nomad after completing the tutorial",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nomad",
+                      "text": "Use the portal over there to return to the waiting area. I'll see you on the other side!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Leave-tutorial",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Finishing up",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nomad",
+                  "text": "Here we are. The waiting areas are just south of here, but you won't be able to join a battle right now."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Here we are. Just head south to the waiting areas if you want to join a battle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's all well and good, but what do I get out of all of this?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "I can offer you experience in various skills, and items I have found on my travels."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "I have a copy of the Soul Wars guide here. It contains information that I didn't have time to cover."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "You don't need to know it all to get started, but the section on burying bones could be useful."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Did you want to take it and read it in your own time?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Hmm, it looks like you already have one."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Oh, alright then."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Here you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Huh?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yikes!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh boy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using Ava's devices on Nomad",
+      "sections": [
+        {
+          "title": "Ava's attractor",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Check out this dead chicken!"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "You've already shown me this dead chicken. I don't really need to see it again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ava's accumulator, accumulator max cape, max cape or ranging cape",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Check out this dead chicken!"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "You've already shown me this dead chicken. I don't really need to see it again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "You've already shown me this dead chicken. I don't really need to see it again. I might be able to do something if you show me a better one, though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Hmm, very interesting."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was wondering if you could maybe make your capes do something similar to what this does?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Let's see what we can do."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "There we go. It's not quite the same, but it should work out just fine for you."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Bear in mind that the enchantment is bound to my power and so will only work for you while you are in a Soul Wars battle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great! Thanks for the help!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ava's assembler or assembler max cape",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Check out this dead chicken!"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "You've already shown me this dead chicken. I don't really need to see it again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Hmm, very interesting. This one seems more powerful than the last one you showed me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's right. I was wondering if you could maybe upgrade your capes again?"
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Let's see what we can do."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "There we go. It's not quite the same, but it should work out just fine for you."
+                },
+                {
+                  "speaker": "Nomad",
+                  "text": "Bear in mind that the enchantment is bound to my power and so will only work for you while you are in a Soul Wars battle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great! Thanks for the help!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "At the start of a Soul Wars Game",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Nomad",
+              "text": "The time is now! Crush their souls!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prior to release",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Excuse me, what is this place?"
+            },
+            {
+              "speaker": "Nomad",
+              "text": "What is this place? This is Soul Wars, a glorious battleground where you must fight to crush the souls of your enemies!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Really? Are souls easy to crush?"
+            },
+            {
+              "speaker": "Nomad",
+              "text": "Easier than you'd imagine."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. So how does it all work?"
+            },
+            {
+              "speaker": "Nomad",
+              "text": "Well I'm still getting things set up right now. Once everything is ready, return to me and I'll give you a demonstration."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "During Soul Wars beta",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Nomad",
+              "text": "Here to crush some souls? Just head into a waiting area to the south to get started."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "ref": "genie",
+  "categoryRef": "npc",
+  "title": "Genie",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Genie",
+              "text": "Ah, so you are there, [Master/Mistress] [player name]. I'm so glad you summoned me. Please take this lamp and make your wish."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player completed the event or is in a zone where the random event isn't allowed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Genie",
+              "text": "Have a nice day, [Master/Mistress]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the Genie is summoned by another player",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Genie",
+              "text": "Sorry, I'm trying to talk to someone else, but [he/she] seems to be ignoring me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Genie",
+              "text": "Greetings, [Master/Mistress] [player name]!"
+            },
+            {
+              "speaker": "Genie",
+              "text": "Hello, [Master/Mistress] [player name]?"
+            },
+            {
+              "speaker": "Genie",
+              "text": "Ehem... [Master/Mistress] [player name]?"
+            },
+            {
+              "speaker": "Genie",
+              "text": "I'm waiting for you, [Master/Mistress] [player name]!"
+            },
+            {
+              "speaker": "Genie",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical",
+      "sections": [
+        {
+          "title": "Standard dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Genie",
+                  "text": "Ah so you are there master. I'm so glad you summoned me. Please take this lamp, and make your wish!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the Genie is summoned by another player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Genie",
+                  "text": "Sorry, but I'm trying to talk to [player name]. However he appears to be ignoring me..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Overhead dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Genie",
+                  "text": "Greetings, Master [player name]!"
+                },
+                {
+                  "speaker": "Genie",
+                  "text": "Ehem... Master [player name]?"
+                },
+                {
+                  "speaker": "Genie",
+                  "text": "Are you there, Master [player name]?"
+                },
+                {
+                  "speaker": "Genie",
+                  "text": "You shouldn't ignore a Genie master [player name]?"
+                },
+                {
+                  "speaker": "Genie",
+                  "text": "No one ignores me!"
+                },
+                {
+                  "speaker": "Genie",
+                  "text": "I lose more masters that way."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

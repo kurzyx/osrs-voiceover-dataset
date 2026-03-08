@@ -1,0 +1,935 @@
+{
+  "ref": "miodvetnir",
+  "categoryRef": "npc",
+  "title": "Miodvetnir",
+  "sections": [
+    {
+      "title": "Talking to them for the first time",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Miodvetnir",
+              "text": "Oh look, a human!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "A human? Can we eat it?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "No, you rock brain! Humans are our friends!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, excuse me..."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Not sure if I would call them our friends... Not enemies either, of course."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Not like the trolls. We hate trolls."
+            },
+            {
+              "speaker": "Player",
+              "text": "Excuse me, I just want to-"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Nothing's worse than a troll."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Except discovering that your pickaxe's gone blunt just as you-"
+            },
+            {
+              "speaker": "Player",
+              "text": "Excuse me!!!"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Why, hello, yes, what is it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I er... well, who are you?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "I'm Derni."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "I'm Dernu."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "And I'm Miodvetnir. These are my brothers. And who might you be?"
+            },
+            {
+              "speaker": "Player",
+              "text": "My name is [player name]."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Pleased to meet you, [player name]!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "I say, we don't get to see a hummon down here very often!"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "It's a human, you metal head! You should pay more attention!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So, can I ask you dwarves a few questions?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Of course, we love answering questions!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "We're very good at answering questions!"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Fire away!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Thereafter",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Miodvetnir",
+              "text": "Hello again, [player name]!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Are you lost down here?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Or were you just stopping by for a chat?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Just stopping by for a chat."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's down this river?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Oh, you don't know?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "[He/She] doesn't know?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "[He/She] doesn't know!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can't you just tell me?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "It is our glorious city!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "The grand city of the dwarves!"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Sparkling jewel of the mountain!"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Keldagrim, our home!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you take me there?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Oh no, we can't do that."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "We're far too busy."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "You have to keep busy, you see."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Always keep busy, is what our good father used to say."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Besides, there's been some weird going ons in the city."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Don't tell [him/her] that! None of [his/her] business!"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Only fair if [he/she] wants to go into the city."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Oh yes, they only just cleaned up the mess from the last little incident."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "So watch out if you ever do manage to travel to the city! Weird things could happen!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Any good spots to fish around here?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Fish?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Fish?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "What are fish?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "No fish around here."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Say, you're the Fishing Champion, aren't you?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "That must be why you were talking about fish then..."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "What are fish?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "But this water here, you see, it comes dripping down from above."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Molten snow, you see."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "What are fish?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Oh, they're these small wriggly things that live in the water."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "But they're not all small! Some can be large!"
+            },
+            {
+              "speaker": "Derni",
+              "text": "And they don't breathe air."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "But [player name] could tell you all about it! After all, [he's/she's] the Fishing Champion!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Maybe later..."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are these mines used for?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "What does it look like they're used for?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Isn't it obvious?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "For mining of course!"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "These mines are actually the territory of one of the eight major companies of the mining Consortium."
+            },
+            {
+              "speaker": "Player",
+              "text": "Mining companies? Where are they at then?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Oh, they all have their headquarters in the city."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "First floor of the palace."
+            },
+            {
+              "speaker": "Derni",
+              "text": "No need to give [him/her] directions."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "We haul all our goods to the city by ship, you see."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Since the mine carts don't come here."
+            },
+            {
+              "speaker": "Derni",
+              "text": "But because the river goes right to the city, this is just as easy."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you help me with this rock down in the mines?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It seems to be unbreakable. I need to know why."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Say, is that Dondakan's rock?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "That big unbreakable rock?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "That's what [he/she] said, isn't? Pay more attention!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, yes, that's the one."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Oh, you're not going to get through there I'm afraid."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "It's unbreakable, you see."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Dondakan's been there for..."
+            },
+            {
+              "speaker": "Derni",
+              "text": "How long would you say he's been there, Miotvednir?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Eighteen years, Derni, and not a year shorter!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "That's some dedication!"
+            },
+            {
+              "speaker": "Derni",
+              "text": "But look at what it got him."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Nothing, that's what."
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "What material would break that rock? You know, the impenetrable one?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Well... have you tried a rune pickaxe?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "An adamantite tool?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "What about a bronze pickaxe?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "A bronze pickaxe??"
+            },
+            {
+              "speaker": "Derni",
+              "text": "What good would that do?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Well, you never know..."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Don't you think that's the first thing they tried?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Hey, it was just a suggestion!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you know anyone named Rolad? Some kind of a dwarven scholar?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Sorry, doesn't ring a bell."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Oh yes, I know Rolad!"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Oh, stop winding up the human, Dernu!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you know where he is right now?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "No idea, why?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Dondakan wants to shoot me out of a cannon!"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Oh dear!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "How awful!"
+            },
+            {
+              "speaker": "Derni",
+              "text": "That's terrible!"
+            },
+            {
+              "speaker": "Player",
+              "text": "He thinks I'm actually going to fly through it and land on the other side."
+            },
+            {
+              "speaker": "Derni",
+              "text": "That sounds a bit daft."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "How would that work?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "I think you're going to hurt your head."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Old Dondakan might have finally lost it."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "He was always obsessed with that rock."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "And gold."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Right, and gold."
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Any tips on how to defeat an evil demon?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "An evil demon, you say?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "I'd run away if I ever ran into an evil demon."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Don't be such a coward, Dernu!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Well, what would you do then?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "I don't know, I've never encountered an evil demon."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "I once met a good demon though."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Oh yes, what did he say?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "He gave me a puzzle box and then went off again."
+            },
+            {
+              "speaker": "Derni",
+              "text": "I think you must have had too much dwarven stout in you."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Could be, could be, but there's no telling, is there?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "I defeated the spirit of the rock!"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "That's amazing!"
+            },
+            {
+              "speaker": "Derni",
+              "text": "That's fantastic!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "What rock was that again?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Pay attention for once, Dernu! It's Dondakan's rock!"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "That's quite impressive, Player. How did you manage to do that?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, you see, I just-"
+            },
+            {
+              "speaker": "Derni",
+              "text": "What kind of question is that to ask? With [his/her/their] great might of course!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Or vast magical skills!"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "No, you're more a ranger, aren't you Player?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I-"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Anyway, this calls for a celebration."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Oh yes, we should go down into Keldagrim to celebrate."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Tonight, of course, not now. We're on duty now."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Right... and I'm sure traffic here will pick up soon with that rock broken."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "I heard there's vast amount of gold inside!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "The company is going to be rich!"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Now don't you go and discuss company business in front of this human, Dernu."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Right. Let's get back to work."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Anything else you wanted, Player?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "I need some help with this statue... King Alvis' statue, to be precise."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Oh yes, what's the problem then?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "It was knocked down, remember? Parts of it nearly landed on our heads?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "A terrible noise it made too!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "This sculptor has got me looking for a lot of items, you see."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Items eh?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "We love items."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Can't get enough of them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, can you he-"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "I got this puzzle box once, you know."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Oh, not that story again."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "You have told that story before, Dernu."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Well forget about it then. I'll shut up if you don't want to hear about it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, the sculptor only needs to build the head now. But I need to get the Consortium to help me with that."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "The Consortium, you say?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "You're going to talk to the Consortium?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "My, you're certainly moving up in the dwarven world, aren't you?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "What do you need us for then?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "We are but simple dwarves."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Especially you, Dernu."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Now now, Derni, there was no need for that."
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have rebuilt the statue for the [company name]!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "What, really?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Of course, really! Player wouldn't have said it otherwise, would [he/she/they]?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "And didn't you see Blasidar working on the statue?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Oh yes, he was out there for quite a while."
+            },
+            {
+              "speaker": "Derni",
+              "text": "That must have been a huge task."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Nothing's too difficult for old Blasidar."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "He truly is a master builder."
+            },
+            {
+              "speaker": "Derni",
+              "text": "We can all take an example to his hard work and dedication."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Speaking of, shouldn't we get back to work ourselves?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Quite right. Anything else you wanted, Player?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you know about this drunken dwarf...?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Drunken dwarf?"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Yeah, we know a drunken dwarf!"
+            },
+            {
+              "speaker": "Derni",
+              "text": "In fact we know plenty!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "There's this one really annoying dwarf though, he sometimes throws rocks at me for no reason."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeah, tell me about it."
+            },
+            {
+              "speaker": "Player",
+              "text": "The one I mean is his relative, living in the northeast of Keldagrim. I wonder if you could help me with him."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Ah yes, him."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Such a sad case, poor fellow."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Who is he?"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Don't you know anything?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Now now, there's no reason to get angry."
+            },
+            {
+              "speaker": "Derni",
+              "text": "I suppose you're right. Well, he's a drunk dwarf that talks about kebabs a lot."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Has some pretty odd tales to tell too."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "And I understand he's the relative of that dwarf I mentioned earlier."
+            },
+            {
+              "speaker": "Derni",
+              "text": "I hope that helped, Player?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have this unforgettable tale to tell you!"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "A tale!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "We love tales!"
+            },
+            {
+              "speaker": "Derni",
+              "text": "We live for tales!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Like, there was this one time when I lost my spanner in the mines..."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Player wants to tell a tale!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "But my spanner... it's a very interesting tale you know."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "I think we've heard it before."
+            },
+            {
+              "speaker": "Derni",
+              "text": "It was pretty forgettable."
+            },
+            {
+              "speaker": "Player",
+              "text": "Excuse me, do you want to hear my tale or not?"
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "Happy to."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Would love to hear it."
+            },
+            {
+              "speaker": "Dernu",
+              "text": "As long as it's better than my spanner story."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "So, what's your tale like?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, I errrr..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I seem to have forgotten."
+            },
+            {
+              "speaker": "Derni",
+              "text": "Must have been pretty forgettable as well then."
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "I must be off now, thanks for the chat."
+            },
+            {
+              "speaker": "Miodvetnir",
+              "text": "No problem!"
+            },
+            {
+              "speaker": "Dernu",
+              "text": "Glad to be of service!"
+            },
+            {
+              "speaker": "Derni",
+              "text": "Come back any time!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

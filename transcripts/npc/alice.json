@@ -1,0 +1,33 @@
+{
+  "ref": "alice",
+  "categoryRef": "npc",
+  "title": "Alice",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Alice",
+              "text": "Hello. How can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you give me any Farming advice?"
+            },
+            {
+              "speaker": "Alice",
+              "text": "Yes - ask a gardener."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm okay, thank you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

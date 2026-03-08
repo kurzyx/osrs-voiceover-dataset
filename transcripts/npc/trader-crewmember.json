@@ -1,0 +1,176 @@
+{
+  "ref": "trader-crewmember",
+  "categoryRef": "npc",
+  "title": "Trader Crewmember",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, who are you?"
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "I'm one of Trader Stan's crew; we are all part of the largest fleet of trading and sailing vessels to ever sail the seven seas."
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "If you want to get to a port in a hurry then you can charter one of our ships to take you there - if the price is right..."
+            },
+            {
+              "speaker": "Player",
+              "text": "So, where exactly can I go with your ships?"
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "We run ships from Port Phasmatys over to Port Tyras, stopping at Port Sarim, Catherby, Brimhaven, Musa Point, Port Khazard and more besides!"
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "We might dock at Mos Le'Harmless once in a while, as well, if you catch my meaning..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow, that's a lot of ports. I take it you have some exotic stuff to trade?"
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "We certainly do! We have access to items bought and sold from around the world. Would you like to take a look? Or would you like to charter a ship?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, let's see what you're trading."
+            },
+            {
+              "speaker": "Player",
+              "text": "Isn't it tricky to sail about in those clothes?"
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Tricky? Tricky!"
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "With all due credit, Trader Stan is a great employer, but he insists we wear the latest in high fashion even when sailing."
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Do you have even the slightest idea how tricky it is to sail in this stuff?"
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Some of us tried tearing it and arguing that it was too fragile to wear when on a boat, but he just had it enchanted to re-stitch itself."
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "It's hard to hate him when we know how much he shells out on this gear, but if I fall overboard because of this getup one more time, I'm going to quit."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow, that's kind of harsh."
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Anyway, would you like to take a look at our exotic wares from around the world? Or would you like to charter a ship?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I would like to charter a ship."
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Certainly [sir/madam]. Where would you like to go?"
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Crandor? Are you crazy?"
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "No charter ship would take you to that island. You'd need to buy your own ship and, even then, you'd have trouble finding a captain crazy enough to go there."
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Sorry, we aren't a laundry ship. You'll need to leave those dirty bedsheets behind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Would you let me bring it if I told you it was a security blanket?"
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "No, then we would just mock you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, I see."
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Is that your bedsheet covered in filthy slime?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I can say in all honesty that it is not."
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Well, whoever it belongs to, it's not coming on this ship!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What brings you all the way out here?"
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "The same thing that brings us everywhere, friend. We're here to trade. The tortugans were reluctant at first, but we eventually convinced them to let us do business with them."
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "It's a shame they won't let us actually go beyond the docks though. I'd quite like to see the rest of their island..."
+            },
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Anyway, would you like to take a look at our exotic wares from around the world? Or would you like to charter a ship?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right click Charter option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Right click Charter-to current location",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Trader Crewmember",
+              "text": "Why do you want to travel to a port you are already at? Do you want to travel somewhere else?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

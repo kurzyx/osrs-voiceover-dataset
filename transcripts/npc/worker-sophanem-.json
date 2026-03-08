@@ -1,0 +1,129 @@
+{
+  "ref": "worker-sophanem-",
+  "categoryRef": "npc",
+  "title": "Worker (Sophanem)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Worker",
+              "text": "Hey there!"
+            },
+            {
+              "speaker": "Player",
+              "text": "You seem rather happy for a busy labourer with a bad case of spots."
+            },
+            {
+              "speaker": "Worker",
+              "text": "Of course! These spots are the best thing since log rollers!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I really don't follow."
+            },
+            {
+              "speaker": "Worker",
+              "text": "Well thanks to these spots, the city has been under quarantine. That means there's no goods coming in or out. No goods means we don't have any work to do!"
+            },
+            {
+              "speaker": "Player",
+              "text": "But aren't the spots intolerable?"
+            },
+            {
+              "speaker": "Worker",
+              "text": "I would take a dermatological irritation over back-breaking, mind-numbing labour any day!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Right... Okay then..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after finishing Contact!",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Worker",
+              "text": "Hey."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's wrong?"
+            },
+            {
+              "speaker": "Worker",
+              "text": "The High Priest has determined that these spots aren't contagious. He's opened the city up again, which means we have to go back to work."
+            },
+            {
+              "speaker": "Worker",
+              "text": "Now that all the plagues have been cured, we've had to go back to work."
+            },
+            {
+              "speaker": "Player",
+              "text": "Cheer up! Work can't be that bad."
+            },
+            {
+              "speaker": "Worker",
+              "text": "You have no idea..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using a potion on him",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Worker",
+              "text": "What are you doing?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I have this acne potion that I thought might clear up your spots?"
+            },
+            {
+              "speaker": "Worker",
+              "text": "What, so that I can get back to work?"
+            },
+            {
+              "speaker": "Player",
+              "text": "So that you don't suffer needlessly?"
+            },
+            {
+              "speaker": "Worker",
+              "text": "I know your type, trying to ruin the small man's fun! I won't have it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Look, I'm sorry. I only wanted to help you."
+            },
+            {
+              "speaker": "Worker",
+              "text": "Clear off!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

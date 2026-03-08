@@ -1,0 +1,86 @@
+{
+  "ref": "guard-vemmeldo",
+  "categoryRef": "npc",
+  "title": "Guard Vemmeldo",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Good day. What are you up to?"
+            },
+            {
+              "speaker": "Guard Vemmeldo",
+              "text": "My job is to ensure that everyone can use the bank safely. Shifty types always hang around banks, you know."
+            },
+            {
+              "speaker": "Guard Vemmeldo",
+              "text": "You're not shifty, are you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, of course not."
+            },
+            {
+              "speaker": "Guard Vemmeldo",
+              "text": "Jolly good. Carry on then."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gnome Restaurant",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guard Vemmeldo",
+              "text": "Thank you. Be vigilant."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Elite",
+          "sections": [
+            {
+              "title": "After answering correctly",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Guard Vemmeldo",
+                      "text": "Well done!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard Vemmeldo",
+                  "text": "Please help me with this!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

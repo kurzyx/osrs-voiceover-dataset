@@ -1,0 +1,102 @@
+{
+  "ref": "nicholas",
+  "categoryRef": "npc",
+  "title": "Nicholas",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Nicholas",
+              "text": "Sorry [madam/mister], you'll have to make it quick - I'm busy hunting these wriggly buggers!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Is there anything I can do to help?"
+            },
+            {
+              "speaker": "Nicholas",
+              "text": "You'll have to speak to Tynan about that, [m'lady/sir], you can find him in the fishing store just south of here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks. I'll let you get back to work."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll let you get back to work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Nicholas",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Nicholas",
+                      "text": "No, try again."
+                    },
+                    {
+                      "speaker": "Nicholas",
+                      "text": "Correct!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nicholas",
+                  "text": "I have a question for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Nicholas",
+              "text": "I know you're down there!"
+            },
+            {
+              "speaker": "Nicholas",
+              "text": "Dig dig dig!"
+            },
+            {
+              "speaker": "Nicholas",
+              "text": "Grubblies!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

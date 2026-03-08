@@ -1,0 +1,61 @@
+{
+  "ref": "piliar",
+  "categoryRef": "npc",
+  "title": "Piliar",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Architectural Alliance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you an architect?"
+                },
+                {
+                  "speaker": "Piliar",
+                  "text": "Oh hello there, you've come to the right place."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wondered if you might have some time to help...?"
+                },
+                {
+                  "speaker": "Piliar",
+                  "text": "I am sorry but the people of Port Piscarilius does not favour you currently. I have to get back to my duties."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Architectural Alliance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Truly awesome sight!"
+                },
+                {
+                  "speaker": "Piliar",
+                  "text": "Indeed, rather proud of it myself, look at those fingernails."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

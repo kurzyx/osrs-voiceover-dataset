@@ -1,0 +1,61 @@
+{
+  "ref": "piles",
+  "categoryRef": "npc",
+  "title": "Piles",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Piles",
+              "text": "Hello. I can convert items to banknotes, for 50 coins per item. Just hand me the items you'd like me to convert."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Piles",
+              "text": "I'm Piles. I lived in Draynor Village when I was young, where I saw three men working in the market, converting items to banknotes."
+            },
+            {
+              "speaker": "Piles",
+              "text": "Their names were Niles, Miles and Giles. I'm trying to be like them, so I've changed my name and started this business here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Piles",
+                  "text": "Here you go."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

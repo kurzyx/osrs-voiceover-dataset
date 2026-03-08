@@ -1,0 +1,55 @@
+{
+  "ref": "guard-prifddinas-gatekeeper-",
+  "categoryRef": "npc",
+  "title": "Guard (Prifddinas gatekeeper)",
+  "sections": [
+    {
+      "title": "Before Song of the Elves",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, can I go in?"
+            },
+            {
+              "speaker": "Guard",
+              "text": "I'm afraid not. The city is on lockdown until the rebel elves are dealt with."
+            },
+            {
+              "speaker": "Player",
+              "text": "Please, I won't cause any trouble."
+            },
+            {
+              "speaker": "Guard",
+              "text": "Rules are rules. No one enters until the criminals are gone."
+            },
+            {
+              "speaker": "Player",
+              "text": "Fine, doesn't look very exciting anyway, it's just an empty field."
+            },
+            {
+              "speaker": "Guard",
+              "text": "Mind your tongue human. Our great city may be lost to us but that doesn't give you an excuse to talk like that."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Song of the Elves",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guard",
+              "text": "Welcome, adventurer."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

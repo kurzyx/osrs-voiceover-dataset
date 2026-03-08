@@ -1,0 +1,533 @@
+{
+  "ref": "estate-agent",
+  "categoryRef": "npc",
+  "title": "Estate agent",
+  "sections": [
+    {
+      "title": "Before buying a house",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Estate agent",
+              "text": "Hello. Welcome to the Gielinor Housing Agency! What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "How can I get a house?"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I can sell you a starting house in Rimmington for 1000 coins. As you increase your construction skill you will be able to have your house moved to other areas and redecorated in other styles."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Do you want to buy a starter house?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I haven't got 1,000 coins on me."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Well come back when you have it then."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Thank you. Go through the Rimmington house portal and you will find your house ready for you to start building in it."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "This book will help you to start building your house."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Well enjoy your player-owned cardboard box or wherever you're going to sleep tonight!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "It all came out of the wizards' experiments. They found a way to fold space, so that they could pack many acres of land into an area only a foot across."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "They created several folded-space regions across Gielinor. Each one contains hundreds of small plots where people can build houses."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, so that's how everyone can have a house without them cluttering up the world!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Quite. The wizards didn't want to get bogged down in the business side of things so they hired me to sell the houses."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "There are various other people across Gielinor who can help you furnish your house."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "You should start by buying planks from a sawmill operator. Sawmills are located in north-east Varrock, the Woodcutting Guild located in south-west Hosidius and north-east Prifddinas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Estate agent",
+              "text": "Hello. Welcome to the Gielinor Housing Agency! What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you move my house please?"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Where would you like it moved to?"
+            },
+            {
+              "speaker": "Player",
+              "text": "To Rimmington please!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already there!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 5,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been moved to Rimmington."
+            },
+            {
+              "speaker": "Player",
+              "text": "To Taverley please!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm afraid you don't have a high enough Construction level to move there. You need to have level 10."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already there!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 5,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been moved to Taverley."
+            },
+            {
+              "speaker": "Player",
+              "text": "To Pollnivneach please!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm afraid you don't have a high enough Construction level to move there. You need to have level 20."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already there!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 7,500 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been moved to Pollnivneach."
+            },
+            {
+              "speaker": "Player",
+              "text": "To Hosidius please!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm afraid you don't have a high enough Construction level to move there. You need to have level 25."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already there!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 8,750 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been moved to Hosidius."
+            },
+            {
+              "speaker": "Player",
+              "text": "To Rellekka please!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm afraid you don't have a high enough Construction level to move there. You need to have level 30."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already there!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 10,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been moved to Rellekka."
+            },
+            {
+              "speaker": "Player",
+              "text": "To Brimhaven please!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm afraid you don't have a high enough Construction level to move there. You need to have level 40."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already there!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 15,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been moved to Brimhaven."
+            },
+            {
+              "speaker": "Player",
+              "text": "To Yanille please!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm afraid you don't have a high enough Construction level to move there. You need to have level 50."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already there!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 25,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been moved to Yanille."
+            },
+            {
+              "speaker": "Player",
+              "text": "To Prifddinas please!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Where? Never heard of it."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm afraid you don't have a high enough Construction level to move there. You need to have level 70."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already there!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 50,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been moved to Prifddinas."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you redecorate my house please?"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Certainly. My magic can rebuild the house in a completely new style! What style would you like?"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already in that style!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 5,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been redecorated."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already in that style!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 5,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been redecorated."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already in that style!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 7,500 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been redecorated."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already in that style!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 10,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been redecorated."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already in that style!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 15,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been redecorated."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already in that style!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 25,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been redecorated."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm afraid you haven't unlocked that style."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already in that style!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 35,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been redecorated."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm afraid I'd need some blueprints for that."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already in that style!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been redecorated."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm afraid I'd need some blueprints for that. Maybe you can buy some by working for the contractors."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already in that style!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Absolutely. Hand me your blueprints and I'll make it happen! I'll keep the blueprints, so you'll always be able to switch back to this style in future, for a small fee."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 5,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been redecorated."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "I'm afraid you haven't unlocked that style."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house is already in that style!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Hmph. Come back when you have 35,000 coins."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been redecorated."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Absolutely, let me take your blueprints and I'll make it happen!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "If you'd like, you can build a new exit portal with these blueprints. Talk to Nigel if you need more."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Your house has been redecorated."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have a Construction guide book?"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "You've already got one!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Not until you free up some inventory space."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Certainly."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about houses!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "It all came out of the wizards' experiments. They found a way to fold space, so that they could pack many acres of land into an area only a foot across."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "They created several folded-space regions across Gielinor. Each one contains hundreds of small plots where people can build houses."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, so that's how everyone can have a house without them cluttering up the world!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Quite. The wizards didn't want to get bogged down in the business side of things so they hired me to sell the houses."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "There are various other people across Gielinor who can help you furnish your house."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "You should start by buying planks from a sawmill operator. Sawmills are located in north-east Varrock, the Woodcutting Guild located in south-west Hosidius and north-east Prifddinas."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about that skillcape you're wearing."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "As you may know, skillcapes are only available to masters in a skill. I have spent my entire life building houses and now I spend my time selling them! As a sign of my abilities I wear this Skillcape of Construction."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "If you ever have enough skill to build a demonic throne, come and talk to me and I'll sell you a skillcape like mine."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "The Cape of Construction also provides you with as many teleports as you like to any of the house portals or even directly inside!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you sell me a Skillcape of Construction?"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Alright, that'll be 99000 coins, please. A small price to pay for such an illustrious cape that can teleport you to any of the house portals or even directly inside your house!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not paying that!"
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Suit yourself. There are many other heroes who would love the opportunity to purchase one. You can find me here if you change your mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Certainly, that sounds fair."
+            },
+            {
+              "speaker": "Player",
+              "text": "But, unfortunately, I don't have enough money with me."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Well, come back and see me when you do."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Unfortunately all Skillcapes are only available with a free hood, it's part of a skill promotion deal; buy one get one free, you know. So you'll need to free up some inventory space before I can sell you one."
+            },
+            {
+              "speaker": "Estate agent",
+              "text": "Excellent! Wear that cape with pride my friend."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to relocate to Yanille in Deadman Mode",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Estate agent",
+              "text": "I'm sorry but it's impossible to move your house to Yanille with all those guards around."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

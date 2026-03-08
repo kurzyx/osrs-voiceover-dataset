@@ -1,0 +1,76 @@
+{
+  "ref": "border-guard-varlamore-",
+  "categoryRef": "npc",
+  "title": "Border Guard (Varlamore)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Attempting to enter the nearby cave before completing Children of the Sun",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Border Guard",
+                  "text": "Sorry, traveller, but you don't have permission to enter the Kingdom of Varlamore."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Border Guard",
+              "text": "Can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Just wondering what brings you out here?"
+            },
+            {
+              "speaker": "Border Guard",
+              "text": "This is the only land border into the Kingdom of Varlamore. We're here to make sure no one enters without permission."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. Would I be able to enter?"
+            },
+            {
+              "speaker": "Border Guard",
+              "text": "No. The Queen is currently making arrangements to allow outsiders like yourself to enter Varlamore without needing to obtain permission first. However, until then, you must remain on this side of the border."
+            },
+            {
+              "speaker": "Player",
+              "text": "Fair enough."
+            },
+            {
+              "speaker": "Border Guard",
+              "text": "Well, arrangements have now been made to allow outsiders like yourself to enter Varlamore. However, this is an inhospitable route into the kingdom. I'd suggest you find an alternate way to travel."
+            },
+            {
+              "speaker": "Player",
+              "text": "Fair enough."
+            },
+            {
+              "speaker": "Player",
+              "text": "Just passing through."
+            },
+            {
+              "speaker": "Border Guard",
+              "text": "Fair enough."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

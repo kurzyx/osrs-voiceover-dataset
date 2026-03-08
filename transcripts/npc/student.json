@@ -1,0 +1,53 @@
+{
+  "ref": "student",
+  "categoryRef": "npc",
+  "title": "Student",
+  "sections": [
+    {
+      "title": "Post-quest dialogue (animal skull)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Student",
+              "text": "Oh, hi again. News of your find has spread fast; you are quite famous around here now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Post-quest dialogue (special cup)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Student",
+              "text": "Hey it's the great explorer! Thanks a lot for the help earlier!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Post-quest dialogue (Teddy)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Student",
+              "text": "Hi there! Thanks again. Hey, maybe I'll be asking you for help next time. It seems you are something of an expert now!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

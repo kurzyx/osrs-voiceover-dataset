@@ -1,0 +1,65 @@
+{
+  "ref": "farmer-brumty",
+  "categoryRef": "npc",
+  "title": "Farmer Brumty",
+  "sections": [
+    {
+      "title": "Before Sheep Herder",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Farmer Brumty",
+              "text": "I have all the bad luck. My sheep all run off somewhere, and then those mourners tell me they're infected!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, I hope things start to look up for you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After the completion of Sheep Herder",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there. Sorry about your sheep..."
+            },
+            {
+              "speaker": "Farmer Brumty",
+              "text": "That's okay, it had to be done for the sake of the town."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After the completion of Song of the Elves",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there. Sorry about your sheep..."
+            },
+            {
+              "speaker": "Farmer Brumty",
+              "text": "That's okay, you are not to blame. I'm just glad the truth behind the plague was eventually revealed."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "ref": "orlando-smith",
+  "categoryRef": "npc",
+  "title": "Orlando Smith",
+  "sections": [
+    {
+      "title": "Before starting the natural history quiz",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Orlando Smith",
+              "text": "G'day there, mate."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good day. Are you alright? You look a little lost."
+            },
+            {
+              "speaker": "Orlando Smith",
+              "text": "Well, mate, to tell you the truth, I think I've come a gutser with these displays."
+            },
+            {
+              "speaker": "Player",
+              "text": "Come a what?"
+            },
+            {
+              "speaker": "Orlando Smith",
+              "text": "Gutser and no mistake. Me boss asked me to put together a quiz for the visitors."
+            },
+            {
+              "speaker": "Orlando Smith",
+              "text": "But to be deadset with you, I wasn't paying much attention to me boss over there and I've done a bit of a rush job."
+            },
+            {
+              "speaker": "Player",
+              "text": "You mean the natural historian?"
+            },
+            {
+              "speaker": "Orlando Smith",
+              "text": "Yep, that's the bloke. Say, mate, you do me a favour?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Perhaps. What do you need?"
+            },
+            {
+              "speaker": "Orlando Smith",
+              "text": "Well, you look like a pretty smart cobber. Could you take a look at the display plaques and give 'em a runthrough?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure thing."
+            },
+            {
+              "speaker": "Orlando Smith",
+              "text": "Bonza, mate! I reckon three questions per case should be bang to rights."
+            },
+            {
+              "speaker": "Orlando Smith",
+              "text": "Take a gander at each case and I'll look over your shoulder to give some advice."
+            },
+            {
+              "speaker": "Player",
+              "text": "Will do."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks. I'm too busy."
+            },
+            {
+              "speaker": "Orlando Smith",
+              "text": "Fair dinkum mate. I'm sure I'll get someone else to help me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After accepting to help with the natural history quiz",
+      "sections": [
+        {
+          "title": "Prior to correcting any display cases",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "G'day there, mate. How're the display cases coming along?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I haven't had the chance to take a look yet."
+                },
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "No worries, mate; just have a go when you can."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon selecting an incorrect answer at a display case",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Hmm, I don't think that's right, mate. Try again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon selecting a correct answer at a display case",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Nice job, mate. That looks about right."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After correcting any display case",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Nice job, mate. That looks about right."
+                },
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Bonza, mate! I think that's all of them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After correcting the last display case",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Nice job, mate. That looks about right."
+                },
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Bonza, mate! I think that's all of them."
+                },
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Well done, mate. You finished all of the displays."
+                },
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Come over and have a chat with me. I might have something for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after correcting at least one display case",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "G'day there, mate. How're the display cases coming along?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm getting there. I still have a few left to do."
+                },
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Bonza, mate. You're doing a great job so far."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Righty ho! I'll get back and finish the rest."
+                },
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Good luck!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after completing the display cases",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "G'day there, mate. How're the display cases coming along?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "All done. I've corrected the mistakes."
+                },
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Beaut' mate! That's the best news I've had all day."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Glad I could help."
+                },
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "Right, I'll have a chat to me boss over there and let him know you've helped me out."
+                },
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "You know, with all this new information you've absorbed, I reckon you can say you're more experienced in Slaying and Hunting now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, thank you very much."
+                },
+                {
+                  "speaker": "Orlando Smith",
+                  "text": "No worries, mate. You take care now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to him after completing the natural history quiz",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Orlando Smith",
+              "text": "Thanks for all your help, mate. Hope you enjoy the museum!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "ref": "brambickle",
+  "categoryRef": "npc",
+  "title": "Brambickle",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "You're a long way from home, what are you doing here?"
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "I'm on an expedition to try and extend the bounds of gnome knowledge. King Narnode has sent out a number of gnome explorers to map the furthest reaches of Gielinor."
+            },
+            {
+              "speaker": "Player",
+              "text": "Seems like a hard job."
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "Oh no, I enjoy it - I've always had itchy feet ever since I was a little gnome."
+            },
+            {
+              "speaker": "Player",
+              "text": "Still, you seem to have drawn the short straw here - there's nothing but snow..."
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "Oh, I like it - very peaceful. Avoiding those Trolls can be tricky though."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about it..."
+            },
+            {
+              "speaker": "Player",
+              "text": "What does this mint cake do?"
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "Gnomish mint cake is a great source of energy for the gnome traveller. It will give you that extra bit of zip when you are running out of steam."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ooh, that might come in very handy. Do you have any spare?"
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "I need all the mint cake I have, I'm afraid."
+            },
+            {
+              "speaker": "Player",
+              "text": "What does this seed pod do?"
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "Ah, the seed pod of the Grand Tree is a fascinating spirit artefact. It is a very useful thing, though one must treat it with respect, since the Grand Tree has a connection with all of its parts, however distant they"
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "may be. How do you think the Spirit Trees work?"
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "If you launch its seeds in a far flung location, you will be helping the tree survive, so the grand tree will help a gnome glider pilot find you, using the seed burst itself (which marks the sky) and a little magic, and bring you"
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "back home as an act of gratitude. Budding farmers will also find their link with plants to be just a little bit better than before."
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "However, it takes time for a pilot to find you, and if you are in a real hurry, and I mean a real emergency, you can just squash the seed pod. The Grand Tree doesn't like this, but will pull you back"
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "home straight away. Don't do this if you need to do anything with plants straight away, though - your fingers will be considerably less green for a while after using the seed pod this way, and the journey is not"
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "very pleasant..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Wow, that's very interesting. Thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "When talked to without having solved the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brambickle",
+                      "text": "Sorry but you haven't solved the puzzle yet."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "When talked to having solved the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brambickle",
+                      "text": "Thanks [player name]!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brambickle",
+                  "text": "I'm struggling with this, please help me solve it!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Gnome Restaurant dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Brambickle",
+              "text": "Brrrr. This will warm me up, I'm bored of snow and Troll food."
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "Now that I have some proper food, I won't need this any more."
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "Here, take these Grand Seed pods. Very useful in emergencies!"
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "I found this odd herb, maybe you can do something with it."
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "You must have had to travel a long way to get this to me. Here's a little something extra as a tip."
+            },
+            {
+              "speaker": "Brambickle",
+              "text": "You must have had to travel a long way to get this to me. Here's a little something extra as a tip."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

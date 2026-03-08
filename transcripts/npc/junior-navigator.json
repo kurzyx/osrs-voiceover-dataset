@@ -1,0 +1,78 @@
+{
+  "ref": "junior-navigator",
+  "categoryRef": "npc",
+  "title": "Junior Navigator",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Digsite",
+          "sections": [
+            {
+              "title": "Right-click 'Travel' option",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Junior Navigator",
+                      "text": "You should probably talk to the lead navigator, he's calling the shots around here."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Junior Navigator",
+                  "text": "Hello, you should probably talk to the lead navigator, he's calling the shots around here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fossil Island",
+          "sections": [
+            {
+              "title": "Right-click 'Travel' option",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Junior Navigator",
+                  "text": "Hey, [player name], would you like me to row you to shore?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

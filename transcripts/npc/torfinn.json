@@ -1,0 +1,112 @@
+{
+  "ref": "torfinn",
+  "categoryRef": "npc",
+  "title": "Torfinn",
+  "sections": [
+    {
+      "title": "Before The Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Torfinn",
+              "text": "Watch yourself, outerlander."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Fremennik Trials but before Dragon Slayer II",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Torfinn",
+              "text": "Good day to you, [Fremennik name]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Dragon Slayer II",
+      "sections": [
+        {
+          "title": "Rellekka",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Torfinn",
+                  "text": "Good day to you [Fremennik name]. Do you want to go to Ungael?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any of my items?"
+                },
+                {
+                  "speaker": "Torfinn",
+                  "text": "I do have some of your items here [Fremennik name]. Try not to lose them next time."
+                },
+                {
+                  "speaker": "Torfinn",
+                  "text": "I'm afraid not [Fremennik name]. If I did have any of your items, but you died before collecting them, they'll now be lost."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ungael",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Torfinn",
+                  "text": "Well met [Fremennik name]. Do you want to return to Rellekka?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Dragon Slayer II",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Right-click Collect",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Torfinn",
+              "text": "I'm afraid I don't have anything for you [Fremennik name]. If I did have any of your items, but you died before collecting them, they'll now be lost."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "ref": "saba",
+  "categoryRef": "npc",
+  "title": "Saba",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting Death Plateau",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Saba",
+                  "text": "Why won't people leave me alone?!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Death Plateau",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Saba",
+                  "text": "Have you got rid of those pesky trolls yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They will be gone soon! The Imperial Guard will use a secret way that starts from the back of the Sherpa's hut to destroy the troll camp!"
+                },
+                {
+                  "speaker": "Saba",
+                  "text": "I shall have peace again at last!"
+                },
+                {
+                  "speaker": "Saba",
+                  "text": "If those pesky humans don't start trampling all over Death Plateau again that is!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After starting Troll Stronghold",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Saba",
+                  "text": "Have you got rid of those pesky trolls yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid there's been some trouble..."
+                },
+                {
+                  "speaker": "Saba",
+                  "text": "You told me you'd get rid of the trolls!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sure the Imperial Guard will deal with them in due course."
+                },
+                {
+                  "speaker": "Saba",
+                  "text": "Hmph! They'd better!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Saba",
+                  "text": "Here! Now leave me alone!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

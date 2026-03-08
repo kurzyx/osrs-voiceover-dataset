@@ -1,0 +1,61 @@
+{
+  "ref": "ghost-guard",
+  "categoryRef": "npc",
+  "title": "Ghost guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before or during Ghosts Ahoy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ghost guard",
+                  "text": "All visitors to Port Phasmatys must pay a toll charge of 2 Ectotokens."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I would like to enter Port Phasmatys - here's 2 Ectotokens."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not paying you Ectotokens just to go through a gate."
+                },
+                {
+                  "speaker": "Ghost guard",
+                  "text": "Sorry - it's Town Policy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I get Ectotokens?"
+                },
+                {
+                  "speaker": "Ghost guard",
+                  "text": "You need to go to the Temple and earn some. Talk to the disciples - they will tell you how."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Ghosts Ahoy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ghost guard",
+                  "text": "All visitors to Port Phasmatys must pay a toll charge of 2 Ectotokens. However, you have done the ghosts of our town a service that surpasses all value, so you may pass without charge."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

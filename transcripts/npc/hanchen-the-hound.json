@@ -1,0 +1,127 @@
+{
+  "ref": "hanchen-the-hound",
+  "categoryRef": "npc",
+  "title": "Hanchen the Hound",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has no coins in their possession",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "Have you coin?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It seems I'm all out."
+                },
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "Then we have nothing to discuss."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has less than 1-10 coins in their possession",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "Have you coin?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Umm, just a little, why?"
+                },
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "Not nearly enough, we have nothing to discuss."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has more than 10 coins in their possession",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "Have you coin?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Umm, just a little, why?"
+                },
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "I'd rather not waste time in conversation with someone who can't pay for information."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who said I need information?"
+                },
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "You travelling types, all you have is questions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I guess I'm a little curious about your companion."
+                },
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "The jester? The journey has put him off performing, for the better, I'd say."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That was hardly worth it."
+                },
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "I never promised worthwhile information."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know much about the Painted One in the town center?"
+                },
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "Oh yes, he came with us. He tends to find himself in strange situations, but he can handle himself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you care more for gold than you do your friend?"
+                },
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "Apparently."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not giving you my money."
+                },
+                {
+                  "speaker": "Hanchen the Hound",
+                  "text": "Then we have nothing to discuss."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

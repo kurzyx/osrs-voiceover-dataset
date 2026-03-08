@@ -1,0 +1,93 @@
+{
+  "ref": "yanes",
+  "categoryRef": "npc",
+  "title": "Yanes",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without ghostspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Yanes",
+                  "text": "Woooo wooo wooooo woooo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With ghostspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Yanes",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How are you doing?"
+                },
+                {
+                  "speaker": "Yanes",
+                  "text": "Meh, I don't want to talk about it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh ummm... fair enough. Goodbye."
+                },
+                {
+                  "speaker": "Yanes",
+                  "text": "Not too well. I miss my friend. She couldn't join us here today."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why couldn't she join you?"
+                },
+                {
+                  "speaker": "Yanes",
+                  "text": "She had some afterlife business to take care of. Nieve's always so busy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nieve? I used to know a Nieve, but she died during horrible circumstances."
+                },
+                {
+                  "speaker": "Yanes",
+                  "text": "Really? You must be [player name]! She talks about you a lot."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Does she? I miss her. Steve is alright, but... he's not Nieve."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anyway, please send her my regards and let her know that I avenged her death."
+                },
+                {
+                  "speaker": "Yanes",
+                  "text": "I will."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

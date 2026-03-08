@@ -1,0 +1,69 @@
+{
+  "ref": "captain-malleta",
+  "categoryRef": "npc",
+  "title": "Captain Malleta",
+  "sections": [
+    {
+      "title": "First time talking",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Captain Malleta",
+              "text": "Adventurer. The General warned us about you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Warned?"
+            },
+            {
+              "speaker": "Captain Malleta",
+              "text": "Yes. He said you might show up here again. We're not to harm you, but make no mistake, we're keeping a close eye on you. You're not to be trusted."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well I guess that's the best I can hope for. So how are things going here?"
+            },
+            {
+              "speaker": "Captain Malleta",
+              "text": "We are not here to make small talk. Leave us to our work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue before completing Desert Treasure II",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey, how's it going?"
+            },
+            {
+              "speaker": "Captain Malleta",
+              "text": "You again? As I told you before, we are not here to make small talk. Leave us to our work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after completing Desert Treasure II",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Captain Malleta",
+              "text": "I already told you to stop bothering us. Please go away."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

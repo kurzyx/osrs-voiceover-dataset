@@ -1,0 +1,213 @@
+{
+  "ref": "victor-civitas-illa-fortis-",
+  "categoryRef": "npc",
+  "title": "Victor (Civitas illa Fortis)",
+  "sections": [
+    {
+      "title": "Standard dialogue (inside his residence)",
+      "sections": [
+        {
+          "title": "Outside his house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Victor",
+                  "text": "I've just spent so much money!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good for you."
+                },
+                {
+                  "speaker": "Victor",
+                  "text": "I've got something in the back of my mind telling me I should go back home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You don't say..."
+                },
+                {
+                  "speaker": "Victor",
+                  "text": "Lovely day for a stroll, wouldn't you say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It is!"
+                },
+                {
+                  "speaker": "Victor",
+                  "text": "Sorry, but I don't have time to chat. I've got important errands to run."
+                },
+                {
+                  "speaker": "Victor",
+                  "text": "I can't talk right now. I'm busy."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Victor",
+              "text": "Have I seen you before?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't think so... I've just got one of those faces."
+            },
+            {
+              "speaker": "Victor",
+              "text": "You're probably right."
+            },
+            {
+              "speaker": "Victor",
+              "text": "I'm rather busy at the moment. I've got to organise my cupboards of jewels."
+            },
+            {
+              "speaker": "Player",
+              "text": "Want any help?"
+            },
+            {
+              "speaker": "Victor",
+              "text": "Absolutely not! You stay away from my jewels."
+            },
+            {
+              "speaker": "Victor",
+              "text": "Interested in buying a house like mine?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not sure I've got enough coins to do that."
+            },
+            {
+              "speaker": "Victor",
+              "text": "Silly me! I mistook you for one of us wealthy folk."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well that's rude."
+            },
+            {
+              "speaker": "Victor",
+              "text": "You'll catch on."
+            },
+            {
+              "speaker": "Victor",
+              "text": "Hello there. Are you liking the city?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's beautiful!"
+            },
+            {
+              "speaker": "Victor",
+              "text": "It really is."
+            },
+            {
+              "speaker": "Victor",
+              "text": "Huh? Are you an encyclopedia salesman?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, sir, I'm a burglar. I burgle people."
+            },
+            {
+              "speaker": "Victor",
+              "text": "Hmm... I think you're an encyclopedia salesman?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not at all. I just want to ransack the place. Honestly."
+            },
+            {
+              "speaker": "Victor",
+              "text": "Hmm... Alright then."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When Victor leaves the house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Victor",
+                  "text": "Time to go check how rich I am!"
+                },
+                {
+                  "speaker": "Victor",
+                  "text": "Lovely day for a stroll."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is still inside when Victor leaves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "When Victor returns to the house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Victor",
+                  "text": "Now where did I put my keys..."
+                },
+                {
+                  "speaker": "Victor",
+                  "text": "Ah, there they are!"
+                },
+                {
+                  "speaker": "Victor",
+                  "text": "It smells funny in here..."
+                },
+                {
+                  "speaker": "Victor",
+                  "text": "There's mud all over the floor!"
+                },
+                {
+                  "speaker": "Victor",
+                  "text": "Something isn't right here..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When Victor returns and catches you inside",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Victor",
+                  "text": "How did you get in here?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

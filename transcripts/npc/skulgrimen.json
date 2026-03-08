@@ -1,0 +1,49 @@
+{
+  "ref": "skulgrimen",
+  "categoryRef": "npc",
+  "title": "Skulgrimen",
+  "sections": [
+    {
+      "title": "Before the Fremennik Trials",
+      "sections": [
+        {
+          "title": "Trade option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello!"
+            },
+            {
+              "speaker": "Skulgrimen",
+              "text": "Sorry. I can't sell weapons to outerlanders. Wouldn't be right. Against our beliefs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After the Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Skulgrimen",
+              "text": "Hello again [Fremennik name]. Come to see what's for sale?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

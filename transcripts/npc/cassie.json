@@ -1,0 +1,40 @@
+{
+  "ref": "cassie",
+  "categoryRef": "npc",
+  "title": "Cassie",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cassie",
+              "text": "I buy and sell shields, do you want to trade?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

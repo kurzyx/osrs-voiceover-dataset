@@ -1,0 +1,56 @@
+{
+  "ref": "guardian-of-armadyl-messenger-",
+  "categoryRef": "npc",
+  "title": "Guardian of Armadyl (messenger)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Overhead",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guardian of Armadyl",
+                  "text": "[player name]?"
+                },
+                {
+                  "speaker": "Guardian of Armadyl",
+                  "text": "Are you there [player name]?"
+                },
+                {
+                  "speaker": "Guardian of Armadyl",
+                  "text": "[player name]? I have a message for you."
+                },
+                {
+                  "speaker": "Guardian of Armadyl",
+                  "text": "[player name]? You've been sent a message."
+                },
+                {
+                  "speaker": "Guardian of Armadyl",
+                  "text": "Maybe another time."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guardian of Armadyl",
+              "text": "Hello there. I have a message for you."
+            },
+            {
+              "speaker": "Guardian of Armadyl",
+              "text": "Sorry, I don't have anything for you right now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

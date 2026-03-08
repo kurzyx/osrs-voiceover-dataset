@@ -1,0 +1,172 @@
+{
+  "ref": "daer-krand",
+  "categoryRef": "npc",
+  "title": "Daer Krand",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Well-met!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "I am Daer Krand, an old student of Zandar Horfyre."
+            },
+            {
+              "speaker": "Player",
+              "text": "You certainly look the part."
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Yes. And you are?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm [player name], an adventurer."
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "It's a pleasure to make your acquaintance."
+            },
+            {
+              "speaker": "Player",
+              "text": "And yours."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are you here?"
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Great question! I have a better one..."
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "What is the Elixir of Everlasting?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Some kind of life extending potion?"
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Exactly! This table here is full of notes on the topic. Plenty of warnings that seem to be scribbled over the top in a rather rushed manner..."
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Sorry... I tend to ramble when excited."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you think you can recreate this elixir?"
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Me? Pah! I'm a dab hand at magic but my herblore has always been somewhat lacking. I'd go to the druids in Taverley but they don't trust us anymore... Know of any talented herbalists in the vicinity?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can't say I've met anyone that springs to mind."
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "That's a shame."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm world renowned at herblore. Perhaps I can help?"
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Next time, lead with that..."
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Anywho, I've yet to completely make sense of all these notes. Some must have been placed elsewhere."
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Maybe that loathsome vampyre wandering about knows something?"
+            },
+            {
+              "speaker": "Player",
+              "text": "The one roaming around lighting candles? He doesn't seem totally with it."
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Hmm, you might be right. He'll be of no use..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well then, if you do find the missing notes, I'm always happy to help."
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Yes? Oh, of course! Keep your eyes peeled when you're down here. If you see anything of interest, you know where to find me."
+            },
+            {
+              "speaker": "Player",
+              "text": "See you later."
+            },
+            {
+              "speaker": "Daer Krand",
+              "text": "Yes... Good day!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "Talking again while holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Daer Krand",
+                      "text": "Sorry but you haven't solved the puzzle yet."
+                    },
+                    {
+                      "speaker": "Daer Krand",
+                      "text": "Good work!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Daer Krand",
+                  "text": "Here, solve this for me. I need to keep working on these notes."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

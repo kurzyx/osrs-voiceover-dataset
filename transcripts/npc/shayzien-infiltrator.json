@@ -1,0 +1,75 @@
+{
+  "ref": "shayzien-infiltrator",
+  "categoryRef": "npc",
+  "title": "Shayzien Infiltrator",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Shayzien Infiltrator",
+              "text": "Quiet! I'm here observing the lizardmen shamans, try not to blow my cover."
+            },
+            {
+              "speaker": "Player",
+              "text": "You don't seem to be hiding very well."
+            },
+            {
+              "speaker": "Shayzien Infiltrator",
+              "text": "As if you could do better!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you know how many lizardmen I've killed?"
+            },
+            {
+              "speaker": "Shayzien Infiltrator",
+              "text": "The Shayzien records say you've killed [#] lizardmen since they began tracking your kills. [#] were lizardman shamans."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shayzien Infiltrator",
+              "text": "Quiet! I'm here observing the lizardmen shamans, try not to blow my cover."
+            },
+            {
+              "speaker": "Player",
+              "text": "You don't seem to be hiding very well."
+            },
+            {
+              "speaker": "Shayzien Infiltrator",
+              "text": "As if you could do better!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Riiiight, anyways, can I attack these lizardmen shaman?"
+            },
+            {
+              "speaker": "Shayzien Infiltrator",
+              "text": "Absolutely not! Do you want to get me killed? Now get out of here and stop trying to blow my cover!"
+            },
+            {
+              "speaker": "Shayzien Infiltrator",
+              "text": "Well I don't like the idea of you risking my cover. You are trusted by the Shayzien people though, so I suppose you can. Just be careful."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

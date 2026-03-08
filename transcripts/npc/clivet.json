@@ -1,0 +1,91 @@
+{
+  "ref": "clivet",
+  "categoryRef": "npc",
+  "title": "Clivet",
+  "sections": [
+    {
+      "title": "Before Hazeel Cult",
+      "sections": [
+        {
+          "title": "Attempting to use the raft",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clivet",
+                  "text": "Hey! I don't remember saying you could use that raft!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Clivet",
+              "text": "What do you want, adventurer?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Just passing by."
+            },
+            {
+              "speaker": "Clivet",
+              "text": "You have no business here. Leave now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hazeel Cult",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "After Hazeel Cult",
+      "sections": [
+        {
+          "title": "Sided with Carnillean",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clivet",
+                  "text": "You! Leave this place at once, before we're forced to make you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sided with Hazeel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Clivet",
+                  "text": "It is good to see you once more, adventurer. Glory to Hazeel!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

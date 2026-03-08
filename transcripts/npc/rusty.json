@@ -1,0 +1,68 @@
+{
+  "ref": "rusty",
+  "categoryRef": "npc",
+  "title": "Rusty",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Rusty",
+              "text": "Hiya. Are you carrying anything valuable?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are you asking?"
+            },
+            {
+              "speaker": "Rusty",
+              "text": "Um... It's a quiz. I'm asking everyone I meet if they're carrying anything valuable."
+            },
+            {
+              "speaker": "Player",
+              "text": "What would you do if I said I had loads of expensive items with me?"
+            },
+            {
+              "speaker": "Rusty",
+              "text": "Ooh, do you? It's been ages since anyone said they'd got anything worth stealing."
+            },
+            {
+              "speaker": "Player",
+              "text": "'Anything worth stealing'?"
+            },
+            {
+              "speaker": "Rusty",
+              "text": "Um... Not that I'd dream of stealing anything!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, I'll say I'm not carrying anything valuable at all."
+            },
+            {
+              "speaker": "Rusty",
+              "text": "Oh, what a shame."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

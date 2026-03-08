@@ -1,0 +1,76 @@
+{
+  "ref": "general-hining",
+  "categoryRef": "npc",
+  "title": "General Hining",
+  "sections": [
+    {
+      "title": "After Song of the Elves",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "General Hining",
+              "text": "Good day adventurer."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm surprised you're still here. Are you not going back to Ardougne?"
+            },
+            {
+              "speaker": "General Hining",
+              "text": "King Thoros and the Prifddinas Elders have agreed that we continue to maintain this outpost. We're now able to rotate our troops between here and Ardougne though, so they can spend more time with their families."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good to hear. Anyway, I'll leave you to it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "While holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "General Hining",
+                      "text": "Do not waste my time."
+                    },
+                    {
+                      "speaker": "General Hining",
+                      "text": "You have done well."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "General Hining",
+                  "text": "Before I will help you, you must complete this for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

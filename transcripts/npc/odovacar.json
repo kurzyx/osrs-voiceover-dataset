@@ -1,0 +1,227 @@
+{
+  "ref": "odovacar",
+  "categoryRef": "npc",
+  "title": "Odovacar",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without at least 100 coins in your inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Odovacar",
+                  "text": "Well met, fellow adventurer! How can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you?"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "How frightfully rude of me, my dear [chap/girl]. My name is Odovacar and I work for that excellent enterprise, the Bank of Gielinor."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If you work for the bank, what are you doing here?"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "As part of our ongoing service to provide you, the customer, with an absolutely world-class banking experience, we are investigating the option of opening a chain of travelling banks. These will provide you, our"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "esteemed customer, with the convenience of having banking facilities where they will be of optimum use to you. Such as here!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Huh?"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "I am the first of a new generation of travelling bankers that will wander the perilous areas of the world to provide you, the valued customer, with a bank when you need it most!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So I can access my bank account simply by talking to you?"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "Absolutely correct, dear [sir/lady]. I must warn you, however, that due to the significantly increased overheads of an enterprise such as this, there is a small bank charge of 100gp every time you want to access your account."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have the money. Can I get it from my bank?"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "It's not that I don't trust you to pay afterwards, old [chap/girl], but as the old adage goes, 'money comes before friends'."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's preposterous! I'm not paying to withdraw my own money!"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "I'm sorry to hear that, [sir/madam]. If you should reconsider, because I believe this service offers excellent value for money, do not hesitate to contact me."
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "I'm afraid you don't have the necessary funds with you at this time so I can't allow you to access your account. Please come again, when you have 100 gold to cover the fee."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to check my PIN settings."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to collect items."
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "I'm afraid you don't have the necessary funds with you at this time so I can't allow you to collect your items. Please come again, when you have 100 gold to cover the fee."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With at least 100 coins in your inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Odovacar",
+                  "text": "Well met, fellow adventurer! How can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you?"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "How frightfully rude of me, my dear [chap/lady]. My name is Odovacar and I work for that excellent enterprise, the Bank of Gielinor."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If you work for the bank, what are you doing here?"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "As part of our ongoing service to provide you, the customer, with an absolutely world-class banking experience, we are investigating the option of opening a chain of travelling banks. These will provide you, our"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "esteemed customer, with the convenience of having banking facilities where they will be of optimum use to you. Such as here!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Huh?"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "I am the first of a new generation of travelling bankers that will wander the perilous areas of the world to provide you, the valued customer, with a bank when you need it most!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So I can access my bank account simply by talking to you?"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "Absolutely correct, dear [sir/lady]. I must warn you, however, that due to the significantly increased overheads of an enterprise such as this, there is a small bank charge of 100gp every time you want to access your account."
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "My services will cost you 100 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's 100 coins. Let me access my account now."
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "My services will cost you 100 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's 100 coins. Let me collect my items now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's preposterous! I'm not paying to withdraw my own money!"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "I'm sorry to hear that, [sir/madam]. If you should reconsider, because I believe this service offers excellent value for money, do not hesitate to contact me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to access my bank account, please."
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "My services will cost you 100 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's 100 coins. Let me access my account now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's preposterous! I'm not paying to withdraw my own money!"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "I'm sorry to hear that, [sir/madam]. If you should reconsider, because I believe this service offers excellent value for money, do not hesitate to contact me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to check my PIN settings."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to collect items."
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "My services will cost you 100 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's 100 coins. Let me collect my items now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's preposterous! I'm not paying to withdraw my own money!"
+                },
+                {
+                  "speaker": "Odovacar",
+                  "text": "I'm sorry to hear that, [sir/madam]. If you should reconsider, because I believe this service offers excellent value for money, do not hesitate to contact me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using coins, platinum tokens, or noted items on Odovacar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Odovacar",
+                  "text": "Sorry, I don't perform that service."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

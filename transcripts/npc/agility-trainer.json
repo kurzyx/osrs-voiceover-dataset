@@ -1,0 +1,241 @@
+{
+  "ref": "agility-trainer",
+  "categoryRef": "npc",
+  "title": "Agility Trainer",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "With ring of Charos",
+          "sections": [
+            {
+              "title": "Attempting the zip line with a helm equipped",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "You need to take your headgear off before you try the Deathslide, otherwise you won't be able to get a good enough grip with your teeth."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Agility Trainer",
+                  "text": "Have you brought the stick yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What stick?"
+                },
+                {
+                  "speaker": "Agility Trainer",
+                  "text": "Come on, get round that course - I need something to chew!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Without ring of Charos",
+          "sections": [
+            {
+              "title": "Attempting the zip line with a helm equipped",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "That headgear won't help you here, human! Take it off!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Agility Trainer",
+                  "text": "Grrr - you don't belong in here, human!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "With ring of Charos",
+          "sections": [
+            {
+              "title": "Regular obstacle",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "Remember - a slow wolf is a hungry wolf!!"
+                    },
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "Get on with it - you need your whiskers perking!!!!"
+                    },
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "Claws first - think later."
+                    },
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "Imagine the smell of blood in your nostrils!!!"
+                    },
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "I never really wanted to be an agility trainer..."
+                    },
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "It'll be worth it when you hunt!!"
+                    },
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "Let's see those powerful backlegs at work!!"
+                    },
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "Let the bloodlust take you!!"
+                    },
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "You're the slowest wolf I've ever had the misfortune to witness!!"
+                    },
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "When you're done there's a human with your name on it!!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "When climbing up the skull slope without picking up the stick",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "You idiot - you've forgotten the stick!!!!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Zip line",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "Give my regards to the ground..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "WAAAAAARRRGGGHHHH!!!!!!"
+                    },
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "Don't let the spikes or the blood put you off..."
+                    },
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "Now for a true test of teeth..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Without ring of Charos",
+          "sections": [
+            {
+              "title": "Regular obstacle",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "You shouldn't even be here, human!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Zip line",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Agility Trainer",
+                      "text": "Let's see how strong human teeth are..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "WAAAAAARRRGGGHHHH!!!!!!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "End",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Agility Trainer",
+                  "text": "Remember - no stick, no agility bonus!"
+                },
+                {
+                  "speaker": "Agility Trainer",
+                  "text": "Bring me the stick when you've finished the course!"
+                },
+                {
+                  "speaker": "Agility Trainer",
+                  "text": "Don't forget to give me the stick when you're done!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

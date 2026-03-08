@@ -1,0 +1,260 @@
+{
+  "ref": "marla",
+  "categoryRef": "npc",
+  "title": "Marla",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Chef",
+              "text": "Hello, human. Something you need?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you doing up here?"
+            },
+            {
+              "speaker": "Chef",
+              "text": "Why, I'm ensuring everyone stays well fed and hydrated, of course! Fighting monsters is hard work, as I'm sure you know."
+            },
+            {
+              "speaker": "Chef",
+              "text": "Say, when was the last time you drank some water?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Uh, I suppose I am a bit thirsty..."
+            },
+            {
+              "speaker": "Chef",
+              "text": "Off you go and refresh yourself! Don't want you collapsing in front of the Hueycoatl now, do we?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on Marla",
+      "sections": [
+        {
+          "title": "Egg",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Marla",
+                  "text": "Oh, thank you! I'll make good use of this most versatile, nutritious and delicious ingredient!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Damp egg",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Take a look at this."
+                },
+                {
+                  "speaker": "Marla",
+                  "text": "Is this a joke, human?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? No! I-"
+                },
+                {
+                  "speaker": "Marla",
+                  "text": "We were warned not to trust your kind, and I can see why."
+                },
+                {
+                  "speaker": "Marla",
+                  "text": "What a horrible thing to do to someone."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I didn't mean anyth-"
+                },
+                {
+                  "speaker": "Marla",
+                  "text": "And to mar the egg in the first place?! I'm shaken to my core!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found it like this!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Redberry antelope",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Marla",
+                  "text": "Weird, isn't it? Definitely not what I would consider gourmet cooking, but to each their own..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After accepting Viero's request",
+      "sections": [
+        {
+          "title": "After obtaining the Redberry antelope",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, Marla!"
+                },
+                {
+                  "speaker": "Marla",
+                  "text": "Hello, [player name]! Looking for something to eat?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                },
+                {
+                  "speaker": "Marla",
+                  "text": "Suit yourself."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After giving Viero the redberry antelope",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Marla",
+                  "text": "Hello, [player name]! Looking for something to eat?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Viero thought the redberry antelope was 'interesting and complex'."
+                },
+                {
+                  "speaker": "Marla",
+                  "text": "Hah! That's certainly one way to put it!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, Marla!"
+            },
+            {
+              "speaker": "Marla",
+              "text": "Hello! Something you need?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you doing up here?"
+            },
+            {
+              "speaker": "Marla",
+              "text": "Why, I'm ensuring everyone stays well fed and hydrated, of course! Fighting monsters is hard work, as I'm sure you know."
+            },
+            {
+              "speaker": "Marla",
+              "text": "Say, when was the last time you drank some water?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Uh, I suppose I am a bit thirsty..."
+            },
+            {
+              "speaker": "Marla",
+              "text": "Off you go and refresh yourself! Don't want you collapsing in front of the Hueycoatl now, do we?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I have a request from the guard over there."
+            },
+            {
+              "speaker": "Marla",
+              "text": "And you are?"
+            },
+            {
+              "speaker": "Player",
+              "text": "[player name]!"
+            },
+            {
+              "speaker": "Marla",
+              "text": "Well, [player name], what is Viero's request?"
+            },
+            {
+              "speaker": "Player",
+              "text": "He wants to try sunlight antelope cooked with redberries."
+            },
+            {
+              "speaker": "Marla",
+              "text": "He wants what?! The altitude must be sending him loopy!"
+            },
+            {
+              "speaker": "Marla",
+              "text": "Ah well, he works hard and this is a rough post so I'll indulge him."
+            },
+            {
+              "speaker": "Marla",
+              "text": "I'll need a nice piece of raw sunlight antelope and some redberries to create the dish. Return when you have the ingredients."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have all the ingredients here."
+            },
+            {
+              "speaker": "Marla",
+              "text": "Okay, let's see..."
+            },
+            {
+              "speaker": "Marla",
+              "text": "Perhaps it would work best as a berry marinade..."
+            },
+            {
+              "speaker": "Marla",
+              "text": "Or maybe a delicate jus..."
+            },
+            {
+              "speaker": "Marla",
+              "text": "That should do it... I think. It smells pretty good, but I'm not convinced. See what Viero thinks."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, never mind."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

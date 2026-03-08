@@ -1,0 +1,161 @@
+{
+  "ref": "osten",
+  "categoryRef": "npc",
+  "title": "Osten",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Osten",
+              "text": "Welcome, traveller. Are you looking to represent one of the houses of Great Kourend?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me more."
+            },
+            {
+              "speaker": "Osten",
+              "text": "As you are probably aware, Great Kourend is a vast kingdom. Many adventurers choose to wear special clothing which allows them to explore swiftly and with elegance."
+            },
+            {
+              "speaker": "Osten",
+              "text": "As official tailor for Kourend, I can recolour this clothing, allowing adventurers to represent the city to which they are most loyal."
+            },
+            {
+              "speaker": "Osten",
+              "text": "If you are interested, I would be more than happy to offer my tailoring services in exchange for Marks of Grace."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to recolour my graceful clothing."
+            },
+            {
+              "speaker": "Osten",
+              "text": "Fantastic, simply pass me the items of clothing you would like recoloured, and we can get started."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not right now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I just wanted to buy some clothes."
+            },
+            {
+              "speaker": "Osten",
+              "text": "Oh, certainly. My assistant over there, Robyn, will be happy to help you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not right now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using uncoloured graceful outfit pieces on Osten",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Osten",
+              "text": "Are you sure you want to recolour that piece of graful clothing? It will cost 15 marks of grace."
+            },
+            {
+              "speaker": "Player",
+              "text": "That seems reasonable."
+            },
+            {
+              "speaker": "Osten",
+              "text": "Which city would you like to represent?"
+            },
+            {
+              "speaker": "Player",
+              "text": "[Name of Zeah house]."
+            },
+            {
+              "speaker": "Player",
+              "text": "I want the colours you're wearing."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, forget it."
+            },
+            {
+              "speaker": "Osten",
+              "text": "Sorry, you don't appear to have enough Marks of Grace. I charge 15 for my services."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not right now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using already-coloured graceful outfit pieces on Osten",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Osten",
+              "text": "I can remove that item's colours free of charge. Alternatively I can recolour it to represent a city of Kourend for a fee of 15 Marks of Grace."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to remove the colours."
+            },
+            {
+              "speaker": "Osten",
+              "text": "Are you sure you want to revert that piece of clothing? You'll have to pay again if you want it recoloured."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'm sure."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not right now."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to represent a different city."
+            },
+            {
+              "speaker": "Osten",
+              "text": "Which city would you like to represent?"
+            },
+            {
+              "speaker": "Player",
+              "text": "[Name of Zeah house]."
+            },
+            {
+              "speaker": "Player",
+              "text": "I want the colours you're wearing."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not right now."
+            },
+            {
+              "speaker": "Osten",
+              "text": "Sorry, you don't appear to have enough Marks of Grace. I charge 15 for my services."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not right now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

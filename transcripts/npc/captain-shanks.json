@@ -1,0 +1,107 @@
+{
+  "ref": "captain-shanks",
+  "categoryRef": "npc",
+  "title": "Captain Shanks",
+  "sections": [
+    {
+      "title": "Before completion of Shilo Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Captain Shanks",
+              "text": "Oh dear, this ship is in a terrible state. And I just can't get the items I need to repair it because Shilo village is overrun with zombies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completion of Shilo Village",
+      "sections": [
+        {
+          "title": "If the player does not have a ship ticket",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Shanks",
+                  "text": "Hello there shipmate! I sail to Khazard Port and to Port Sarim. Where are you bound?"
+                },
+                {
+                  "speaker": "Captain Shanks",
+                  "text": "I see you don't have a ticket for the ship, my colleague normally only sells them in Shilo village. But I could sell you one for a small additional charge. Shall we say [number] gold pieces"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I'll buy a ticket for the ship."
+                },
+                {
+                  "speaker": "Captain Shanks",
+                  "text": "Sorry me old shipmate, but you seem to be financially challenged at the moment. Come back when your coffers are full!"
+                },
+                {
+                  "speaker": "Captain Shanks",
+                  "text": "It's a good deal and no mistake. Here you go me old shipmate, here's your ticket."
+                },
+                {
+                  "speaker": "Captain Shanks",
+                  "text": "Ok, now you have your ticket, do you want to sail anywhere?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Khazard Port please."
+                },
+                {
+                  "speaker": "Captain Shanks",
+                  "text": "Very well then me old shipmate, I'll just take your ticket and then we'll set sail."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Port Sarim please."
+                },
+                {
+                  "speaker": "Captain Shanks",
+                  "text": "Very well then me old shipmate, I'll just take your ticket and then we'll set sail."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nowhere just at the moment thanks."
+                },
+                {
+                  "speaker": "Captain Shanks",
+                  "text": "Very well then me old shipmate, Just let me know if you change your mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, not just at the moment."
+                },
+                {
+                  "speaker": "Captain Shanks",
+                  "text": "Very well me old shipmate, come back if you change your mind now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has a ship ticket",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Shanks",
+                  "text": "Hello there shipmate! I sail to Khazard Port and to Port Sarim. Where are you bound?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

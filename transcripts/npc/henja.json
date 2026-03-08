@@ -1,0 +1,35 @@
+{
+  "ref": "henja",
+  "categoryRef": "npc",
+  "title": "Henja",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Henja",
+              "text": "Sorry, we don't talk to strangers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dialogue if the player has completed the 2018 Halloween event",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Henja",
+              "text": "Thanks again for helping Uncle Eric. He thinks you're really really brave. I hope he'll visit again soon."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

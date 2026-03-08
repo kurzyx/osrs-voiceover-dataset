@@ -1,0 +1,43 @@
+{
+  "ref": "galana",
+  "categoryRef": "npc",
+  "title": "Galana",
+  "sections": [
+    {
+      "title": "Before The Depths of Despair",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Galana",
+              "text": "No time to talk I'm afraid."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Depths of Despair",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Could you remind me where I can find that book on the Accord?"
+            },
+            {
+              "speaker": "Galana",
+              "text": "Try the [top/middle/bottom] floor, [north/south] [eastern/western] bay."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

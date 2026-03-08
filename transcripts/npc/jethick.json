@@ -1,0 +1,118 @@
+{
+  "ref": "jethick",
+  "categoryRef": "npc",
+  "title": "Jethick",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Plague City",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jethick",
+                  "text": "Hello, I don't recognise you. We don't get many newcomers around here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Plague City",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jethick",
+                  "text": "I'm surprised you're still here. Not many like to stick around this place if they have the choice."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After getting rid of the mourners during Song of the Elves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jethick",
+                  "text": "Good to see you friend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey Jethick, how's things?"
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "Not bad, the city is still a mess but we've finally got the chance to change that now the mourners have gone."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good to hear, all the best."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Jethick",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Jethick",
+                      "text": "Not even close!"
+                    },
+                    {
+                      "speaker": "Jethick",
+                      "text": "Spot on!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jethick",
+                  "text": "Let's see if you have what it takes to answer this question."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What question?"
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "The one on this scroll."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

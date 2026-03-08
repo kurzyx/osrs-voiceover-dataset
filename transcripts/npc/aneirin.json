@@ -1,0 +1,69 @@
+{
+  "ref": "aneirin",
+  "categoryRef": "npc",
+  "title": "Aneirin",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Aneirin",
+              "text": "You look like somebody who could use a bit of armour. What do you say?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll take a look."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Aneirin",
+              "text": "Maybe I overestimated you. I suppose such fine equipment isn't for everyone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right click repair option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Aneirin",
+              "text": "You don't have anything I can repair."
+            },
+            {
+              "speaker": "Aneirin",
+              "text": "There you go, happy doing business with you!"
+            },
+            {
+              "speaker": "Aneirin",
+              "text": "There you go, happy doing business with you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using an item on Aneirin",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Aneirin",
+              "text": "Sorry friend, but I can't do anything with that."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

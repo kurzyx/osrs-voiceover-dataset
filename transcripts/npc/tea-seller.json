@@ -1,0 +1,79 @@
+{
+  "ref": "tea-seller",
+  "categoryRef": "npc",
+  "title": "Tea Seller",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tea Seller",
+              "text": "Greetings! Are you in need of refreshment?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you selling?"
+            },
+            {
+              "speaker": "Tea Seller",
+              "text": "Only the most delicious infusion of the leaves of the tea plant. Grown in the exotic regions of this world. Buy yourself a cup !"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Tea Seller",
+              "text": "Well, if you're sure. You know where to come if you do!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Catching the player trying to steal from his tea stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tea Seller",
+                  "text": "Hey! Get your hands off there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with him after stealing from his tea stall recently",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tea Seller",
+                  "text": "You're the one who stole something from me!"
+                },
+                {
+                  "speaker": "Tea Seller",
+                  "text": "Guards[sic] guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

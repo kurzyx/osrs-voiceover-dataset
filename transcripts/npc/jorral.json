@@ -1,0 +1,333 @@
+{
+  "ref": "jorral",
+  "categoryRef": "npc",
+  "title": "Jorral",
+  "sections": [
+    {
+      "title": "Before Making History",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi there."
+            },
+            {
+              "speaker": "Jorral",
+              "text": "All is lost!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry?"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "Don't bother, you're not experienced enough to help me!"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "Just look around you! This great building will soon be in ruin."
+            },
+            {
+              "speaker": "Player",
+              "text": "Great building?"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "Of course! This building has a history spanning generations!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, I see, a great history. But why will it be in ruin?"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "It's to be ripped apart to make way for King Lathas' new alchemists' lab."
+            },
+            {
+              "speaker": "Player",
+              "text": "Does the king not respect the outpost's GREAT history?"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "Well, actually nobody knows what the history is. But there must be something."
+            },
+            {
+              "speaker": "Jorral",
+              "text": "Wait a minute. You could help me!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Me?"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "Yes! Uncover the history of this building to convince King Lathas to leave it alone. Do you want to know more?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me more."
+            },
+            {
+              "speaker": "Narration",
+              "text": "With many occupants over the years..."
+            },
+            {
+              "speaker": "Narration",
+              "text": "...the building has seen much action."
+            },
+            {
+              "speaker": "Narration",
+              "text": "It started life as an outpost..."
+            },
+            {
+              "speaker": "Narration",
+              "text": "... its sole purpose being to see invading armies..."
+            },
+            {
+              "speaker": "Narration",
+              "text": "... before they saw the city of Ardougne."
+            },
+            {
+              "speaker": "Jorral",
+              "text": "If all goes well, I hope to be able to turn it into a museum as a monument to the area's history. What do you think?"
+            },
+            {
+              "speaker": "Player",
+              "text": "OK, I will make a stand for history!"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "Oh thank you so much, you really are my saviour!"
+            },
+            {
+              "speaker": "Player",
+              "text": "But where should I start?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do I need to do now?"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "There are three people that may be able to help:"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "There is a silver trader in East Ardougne called Erin, who I believe can help."
+            },
+            {
+              "speaker": "Player",
+              "text": "In what way can he help?"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "His Great Grandfather lived in this outpost according to the records. He must know something!"
+            },
+            {
+              "speaker": "Player",
+              "text": "OK, I'll see what he has to say."
+            },
+            {
+              "speaker": "Jorral",
+              "text": "I've been told that there's a ghost far off in Port Phasmatys that moans of losing his life to this place."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sounds ominous. Does he have a name?"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "He does indeed. It's Droalak."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll track him down."
+            },
+            {
+              "speaker": "Jorral",
+              "text": "It might not be so simple! You'll need an amulet of ghostspeak to talk to him!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I've conversed with the dead before, that shouldn't be too much of a problem."
+            },
+            {
+              "speaker": "Jorral",
+              "text": "Up near the mountains, in Rellekka is a warrior called Dron whom I have spoken to in the past. He is always on the lookout for information that can improve his fighting and commanding skills."
+            },
+            {
+              "speaker": "Player",
+              "text": "And how's he related to this outpost?"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "He isn't directly, but he's studied many wars, and as this used to be an outpost it should have been involved in some war."
+            },
+            {
+              "speaker": "Player",
+              "text": "That sounds simple enough."
+            },
+            {
+              "speaker": "Jorral",
+              "text": "He isn't the easiest person to talk to, so you may need to speak to his brother, Blanin, first."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's the story so far?"
+            },
+            {
+              "speaker": "Jorral",
+              "text": "What do you mean? You've discovered nothing!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Got to go, bye!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't care about some dusty building."
+            },
+            {
+              "speaker": "Jorral",
+              "text": "It's doomed. DOOMED!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Making History",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Jorral",
+              "text": "Thanks for the help again. Feel free to browse the room next door!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [
+            {
+              "title": "When player has not completed Making History",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there, I have this master clue he..."
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "Stop! I can't help you unless you help me out first."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay then, moving on..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "When player does not have a Strange Device in their inventory",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi Jorral, I have come to ask you to help with something."
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "What can I do for you [Player name]?"
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "Ah! Remember that enchanted key you had to use previously?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes, I do."
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "Well this should function much the same, the deeper magic of the key itself is stored within this strange device."
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "You should feel it, and it will guide you to where you need to go."
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "You should make some room for it before I can give you it."
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "Be careful with it, the raw magic can damage you unexpectedly when you feel it."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No, I don't."
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "Ah, well the enchanted key can lead you to treasure. The magical nature of the key heats it up or cools it down, depending on your proximity to the treasure."
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "Well this should function much the same, the deeper magic of the key itself is stored within this strange device."
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "You should feel it, and it will guide you to where you need to go."
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "You should make some room for it before I can give you it."
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "Be careful with it, the raw magic can damage you unexpectedly when you feel it."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "When player has a Strange device in their inventory",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hey Jorral, I have one of those clue scrolls again, do you have any advice?"
+                    },
+                    {
+                      "speaker": "Jorral",
+                      "text": "That strange device will guide you in the same way the key did. Feel it, but be careful as it is very powerful. Good luck."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

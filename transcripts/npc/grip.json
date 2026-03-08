@@ -1,0 +1,89 @@
+{
+  "ref": "grip",
+  "categoryRef": "npc",
+  "title": "Grip",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "So can I guard the treasure room please?"
+            },
+            {
+              "speaker": "Grip",
+              "text": "Well, I might post you outside it sometimes. I prefer to be the only one allowed inside however."
+            },
+            {
+              "speaker": "Grip",
+              "text": "There's some pretty valuable artefacts in there! Those keys stay ONLY with the head guard and Scarface Pete."
+            },
+            {
+              "speaker": "Grip",
+              "text": "You'll have various guard related duties on various shifts. I'll assign specific duties as they are required as and when they become necessary. Just so you know, if anything happens to me"
+            },
+            {
+              "speaker": "Grip",
+              "text": "you'll need to take over as head guard here. You'll find important keys to the treasure room and Pete's quarters inside my jacket - although I doubt anything bad's going to happen to"
+            },
+            {
+              "speaker": "Grip",
+              "text": "me anytime soon!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Anything I can do now?"
+            },
+            {
+              "speaker": "Grip",
+              "text": "Hmm. Well, you could find out what this key opens for me. Apparently it's for something in this building, but for the life of me I can't find what."
+            },
+            {
+              "speaker": "Grip",
+              "text": "Can't think of anything right now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, I'd better sort my new room out."
+            },
+            {
+              "speaker": "Grip",
+              "text": "Yeah, I'll give you time to settle in. Better get a good nights sleep, I expect you to report for duty at oh five hundred hours tomorrow on the dot!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When trying to attack Grip",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I can't attack the head guard here! There are too many witnesses around to see me do it! I'd have the whole of Brimhaven after me! Besides, if he dies I want the promotion!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When searching through his drinks cabinet",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Grip",
+              "text": "Stay out of my drinks cabinet!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

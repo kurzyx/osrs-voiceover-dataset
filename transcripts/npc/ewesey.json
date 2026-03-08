@@ -1,0 +1,180 @@
+{
+  "ref": "ewesey",
+  "categoryRef": "npc",
+  "title": "Ewesey",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ewesey",
+              "text": "Are you a cook? I need more staff."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's going on here?"
+            },
+            {
+              "speaker": "Ewesey",
+              "text": "This is the Hosidius Mess. It was set up to help feed the soldiers from the Shayzien Encampment. Much better than anything they can cook over there."
+            },
+            {
+              "speaker": "Player",
+              "text": "How come it's so far from Hosidius?"
+            },
+            {
+              "speaker": "Ewesey",
+              "text": "The solders do enough hard work, so it seemed only right not to make them walk all the way across Kourend for a bit of food."
+            },
+            {
+              "speaker": "Ewesey",
+              "text": "Anyway, enough chatting. Are you a cook?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeah, I can do some cooking. Well, my level's [number<20], anyway."
+            },
+            {
+              "speaker": "Ewesey",
+              "text": "Hah! You'll need a level of 20 to cook anything for these soldiers. They're picky about what they eat."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeah, I can do some cooking."
+            },
+            {
+              "speaker": "Ewesey",
+              "text": "Good. When you've got more Hosidius favour, come back and I'll have plenty for you to do."
+            },
+            {
+              "speaker": "Ewesey",
+              "text": "Good. The soldiers like stew, meat pies and pineapple pizza. You'll find ingredients in the cupboards."
+            },
+            {
+              "speaker": "Ewesey",
+              "text": "When you've made something, put it on the buffet tables, and you'll gain experience based on how much the soldiers appreciate them."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to serve food or take servery ingredients without 20% Hosidius Favour",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ewesey",
+              "text": "You're not authorised to work in my kitchen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to serve servery ingredients",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ewesey",
+              "text": "They're not going to eat anything you've got there. Make them meat pies, stew or pineapple pizza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to eat servery food or servery ingredients",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ewesey",
+              "text": "Hey, that's not for you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Serving meat pie, pineapple pizza, or stew",
+      "sections": [
+        {
+          "title": "Serving anything other type of food",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ewesey",
+                  "text": "They're not going to eat that. Make them meat pies, stew or pineapple pizza."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ewesey",
+              "text": "They're not going to eat that. Use the ingredients provided here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [
+            {
+              "title": "With inventory space available",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ewesey",
+                      "text": "Here you go."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "With no inventory space",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ewesey",
+                      "text": "Hey, I have something for you but you don't have any space for it!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

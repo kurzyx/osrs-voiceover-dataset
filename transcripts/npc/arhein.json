@@ -1,0 +1,118 @@
+{
+  "ref": "arhein",
+  "categoryRef": "npc",
+  "title": "Arhein",
+  "sections": [
+    {
+      "title": "Initial dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Arhein",
+              "text": "Hello there!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello! Who are you?"
+            },
+            {
+              "speaker": "Arhein",
+              "text": "The name's Arhein. I'm a local merchant. I have a variety of useful goods to sell here, and I also use my ship to deliver various items further afield."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Subsequent dialogue",
+      "sections": [
+        {
+          "title": "When attempting to board his ship",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Arhein",
+                  "text": "Hey! Did I say you could board my ship?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh... sorry."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Arhein",
+              "text": "Hello again!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you have for sale?"
+            },
+            {
+              "speaker": "Arhein",
+              "text": "All sorts of things! Why don't you take a look?"
+            },
+            {
+              "speaker": "Arhein",
+              "text": "Oh, various places up and down the coast. Mostly Karamja and Port Sarim."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't suppose I could get a lift anywhere?"
+            },
+            {
+              "speaker": "Arhein",
+              "text": "Sorry, but that's not the kind of service I offer. Why not try the charter ship?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I might do that. Thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. Well, I'd best be off."
+            },
+            {
+              "speaker": "Arhein",
+              "text": "Until next time!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd best be off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Arhein",
+                  "text": "Well done, matey!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "ref": "butler",
+  "categoryRef": "npc",
+  "title": "Butler",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Butler",
+              "text": "Good day, [sir/madam]. Would [sir/madam] care to hire a good butler for 5000 coins?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What can you do?"
+            },
+            {
+              "speaker": "Butler",
+              "text": "I can fulfill all [sir/madam]'s domestic service needs with efficiency and impeccable manners. I hate to boast, but I can say with confidence that no mortal can make trips to the bank or sawmill faster than I!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about your previous jobs."
+            },
+            {
+              "speaker": "Butler",
+              "text": "From a humble beginning as a dish-washer I have worked my way up through the ranks of domestic service in the households of nobles from Varrock and Ardougne. As a life-long servant I have naturally"
+            },
+            {
+              "speaker": "Butler",
+              "text": "suppressed any personality of my own and trained myself never to use the second person when talking to a superior. I have usually worked in the large households of the aristocracy, but now that such a large"
+            },
+            {
+              "speaker": "Butler",
+              "text": "number of private persons are building their own houses I decided to offer them my services."
+            },
+            {
+              "speaker": "Butler",
+              "text": "I must respectfully decline, [sir/madam]. I offer a very exclusive service and will only work for people with over level 40 Construction."
+            },
+            {
+              "speaker": "Player",
+              "text": "You're hired... well, I don't have the money on me, but can I owe you? I'm good for it, honest."
+            },
+            {
+              "speaker": "Butler",
+              "text": "I regret that I cannot agree to begin my duties until I have been paid."
+            },
+            {
+              "speaker": "Butler",
+              "text": "Thank you, [sir/madam]. I can start work immediately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "In the Player-Owned House",
+      "sections": [
+        {
+          "title": "If the player has not yet asked the Butler to perform a task",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Butler",
+                  "text": "You rang, [sir/madam]?"
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Yes, [sir/madam]?"
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Very good, [sir/madam]. [Sir/Madam]'s tea will be ready shortly."
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Your tea, [sir/madam]. Does [sir/madam] take milk?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Very good, [sir/madam]."
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "I regret that I cannot make a meal unless [sir/madam] has a dining table for me to serve it on."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Serve drinks please."
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "I cannot serve drinks unless you have a kitchen with an ale barrel, [sir/madam]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you fetch something from the bank for me?"
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Certainly, [sir/madam]. If [sir/madam] would simply tell me the items [he/she] requires?"
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Your goods, [sir/madam]."
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Certainly, [sir/madam]. If [sir/madam] would care to give me the logs?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stay at the entrance and greet guests."
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Very good, [sir/madam]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has asked the Butler to perform a bank/sawmill task",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "If the Butler requires payment from Player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Butler",
+                  "text": "If you do not pay me I will have to give you my notice, sir. My fee is 5000 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay here's 5000 coins."
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Thank you sir."
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Your goods sir."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll pay you later."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're fired!"
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Very well, sir."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player \"Uses\" an item on the Butler",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Butler",
+                  "text": "Shall I take that to the bank, [sir/madam]?"
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Very good, [sir/madam]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player \"Uses\" logs on the Butler",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Butler",
+                  "text": "Shall I take that to the bank or to the sawmill, [sir/madam]?"
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "The sawmill's fee would be [x], [sir/madam]."
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Very good, [sir/madam]."
+                },
+                {
+                  "speaker": "Butler",
+                  "text": "Your goods, [sir/madam]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the Butler greets a guest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Butler",
+                  "text": "[player name] is entertaining in the [room]. Would [sir/madam] care to follow me?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

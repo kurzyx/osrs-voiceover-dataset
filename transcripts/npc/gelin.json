@@ -1,0 +1,270 @@
+{
+  "ref": "gelin",
+  "categoryRef": "npc",
+  "title": "Gelin",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "With unredeemed insurance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gelin",
+                  "text": "I insured your Hitpoints XP up to level [level]. But now there's no more need for that, would you like a refund? It's [amount] coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, give me back my [amount] coins"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, you can hold onto that for me."
+                },
+                {
+                  "speaker": "Gelin",
+                  "text": "Alright. I don't pay interest, though!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Without unredeemed insurance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gelin",
+                  "text": "I used to sell life insurance, protecting people's Hitpoints XP when they died. Now there's no more need for that, so I'm just giving refunds now. But I don't think I owe you anything."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "When on a Deadman: Reborn or Deadman: Apocalypse world",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gelin",
+                  "text": "People don't lose experience when they die in this event, so no-one's buying life insurance from me. I may as well not be here!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gelin",
+              "text": "Death is everywhere! At any moment, a band of brigands might rush in and kill you, or your closest friend might stab you in the back. Welcome to Gelin's Life Insurance Brokerage."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "When you die, you may lose Hitpoints XP, so your Hitpoints level may decrease. I offer an insurance service, preventing your Hitpoints level from falling below a certain level."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "I see you're insured up to level 25 Hitpoints - if you lose Hitpoints XP on death, you will never drop below level 25."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "I see you're insured up to level 50 Hitpoints - if you lose Hitpoints XP on death, you will never drop below level 50."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "I see you're insured up to level 75 Hitpoints - if you lose Hitpoints XP on death, you will never drop below level 75. That's the highest level of insurance I offer."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I buy life insurance?"
+            },
+            {
+              "speaker": "Gelin",
+              "text": "You must have a Hitpoints level of 25 before you may insure yourself."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "You must have a Hitpoints level of 50 before you may insure yourself to that level."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "You must have a Hitpoints level of 75 before you may insure yourself to that level."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "I can insure you up to level 75 Hitpoints, so that your Hitpoints level will never decrease below that. This service costs 1,000,000 coins."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "Alternatively, I can insure you up to level 50 Hitpoints. That service costs only 100,000 coins."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "Finally, I can insure you up to level 25 Hitpoints. That service costs only 25,000 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "I can't afford any of those options."
+            },
+            {
+              "speaker": "Player",
+              "text": "Insure me to level 75 for 1,000,000 coins."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "Thank you. Your Hitpoints level will never decrease below 75 when you are defeated in future."
+            },
+            {
+              "speaker": "Player",
+              "text": "Insure me to level 25 for 25,000 coins."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "Thank you. Your Hitpoints level will never decrease below 25 when you are defeated in future."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not now, thank you."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "I can insure you up to level 50 Hitpoints, so that your Hitpoints level will never decrease below that. This service costs 100,000 coins."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "Alternatively, I can insure you up to level 25 Hitpoints. That service costs only 25,000 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "I can't afford either of those options."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not now, thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Insure me to level 50 for 100,000 coins."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "Thank you. Your Hitpoints level will never decrease below 50 when you are defeated in future."
+            },
+            {
+              "speaker": "Player",
+              "text": "Insure me to level 25 for 25,000 coins."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "Thank you. Your Hitpoints level will never decrease below 25 when you are defeated in future."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not now, thank you."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "I can insure you up to level 50 Hitpoints, so that your Hitpoints level will never decrease below that. This service costs 100,000 coins."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "Thank you. Your Hitpoints level will never decrease below 50 when you are defeated in future."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thank you."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "I can insure you up to level 25 Hitpoints, so that your Hitpoints level will never decrease below that. This service costs 25,000 coins."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "Thank you. Your Hitpoints level will never decrease below 25 when you are defeated in future."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about yourself."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "I am Gelin, the greatest assassin ever to train in Al Kharid. If you have not heard of me, that is because my victims never live to speak of me."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "In my years as a warrior of fortune, I have fought in many lands, meeting fighters of all calibres, and I found they all had something in common:"
+            },
+            {
+              "speaker": "Gelin",
+              "text": "Every single one had a soul-gripping fear that they would suffer a humiliating defeat at the hands of their foes."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "They did not fear the pain, you understand. They feared the diminishment that comes with defeat."
+            },
+            {
+              "speaker": "Player",
+              "text": "Diminishment?"
+            },
+            {
+              "speaker": "Gelin",
+              "text": "To see one's wealth in the hands of another. To see one's skills decrease, as the hard-earned experience is lost. That is what they all feared."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "Thus I was inspired to create this life insurance brokerage. I can protect your Hitpoints experience, so that you will not lose so much of it when you are defeated."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "I cannot protect other skills, and I have no intention whatsoever of protecting anyone's items - a victor deserves their spoils."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why do you sell life insurance in a graveyard?"
+            },
+            {
+              "speaker": "Gelin",
+              "text": "There is no more fitting place! The graves of the dead remind the living that their lives are fragile, and that death is the inescapable fate of all mortals."
+            },
+            {
+              "speaker": "Gelin",
+              "text": "That is exactly the frame of mind that encourages people to buy life insurance from me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I ever get a refund on this insurance?"
+            },
+            {
+              "speaker": "Gelin",
+              "text": "No, my life insurance policies are for life. Similarly, when a customer upgrades their policy to a better one, I charge the full price of the new policy. They may take it or leave it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

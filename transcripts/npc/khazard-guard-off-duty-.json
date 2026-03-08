@@ -1,0 +1,108 @@
+{
+  "ref": "khazard-guard-off-duty-",
+  "categoryRef": "npc",
+  "title": "Khazard Guard (Off duty)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After stealing Khazard Armour from the chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Despicable thieving scum!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened?"
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "None of your business. Clear off!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "While wearing the Khazard Armour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Despicable thieving scum!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened?"
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Someone came in and stole my armour!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh no! I'll let you know if I see anyone suspicious..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Fight Arena",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "You're the fiend who killed Bouncer. Leave this place at once!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Khazard Guard",
+              "text": "Can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not sure."
+            },
+            {
+              "speaker": "Khazard Guard",
+              "text": "Well I'm off-duty right now, so why don't you go and bother someone else."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

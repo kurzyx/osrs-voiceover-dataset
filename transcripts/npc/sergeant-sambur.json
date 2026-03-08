@@ -1,0 +1,41 @@
+{
+  "ref": "sergeant-sambur",
+  "categoryRef": "npc",
+  "title": "Sergeant Sambur",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi there; what is this room?"
+            },
+            {
+              "speaker": "Sergeant Sambur",
+              "text": "Glad you asked. The first thing you will notice on trying to enter the room is that you will be asked to choose either the Attacker, Defender, Collector, Healer or 'any' role."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay. I'm following so far."
+            },
+            {
+              "speaker": "Sergeant Sambur",
+              "text": "Well, the idea with this room is that we will set up a game for you, choosing some other people from within the room. If there are enough players around we will start a game for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. So I just have to wait around for a game?"
+            },
+            {
+              "speaker": "Sergeant Sambur",
+              "text": "If you want, or you can look around the other rooms and see if there is anyone waiting around."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

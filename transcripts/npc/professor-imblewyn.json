@@ -1,0 +1,59 @@
+{
+  "ref": "professor-imblewyn",
+  "categoryRef": "npc",
+  "title": "Professor Imblewyn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I didn't realise gnomes were interested in magic."
+            },
+            {
+              "speaker": "Professor Imblewyn",
+              "text": "Gnomes are interested in everything, [lad/lass]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Of course."
+            },
+            {
+              "speaker": "Professor Imblewyn",
+              "text": "We have a saying, 'Curiosity killed the cat'. But cats aren't clever enough to understand what they find. Gnomes are."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hey! Some of my best friends are cats!"
+            },
+            {
+              "speaker": "Professor Imblewyn",
+              "text": "I think that says more about you than cats."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gnome restaurant",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Professor Imblewyn",
+              "text": "Hmmm, I wonder... Oh. My order. Thank you - mind you don't get any food or drink on the books."
+            },
+            {
+              "speaker": "Professor Imblewyn",
+              "text": "You must have had to travel a long way to get this to me. Here's a little something extra as a tip."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

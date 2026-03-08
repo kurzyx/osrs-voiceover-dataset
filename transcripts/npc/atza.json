@@ -1,0 +1,57 @@
+{
+  "ref": "atza",
+  "categoryRef": "npc",
+  "title": "Atza",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before At First Light",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Atza",
+                  "text": "Hey there. How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good thanks."
+                },
+                {
+                  "speaker": "Atza",
+                  "text": "Glad to hear it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After finishing At First Light",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Atza",
+                  "text": "Hello again. Was Fox happy with the material?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He was. You found the perfect match."
+                },
+                {
+                  "speaker": "Atza",
+                  "text": "Wonderful!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

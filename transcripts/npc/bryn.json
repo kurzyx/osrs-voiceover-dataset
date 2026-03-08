@@ -1,0 +1,198 @@
+{
+  "ref": "bryn",
+  "categoryRef": "npc",
+  "title": "Bryn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bryn",
+              "text": "What are you doing down here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Could you explain this place to me again?"
+            },
+            {
+              "speaker": "Bryn",
+              "text": "This here is the Gauntlet, the finest creation of the Amlodd clan. It was built years ago to help train Prifddinas' finest warriors and survivalists."
+            },
+            {
+              "speaker": "Player",
+              "text": "Train?"
+            },
+            {
+              "speaker": "Bryn",
+              "text": "That's right. The Gauntlet contains a range of deadly creatures formed from crystal. Defeating them is the key to victory, but it is no easy task."
+            },
+            {
+              "speaker": "Bryn",
+              "text": "This is because all participants start with nothing at hand beyond a few basic tools."
+            },
+            {
+              "speaker": "Player",
+              "text": "But how do people fight without their gear?"
+            },
+            {
+              "speaker": "Bryn",
+              "text": "Resources can be gathered throughout the dungeon. These can be used to create the weapons, armour, food and potions needed to survive."
+            },
+            {
+              "speaker": "Bryn",
+              "text": "Without any armour, those crystalline creatures can be real nasty. Any armour that you make down there will greatly reduce the damage they do to you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, I think I follow... But I thought this was all about combat, not just gathering my own equipment."
+            },
+            {
+              "speaker": "Bryn",
+              "text": "That's right. Once you feel you're ready, or once we decide that you've spent long enough down there, you'll have to face the fearsome Crystalline Hunllef."
+            },
+            {
+              "speaker": "Player",
+              "text": "And what makes it so dangerous, if it's just for training?"
+            },
+            {
+              "speaker": "Bryn",
+              "text": "Once you go down there, there are only two ways out... You can make a break for the exit, or if you're bested in combat we'll send someone in for you."
+            },
+            {
+              "speaker": "Bryn",
+              "text": "Things can be a little unstable down there at times, too... Everything gets corrupted, and it might be a little frightening, but it makes for a good challenge."
+            },
+            {
+              "speaker": "Bryn",
+              "text": "I think that covers it... Everything else, you'll have to work out for yourself while you're in there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay... I think I've got it."
+            },
+            {
+              "speaker": "Bryn",
+              "text": "You can always come back and ask me to go over things again."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm thinking of giving the Gauntlet a go."
+            },
+            {
+              "speaker": "Bryn",
+              "text": "You? Attempting the Gauntlet? If you say so!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "First time talking to him",
+      "sections": [
+        {
+          "title": "Attemping to enter the Gauntlet without talking to Bryn first",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bryn",
+                  "text": "Don't think you want to be heading down there without knowing what you're getting into! Come and see me, if you really want to go down there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attemping to enter the Gauntlet while having a pet out",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bryn",
+                  "text": "Don't think you can be taking any plus ones down there with you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the Gauntlet when a reward is waiting in the chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bryn",
+                  "text": "There's something in that there chest waiting for you. Don't leave it for too long."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the Gauntlet while in combat with another player in Deadman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bryn",
+                  "text": "Hey! Finish your fight before you come in here!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Completing the Gauntlet for the first time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bryn",
+                  "text": "You know, if things start getting comfortable down there, things can be a little unstable at times."
+                },
+                {
+                  "speaker": "Bryn",
+                  "text": "It might be a little frightening, but it makes for a good challenge!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe I'll check it out at some point!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bryn",
+              "text": "What are you doing down here?"
+            },
+            {
+              "speaker": "Bryn",
+              "text": "This here is the Gauntlet, the finest creation of the Amlodd clan. It was built years ago to help train Prifddinas' finest warriors and survivalists."
+            },
+            {
+              "speaker": "Player",
+              "text": "Just passing by."
+            },
+            {
+              "speaker": "Bryn",
+              "text": "Alright... Well be careful down here. I've got my eye on you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "ref": "banker-tutor",
+  "categoryRef": "npc",
+  "title": "Banker tutor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Banker tutor",
+              "text": "Good day, how may I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Using the bank itself. I'm not sure how....?"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "Speak to any banker and ask to see your bank account. If you have set a PIN you will be asked for it, then all the belongings you have placed in the bank will appear in the window. To withdraw one item, left-"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "click on it once."
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "To withdraw many, right-click on the item and select from the menu. The same for depositing, left-click on the item in your inventory to deposit it in the bank. Right-click on it to deposit many of the same items."
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "To move things around in your bank: firstly select Swap or Insert as your default moving mode, you can find these buttons on the bank window itself. Then click and drag an item to where you want it to appear."
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "You may withdraw 'notes' or 'certificates' when the items you are trying to withdraw do not stack in your inventory. This will only work for items which are tradable."
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "For instance, if you wanted to sell 100 logs to another player, they would not fit in one inventory and you would need to do multiple trades. Instead, click the Note button to do withdraw the logs as 'certs' or 'notes',"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "then withdraw the items you need."
+            },
+            {
+              "speaker": "Player",
+              "text": "Using Bank deposit boxes.... what are they?"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "They look like grey pillars, there's one just over there, near the desk. Bank deposit boxes save so much time. If you're simply wanting to deposit a single item, 'Use' it on the deposit box."
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "Otherwise, simply click once on the box and it will give you a choice of what to deposit in an interface very similar to the bank itself. Very quick for when you're simply fishing or mining etc."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's this PIN thing that people keep talking about?"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "The PIN - Personal Identification Number - can be set on your bank account to protect the items there in case someone finds out your account password. It consists of four numbers that you remember and tell"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "no one."
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "So if someone did manage to get your password they couldn't steal your items if they were in the bank."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I set my PIN?"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "You can set your PIN by talking to any banker, they will allow you to access your bank pin settings. Here you can choose to set your pin and recovery delay. Remember not to set it to anything personal such as"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "your real life bank PIN or birthday."
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "The recovery delay is to protect your banked items from account thieves. If someone stole your account and asked to have the PIN deleted, they would have to wait a few days before accessing your bank account to"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "steal your items. This will give you time to recover your account."
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "There will also be a delay in actually setting the PIN to be used, this is so that if your account is stolen and a PIN set, you can cancel it before it comes into use!"
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I remove my PIN?"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "Talking to any banker will enable you to access your PIN settings. There you can cancel or change your PIN, but you will need to wait for your recovery delay to expire to be able to access your bank. This"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "can be set in the settings page and will protect your items should your account be stolen."
+            },
+            {
+              "speaker": "Player",
+              "text": "What happens if I forget my PIN?"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "If you find yourself faced with the PIN keypad and you don't know the PIN, just look on the right-hand side for a button marked 'I don't know it'. Click this button. Your PIN will be deleted (after a delay of a"
+            },
+            {
+              "speaker": "Banker tutor",
+              "text": "few days) and you'll be able to use your bank as before. You may still use the bank deposit box without your PIN."
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to buy more bank slots."
+            },
+            {
+              "speaker": "Banker",
+              "text": "I can sell you up to [number] additional bank slots in sets of 40. How many are you interested in buying?"
+            },
+            {
+              "speaker": "Player",
+              "text": "[number] slots please."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Buying [number] additional bank slots will cost [number] coins. Be warned, this purchase is not reversible. Are you happy to proceed?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'm happy with that."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Your additional bank slots have been added."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I've changed my mind."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

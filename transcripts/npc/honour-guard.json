@@ -1,0 +1,186 @@
+{
+  "ref": "honour-guard",
+  "categoryRef": "npc",
+  "title": "Honour guard",
+  "sections": [
+    {
+      "title": "During The Fremennik Isles",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Good day!"
+            },
+            {
+              "speaker": "Honour guard",
+              "text": "Can't talk now, I'm on duty."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "In the town",
+          "sections": [
+            {
+              "title": "While wearing the Silly jester costume",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Honour guard",
+                      "text": "Good day, jester! Got any new jokes?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No. I only use old, recycled jokes. It's better for the environment."
+                    },
+                    {
+                      "speaker": "Honour guard",
+                      "text": "HaHa!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Honour guard",
+                  "text": "Hail, [Fremennik name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day! How are you doing?"
+                },
+                {
+                  "speaker": "Honour guard",
+                  "text": "Pretty good. It's nice to have a day off from troll- killing duty."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you killed many trolls?"
+                },
+                {
+                  "speaker": "Honour guard",
+                  "text": "Of course. It's all part of growing up around here. You get used to it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "See you later."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "On the walls",
+          "sections": [
+            {
+              "title": "While wearing the Silly jester costume",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Honour guard",
+                      "text": "Hey jester, this area is not a suitable place for civilians to wander about in. Trolls everywhere."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Right you are. I'll be careful."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Honour guard",
+                  "text": "Hail, [Fremennik name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day!"
+                },
+                {
+                  "speaker": "Honour guard",
+                  "text": "Are you here to help with the trolls?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid not, I have other things to do."
+                },
+                {
+                  "speaker": "Honour guard",
+                  "text": "Well, watch yourself. Those rocks that the trolls throw can take your arm off."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Outside of the town",
+          "sections": [
+            {
+              "title": "While wearing the Silly jester costume",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Honour guard",
+                      "text": "Good day, jester! Got any new jokes?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No. I only use old, recycled jokes. It's better for the environment."
+                    },
+                    {
+                      "speaker": "Honour guard",
+                      "text": "Haha!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Honour guard",
+                  "text": "Hail, [Fremennik name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day!"
+                },
+                {
+                  "speaker": "Honour guard",
+                  "text": "I hope you're not heading north. There are lots of trolls, very dangerous."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the warning. I'll keep my eyes peeled."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

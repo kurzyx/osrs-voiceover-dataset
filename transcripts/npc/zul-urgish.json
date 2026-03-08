@@ -1,0 +1,58 @@
+{
+  "ref": "zul-urgish",
+  "categoryRef": "npc",
+  "title": "Zul-Urgish",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking to him before offering yourself as a sacrifice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zul-Urgish",
+                  "text": "Puny human show respect to Zulrah or I smash you head."
+                },
+                {
+                  "speaker": "Zul-Urgish",
+                  "text": "Zulrah the great god. He mighty. You go see High Priestess, she tell you lots and lots."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm off."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the Zul-Andra deposit chest before offering yourself as a sacrifice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zul-Urgish",
+                  "text": "You leave that alone, human. You not one of us."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Zul-Urgish",
+              "text": "Human agreed to sacrifice [himself/herself] to mighty Zulrah! We all most grateful."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

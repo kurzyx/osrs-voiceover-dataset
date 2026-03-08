@@ -1,0 +1,129 @@
+{
+  "ref": "arno",
+  "categoryRef": "npc",
+  "title": "Arno",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Arno",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's in this cave?"
+            },
+            {
+              "speaker": "Arno",
+              "text": "A unique farming patch. This cave is the only place we've succesfully been able to grow a Hespori."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's a Hespori?"
+            },
+            {
+              "speaker": "Arno",
+              "text": "A rare carnivorous plant originally from Morytania. When grown, the plant becomes conscious and highly aggressive. They are truly fascinating."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I grow one?"
+            },
+            {
+              "speaker": "Arno",
+              "text": "Of course. Just plant some Hespori seeds in the cave below and it will grow like any other plant. A Hespori is pretty tough so you don't need to worry about it getting diseased."
+            },
+            {
+              "speaker": "Arno",
+              "text": "Do be careful though. A fully grown Hespori can be quite troublesome to deal with."
+            },
+            {
+              "speaker": "Arno",
+              "text": "Do you need anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have any of my items?"
+            },
+            {
+              "speaker": "Arno",
+              "text": "I'm afraid not. If I did have any of your items, but you died before collecting them, they'll now be lost."
+            },
+            {
+              "speaker": "Arno",
+              "text": "I do indeed. You really should be more careful."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't want to find Hespori seeds when farming."
+            },
+            {
+              "speaker": "Arno",
+              "text": "Very well. You'll no longer find Hespori seeds when farming."
+            },
+            {
+              "speaker": "Arno",
+              "text": "Do you need anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I want to find Hespori seeds when farming."
+            },
+            {
+              "speaker": "Arno",
+              "text": "Very well. You'll now have a chance of finding Hespori seeds when farming."
+            },
+            {
+              "speaker": "Arno",
+              "text": "Do you need anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Collect option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Arno",
+              "text": "I'm afraid I don't have anything for you. If I did have any of your items, but you died before collecting them, they'll now be lost."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to fight the Hespori with items in Arno's Item Retrieval Service",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Arno",
+              "text": "Can you hear me down there? I have some of your items, from a previous visit. Shouldn't you collect them from me before fighting the Hespori again?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll come and collect them from you."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I don't care if I lose that stuff. I'll fight the Hespori again now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

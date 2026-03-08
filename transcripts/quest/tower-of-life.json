@@ -1,0 +1,2181 @@
+{
+  "ref": "tower-of-life",
+  "categoryRef": "quest",
+  "title": "Tower of Life",
+  "sections": [
+    {
+      "title": "Getting started",
+      "sections": [
+        {
+          "title": "The builders on strike",
+          "sections": [
+            {
+              "title": "Talking to Effigy again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Guess what!"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "What?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm a fully-fledged builder!"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "Marvellous! So you can bring this tower to life!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm not sure about that, but I'll take a look and see what I can do."
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "Oh, what a wondrous person you are!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to 'Transmute' The Alchemist before starting",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi there. What is this place?"
+                    },
+                    {
+                      "speaker": "Transmute' The Alchemist",
+                      "text": "Ah, this be the Tower of Life! Beautiful, isn't it?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I prefer ordinary houses."
+                    },
+                    {
+                      "speaker": "Transmute' The Alchemist",
+                      "text": "Pah, you have no taste."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to 'Transmute' The Alchemist after starting",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I'm a builder!"
+                    },
+                    {
+                      "speaker": "Transmute' The Alchemist",
+                      "text": "I question why you are so pleased about this."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well, I think it's a positive step in my career as a courageous adventurer."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to 'Currency' the Alchemist before starting",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "This is quite the tower."
+                    },
+                    {
+                      "speaker": "Currency' The Alchemist",
+                      "text": "Yeah, it cost a fair bit."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How much?"
+                    },
+                    {
+                      "speaker": "Currency' The Alchemist",
+                      "text": "Well, I had to 'alch' a fair few belongings of my fellow alchemists to afford it."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I bet they love you for that."
+                    },
+                    {
+                      "speaker": "Currency' The Alchemist",
+                      "text": "Everyone loves someone that can create money."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I don't."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to 'Currency' the Alchemist",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi. Sorry, but why do they call you 'Currency'?"
+                    },
+                    {
+                      "speaker": "Currency' The Alchemist",
+                      "text": "That's down to my interest in all things of monetary value."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You must be pretty rich then."
+                    },
+                    {
+                      "speaker": "Currency' The Alchemist",
+                      "text": "I wish. And I was, up until recently."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What happened?"
+                    },
+                    {
+                      "speaker": "Currency' The Alchemist",
+                      "text": "This tower. Set me back a fair few million."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll bet! It pleases you, then, to know that I have just become a builder and have been granted permission to go mess around inside."
+                    },
+                    {
+                      "speaker": "Currency' The Alchemist",
+                      "text": "This is not a good day for me."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi. Interesting building you have here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it for?"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "You like it? It's simply fabulous, isn't it? A real marvel of modern design made just for my fellow alchemists and I!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see some builders over there. So I assume it's not yet finished."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "What a keen eye this chap has! But imagine this: a gargantuan cylinder of expert design, incorporating an inventive inner spiral walkway to multiple planes of wondrous inhabitance!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, it's a tower."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Oh, no, no, no, no."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "It's going to have a use that will change this world!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Or at least it would if we could ever get it finished."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "See those builders?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They don't seem to be building much."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Exactly."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "They've gone on strike for some petty reason about the tower being too weird. I really can't understand those men."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Shame."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Hey! Maybe you could talk to them?"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "You look like a sturdy chap."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Maybe you could finish the work?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Me?"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Come on! This is the chance of a lifetime!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure, why not."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "That's fantastic! Oh, I'm so pleased."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Calm down. I'm not making any promises."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Oh, I have a good feeling about this."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Right."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Go have a word with Bonafido the head builder. See if you can't get him off his backside to do some work. Oh, and I'm Effigy by the way."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nice to meet you Effigy, I'm [player name]. Hold on and I'll see what I can do!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Wait a minute."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Don't I recognise you from somewhere?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Erm, do you?"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Do you know the outpost north of Ardougne?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah, yes, it's now a small museum. Jorral's looking after it. He's really making history with that place."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Well, the King was going to make that into an alchemy lab for us, but some fool ruined our plans!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah, yes. Shame. Got to go. Bye."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Hey, wait up!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Best I go sort out this tower. Bye."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, feeling a bit ill today."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "A bit ill?"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "That's a weak excuse for a very feeble personality."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking with Bonafido, the head builder",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Are you Bonafido by any chance?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "That I am, mate."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "How can I be of assistance?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I've just spoken to Effigy about this tower. He tells me he hired you to work but you're on strike. Something about an extended tea break?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Extended cup o' char? E's got it all wrong, mate. We know those alchemi-whatsits are up ta somefin' weird in building this tower, wot wiv all the machinery, and until we get some answers we're not movin a muscle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, he wanted me to do something about it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there no way I can convince you to continue?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Sorry, mate."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, can I at least have a look inside the tower?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Only builders are allowed in there, like. You don't look like much ov a builder to me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I take offence at that! Give me a chance; you may be surprised."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Okay. Come to me kitted out like a builder - hard hat, some boots, scruffy trousers and shirt - and I'll let ya try out ta be one ov us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Count me in!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Accessing the tower",
+      "sections": [
+        {
+          "title": "Obtaining Hard hat",
+          "sections": [
+            {
+              "title": "Talking to 'Black-eye' again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Say, that's a nice helmet."
+                    },
+                    {
+                      "speaker": "Black-eye'",
+                      "text": "Why, thanks. Some would say as nice as the one you're wearing!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Say, that's a nice helmet."
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Why, thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was just wondering if you might be able to help me out with one?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Always glad to help a budding builder."
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "But first, prove your Construction knowledge by answering some questions."
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "How many nails does it take to make a rocking chair?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "One?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "One? How do you suppose to use a single nail?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Five?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Nope. Keep guessing!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Three?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Bingo! Okay, now what takes 3 planks, 3 cloths and 3 nails to make, and helps remove light from a room?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Torn curtains?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Nice one. Last question: I like fish and I want to put some in my garden, but I need a special water feature. What materials would I require?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "8 clay pieces and 3 limestone bricks?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Oh, and you were so close!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "10 clay pieces?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "That's it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Greener pastures?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait a minute! Is there blood on this helmet?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Erm, no, that's just, erm, paint. Yes, paint! That's what it is!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, okay. Thanks. Bye."
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Ha, gullible fool."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Nothing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "10 limestone bricks?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Guess again, mate."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A brown rug?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Of course, because that's what everyone needs - a rug up at their window."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Opulent curtains?"
+                },
+                {
+                  "speaker": "'Black-eye'",
+                  "text": "Those curtains are not going to be in any way opulent, matey."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Obtaining Builder's shirt",
+          "sections": [
+            {
+              "title": "Attempting to give other beverages",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Fancy another?"
+                    },
+                    {
+                      "speaker": "'The Guns'",
+                      "text": "Nah, thanks. You've got your shirt and I've got my energy back."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hi! How's this for some booze?"
+                    },
+                    {
+                      "speaker": "'The Guns'",
+                      "text": "That's no good. I need some simple beer."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Fancy another?"
+                    },
+                    {
+                      "speaker": "'The Guns'",
+                      "text": "Nah, thanks, I'm not drinking that."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Beer?"
+                    },
+                    {
+                      "speaker": "'The Guns'",
+                      "text": "How do you expect me to drink that?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh, sorry."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to 'The Guns' again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What do you do when you're not lifting logs above your head?"
+                    },
+                    {
+                      "speaker": "'The Guns'",
+                      "text": "In my free time?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes."
+                    },
+                    {
+                      "speaker": "'The Guns'",
+                      "text": "All sorts. I like...hummff...a good kebab and a cold beer down...urrghh...the pub. And for those quiet evenings...hurrr..."
+                    },
+                    {
+                      "speaker": "'The Guns'",
+                      "text": "A bit of needlepoint is always welcome."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I can honestly say you're a very original guy."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi, I'm looking to get some kit to look like one of you guys."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anything you might be able to help me out with?"
+                },
+                {
+                  "speaker": "'The Guns'",
+                  "text": "Well... Urmph! Ye can 'ave me shirt..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmmm. Has it been cleaned? I don't want some sweaty hand-me-down."
+                },
+                {
+                  "speaker": "'The Guns'",
+                  "text": "What? Huhmf! It ain't ever been...uurrgg...worn."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, that sounds good. Can I have it then?"
+                },
+                {
+                  "speaker": "'The Guns'",
+                  "text": "Can't...hurrr...see why not. This is firsty work doh. Could do wiv a beer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure. What's your 'usual'?"
+                },
+                {
+                  "speaker": "'The Guns'",
+                  "text": "I'm a simple...umph...man. I like the bar in Yanille and their cheap beer..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Simple, cheap beer. No problem."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, today's your lucky day!"
+                },
+                {
+                  "speaker": "'The Guns'",
+                  "text": "Ahhh! Smashin...urrghh...deal!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Obtaining Builder's trousers",
+          "sections": [
+            {
+              "title": "Searching near the tower",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Why, hello there!"
+                },
+                {
+                  "speaker": "'Gummy'",
+                  "text": "What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Clothing."
+                },
+                {
+                  "speaker": "'Gummy'",
+                  "text": "Nope. Need mine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah, come on. You know you want to give me free stuff."
+                },
+                {
+                  "speaker": "'Gummy'",
+                  "text": "Stop bothering me, can't you see I'm busy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, VERY busy I'm sure."
+                },
+                {
+                  "speaker": "'Gummy'",
+                  "text": "Okay, okay."
+                },
+                {
+                  "speaker": "'Gummy'",
+                  "text": "The other day I was drying my clothes on a line down by the shore. A storm hit and some of my clothing went missing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Likely story. Sure you weren't skinny dipping?"
+                },
+                {
+                  "speaker": "'Gummy'",
+                  "text": "Just go look and leave me be! Search around the tower and you may find them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Obtaining Builder's boots",
+          "sections": [
+            {
+              "title": "Talking to 'No fingers' again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi."
+                    },
+                    {
+                      "speaker": "No fingers'",
+                      "text": "Don't suppose you've seen any boots around here? Size nine, steel toed, brown leather..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Nope, not at all. I'd best be going. Have a nice day. Bye!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Stealing the boots",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. I was just wondering... I don't suppose you have any spare clothing you could lend me?"
+                },
+                {
+                  "speaker": "'No fingers",
+                  "text": "' I do have many boots."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah, thanks."
+                },
+                {
+                  "speaker": "'No fingers",
+                  "text": "' But there's no way I'm giving any to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, but why? I could pay you!"
+                },
+                {
+                  "speaker": "'No fingers",
+                  "text": "' Nope. Only real builders can wear builders' boots, and you're not even close."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bonafido again with the full outfit",
+          "sections": [
+            {
+              "title": "Talking to Bonafido again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hi again Bonafido."
+                    },
+                    {
+                      "speaker": "Bonafido",
+                      "text": "Hi, 'Kelsew the Builder'! Been into the tower yet?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not yet, I'll go when I'm ready. I'm taking my time, may have a quick cup of tea first."
+                    },
+                    {
+                      "speaker": "Bonafido",
+                      "text": "Hahaha."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, Bonafido."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Well, if it ain't the wannabe builder!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What clothes do I need?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Ya don't seem to be able ta remember anyfin'... Dearie me."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Come back to me wearin' a hard hat, some scruffy trousers, a good top and some hard boots. Yow shud fand some around 'ere."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So..."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Like a builder frew and frew! Good job - now it's time to test your skills."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, what do you want me to build?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Build?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Build? Hahaha, don't be a plonka!"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "It's not building skills that makes a true builder, you have to have the right mental attitude, yeah?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Let me see..."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "You've plenty of work to do, but you need a drink fast - what do you go for?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Orange juice."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "What are you? A healthy builder? Of course, not juice!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tea."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Bingo! Ain't nufin' betta."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Now, let's hear you whistle!"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "What on Gielinor are you doing? Get out of my sight."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "You know, you have quite a talent there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why thank you. Do you think I have what it takes to become a famous whistler?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "No."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Wahey! Nice one. Next question."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "What's a good sign that you need to replace your trousers?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your legs are getting a bit cold?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Exactamondo! Glad to see you are thinking like a builder."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Yes, obviously if your legs are cold, you lost your trousers altogether!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's just what I was thinking."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Now the last question - what do you do if you cut your finger?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Cry."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "When was the last time you saw a builder cry?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Carry on, it'll fix itself."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Yep, that's the one!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Suppose it could get infected then, but that'll just impress the lads all the more."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Exactly, you're gettin the hang of this quickly!"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Cosmic! I canna see no reason why ya can't go in t'tower now. But be careful, there be some precarious situations in there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, what's left to build?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Well, there's a pipe system, a pressure machine and a strange cage up at the top that needs finishing off. The alchemists couldn't explain what they were for."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fetch a plaster and ointment."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Look, [player name], let me give you a bit of advice. If you want to look weak, that's the best way to go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They're ripped and full of holes."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "No, no, no. That's the only way they should be!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The colour is starting to fade?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Oh no, you're really not getting the hang of this are you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Bottle of wine."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Ooh, get Mr Fancy Pants here and his posh wine! You're no builder."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Unfinished work",
+      "sections": [
+        {
+          "title": "Entering the Tower of Life",
+          "sections": [
+            {
+              "title": "Talking to Bonafido after entering the Tower",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Heya, Bona. I had a look at the building. There's some complex machinery in there! Going to cost someone."
+                    },
+                    {
+                      "speaker": "Bonafido",
+                      "text": "Yep, told ya so. Any idea what those alchemists are up ta?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well, I agree now they're up to something. The question is what...? I don't think we're going to find out much from the alchmists, though."
+                    },
+                    {
+                      "speaker": "Bonafido",
+                      "text": "So what are you going to do?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I shall see if I can't fix it up and see for myself what is going on. Should be able to get a good reward from them. But don't worry, I'll make sure your efforts don't go unpaid."
+                    },
+                    {
+                      "speaker": "Bonafido",
+                      "text": "You're a star among builders, that ya are!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Effigy after entering the Tower",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello again, Effigy. I've had a nose around the tower. There's a lot of work to do!"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "I know, I know. But think of how fantastical it will be when it is finished!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why fantastical? What are all those pipes and machines in there? What are you trying to do?"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "Fantastic weather we're having today!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "But what are the-"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "The sun is shining... The birds are singing..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hey! Answer my question!"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "Hehe. Just fix the tower. You'll soon see."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You'd best pay me well for this."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to 'Transmute' the Alchemist after entering the Tower",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I must say, the inside of the tower is really something to behold."
+                    },
+                    {
+                      "speaker": "Transmute' The Alchemist",
+                      "text": "Why, thanks. You'll find various pieces of machinery to fix in there. You can no doubt find the materials in there, too."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to 'Currency' the Alchemist after entering the Tower",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi, Currency. Got any spare cash?"
+                    },
+                    {
+                      "speaker": "Currency' The Alchemist",
+                      "text": "Nope; you?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No, do you?"
+                    },
+                    {
+                      "speaker": "Currency' The Alchemist",
+                      "text": "Afraid not. You?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm going to stop before this gets violent."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Wow, this place looks special. Best I look around for something to fix."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the crates for materials",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Fixing the pressure machine",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Fixing the pipe system",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Fixing the strange cage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finished work",
+      "sections": [
+        {
+          "title": "Returning to the alchemists",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've fixed all the machinery."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Hurrah! Splendiferous!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Now listen, what does it all do? Why are you-"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Years of devoted work; it's complete!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Hey, guys! It's finished!"
+                },
+                {
+                  "speaker": "Transmute' The Alchemist",
+                  "text": "At last! Our work is complete!"
+                },
+                {
+                  "speaker": "Currency' The Alchemist",
+                  "text": "I can almost taste the riches!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "To the top of the tower, fellow alchemists!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait! What about-"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why does nobody listen? Best if I follow them, I suppose."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bonafido",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'm really getting annoyed with those alchemists."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I completed the tower and I still have no idea what it does, and then as soon as I tell Effigy of my hard work, he doesn't say one word of thanks and legs it off into the tower!"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Well, I'll be a rabbit in da eyes of a fox! Best ya chase after 'im then and get us our dosh! Don't you do a runner, now!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, I'm not about to let Effigy get away with treating us builders like this!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Going to the top of the tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What on Gielinor is..."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "It is time, my friends! The culmination of our work is complete!"
+                },
+                {
+                  "speaker": "Transmute' The Alchemist",
+                  "text": "Long time indeed!"
+                },
+                {
+                  "speaker": "Currency' The Alchemist",
+                  "text": "Many hours we have worked!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "A great many years of planning and preparation has brought us here, my fellow alchemists. Now we have... The Tower of Life! We can already create gold, we can already transform matter from one thing to"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "another, and now we have the ability to create life itself! We owe much to the power of Guthix, for without the life essence he left below ground, we would never have been able to bring this tower alive!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They're insane!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "It begins! The first day of creation!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "It worked!"
+                },
+                {
+                  "speaker": "Currency' The Alchemist",
+                  "text": "Marvellous!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How is this possible?"
+                },
+                {
+                  "speaker": "Currency' The Alchemist",
+                  "text": "It's alive!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "We did it. A Homunculus!"
+                },
+                {
+                  "speaker": "Transmute' The Alchemist",
+                  "text": "Beautiful."
+                },
+                {
+                  "speaker": "Homunculus",
+                  "text": "Nwwooo! Whyyy? Where meee? Glarrraaa."
+                },
+                {
+                  "speaker": "Transmute' The Alchemist",
+                  "text": "It can talk! A real success."
+                },
+                {
+                  "speaker": "Homunculus",
+                  "text": "Where me? Skin burn...arrgh...eyes hurt...let me go!"
+                },
+                {
+                  "speaker": "Currency' The Alchemist",
+                  "text": "Excellent, it can feel! It's self-aware. This is really a great day."
+                },
+                {
+                  "speaker": "Homunculus",
+                  "text": "Whyeee cage? Argh...please help me! Graaahhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This is terrible, you must do something!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Ah, it's our helper. Thank you for fixing the tower; we will reward you greatly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't want a reward, just let it go. Can't you see it's in pain?"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Don't worry. It has no soul; it has no worth."
+                },
+                {
+                  "speaker": "Transmute' The Alchemist",
+                  "text": "Yes, it's just an experiment in alchemy."
+                },
+                {
+                  "speaker": "Currency' The Alchemist",
+                  "text": "The creature must be grateful for his creation."
+                },
+                {
+                  "speaker": "Homunculus",
+                  "text": "You create hurt. Not fair, let me free!"
+                },
+                {
+                  "speaker": "Currency' The Alchemist",
+                  "text": "Silence, creature!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Yes, be still and quit your moaning."
+                },
+                {
+                  "speaker": "Homunculus",
+                  "text": "No, mean, nasty peoples."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Shut up, you pathetic being."
+                },
+                {
+                  "speaker": "Homunculus",
+                  "text": "Arghh! Let me go!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Don't make us hurt you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stop this! Let it go!"
+                },
+                {
+                  "speaker": "Homunculus",
+                  "text": "So horrible beings. Daarrrr!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's getting angry."
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "You should know your place, adventurer. This is no concern of yours now."
+                },
+                {
+                  "speaker": "Currency' The Alchemist",
+                  "text": "You should be satisfied and leave. Then we can begin our experiments."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not wise."
+                },
+                {
+                  "speaker": "Homunculus",
+                  "text": "Arghhh!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Oh no..."
+                },
+                {
+                  "speaker": "Transmute' The Alchemist",
+                  "text": "Get out of the tower before it's too late!"
+                },
+                {
+                  "speaker": "Currency' The Alchemist",
+                  "text": "Run away!"
+                },
+                {
+                  "speaker": "Effigy",
+                  "text": "Flee for your lives!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They've run away. I must go confront those alchemists downstairs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bonafido again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "You won't BELIEVE what I just saw!"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "What? What?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That tower is... a tower of life! I just witnessed with my very own eyes the creation of an homunculus!"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "A homanque-what?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Homunculus! They have found a way of creating life itself, but the creature they have made is not a happy being."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "And our money?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you listening at all? This creature is very dangerous, it needs to be stopped! And fast!"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "I'm glad you've got the money sorted."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Confronting the alchemists",
+          "sections": [
+            {
+              "title": "'Transmute' the Alchemist",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I can't believe what you guys have done."
+                    },
+                    {
+                      "speaker": "Transmute' The Alchemist",
+                      "text": "Marvellous."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No. Scary!"
+                    },
+                    {
+                      "speaker": "Transmute' The Alchemist",
+                      "text": "That too."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "'Currency' the Alchemist",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "That is one very sad creature."
+                    },
+                    {
+                      "speaker": "Currency' The Alchemist",
+                      "text": "It'll be alright; it just needs a pat on the back."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why am I suddenly glad that you're not responsible for sorting out this mess?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Effigy",
+              "sections": [
+                {
+                  "title": "Talking to Effigy again",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "Hi, Effigy."
+                        },
+                        {
+                          "speaker": "Effigy",
+                          "text": "Have you spoken to our wondrously fabulous creation yet?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "I haven't spoken to it at all. Give me a chance. And please stop your overuse of adjectives."
+                        },
+                        {
+                          "speaker": "Effigy",
+                          "text": "What a hideously, unforgiveable and insensitive combination of dialogue to supply to a friend!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "I swear you'll get a knuckle sandwich sometime soon if you don't shut up."
+                        },
+                        {
+                          "speaker": "Effigy",
+                          "text": "Charming."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Talking to 'Transmute' the Alchemist again",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "I'm off to talk to the Homunculus."
+                        },
+                        {
+                          "speaker": "Transmute' The Alchemist",
+                          "text": "Rather you than me. Can't say you look like you'll make it out alive."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Thanks for the support. How about saying something encouraging."
+                        },
+                        {
+                          "speaker": "Transmute' The Alchemist",
+                          "text": "Like?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "I don't know. How about 'You can do it!' or 'That Homunculus is in for a surprise'."
+                        },
+                        {
+                          "speaker": "Transmute' The Alchemist",
+                          "text": "So, you want me to lie?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Forget it."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Talking to 'Currency' the Alchemist again",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "Okay, I'm going to go chat with the Homunculus."
+                        },
+                        {
+                          "speaker": "Currency' The Alchemist",
+                          "text": "Very good."
+                        },
+                        {
+                          "speaker": "Currency' The Alchemist",
+                          "text": "Could you do us a favour?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "I probably have enough on my plate, but go ahead; what?"
+                        },
+                        {
+                          "speaker": "Currency' The Alchemist",
+                          "text": "Could you ask it a question?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Which is?"
+                        },
+                        {
+                          "speaker": "Currency' The Alchemist",
+                          "text": "Does it have any spare cash?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Let me think how I can phrase this..."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "No."
+                        },
+                        {
+                          "speaker": "Currency' The Alchemist",
+                          "text": "Oh."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Effigy!"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "I know, I know. This is a truly dangerous creation, of all proportions."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I hope you learn from this."
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "I will, I will. Next time we'll use a stronger cage."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What?"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "A bad joke."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll just ignore that. So, what about that Homunculus up there? You can't just leave it."
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "Maybe you could go have a talk with it?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why me? You created it!"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "Pleeeaaase."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No."
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "Pretty please with a cherry on top?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No way!"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "I'll make sure you're compensated. You won't be forgotten for this!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why do I get the feeling I'm doomed to go face that creature on my own?"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "Good on you! I knew you would help us!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh well. They do say that experience teaches fools."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Freeing the Homunculus",
+          "sections": [
+            {
+              "title": "Returning to it",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello?"
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Leeet mwwe free. Argyyghh."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "It's okay, I'm here to help you."
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Lieees. Grahhh"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No, honest. I helped the alchemists, but I had no idea what their plans involved."
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Arggh, so alchemist create me now I trapped for experiements. But still I confused."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "About what?"
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Me see logic, feeeel magic. A mix of the two."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hmmm. A creature created of logic and magic."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Don't fear. I shall fix your mind!"
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "No so sure it is easy to do. No one canna 'elp. Arghhh."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Watch me."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You tell me that you're confused, so ask me some questions!"
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Ah, please..."
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "That it! Make sense now, thank you!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I decided to root for magic."
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "No does matter which you chose. Me needed organise my thoughts. I see there is truth in both."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay."
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Now we go scare alchemies - they have been wrong to do this! Although I have life, they mustn't go about this again."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sounds like a good plan. Can you get out of that cage?"
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Easy. You run down and I watching from here. I surprise right moment."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Leaving and talking to the Homunculus before helping it",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "It's me again, Homunculus."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you remember?"
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Stranger... nooo, help meee."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Stay calm, let's do this."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the Homunculus again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "How are you?"
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Better. You been mine angel. I now have the understanding I need."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "My pleasure."
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Please, alchemists you speak, me appear to surprise."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm not sure I understand, but okay, I will go have a word with them."
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Thank you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Bonafido again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi, Bonafido."
+                    },
+                    {
+                      "speaker": "Bonafido",
+                      "text": "Hi. How's the tower?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Finished, really."
+                    },
+                    {
+                      "speaker": "Bonafido",
+                      "text": "Looks like we're out of a job then."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh, I wouldn't worry about it. There are frequently new buildings required around Gielinor. I'm sure your services will be called upon again."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Scaring the alchemists",
+              "sections": [
+                {
+                  "title": "'Transmute' the Alchemist",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "Well, I've sat down and had a good chat with the Homunculus."
+                        },
+                        {
+                          "speaker": "Transmute' The Alchemist",
+                          "text": "And?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "You'll soon find out!"
+                        },
+                        {
+                          "speaker": "Transmute' The Alchemist",
+                          "text": "Huh?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "'Currency' the Alchemist",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "The Homunculus is a bit better off now."
+                        },
+                        {
+                          "speaker": "Currency' The Alchemist",
+                          "text": "Excellent. So we can go back in."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Not just yet."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": []
+            },
+            {
+              "title": "Effigy",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Effigy, I need a word with you."
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "You've killed it?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not quite..."
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Boo."
+                    },
+                    {
+                      "speaker": "Transmute' The Alchemist",
+                      "text": "Oh no, look!"
+                    },
+                    {
+                      "speaker": "Currency' The Alchemist",
+                      "text": "Arrghhh! Have mercy!"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "You set it free. Oh, please don't hurt me!"
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Hahaha."
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Me not hurt. Now tell. What you plans? What you do with me?"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "Please, we just wanted to experiment. We wanted to create life. There's a dungeon under the tower. Long ago we found a strange source of energy that we believe was left behind by the great Guthix. He used to"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "create life with such ease. We realised we should be able to use this powerful substance, but we needed to bring together our magic along with the logical construction of the builders. It seemed through our experiments that"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "even magic needs a certain level of rules and laws to work."
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Bad play with. Naughty men. Go! Go, never return!"
+                    },
+                    {
+                      "speaker": "Effigy",
+                      "text": "Right away, right away!"
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Me look dungeon, [player name]. Please meet there."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Finishing off",
+          "sections": [
+            {
+              "title": "Talking to the Homunculus in the basement",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "This place is bizarre!"
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Me do know. Pleased you rescue."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "My pleasure. So what is this place?"
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "They use essence of Guthix power. Create tower pump this from ground. Make me with godly power. Dangerous."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh dear, but you're okay now. You have this place to reside in."
+                    },
+                    {
+                      "speaker": "Homunculus",
+                      "text": "Thrank you. For reward you speak me, I makes monsters."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

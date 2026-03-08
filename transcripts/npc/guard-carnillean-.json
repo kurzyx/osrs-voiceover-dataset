@@ -1,0 +1,112 @@
+{
+  "ref": "guard-carnillean-",
+  "categoryRef": "npc",
+  "title": "Guard (Carnillean)",
+  "sections": [
+    {
+      "title": "Before Hazeel Cult",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Guard",
+              "text": "Hello there. I haven't seen you around here before. If you've come to admire the Carnillean family home, I must warn you not to cause any trouble."
+            },
+            {
+              "speaker": "Guard",
+              "text": "Due to recent criminal activities against such prominent Ardougnians, I have been sent here on special guard duty to ensure the Carnilleans' security."
+            },
+            {
+              "speaker": "Guard",
+              "text": "Anyone caught interfering with the person or possessions of any Carnilleans will be taken to jail so quickly that their feet won't even touch the floor!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, I wasn't actually planning on doing anything like that..."
+            },
+            {
+              "speaker": "Guard",
+              "text": "Glad to hear it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hazeel Cult",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "After Hazeel Cult",
+      "sections": [
+        {
+          "title": "Sided with Carnillean",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Well look who it is! Good to see you managed to clear your name. I always had faith in you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks! So is everything all quiet around here now?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Indeed! For now at least, everything is back to normal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sided with Hazeel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Hello, adventurer. It's a shame you never found that cult. We have a horrible suspicion that there's been another burglary."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's worrying."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Yes, it is. The thing is, we can't even work out what they've taken! It's all very odd."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there anything more I can do to help?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "I don't think so. Sir Ceril says you've done enough."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

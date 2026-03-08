@@ -1,0 +1,151 @@
+{
+  "ref": "haming",
+  "categoryRef": "npc",
+  "title": "Haming",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me..."
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me anything about the castle?"
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "There aren't many guards in it."
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "We don't have an army, you see."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How's the weather doing?"
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "Could be better."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How's life in Etceteria?"
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "*sigh* Times are tough."
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "Though they're getting better."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it like being an Etceterian?"
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "Fairly pleasant, though it gets cold in the winter."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nice town you have here."
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "Thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me..."
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "Thank you for finding my plates for me. Did you find everyone's belongings?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I did! Thank you for the reward."
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "You're more than welcome to it, for getting our belongings back."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Right click Check-Approval",
+      "sections": [
+        {
+          "title": "Before Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me how the kingdom approves of me?"
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "Kingdom? Etceteria is ruled by a Queen and we don't approve of you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me how the kingdom approves of me?"
+                },
+                {
+                  "speaker": "Haming",
+                  "text": "[amount]% of people approve of you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

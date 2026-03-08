@@ -1,0 +1,253 @@
+{
+  "ref": "mage-of-zamorak",
+  "categoryRef": "npc",
+  "title": "Mage of Zamorak",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Wilderness",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "This isn't the place to talk. Visit me in Varrock's Chaos Temple if you have something to discuss. Unless you're here to teleport or buy something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's see what you're selling."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could you teleport me to the Abyss?"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Veniens! Sallakar! Rinnesset!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, I'll go."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Enter the Abyss",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Ah, you again. What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "About that incantation your initiate gave me..."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Ah yes, the one to trace that amulet. Don't think I didn't notice that you modified the transmission spell I put on it. Next time you need help, we might not be so willing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well maybe you should have asked first! Besides, you wouldn't have got anything useful out of it. In tracing that amulet, we accidently managed to open an uncontrollable rift to the Abyss."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "And does this 'we' include the Order of Wizards?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe..."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "I knew it! It's just like them to play with magic they don't understand. First they burnt down the Wizards' Tower, now they're opening uncontrollable abyssal rifts!"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Perhaps the fools should leave the dangerous magic to us next time!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, that reminds me. That incantation didn't appear to be written on parchment. What was it?"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Hmm... probably the flesh of an abyssal creature. Why do you ask?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I just thought it might be human flesh. I'm relieved it wasn't!"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "You've been spending too much time with your friends in the Order of Wizards! I know that we Zamorakians have a bad reputation, but do you really think we'd be so barbaric?"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Ah yes, the one that led those fools in the Order of Wizards to open an uncontrollable abyssal rift! Perhaps they should leave the dangerous magic to us next time!"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Not to mention that they tried to convince you that we wrote that incantation on human flesh! Their lies never cease to amaze me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about the Abyss?"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "It is a hard place to describe. We often refer to it as another plane, but that isn't quite accurate. If anything, it is more like a plane that sits between all other planes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right... And what does it have to do with runecrafting?"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "In truth, nothing at all. However, it has everything to do with teleportation. You see, time and space work differently in the Abyss."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "For example, you can travel to the Abyss, walk a few steps and then exit, only to find yourself somewhere completely different from where you entered. You might even find yourself on a different plane."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "You can also enter the Abyss and spend days there, but on your return, only moments have passed."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "This is why the Abyss is so useful. It can be used as an effective hub for teleportation. In fact, all teleportation that we know of uses the Abyss, you just don't realise it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait... So when I teleport, I'm actually travelling through the Abyss?"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "In some ways, I suppose you are. Whenever you use a teleport spell, that spell is actually travelling through the Abyss and using it to link two places together."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So did you discover the Abyss?"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "No. Knowledge of the Abyss has existed for a long time, hence it being used for teleportation. However, we believe we may be the first to have properly gained access in centuries."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How did you manage it?"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "By complete accident. One of our initiates was performing a routine teleportation experiment when something went wrong. Instead of ending up at their destination, they found themselves in the Abyss."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Now, did you want something else?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about your group?"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "I suppose you have proven yourself trustworthy. We are a group of mages in service to Zamorak. Our group is called the Zamorak Magical Institute, or Z.M.I. for short."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Few actually know of us. Saradominist groups like the Order of Wizards hold sway over these lands, so we are forced to work in the shadows. However, make no mistake, our power far exceeds theirs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You don't seem to like the Order of Wizards very much."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "And why would we? Did you know that the Order of Wizards wasn't always a Saradominist group? Once they allowed mages of all faiths to study with them, but they became greedy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened?"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "They started to desire more control. They banned Zamorakian wizards from certain areas of study, claiming them to be too dangerous. In reality, they just wanted that knowledge for themselves."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "It all went wrong for them, of course. A Zamorakian wizard made a great breakthrough in teleportation magic, but the Saradominists stole his research."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "They used it to perform a ritual, but their lack of understanding caused it to go wrong. The entire Wizards' Tower burnt down. Many were killed, and years of research was destroyed."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Naturally, they blamed the Zamorakians. Claimed we intentionally burnt the tower down. After the tower was rebuilt, we were banished from the Order of Wizards and forced underground."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And that's how the Z.M.I. was formed?"
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Exactly."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Now, did you want something else?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing. I'm just looking around."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Very well."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Here you go."
+                },
+                {
+                  "speaker": "Mage of Zamorak",
+                  "text": "Ah! You have chosen some quite fantastic attire. Maybe you are not such a fool after all."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

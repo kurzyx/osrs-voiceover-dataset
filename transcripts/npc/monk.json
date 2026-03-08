@@ -1,0 +1,181 @@
+{
+  "ref": "monk",
+  "categoryRef": "npc",
+  "title": "Monk",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Monk",
+              "text": "Greetings traveller."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you heal me? I'm injured."
+            },
+            {
+              "speaker": "Monk",
+              "text": "Ok."
+            },
+            {
+              "speaker": "Monk",
+              "text": "Sorry, no."
+            },
+            {
+              "speaker": "Player",
+              "text": "Isn't this place built a bit out of the way?"
+            },
+            {
+              "speaker": "Monk",
+              "text": "We like it that way actually! We get disturbed less. We still get rather a large amount of travellers looking for sanctuary and healing here as it is!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Edgeville Monastery Ground floor1st floor",
+      "sections": [
+        {
+          "title": "Interacting with the south-western ladder before joining the Edgeville Monastery order",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Monk",
+                  "text": "Only members of our order can go up there. You'll need to talk to Abbot Langley if you want to explore the monastery further."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Monk",
+              "text": "Greetings traveller."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you heal me? I'm injured."
+            },
+            {
+              "speaker": "Monk",
+              "text": "Ok."
+            },
+            {
+              "speaker": "Monk",
+              "text": "Sorry, no."
+            },
+            {
+              "speaker": "Player",
+              "text": "Isn't this place built a bit out of the way?"
+            },
+            {
+              "speaker": "Monk",
+              "text": "We like it that way actually! We get disturbed less. We still get rather a large amount of travellers looking for sanctuary and healing here as it is!"
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I get further into the monastery?"
+            },
+            {
+              "speaker": "Monk",
+              "text": "You'll need to talk to Abbot Langley about that. He's usually to be found walking the halls of the monastery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hosidius",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Monk",
+              "text": "Greetings traveller."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you heal me? I'm injured."
+            },
+            {
+              "speaker": "Monk",
+              "text": "Ok."
+            },
+            {
+              "speaker": "Monk",
+              "text": "Sorry, no."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you doing here?"
+            },
+            {
+              "speaker": "Monk",
+              "text": "We offer sanctuary to those seeking the guidance of Saradomin."
+            },
+            {
+              "speaker": "Player",
+              "text": "What if I want guidance from another god?"
+            },
+            {
+              "speaker": "Monk",
+              "text": "If Saradomin's not good enough for you, those otherworldly freaks from Arceuus are probably your kind of people."
+            },
+            {
+              "speaker": "Monk",
+              "text": "They're always looking for hidden knowledge about souls and spirits, when any sensible person would just trust in Saradomin."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ardougne Monastery",
+      "sections": [
+        {
+          "title": "Before Monk's Friend",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Monk",
+                  "text": "Peace brother"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Monk's Friend",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

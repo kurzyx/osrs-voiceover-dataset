@@ -1,0 +1,212 @@
+{
+  "ref": "caius",
+  "categoryRef": "npc",
+  "title": "Caius",
+  "sections": [
+    {
+      "title": "Standard dialogue (inside his residence)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Caius",
+              "text": "Have I seen you before?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't think so... I've just got one of those faces."
+            },
+            {
+              "speaker": "Caius",
+              "text": "You're probably right."
+            },
+            {
+              "speaker": "Caius",
+              "text": "I'm rather busy at the moment. I've got to organise my cupboards of jewels."
+            },
+            {
+              "speaker": "Player",
+              "text": "Want any help?"
+            },
+            {
+              "speaker": "Caius",
+              "text": "Absolutely not! You stay away from my jewels."
+            },
+            {
+              "speaker": "Caius",
+              "text": "Interested in buying a house like mine?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not sure I've got enough coins to do that."
+            },
+            {
+              "speaker": "Caius",
+              "text": "Silly me! I mistook you for one of us wealthy folk."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well that's rude."
+            },
+            {
+              "speaker": "Caius",
+              "text": "You'll catch on."
+            },
+            {
+              "speaker": "Caius",
+              "text": "Hello there. Are you liking the city?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's beautiful!"
+            },
+            {
+              "speaker": "Caius",
+              "text": "It really is."
+            },
+            {
+              "speaker": "Caius",
+              "text": "Huh? Are you an encyclopedia salesman?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, sir, I'm a burglar. I burgle people."
+            },
+            {
+              "speaker": "Caius",
+              "text": "Hmm... I think you're an encyclopedia salesman?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not at all. I just want to ransack the place. Honestly."
+            },
+            {
+              "speaker": "Caius",
+              "text": "Hmm... Alright then."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue (outside his residence)",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Caius",
+              "text": "I love the fresh air outside, don't you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It is quite nice out here."
+            },
+            {
+              "speaker": "Caius",
+              "text": "Lovely day for a stroll, wouldn't you say?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It is!"
+            },
+            {
+              "speaker": "Caius",
+              "text": "I've got something in the back of my mind telling me I should go back home."
+            },
+            {
+              "speaker": "Player",
+              "text": "You don't say..."
+            },
+            {
+              "speaker": "Caius",
+              "text": "I do love being rich! I can take leisurely strolls whenever I want, without a care in the world!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Enjoy it! Take as much time as you want!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When Caius leaves the house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Caius",
+                  "text": "Time to go check how rich I am!"
+                },
+                {
+                  "speaker": "Caius",
+                  "text": "Lovely day for a stroll."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is still inside when Caius leaves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "When Caius returns to the house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Caius",
+                  "text": "Now where did I put my keys..."
+                },
+                {
+                  "speaker": "Caius",
+                  "text": "Ah, there they are!"
+                },
+                {
+                  "speaker": "Caius",
+                  "text": "It smells funny in here..."
+                },
+                {
+                  "speaker": "Caius",
+                  "text": "There's mud all over the floor!"
+                },
+                {
+                  "speaker": "Caius",
+                  "text": "Something isn't right here..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When Caius catches you inside his house after returning",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Caius",
+                  "text": "How did you get in here?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "ref": "tanya-slepe-",
+  "categoryRef": "npc",
+  "title": "Tanya (Slepe)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing Sins of the Father",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Tanya",
+                  "text": "Not infected are you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't think so."
+                },
+                {
+                  "speaker": "Tanya",
+                  "text": "You don't seem very sure. We don't want any infected near the children. Be off with you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Sins of the Father",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tanya",
+                  "text": "Whatever it is you're selling, we ain't interested!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I'm not..."
+                },
+                {
+                  "speaker": "Tanya",
+                  "text": "Did you not hear me? Clear off!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

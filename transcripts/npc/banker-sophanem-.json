@@ -1,0 +1,89 @@
+{
+  "ref": "banker-sophanem-",
+  "categoryRef": "npc",
+  "title": "Banker (Sophanem)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Banker",
+              "text": "Welcome to the Sophanem Bank! Anything I can help you with?"
+            },
+            {
+              "speaker": "Banker",
+              "text": "And what can the Sophanem Bank do for you today?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you with the Bank of Gielinor?"
+            },
+            {
+              "speaker": "Banker",
+              "text": "We have an agreement with them, yes. It took some time to work out."
+            },
+            {
+              "speaker": "Banker",
+              "text": "As you may have noticed, the desert adds complications to all matters of trade and finance."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Was there something else you wanted?"
+            },
+            {
+              "speaker": "Player",
+              "text": "How is business?"
+            },
+            {
+              "speaker": "Banker",
+              "text": "It could be better. The businesses here are still recovering from recent events. Personal banking like yours makes up the majority of our trade."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Was there anything else with which I can help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to buy more bank slots."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Why? You don't use the bank."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh yeah... Never mind then."
+            },
+            {
+              "speaker": "Banker",
+              "text": "I can sell you up to [number] additional bank slots in sets of 40. How many are you interested in buying?"
+            },
+            {
+              "speaker": "Player",
+              "text": "[number] slots please."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Buying [number] additional bank slots will cost [number] coins. Be warned, this purchase is not reversible. Are you happy to proceed?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'm happy with that."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Your additional bank slots have been added."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I've changed my mind."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

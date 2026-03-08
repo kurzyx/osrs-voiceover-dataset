@@ -1,0 +1,173 @@
+{
+  "ref": "capt-arnav",
+  "categoryRef": "npc",
+  "title": "Capt' Arnav",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Capt' Arnav",
+              "text": "[Ah, hello there, laddie/Ah, hello there, lassie/Ah, hello there]! I've just dug up an old treasure chest of mine."
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Problem is, these old hands o'mine aren't as useful as they used t'be, and the lock on that chest is a little bit too fiddly for ol' Cap'n Arnav. Could you help me out?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'll help you unlock your chest."
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "There are three columns. What you need to do for me is to match up each picture with the word underneath the column, and then unlock the chest."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, sorry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Solving the puzzle",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Ah, well done matey, that's the right combination. Here, have a little somethin' for helpin' me out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Failing the puzzle once",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Arrr! That be nowhere near close! Did ye not listen the first time around?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I must have misunderstood your instructions. Could I hear them again please?"
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Right, right. What you need to do is click on the arrows to roll the cylinders round to the different items."
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "When the items in the middle row all match the words written under the column then you'll have solved the lock."
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Is that a little clearer?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Certainly. Let me try again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Failing the puzzle twice",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Arrr! I'd better find someone else."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to him after the event",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Arrr, I'd better be off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Other people's Capt' Arnav",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Arrr, you're not the person I be needin'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Avast there, [player name]!"
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Ahoy, [player name]!"
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Parley wi' me, my old fruit!"
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "I needs yer help, [player name]!"
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "I got treasure here, [player name]!"
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Shiver me' timbers, are you ignoring me?"
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Will ye help an old pirate, [player name]?"
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "I knows somethin' you should knows, [player name]."
+            },
+            {
+              "speaker": "Capt' Arnav",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

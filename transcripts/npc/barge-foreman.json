@@ -1,0 +1,66 @@
+{
+  "ref": "barge-foreman",
+  "categoryRef": "npc",
+  "title": "Barge foreman",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Bone Voyage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What's going on here?"
+                },
+                {
+                  "speaker": "Barge foreman",
+                  "text": "We're making the final preparations for our voyage to the distant lands to the North."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there anything I can do to help?"
+                },
+                {
+                  "speaker": "Barge foreman",
+                  "text": "We could do with an extra pair of hands, but you're better off speaking to Curator Haig Halen at the Varrock museum if you'd like to get involved."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good luck, bye."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "During Bone Voyage",
+          "sections": [],
+          "dialogues": []
+        },
+        {
+          "title": "After Bone Voyage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Barge foreman",
+                  "text": "Thanks for all your help, [player name]."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

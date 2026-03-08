@@ -1,0 +1,63 @@
+{
+  "ref": "grubor",
+  "categoryRef": "npc",
+  "title": "Grubor",
+  "sections": [
+    {
+      "title": "Trying to enter his house",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Grubor",
+              "text": "Yes? What do you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Would you like your hedges trimming?"
+            },
+            {
+              "speaker": "Grubor",
+              "text": "Eh? Don't be daft! We don't even HAVE any hedges!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I want to come in."
+            },
+            {
+              "speaker": "Grubor",
+              "text": "No, go away."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you want to trade?"
+            },
+            {
+              "speaker": "Grubor",
+              "text": "No, I'm busy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue in the house",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Grubor",
+              "text": "Hi. I'm a little busy right now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

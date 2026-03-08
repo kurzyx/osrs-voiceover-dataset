@@ -1,0 +1,33 @@
+{
+  "ref": "jack",
+  "categoryRef": "npc",
+  "title": "Jack",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Jack",
+              "text": "Hi there. Would you like to buy a cape?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Jack",
+              "text": "Suit yourself."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

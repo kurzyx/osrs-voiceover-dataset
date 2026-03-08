@@ -1,0 +1,101 @@
+{
+  "ref": "despoina-callidra",
+  "categoryRef": "npc",
+  "title": "Despoina Callidra",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Despoina Callidra",
+              "text": "Yes?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you serving?"
+            },
+            {
+              "speaker": "Despoina Callidra",
+              "text": "Blood."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is that it?"
+            },
+            {
+              "speaker": "Despoina Callidra",
+              "text": "Yes, by the pint. Now, do you want one or not?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure."
+            },
+            {
+              "speaker": "Despoina Callidra",
+              "text": "Two coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh dear, I don't seem to have enough money."
+            },
+            {
+              "speaker": "Despoina Callidra",
+              "text": "Clear off then."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll pass."
+            },
+            {
+              "speaker": "Despoina Callidra",
+              "text": "Clear off then."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player is disguised but has not completed Sins of the Father",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What are you selling?"
+            },
+            {
+              "speaker": "Despoina Callidra",
+              "text": "To you? Nothing."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why?"
+            },
+            {
+              "speaker": "Despoina Callidra",
+              "text": "You're new here. I don't sell to new blood. Make a name for yourself and maybe I'll reconsider."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player is not disguised",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Despoina Callidra",
+              "text": "Human! Get back to the slave pens before I call the guards!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "ref": "khazard-commander",
+  "categoryRef": "npc",
+  "title": "Khazard commander",
+  "sections": [
+    {
+      "title": "During Tree Gnome Village",
+      "sections": [
+        {
+          "title": "Upon climbing over the broken wall for the first time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Khazard commander",
+                  "text": "What? How did you manage to get in here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've come for the orb."
+                },
+                {
+                  "speaker": "Khazard commander",
+                  "text": "I'll never let you take it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon taking the orb of protection from the chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Khazard commander",
+                  "text": "Oi! You! Get out of there."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

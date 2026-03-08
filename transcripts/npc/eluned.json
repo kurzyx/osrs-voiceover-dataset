@@ -1,0 +1,124 @@
+{
+  "ref": "eluned",
+  "categoryRef": "npc",
+  "title": "Eluned",
+  "sections": [
+    {
+      "title": "Standard dialogue after Song of the Elves",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Eluned",
+              "text": "Hey [player name], good to see you."
+            },
+            {
+              "speaker": "Player",
+              "text": "And you Eluned."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Enchant option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Eluned",
+              "text": "You don't seem to have any crystals I can enchant. Return when you do."
+            },
+            {
+              "speaker": "Eluned",
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When carrying an uncharged crystal teleport seed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Eluned",
+              "text": "Hey [player name], do you need me to re-enchant your teleport crystal?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Eluned",
+              "text": "I ask [charge price] coins to cover my costs."
+            },
+            {
+              "speaker": "Eluned",
+              "text": ""
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "When spoken to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Eluned",
+                      "text": "Please help me out! How much are they worth?"
+                    },
+                    {
+                      "speaker": "Eluned",
+                      "text": "How can that be? Go check again!"
+                    },
+                    {
+                      "speaker": "Eluned",
+                      "text": "Spot on!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eluned",
+                  "text": "Ah! Here you go!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Eluned",
+                  "text": "I need you to answer this for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

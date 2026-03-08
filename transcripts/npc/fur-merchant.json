@@ -1,0 +1,60 @@
+{
+  "ref": "fur-merchant",
+  "categoryRef": "npc",
+  "title": "Fur Merchant",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has recently stolen from their stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fur Merchant",
+                  "text": "You're the one who stole from me! Guards! Guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Fur Merchant",
+              "text": "Hello there. Want to trade some furs?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "What furs do you have?"
+            },
+            {
+              "speaker": "Fur Merchant",
+              "text": "I have a selection of both rare and common furs from all across the kingdom. Also, if you happen to have any furs you've brought from the east, I'd be pretty keen to buy some."
+            },
+            {
+              "speaker": "Fur Merchant",
+              "text": "So, want to trade?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Fur Merchant",
+              "text": "Tetamo! If you change your mind, you know where to find me."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

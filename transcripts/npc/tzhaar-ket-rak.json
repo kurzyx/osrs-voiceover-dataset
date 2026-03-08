@@ -1,0 +1,194 @@
+{
+  "ref": "tzhaar-ket-rak",
+  "categoryRef": "npc",
+  "title": "TzHaar-Ket-Rak",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "TzHaar-Ket-Rak",
+              "text": "JalYt-[caste]-Xo-[player name]. The challenge awaits, if you're brave enough."
+            },
+            {
+              "speaker": "Player",
+              "text": "Of course I'm brave enough."
+            },
+            {
+              "speaker": "TzHaar-Ket-Rak",
+              "text": "Then select your challenge, JalYt-[caste]-Xo-[player name]."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll pass."
+            },
+            {
+              "speaker": "TzHaar-Ket-Rak",
+              "text": "Few can match TzHaar bravery."
+            },
+            {
+              "speaker": "TzHaar-Ket-Rak",
+              "text": "JalYt-[caste]-Kal-[player name]. Few match your strength. Do you wish to take on the challenge again?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's do it."
+            },
+            {
+              "speaker": "TzHaar-Ket-Rak",
+              "text": "Then select your challenge, JalYt-[caste]-Kal-[player name]."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll pass."
+            },
+            {
+              "speaker": "TzHaar-Ket-Rak",
+              "text": "The challenge is now beneath you? So be it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Initial dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "TzHaar-Ket-Rak",
+              "text": "JalYt-[caste]-Xo-[player name]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nice chair."
+            },
+            {
+              "speaker": "TzHaar-Ket-Rak",
+              "text": "The finest obsidian. Cost many TokKul."
+            },
+            {
+              "speaker": "TzHaar-Ket-Rak",
+              "text": "Now, have you come for the challenge?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Err, what challenge?"
+            },
+            {
+              "speaker": "TzHaar-Ket-Rak",
+              "text": "Deep in inferno, many offspring of TzTok-Jad. More powerful though. More dangerous."
+            },
+            {
+              "speaker": "TzHaar-Ket-Rak",
+              "text": "The offspring need dealing with. A challenge for you perhaps, if you're brave enough."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Minigame",
+      "sections": [
+        {
+          "title": "Dying or using the cave exit during a challenge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "TzHaar-Ket-Rak",
+                  "text": "Failure. Maybe the challenge is not for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Completing a challenge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "TzHaar-Ket-Rak",
+                  "text": "Challenge complete. Have some TokKul. Now, a new challenge awaits."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Completing the sixth challenge for the first time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "TzHaar-Ket-Rak",
+                  "text": "Six challenges complete. Very impressive JalYt. Have some TokKul, and a little extra something."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Completing the sixth challenge subsequent times",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "TzHaar-Ket-Rak",
+                  "text": "Challenge complete. Have some TokKul."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Completing the League-only challenge for the first time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "TzHaar-Ket-Rak",
+                  "text": "All challenges complete. Very impressive JalYt. Have some TokKul, and a little extra something."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Challenge interface",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Attempting to enter a challenge without having cleared the previous one",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Attempting to enter the third challenge without having completed the Inferno",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

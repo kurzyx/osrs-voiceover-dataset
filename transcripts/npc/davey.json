@@ -1,0 +1,72 @@
+{
+  "ref": "davey",
+  "categoryRef": "npc",
+  "title": "Davey",
+  "sections": [
+    {
+      "title": "After Rum Deal",
+      "sections": [
+        {
+          "title": "Without a holy wrench in the inventory or bank",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Davey",
+                  "text": "Ello again guv. I take it you're here about the wrench?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? The Holy Wrench? But I lost it somewhere..."
+                },
+                {
+                  "speaker": "Davey",
+                  "text": "Well guv, maybe that's what I want you to think."
+                },
+                {
+                  "speaker": "Davey",
+                  "text": "As soon as you've got somewhere to put it I'll hand it over. I'll keep it nice and holy until then."
+                },
+                {
+                  "speaker": "Davey",
+                  "text": "There you go. I've kept it nice and holy for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Davey",
+              "text": "Ello again guv. How's things?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Good! Everything seems to have worked out ok."
+            },
+            {
+              "speaker": "Davey",
+              "text": "I'm sure it'll stay that way so long as you don't know it's missing."
+            },
+            {
+              "speaker": "Player",
+              "text": "What?"
+            },
+            {
+              "speaker": "Davey",
+              "text": "Nothin' guv, you just have a nice day."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

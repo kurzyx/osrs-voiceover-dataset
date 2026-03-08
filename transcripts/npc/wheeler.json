@@ -1,0 +1,504 @@
+{
+  "ref": "wheeler",
+  "categoryRef": "npc",
+  "title": "Wheeler",
+  "sections": [
+    {
+      "title": "Before speaking to the Easter Bunny",
+      "sections": [
+        {
+          "title": "Talking to Wheeler about cheering up the Easter Bunny",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wheeler",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Can I interest you in a drink?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not right now, thank you. I was wondering if you might be able to help me with something else."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "And what would that be?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know the Easter Bunny?"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "I do! He's just over there. Lovely guy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Does he seem unhappy to you?"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Now that you mention it, yes he does."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "He was always so cheery, bouncing around like a fuzzy avatar of joy."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "He's been in a sorry state lately though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Indeed, I've never seen him like this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you noticed anything odd?"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Hmm... He used to drink pint after pint of carrot juice! Barely sips the stuff now though, just stares into the glass."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "He used to LOVE it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Interesting, could I try the carrot juice please?"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Absolutely! One C.J. coming right up!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Euargh! That's..."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Good right? I make it myself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's definitely an experience, how do you make it?"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "I put some carrots into a juice press, then add some good old-fashioned elbow grease."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That would explain the flavour."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any particularly nice carrots we could use to make some special juice just for the Easter Bunny?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think he would perhaps appreciate something different."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "You can ask Weasel in the kitchen, he chooses which carrots get used for juice."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Be warned though, he's not much of a people person."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean by that?"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Oh you'll soon find out! Don't worry though, just tell him I sent you and that you're trying to help the Easter Bunny."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "He'll give you some fantastic carrots."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Once you have them, you can use the juice press to extract their goodness!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, I'll be back soon!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Wheeler again without going to Cooky Weasel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wheeler",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Have you been to see Weasel in the kitchen about those nice carrots yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Well there's no need to be scared of him! Fetch some carrots and I'll let you use my juice press."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not scared, I just haven't gotten round to it yet."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Whatever you say."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Wheeler after getting the carrots",
+          "sections": [
+            {
+              "title": "Talking again before juicing",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Wheeler",
+                      "text": "Hello!"
+                    },
+                    {
+                      "speaker": "Wheeler",
+                      "text": "How's the juicing going?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Erm, I lost the glass."
+                    },
+                    {
+                      "speaker": "Wheeler",
+                      "text": "Lost or broke? I'm not stupid. Those glasses are expensive you know!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sorry, can I have another glass please?"
+                    },
+                    {
+                      "speaker": "Wheeler",
+                      "text": "Make some room for a new one and you can, yes."
+                    },
+                    {
+                      "speaker": "Wheeler",
+                      "text": "Yes you can, but take care of it this time!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks, and I will."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm about to get juicing!"
+                    },
+                    {
+                      "speaker": "Wheeler",
+                      "text": "Well hurry up, we don't want to keep the Easter Bunny waiting!"
+                    },
+                    {
+                      "speaker": "Wheeler",
+                      "text": "Remember, the juice press is in the storage area behind the bar."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I remember!"
+                    },
+                    {
+                      "speaker": "Wheeler",
+                      "text": "Then why are you still here?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Good question, I'll go and make some juice."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wheeler",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need more carrots.."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Why? What happened?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's call it a quality control incident."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "You drank the juice didn't you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Perhaps."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Right well you best go see Weasel again, but he won't be happy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is he ever happy?"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Hah! Good point! Best hurry along now!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Bye."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Ooh look at those carrots, fantastic! This juice is sure to be a treat."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's hope so."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "You'll need a special glass for the juice, come back when you have space for one."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Here's a carrot juice glass, make sure you use this!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Isn't this just a beer glass?"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Ha! Just a beer glass! You're a real joker!"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "It's VERY important that you use the correct glassware."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, I will. Goodness me."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "The juice press is in the storage room behind the bar. Have fun, and don't make too much mess!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will do, thanks!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Wheeler while holding fancy carrot juice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wheeler",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Ohhhh! Look at that juice! Such colour. It smells divine too."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh it's good stuff, I should know."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Well let's see what the Easter Bunny thinks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll go and give it to him now, bye!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Wheeler after giving the juice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wheeler",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello again!"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Hi [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think that fancy carrot juice has cheered the Easter Bunny up a bit, he really seemed to like it!"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "That's great!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the help."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Any time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Wheeler after reading the recipe",
+          "sections": [
+            {
+              "title": "Talking to Wheeler while holding the spices",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Wheeler",
+                      "text": "I bet those spices will bring those buns to life!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Judging by the smell, I'd say so. Powerful stuff."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'm making some Easter Buns for the Easter Bunny, and I need some Easter Spices."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any I could use?"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Oh yes of course, we keep plenty behind the bar for cocktails."
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "Of course I can't give you the spices unless you can carry them. Come back when you have space!"
+                },
+                {
+                  "speaker": "Wheeler",
+                  "text": "There you go, I hope they work well!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Wheeler with progress in both carrot juice and buns",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wheeler",
+                  "text": "Hello!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Wheeler after juice and bun are done",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wheeler",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for both juice and spices, EB really liked the buns!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wheeler",
+              "text": "Hi there, nice to see you! Care for a mug of beer?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm a bit busy at the moment, maybe later."
+            },
+            {
+              "speaker": "Wheeler",
+              "text": "Well alright then."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

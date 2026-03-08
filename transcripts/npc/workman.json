@@ -1,0 +1,33 @@
+{
+  "ref": "workman",
+  "categoryRef": "npc",
+  "title": "Workman",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hiya."
+            },
+            {
+              "speaker": "Workman",
+              "text": "What do you want? I've got work to do!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you teach me anything?"
+            },
+            {
+              "speaker": "Workman",
+              "text": "No - I've got one lousy apprentice already, and that's quite enough hassle! Go away!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

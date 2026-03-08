@@ -1,0 +1,101 @@
+{
+  "ref": "veronica",
+  "categoryRef": "npc",
+  "title": "Veronica",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Pre-quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veronica",
+                  "text": "Can you please help me? I'm in a terrible spot of trouble."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Aha, sounds like a quest. I'll help."
+                },
+                {
+                  "speaker": "Veronica",
+                  "text": "Yes yes, I suppose it is a quest. My fiance Ernest and I came upon this house."
+                },
+                {
+                  "speaker": "Veronica",
+                  "text": "Seeing as we were a little lost Ernest decided to go in and ask for directions."
+                },
+                {
+                  "speaker": "Veronica",
+                  "text": "That was an hour ago. That house looks spooky, can you go and see if you can find him for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, I'll see what I can do."
+                },
+                {
+                  "speaker": "Veronica",
+                  "text": "Thank you, thank you. I'm very grateful."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I'm looking for something to kill."
+                },
+                {
+                  "speaker": "Veronica",
+                  "text": "Oooh, you violent person you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Post-quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veronica",
+                  "text": "Thank you for rescuing Ernest."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is he now?"
+                },
+                {
+                  "speaker": "Veronica",
+                  "text": "Oh he went off to talk to some green warty guy. I'm sure he'll be back soon."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Beginner",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veronica",
+                  "text": "Well done."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "ref": "butler-jones",
+  "categoryRef": "npc",
+  "title": "Butler Jones",
+  "sections": [
+    {
+      "title": "Before Hazeel Cult",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Butler Jones",
+              "text": "Hello. How are you today?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Good thank you, and yourself?"
+            },
+            {
+              "speaker": "Butler Jones",
+              "text": "Very well, thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hazeel Cult",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "After Hazeel Cult",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Butler Jones",
+              "text": "It's an honour to be in your presence again, adventurer. I hope things are well?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not bad, thanks. Yourself?"
+            },
+            {
+              "speaker": "Butler Jones",
+              "text": "Unfortunately, I am still forced to deal with this insufferable family. Many generations have passed, but they are still the enemy. As such, they must be kept a close eye on."
+            },
+            {
+              "speaker": "Butler Jones",
+              "text": "Still, I have no doubt that the time will soon come for me to leave this place. Our lord will certainly have need of me elsewhere once his current work is complete."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. Well good luck with it all."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

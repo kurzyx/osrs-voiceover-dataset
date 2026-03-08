@@ -1,0 +1,151 @@
+{
+  "ref": "ghost-disciple",
+  "categoryRef": "npc",
+  "title": "Ghost disciple",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What is this strange fountain?"
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "This is the Ectofuntus, the most marvellous creation of Necrovarus, our glorious leader."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is the Ectofuntus for?"
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "It provides the power to keep us ghosts from passing over into the next plane of existence."
+            },
+            {
+              "speaker": "Player",
+              "text": "And how does it work?"
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "You have to pour a bucket of ectoplasm into the fountain, a pot of ground bones, and then worship at the Ectofuntus. A unit of unholy power will then be created."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you do it yourself?"
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "No, we must rely upon the living, as the worship of the undead no longer holds any inherent power."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why would people waste their time helping you out?"
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "For every unit of power produced we will give you five Ectotokens. These tokens can be used in Port Phasmatys to purchase various services, not least of which includes access through the main toll gates."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where do I get ectoplasm from?"
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "Necrovarus sensed the power bubbling beneath our feet, and we delved long and deep beneath Port Phasmatys, until we found a pool of natural ectoplasm. You may find it by using the trapdoor over there."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I grind bones?"
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "There is a bone grinding machine upstairs. Put bones of any type into the machine's hopper, and then turn the handle to grind them. You will need a pot to empty the machine of ground up bones."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I receive Ectotokens?"
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "We disciples keep track of how many units of power have been produced. Just talk to us once you have generated some and we will reimburse you with the correct amount of Ectotokens."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I generate units of power?"
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "You have to pour a bucket of ectoplasm into the fountain and then worship at the Ectofuntus with a pot of ground bones. This will create a unit of unholy power."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks for your time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing the hard Morytania Diary",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can I have another bonecrusher, please?"
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "Compliments of Morytania for your efforts throughout the tasks set."
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "You already appear to own such a device, mortal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Without a ghostspeak amulet",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ghost disciple",
+              "text": "Woooo wooo wooooo woooo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Claiming tokens",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can I have the tokens I have earned?"
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "I have [number] ectotokens waiting for you mortal, but you do not have room in your inventory for them."
+            },
+            {
+              "speaker": "Ghost disciple",
+              "text": "Certainly, mortal. Here's [number] ectotokens."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

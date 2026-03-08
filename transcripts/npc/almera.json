@@ -1,0 +1,79 @@
+{
+  "ref": "almera",
+  "categoryRef": "npc",
+  "title": "Almera",
+  "sections": [
+    {
+      "title": "Before starting Waterfall Quest",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Almera",
+              "text": "Ah, hello there. Nice to see an outsider for a change. Are you busy? I have a problem."
+            },
+            {
+              "speaker": "Player",
+              "text": "How can I help?"
+            },
+            {
+              "speaker": "Almera",
+              "text": "It's my son Hudon, he's always getting into trouble. The boy's convinced there's hidden treasure in the river and I'm a bit worried about his safety, the poor lad can't even swim."
+            },
+            {
+              "speaker": "Player",
+              "text": "I could go and take a look for you if you like?"
+            },
+            {
+              "speaker": "Almera",
+              "text": "Would you? You are kind. You can use the small raft out back if you wish, do be careful, the current down stream is very strong."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm afraid I'm in a rush."
+            },
+            {
+              "speaker": "Almera",
+              "text": "Oh okay, never mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Waterfall Quest",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello Almera."
+            },
+            {
+              "speaker": "Almera",
+              "text": "Hello adventurer, how's your treasure hunt going?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, I'm just sight seeing."
+            },
+            {
+              "speaker": "Almera",
+              "text": "No adventurer stays here this long just to sight see. But your business is yours alone, if you need to use the raft go ahead. But please try not to crash it this time!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank Almera."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

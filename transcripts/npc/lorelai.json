@@ -1,0 +1,245 @@
+{
+  "ref": "lorelai",
+  "categoryRef": "npc",
+  "title": "Lorelai",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Using a rune defender on Lorelai before unlocking the room",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have a Rune Defender here, please let me in!"
+                },
+                {
+                  "speaker": "Lorelai",
+                  "text": "Very well, I've unlocked the door but you'll still need 100 tokens from upstairs before you can enter as well as 10 for every minute you want to stay inside. Have fun in there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the basement door to the Cyclopes room before first talking to Lorelai, but with the player having a rune defender in inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lorelai",
+                  "text": "I see you have a worthy defender! I'll release some cyclops to help you get an upgrade. They are quite mean and strong though..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a rune defender on Lorelai after already unlocking the room",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lorelai",
+                  "text": "You've already proved yourself to me, the door is unlocked."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a dragon defender on Lorelai",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lorelai",
+                  "text": "Congratulations you've found a Dragon defender! You're welcome to go back inside and try to get more."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lorelai",
+              "text": "Hello! I'm Lorelai. Welcome to the Warriors' Guild basement!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you doing down here?"
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "I'm training this group of special Cyclopes to be stronger and more powerful for Kamfreena."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's special about these Cyclopes?"
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "They have a chance of dropping a new, more powerful defender. Kamfreena doesn't want just anyone getting their hands on one so she moved them down here and tasked me with training them."
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "With a punishing routine of combat, fighting and the odd death!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So, you just let them fight each other and hope they get stronger?"
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "Of course not, that would just be cruel! Kamfreena and I only allow the most worthy of adventurers to fight these cyclopes."
+            },
+            {
+              "speaker": "Player",
+              "text": "I am a mighty adventurer! Can I fight them?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I am a mighty adventurer! Can I fight them?"
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "You'll need to display your skills as a Warrior before I can allow you to enter the room."
+            },
+            {
+              "speaker": "Player",
+              "text": "How can I do that?"
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "Bring me a Rune Defender and I shall unlock the door for you, this shows me you have dedicated enough time to fighting the Cyclops upstairs."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have a Rune Defender here, please let me in!"
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "And the Wise Old Man is my Dad... come back when you have the Rune Defender!"
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "Very well, I've unlocked the door but you'll still need 100 tokens from upstairs before you can enter as well as 10 for every minute you want to stay inside. Have fun in there!"
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "Yes, you have already proved yourself to me, the door is unlocked."
+            },
+            {
+              "speaker": "Player",
+              "text": "Bye!"
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "See you around."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After running out of tokens in the room",
+      "sections": [
+        {
+          "title": "If the player does not leave the room after 100 ticks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lorelai",
+                  "text": "Next time, please leave as soon as your time is up."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lorelai",
+              "text": "Your time is up, please make your way to the exit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to take off the Attack cape or max cape while in the room",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lorelai",
+              "text": "You must keep your attack skillcape or max cape equipped to stay in the area."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Claim-tokens dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "May I claim my tokens please?"
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "You don't have space to carry them."
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "Of course! Here you go, you've earned [number] token[s]!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            },
+            {
+              "speaker": "Lorelai",
+              "text": "I'm afraid you have not earned any tokens yet. Try some of the activities around the guild to earn some."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, I'll go see what I can find."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talk-to Rory",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lorelai",
+              "text": "Ahh I see you've met Rory. As a young Cyclops he's not ready for combat yet so he keeps me company."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

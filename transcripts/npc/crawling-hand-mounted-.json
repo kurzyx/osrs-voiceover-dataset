@@ -1,0 +1,73 @@
+{
+  "ref": "crawling-hand-mounted-",
+  "categoryRef": "npc",
+  "title": "Crawling hand (mounted)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is a house guest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, a crawling hand!"
+                },
+                {
+                  "speaker": "Crawling hand",
+                  "text": "Yes, what?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "[House owner] must be pretty handy to have slayed that!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is the house owner",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, I was going to make some furniture, do you think you could lend a HAND?"
+                },
+                {
+                  "speaker": "Crawling hand",
+                  "text": "Very funny."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey, hand, do you want to know how I slayed you?"
+                },
+                {
+                  "speaker": "Crawling hand",
+                  "text": "I don't know, how?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Because you're just a hand! You're ARMLESS!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey, you're just a hand, right? So what do you eat?"
+                },
+                {
+                  "speaker": "Crawling hand",
+                  "text": "Finger food, of course!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

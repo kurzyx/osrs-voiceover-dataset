@@ -1,0 +1,36 @@
+{
+  "ref": "cow-calf",
+  "categoryRef": "npc",
+  "title": "Cow calf",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Upon seeing someone teleport to the Lumbridge cow field with the cowbell amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cow calf",
+                  "text": "M-Moo?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cow calf",
+              "text": "Moo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "ref": "sarble",
+  "categoryRef": "npc",
+  "title": "Sarble",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sarble",
+              "text": "La La La, toadies in their holeys! .. Oh hello, I didn't notice you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, What do you do here?"
+            },
+            {
+              "speaker": "Sarble",
+              "text": "I look after the toads and worms. They are very useful in gnome cooking, don't you know."
+            },
+            {
+              "speaker": "Player",
+              "text": "Does singing to the toads help them grow?"
+            },
+            {
+              "speaker": "Sarble",
+              "text": "Don't be silly, I just sing to pass the time while looking after them!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Of course..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gnome Restaurant dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sarble",
+              "text": "Thank you kindly, you might want to grab some toads and worms while you are here."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

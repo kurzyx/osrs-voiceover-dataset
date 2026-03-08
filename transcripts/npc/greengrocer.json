@@ -1,0 +1,85 @@
+{
+  "ref": "greengrocer",
+  "categoryRef": "npc",
+  "title": "Greengrocer",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Miscellania",
+          "sections": [
+            {
+              "title": "Before Throne of Miscellania",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Greengrocer",
+                      "text": "Welcome, [Sir/Madam]. I sell only the finest and freshest vegetables!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After Throne of Miscellania",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Greengrocer",
+                      "text": "Welcome, Your Royal Highness. I sell only the finest and freshest vegetables!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Etceteria",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Greengrocer",
+                  "text": "Hello [Fremennik name]. You've come to the right place for yer greens!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Checking approval",
+      "sections": [
+        {
+          "title": "Before Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me how the kingdom approves of me?"
+                },
+                {
+                  "speaker": "Fishmonger",
+                  "text": "Kingdom? Etceteria is ruled by a Queen and we don't approve of you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "ref": "brewma",
+  "categoryRef": "npc",
+  "title": "Brew'ma",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Brew'ma",
+              "text": "My name is Brew'ma. I'm here to assist adventurers like you with potion making."
+            },
+            {
+              "speaker": "Brew'ma",
+              "text": "If you hand me a herb from the Bruma tree and one of the unfinished potions from the crate, I can combine the two if you lack the... talent to do so yourself."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Brew'ma",
+              "text": "You don't have any unfinished potions on you. I can't use the herbs without them."
+            },
+            {
+              "speaker": "Brew'ma",
+              "text": "You don't have any Bruma herbs on you. I need them to finish the potions."
+            },
+            {
+              "speaker": "Brew'ma",
+              "text": "Sorry, I can't do anything with that."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "ref": "joe-shipyard-",
+  "categoryRef": "npc",
+  "title": "Joe (Shipyard)",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Upon petting Joe",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Who's a good boy!"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "*Woof*"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon playing fetch with Joe",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Who's a good boy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Go get it!"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "*Woof*"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "At random intervals",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Joe",
+                  "text": "*Woof*"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "*Woof* Woof*"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

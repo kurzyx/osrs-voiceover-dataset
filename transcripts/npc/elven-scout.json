@@ -1,0 +1,83 @@
+{
+  "ref": "elven-scout",
+  "categoryRef": "npc",
+  "title": "Elven Scout",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there. Where are Islwyn and Eluned?"
+            },
+            {
+              "speaker": "Elven Scout",
+              "text": "They'll be in Prifddinas of course. With the city restored there's not much reason for them to come out here."
+            },
+            {
+              "speaker": "Elven Scout",
+              "text": "They'll be in the Underground Pass, preparing for the fight against Lord Iorwerth."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When carrying an uncharged Teleport crystal",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there. Where are Islwyn and Eluned?"
+            },
+            {
+              "speaker": "Elven Scout",
+              "text": "They'll be in Prifddinas of course. With the city restored there's not much reason for them to come out here."
+            },
+            {
+              "speaker": "Elven Scout",
+              "text": "They'll be in the Underground Pass, preparing for the fight against Lord Iorwerth."
+            },
+            {
+              "speaker": "Player",
+              "text": "But I need someone to re-enchant my teleport crystal."
+            },
+            {
+              "speaker": "Elven Scout",
+              "text": "Well I can do that if you want."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Elven Scout",
+              "text": "I ask [charge price] coins to cover my costs."
+            },
+            {
+              "speaker": "Elven Scout",
+              "text": ""
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

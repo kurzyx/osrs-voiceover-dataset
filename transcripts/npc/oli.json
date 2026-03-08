@@ -1,0 +1,167 @@
+{
+  "ref": "oli",
+  "categoryRef": "npc",
+  "title": "Oli",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Initial dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing out here on your own?"
+                },
+                {
+                  "speaker": "Oli",
+                  "text": "I'm not alone! Me and my mates run these streets. You'd better watch your pockets, stranger."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean you run the streets?"
+                },
+                {
+                  "speaker": "Oli",
+                  "text": "You see those fancy houses?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think so?"
+                },
+                {
+                  "speaker": "Oli",
+                  "text": "We keep a lookout to see when the owners leave and come back. Once they're out, we can break in and steal all their stuff!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That sounds risky don't you think? There are guards everywhere."
+                },
+                {
+                  "speaker": "Oli",
+                  "text": "No one suspects us street urchins. Hidden in plain sight, as they say."
+                },
+                {
+                  "speaker": "Oli",
+                  "text": "I can give you some info on which houses are free if you like..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm alright for now."
+                },
+                {
+                  "speaker": "Oli",
+                  "text": "Suit yourself."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Oli",
+                  "text": "Hello. Have you met our crew leader yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't think I have..."
+                },
+                {
+                  "speaker": "Oli",
+                  "text": "Go chat to them! They should be near the bank... naturally."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll head over there soon."
+                },
+                {
+                  "speaker": "Oli",
+                  "text": "Happy thieving, stranger."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I could do with some information on houses."
+                },
+                {
+                  "speaker": "Oli",
+                  "text": "You don't have any house keys, do you? You won't find yourself getting very far without any. Maybe come back later?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd better get going."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Oli",
+                  "text": "Hello. A fine day for stealing, wouldn't you say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose so, just as long as you're not planning to steal from me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When a wealthy citizen is about to re-enter their house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oli",
+                  "text": "*whistle*"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Giving Oli a bowl of stew",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Oli",
+              "text": "Thanks! That sure is tasty!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you want some... more?"
+            },
+            {
+              "speaker": "Oli",
+              "text": "No, I'm not greedy!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

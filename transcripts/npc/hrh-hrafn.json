@@ -1,0 +1,62 @@
+{
+  "ref": "hrh-hrafn",
+  "categoryRef": "npc",
+  "title": "HRH Hrafn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "When spoken to without a catspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello cat."
+                },
+                {
+                  "speaker": "Hrafn",
+                  "text": "Meow!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When spoken to with a catspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello cat."
+                },
+                {
+                  "speaker": "Hrafn",
+                  "text": "One does not wish to be disturbed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When given any non-quest item",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

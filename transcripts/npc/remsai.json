@@ -1,0 +1,51 @@
+{
+  "ref": "remsai",
+  "categoryRef": "npc",
+  "title": "Remsai",
+  "sections": [
+    {
+      "title": "Before starting Tree Gnome Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Remsai",
+              "text": "Well done, well done. Not many find their way in here."
+            },
+            {
+              "speaker": "Remsai",
+              "text": "I'm Remsai, a tree gnome. We live in this maze for our protection. Have a look around and enjoy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Tree Gnome Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Remsai",
+              "text": "Hi there traveller. You're a legend around these parts."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks Remsai."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

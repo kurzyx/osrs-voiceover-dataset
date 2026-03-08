@@ -1,0 +1,162 @@
+{
+  "ref": "spria",
+  "categoryRef": "npc",
+  "title": "Spria",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before A Porcine of Interest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Spria",
+                  "text": "I've only recently moved in and I'm still getting unpacked. Could you come back later?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After A Porcine of Interest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Spria",
+                  "text": "'Ello, and what are you after then?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need another assignment."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "You're actually very strong, are you sure you don't want Chaeldar in Zanaris to assign you a task?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No that's okay, I'll take a task from you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh okay then, I'll go talk to Chaeldar."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "Excellent, you're doing great. Your new task is to kill [amount] [task monster]."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "You're still hunting [task monster], you have [amount] to go."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "You're still hunting [monster], with [amount] to go."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "I don't think that's a suitable task for you. Shall I cancel it? This will not wipe your task streaks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please cancel it."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "Alright, consider the task cancelled. You can now get a new assignment when you want one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks, I want to try doing it."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "Good luck with that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you any rewards for me, or anything to trade?"
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "I have quite a few rewards you can earn, and a wide variety of Slayer equipment for sale."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's talk about the difficulty of my assignments."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "The Slayer Masters may currently assign you any task in our lists, regardless of your combat level."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's fine - I can handle any task."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "That's the spirit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "In future, please don't give anything too tough."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "Okay, from now on, all the Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "The Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's fine - I don't want anything too tough."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "Okay, we'll keep checking your combat level."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stop checking my combat level - I can take anything!"
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "Okay, from now on, all the Slayer Masters will assign you anything from their lists, regardless of your combat level."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "About Turael..."
+                },
+                {
+                  "speaker": "Spria",
+                  "text": "It's nothing personal, but I'd prefer not to discuss what happened with my father."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course. Sorry for bringing it up."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... Nothing..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "During A Porcine of Interest",
+      "sections": [],
+      "dialogues": []
+    }
+  ]
+}

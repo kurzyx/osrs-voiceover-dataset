@@ -1,0 +1,103 @@
+{
+  "ref": "barge-guard",
+  "categoryRef": "npc",
+  "title": "Barge guard",
+  "sections": [
+    {
+      "title": "Before Bone Voyage",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Barge guard",
+              "text": "Hello there, can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I go onto the barge?"
+            },
+            {
+              "speaker": "Barge guard",
+              "text": "I'm afraid the team are still in the final stages of construction, you won't be able to go on board until they have finished. The foreman will know more if you have any questions."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Bone Voyage",
+      "sections": [
+        {
+          "title": "On the canal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Barge guard",
+                  "text": "Hello there, can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go onto the barge?"
+                },
+                {
+                  "speaker": "Barge guard",
+                  "text": "Absolutely, the navigators are waiting for you on board!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "On the barge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Barge guard",
+                  "text": "Hello there, can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I get off the barge?"
+                },
+                {
+                  "speaker": "Barge guard",
+                  "text": "Absolutely, let me help you off!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

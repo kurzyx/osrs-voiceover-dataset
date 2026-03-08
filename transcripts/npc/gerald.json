@@ -1,0 +1,59 @@
+{
+  "ref": "gerald",
+  "categoryRef": "npc",
+  "title": "Gerald",
+  "sections": [
+    {
+      "title": "Before Waterfall Quest",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Gerald",
+              "text": "Good day to you traveller, are you here to fish or just looking around? I've caught some beauties down here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Really?"
+            },
+            {
+              "speaker": "Gerald",
+              "text": "The last one was this big!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After learning about the treasure during the Waterfall Quest",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gerald",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Gerald",
+              "text": "Hello traveller. Are you here to fish or to hunt for treasure?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Why do you say that?"
+            },
+            {
+              "speaker": "Gerald",
+              "text": "Adventurers pass through here every week, they never find anything though."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

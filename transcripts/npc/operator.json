@@ -1,0 +1,77 @@
+{
+  "ref": "operator",
+  "categoryRef": "npc",
+  "title": "Operator",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Operator",
+              "text": "How can I help you, human?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Have you any ore for me?"
+            },
+            {
+              "speaker": "Operator",
+              "text": "Here you go. That's all the ore I have for you."
+            },
+            {
+              "speaker": "Operator",
+              "text": "None of the ore here is yours, sorry."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I mine in this place?"
+            },
+            {
+              "speaker": "Operator",
+              "text": "Okay, first you need dynamite. That's got three ingredients..."
+            },
+            {
+              "speaker": "Operator",
+              "text": "Once you've got dynamite, use a chisel to excavate a cavity in the hard rock walls, so you can put the dynamite in, then light the fuse."
+            },
+            {
+              "speaker": "Operator",
+              "text": "The dynamite blows ore out of the hard rock. It's very unstable, so you don't have long to get it cleaned before it disintegrates."
+            },
+            {
+              "speaker": "Operator",
+              "text": "Just deposit it into the sack upstream, and my colleague will get it cleaned safely. You can collect your cleaned ore from me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Operator",
+              "text": "I work here, in the blast mine. It's a valuable source of minerals for the kingdom, so our work is very important."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this machine?"
+            },
+            {
+              "speaker": "Operator",
+              "text": "The ore from the blast mines is unstable, and needs washing quickly before it disintegrates, so the Lovakengj engineers invented this machine to clean it."
+            },
+            {
+              "speaker": "Operator",
+              "text": "The design's a secret; even if someone tried to copy it, they'd never get it quite right. I bet their machine would break down all the time."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll be off."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

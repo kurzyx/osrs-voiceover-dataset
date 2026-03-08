@@ -1,0 +1,107 @@
+{
+  "ref": "rannveig",
+  "categoryRef": "npc",
+  "title": "Rannveig",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Rannveig",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Rannveig",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacking the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rannveig",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Rannveig",
+                  "text": "Rahr!"
+                },
+                {
+                  "speaker": "Rannveig",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Rannveig",
+                  "text": "Grr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rannveig",
+                  "text": "Aargh!"
+                },
+                {
+                  "speaker": "Rannveig",
+                  "text": "I'm a gonner!"
+                },
+                {
+                  "speaker": "Rannveig",
+                  "text": "It's no use, I'm done for!"
+                },
+                {
+                  "speaker": "Rannveig",
+                  "text": "Uggh!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

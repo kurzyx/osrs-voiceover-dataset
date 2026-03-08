@@ -1,0 +1,47 @@
+{
+  "ref": "commander-montai",
+  "categoryRef": "npc",
+  "title": "Commander Montai",
+  "sections": [
+    {
+      "title": "Dialogue before starting Tree Gnome Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Commander Montai",
+              "text": "I can't talk now. Can't you see we're trying to win a battle here? If we can't hold back Khazard's men we're all doomed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After returning the orb of protection to King Bolren",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello Montai, how are you?"
+            },
+            {
+              "speaker": "Commander Montai",
+              "text": "I'm ok, this battle is going to take longer to win than I expected. The Khazard troops won't give up even without the orb."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hang in there."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

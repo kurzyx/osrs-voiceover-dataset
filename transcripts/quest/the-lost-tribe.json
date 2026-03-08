@@ -1,0 +1,1376 @@
+{
+  "ref": "the-lost-tribe",
+  "categoryRef": "quest",
+  "title": "The Lost Tribe",
+  "sections": [
+    {
+      "title": "A Hole in the Wall",
+      "sections": [
+        {
+          "title": "The Duke's Adviser",
+          "sections": [
+            {
+              "title": "Talking to Sigmund again after starting the quest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Sigmund",
+                      "text": "Can I help you?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What was I doing again?"
+                    },
+                    {
+                      "speaker": "Sigmund",
+                      "text": "I asked you to talk to people around Lumbridge to see if any of them know what happened in the cellar."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sigmund",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any quests for me?"
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "There was recently some damage to the castle cellar. Part of the wall has collapsed."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "The Duke insists that it was an earthquake, but I think some kind of monsters are to blame."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what do you need me to do?"
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "You should ask people around the town about it. Maybe someone saw something."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I'm not interested."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Asking the Duke",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Greetings. Welcome to my castle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened in the cellar?"
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "The wall collapsed because of an earthquake. I'm waiting for a team of builders to come and repair it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Asking the Cook",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cook",
+                  "text": "How is the adventuring going, my friend?"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Oh no, it's terrible, isn't it? There was rock dust everywhere, it got on all my ingredients!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Asking Hans",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hans",
+                  "text": "Hello. What are you doing here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know what happened in the castle cellar?"
+                },
+                {
+                  "speaker": "Hans",
+                  "text": "The wall collapsed. I had to spend all day clearing it up! The Duke says it was an earthquake."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Asking Bob",
+          "sections": [
+            {
+              "title": "Talking to Bob again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Do you know what happened in the castle cellar?"
+                    },
+                    {
+                      "speaker": "Bob",
+                      "text": "I told you about the creature I saw. You should go and tell the Duke."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Sigmund after talking to Bob",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Sigmund",
+                      "text": "Can I help you?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Bob says he saw something in the cellar. Like a goblin with big eyes."
+                    },
+                    {
+                      "speaker": "Sigmund",
+                      "text": "A goblin? This validates my suspicion! We should tell the Duke!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you know what happened in the castle cellar?"
+                },
+                {
+                  "speaker": "Bob",
+                  "text": "Last night I was in the kitchen and I heard a noise from the cellar. I opened the trapdoor and saw a creature dart into a hole in the wall."
+                },
+                {
+                  "speaker": "Bob",
+                  "text": "It looked a bit like a goblin, but it had big bulging eyes. It wasn't wearing armour, but it had this odd helmet with a light on it."
+                },
+                {
+                  "speaker": "Bob",
+                  "text": "The tunnel was too dark for me to follow it, so I went to tell the Duke. But when we went down to the cellar the hole had been blocked up, and no one believes me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I believe you."
+                },
+                {
+                  "speaker": "Bob",
+                  "text": "Thank you, [player name]! If you can convince the Duke I'm telling the truth then we can get to the bottom of this mystery."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Convincing Horacio",
+          "sections": [
+            {
+              "title": "Talking to the Duke again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "Greetings. Welcome to my castle."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What was I doing again?"
+                    },
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "You were helping to investigate what happened in the cellar. Come back when you've found something out."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Sigmund again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Sigmund",
+                      "text": "Can I help you?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What was I doing again?"
+                    },
+                    {
+                      "speaker": "Sigmund",
+                      "text": "The Duke asked you to investigate the damage in the cellar. I hope you can find the monsters that are behind this!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Greetings. Welcome to my castle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Bob says he saw something in the cellar. Like a goblin with big eyes."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Yes, he mentioned that to me. But I think he was imagining things. Goblins live in natural caves but everyone knows they don't have the wit to make their own tunnels."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "Yes your grace, but if there is any possibility that this is a goblin incursion then we should take that possibility very seriously!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think we should at least investigate."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "Your grace, this is the adventurer who defeated the dragon Elvarg. I think you should listen to [him/her/them]."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "Your grace, this adventurer took that talisman you discovered to Sedridor. I think you should listen to [him/her/them]."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Hmm, very well. I give you permission to investigate this mystery. If there is a blocked tunnel then perhaps you should try to un-block it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening the tunnel",
+          "sections": [
+            {
+              "title": "Talking to the Duke after opening the tunnel",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "Greetings. Welcome to my castle."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I dug through the rubble in the cellar and found a tunnel!"
+                    },
+                    {
+                      "speaker": "Sigmund",
+                      "text": "You see, your grace? It is a goblin attack!"
+                    },
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "That tunnel could have many origins. I suggest you investigate further."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Sigmund after opening the tunnel",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Sigmund",
+                      "text": "Can I help you?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I dug through the rubble in the cellar and found a tunnel!"
+                    },
+                    {
+                      "speaker": "Sigmund",
+                      "text": "See, it was goblins! You should tell the Duke."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Showing the brooch to the Duke",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Greetings. Welcome to my castle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I dug through the rubble in the cellar and found a tunnel!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "On the ground I found this brooch."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "I've never seen anything like that before. It doesn't come from Lumbridge. What do you think, Sigmund?"
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "It is unknown to me, your grace. But the fact it is there is enough to prove Bob's story. It must have been dropped by a goblin as it fled."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "I've never heard of a goblin wearing something so well-crafted."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "Then it must have been stolen!"
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "But it wasn't stolen from us. Where could it be from?"
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "That doesn't matter! You said yourself that goblins couldn't have made that, so they must have stolen it from somewhere."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "Horrible, thieving goblins have broken into our cellar! We must retaliate immediately!"
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "First we should wipe out the goblins east of the river, then we can march on the goblin village to the north-west..."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "I will not commit troops until I have proof that goblins are behind this."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "[Player name], please find out what you can about this brooch. The librarian in Varrock might be able to help identify the symbol."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Investigation",
+      "sections": [
+        {
+          "title": "Talking to Reldo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Reldo",
+                  "text": "Hello there, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can you tell me about this brooch?"
+                },
+                {
+                  "speaker": "Reldo",
+                  "text": "I've never seen that symbol before. Where did you find it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "In a cave beneath Lumbridge."
+                },
+                {
+                  "speaker": "Reldo",
+                  "text": "Very odd. Have you any idea how it got there?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A goblin might have dropped it."
+                },
+                {
+                  "speaker": "Reldo",
+                  "text": "I've never heard of a goblin carrying a brooch like this. But just a minute..."
+                },
+                {
+                  "speaker": "Reldo",
+                  "text": "The other day I filed a book about ancient goblin tribes. It's somewhere at the west end of the library, I think. Maybe that will be of some use."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "A History of the Goblin Race",
+          "sections": [
+            {
+              "title": "Talking to the Duke",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "Greetings. Welcome to my castle."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I found out about the symbol. It was the symbol of one of the ancient goblin tribes!"
+                    },
+                    {
+                      "speaker": "Sigmund",
+                      "text": "You see, your grace? I told you goblins were behind this!"
+                    },
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "I still find it surprising that such a well-crafted brooch would have a goblin symbol on it. Perhaps you should find out more about this ancient tribe."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Sigmund",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Sigmund",
+                      "text": "Can I help you?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I found out about the symbol. It was the symbol of one of the ancient goblin tribes!"
+                    },
+                    {
+                      "speaker": "Sigmund",
+                      "text": "At last, proof that goblins are behind this! You should tell the Duke at once!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "'A History of the Goblin Race'. This must be it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey... The symbol of the 'Dorgeshuun' tribe looks just like the symbol on the brooch I found."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Goblin Generals",
+          "sections": [
+            {
+              "title": "Speaking to Duke Horacio after the Goblin generals",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "Greetings. Welcome to my castle."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I spoke to the goblin generals in the goblin village. They told me about an ancient goblin tribe that went to live underground."
+                    },
+                    {
+                      "speaker": "Sigmund",
+                      "text": "What more proof do we need? Nasty, smelly goblins have been living under our feet all this time! We must crush them at once!"
+                    },
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "Hmm, perhaps you are right. I will send word to the army to prepare for an underground assault."
+                    },
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "[Player name], I would still like you to find out more about this tribe. It cannot hurt to know one's enemy."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Speaking to Sigmund after the Goblin generals",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Sigmund",
+                      "text": "Can I help you?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I spoke to the goblin generals in the Goblin Village. They told me about an ancient goblin tribe that went to live underground."
+                    },
+                    {
+                      "speaker": "Sigmund",
+                      "text": "I don't see how there can be any more doubt. You should tell the Duke at once!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Have you ever heard of the Dorgeshuun?"
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Dorgeshuun? That old goblin legend. Lost tribe."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "In time of much-war there many tribes. Big High War-God send Dorgesh tribe to fight beardy-short-people in mountains."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "No no, he send them to fight tall people with biting blades, that what I hear."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "It was beardy-short-people, that how legend go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Make up your minds!"
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "It was tall people! That what old storyteller say!"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "No, beardy-short-people. That how legend always go, stupid."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "You stupid!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you want me to decide for you again?"
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "That most stupid idea yet. If it happen it either happen one way or the other. You can't just decide which."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Yeah even goblins know that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It doesn't really matter. What happened to them?"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Well, they say, 'We not want to fight,' so god punish them."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "That silly. No goblin ever say that."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "What happen then?"
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "They lose battle, that why god punish them."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Ha ha! If they lost battle they all be dead!"
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "No no, they losing so they run away, and Big High War-God punish them for running away."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who were they fighting again?"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "It was beardy-short-people in mountains."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "No no, it was tall people."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What kind of god would punish them for refusing to fight?"
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Shh! Must not question Big High War-God!"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "No, because he much bigger than us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well either way they refused to fight."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Yeah I suppose so."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Anyway then Big High War-God punish them. He turn their insides to stone."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Ha ha ha! That silly!"
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Not as silly as green armour! What happen then?"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "He put them inside stone! Big hole open in ground and they all go into cave."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "That not punishment! Caves nice and cool."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "But then he close cave so they not get out! You not want to stay in cave all the time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why were there punished again?"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "It because they run away from fight."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "No, it because they refuse to fight night before battle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So do goblins make their own tunnels?"
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "What? Make our own tunnels?"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "We hadn't thought of that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I found a brooch underground, and I looked up the symbol and it was the symbol of the Dorgeshuun."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "That not look like goblin brooch."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Goblins not wear jewellery."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Well if it Dorgeshuun tribe they not know who won big wars. You should greet them with goblin victory dance!"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "No no, you greet them with goblin tribal bow."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Doing bow make you look like a wimp."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "It how tribes greet each other in old days."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Only if they wimpy tribes! Goblin salute strong!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So why is the Dorgeshuun tribe underground?"
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "They punished by Big High War-God."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait, you say YOU won the big wars?"
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Well we must have done! We goblins! Goblins always win!"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Actually we not know who won."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "It was goblins I say!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well why not show me both greetings?"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "That good idea. Watch."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Bye then."
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Bye."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Meeting the Lost Tribe",
+      "sections": [
+        {
+          "title": "Greetings",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mistag",
+                  "text": "Who...who are you? How did you get in here?"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Help! A surface-dweller this deep in our mines? We will all be destroyed!"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "A human knows ancient greeting?"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Perhaps you are friend after all!"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Greetings, friend. I am sorry I panicked when I saw you."
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Our legends tell of the surface as a place of horror and violence, where the gods forced us to fight in terrible battles."
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "When I saw a surface-dweller appear I was afraid it was a return to the old days!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did you break in to the castle cellar?"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "It was an accident. We were following a seam of iron and suddenly we found ourselves in a room!"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "We blocked up our tunnel behind us and ran back here. Then we did what cave goblins always do when there is a problem: we hid and hoped it would go away."
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "We meant no harm! Please tell the ruler of the above- people that we want to make peace."
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Eeek! The war-dance!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mistag after first contact",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mistag",
+                  "text": "Hello, friend?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "May I mine the rocks here?"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "No offence, but we will not let you mine here until there is peace between the humans and the Dorgeshuun."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you show me the way out of the mines?"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Certainly. Please hurry, you must avert the war!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using Mistag's brooch on him before the peace treaty",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Is this your brooch?"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "We have more important things to think about than a brooch right now. We must prevent a war!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Informing Duke Horacio/Sigmund",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Greetings. Welcome to my castle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've made contact with the cave goblins. They say they were following a seam and broke into the cellar by mistake."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "And I suppose you believe them, goblin-lover?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, they seemed friendlier than most goblins, and nothing was taken from the cellar."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Actually, something was taken. Sigmund has informed me that some of the castle silverware is missing from the cellar."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Unless it is returned, I am afraid I will have no option but war."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Property Recovery",
+      "sections": [
+        {
+          "title": "Talking to the Duke again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Greetings. Welcome to my castle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What was I doing again?"
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "We are preparing to go to war with the underground goblins over the missing silverware. If you think the cave goblins are innocent you should present evidence quickly!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sigmund",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sigmund",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about the silverware that was stolen."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "The priceless Lumbridge Silverware! It comes out only on special occasions. It was kept in storage in the cellar, but now the goblins have stolen it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So why did no one notice earlier?"
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "That doesn't matter. You'll never find it, because the goblins took it. So you can't stop the war!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Asking Mistag about the silverware",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mistag",
+                  "text": "Hello, friend?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Some silverware has gone missing from the castle, and the Duke thinks you stole it!"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Oh no! We would never do such a thing!"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "I assure you we took nothing from the cellar. You must convince the Duke we are innocent!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where's the silverware you stole from the castle cellar?"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "What? We didn't take anything!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You expect me to believe that? Perhaps Sigmund was right: you're just thieving little goblins!"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Why would we want to steal silver? As you see we have much silver already in our mines!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, the Duke says he will attack you unless the silverware is returned."
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "The last thing we want is war! If we had anything of yours, we would return it at once. But we don't!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Sigmund's key",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Opening Sigmund's chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Sigmund must be a member of the Humans Against Monsters cult!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Asking Sigmund about H.A.M.",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sigmund",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're a H.A.M member, aren't you?"
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "Well, so what if I am? It's not a crime."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Telling the Duke about Sigmund's H.A.M.-loving ways",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Greetings. Welcome to my castle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did you know Sigmund is a member of HAM?"
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Hmm, I had suspected it. But however much I disapprove of the HAM movement it's not actually illegal. I'll keep an eye on him though."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the H.A.M. hideout",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Resolving Tensions",
+      "sections": [
+        {
+          "title": "Talking to Sigmund before returning the silverware",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sigmund",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about the silverware that was stolen."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "The priceless Lumbridge Silverware! It comes out only on special occasions. It was kept in storage in the cellar, but now the goblins have stolen it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So why did no one notice earlier?"
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "That doesn't matter. You'll never find it, because the goblins took it. So you can't stop the war!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually I have found it! You put it in the H.A.M. cave!"
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "I... I... You're lying! I don't know what you're talking about."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning the silverware",
+          "sections": [
+            {
+              "title": "Attempting to talk to Sigmund",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Talking to Duke Horacio again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "Greetings. Welcome to my castle."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What was I doing again?"
+                    },
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "You were taking the peace treaty to the cave goblins."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I, er, lost the treaty."
+                    },
+                    {
+                      "speaker": "Duke Horacio",
+                      "text": "*sigh* All right, here's another copy."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Greetings. Welcome to my castle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found the missing silverware in the HAM cave!"
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Sigmund! Is this your doing?"
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "Of...of course not! The goblins must have, um, dropped the silverware as they ran away."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Don't lie to me! I knew you were a HAM member but I didn't think you would stoop to this. You are dismissed from my service."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "But don't you see it was for the best? For goblins to be living under our feet like this... ugh. It doesn't matter how civilized they are: all sub-human species must be wiped out!"
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "That's enough! Get out of my castle now!"
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "I see I was ill-advised. Unless there is an act of aggression by the cave goblins there is no need for war."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "This peace treaty specifies the border between Lumbridge and the Cave Goblin realm. Please take it to the cave goblins and tell them I would like to meet with their leader to sign it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Delivering the treaty",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mistag",
+                  "text": "Hello, friend?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a peace treaty from the Duke of Lumbridge."
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "A peace treaty? Then you will not invade?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No. As long as you stick to the terms of this treaty there will be no conflict. The Duke of Lumbridge wants to meet your ruler to sign it."
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "I will summon Ur-tag, our headman, at once."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cut scene: A meeting of leaders",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your grace, I present Ur-tag, headman of the Dorgeshuun."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "Welcome, Ur-tag. I am sorry that your race came under suspicion."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "I assure you that the warmongering element has been dealt with."
+                },
+                {
+                  "speaker": "Ur-tag",
+                  "text": "I apologize for the damage to your cellar. I will send workers to repair the hole."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "No, let it stay. It can be a route of commerce between our lands."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "[Player name], Lumbridge is in your debt. Please accept this ring as a token of my thanks."
+                },
+                {
+                  "speaker": "Duke Horacio",
+                  "text": "It is enchanted to save you in your hour of need."
+                },
+                {
+                  "speaker": "Ur-tag",
+                  "text": "I too thank you. Accept the freedom of the Dorgeshuun mines."
+                },
+                {
+                  "speaker": "Ur-tag",
+                  "text": "These are strange times. I never dreamed that I would see the surface, still less that I would be on friendly terms with its people."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "Prattle on, goblin."
+                },
+                {
+                  "speaker": "Sigmund",
+                  "text": "Soon you will be destroyed!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

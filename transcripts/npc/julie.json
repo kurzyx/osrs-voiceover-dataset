@@ -1,0 +1,47 @@
+{
+  "ref": "julie",
+  "categoryRef": "npc",
+  "title": "Julie",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Julie",
+              "text": "Oh dear! Oh dear! I don't have time to chat!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Opening Bedroom door without Priest gown equipped",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Julie",
+              "text": "Please leave my husband alone. He's very sick, and I don't want anyone bothering him."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry to hear that. Is there anything I can do?"
+            },
+            {
+              "speaker": "Julie",
+              "text": "Thank you, but I just want him to see a priest."
+            },
+            {
+              "speaker": "Player",
+              "text": "A priest? Hmmm..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

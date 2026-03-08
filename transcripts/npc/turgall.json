@@ -1,0 +1,192 @@
+{
+  "ref": "turgall",
+  "categoryRef": "npc",
+  "title": "Turgall",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Giving the parts",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Turgall",
+                  "text": "Oh, look at that broken part. Let me take it off you."
+                },
+                {
+                  "speaker": "Turgall",
+                  "text": "Oh, look at those broken parts. Let me take them off you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've got the [item]!"
+                },
+                {
+                  "speaker": "Turgall",
+                  "text": "Oh? How did you get across the cavern?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I got there and back by swinging across the cavern with a crossbow."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I got there and back by balancing on cables and things."
+                },
+                {
+                  "speaker": "Turgall",
+                  "text": "Oh, well, I'll give you a few tips about how to do that more easily."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you need any more help?"
+                },
+                {
+                  "speaker": "Turgall",
+                  "text": "I always need more help. This power station is always breaking."
+                },
+                {
+                  "speaker": "Turgall",
+                  "text": "At the moment, I need a [first item] and a [second item]. If you could get either one I'd appreciate it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the wrong part on Turgall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Turgall",
+                  "text": "Thanks, but I've got plenty of those. At the moment I need a [Item] and a [Item]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Turgall",
+                  "text": "Oh, look at that broken part. Let me take it off you."
+                },
+                {
+                  "speaker": "Turgall",
+                  "text": "Oh, look at those broken parts. Let me take them off you."
+                },
+                {
+                  "speaker": "Turgall",
+                  "text": "Oh! Hello, surface-dweller. Do you think you could help me?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Turgall",
+              "text": "Oh! Hello, surface-dweller. Do you think you could help me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What help?"
+            },
+            {
+              "speaker": "Turgall",
+              "text": "This power station keeps breaking. I can fix it easily with parts from the old power generator on the other side of the cavern, but that's not easy to get to."
+            },
+            {
+              "speaker": "Turgall",
+              "text": "Do you think you could get something from there for me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay!"
+            },
+            {
+              "speaker": "Turgall",
+              "text": "Excellent! Now, at the moment, I need a [first item] and a [second item]. If you could get either one I'd appreciate it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Get it youself!"
+            },
+            {
+              "speaker": "Turgall",
+              "text": "Alright, I'm sure someone else will help me."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Turgall",
+              "text": "Oh, this is, um, the power station. It converts heat from the lava into magical energy, which powers the lights in the city."
+            },
+            {
+              "speaker": "Player",
+              "text": "How does it work?"
+            },
+            {
+              "speaker": "Turgall",
+              "text": "By magic!"
+            },
+            {
+              "speaker": "Turgall",
+              "text": "The lava heats water into steam, which drives a turbine around. The turbine contains magical stones."
+            },
+            {
+              "speaker": "Turgall",
+              "text": "As the magical stones rotate they generate a magical current in the conductor cables, and that powers the light!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Why is it outside the city?"
+            },
+            {
+              "speaker": "Turgall",
+              "text": "We're hardly going to let flowing lava inside the city, are we?"
+            },
+            {
+              "speaker": "Turgall",
+              "text": "But don't worry, it's quite safe. The creatures on the cavern floor can't get up here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are there cables all over the cavern?"
+            },
+            {
+              "speaker": "Turgall",
+              "text": "Oh...they deliver power from the old power station."
+            },
+            {
+              "speaker": "Turgall",
+              "text": "There was an accident with that power station and it stopped working, so we set this one up instead."
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Turgall",
+              "text": "Oh, er, bye."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

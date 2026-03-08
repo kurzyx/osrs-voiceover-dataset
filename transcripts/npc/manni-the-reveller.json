@@ -1,0 +1,55 @@
+{
+  "ref": "manni-the-reveller",
+  "categoryRef": "npc",
+  "title": "Manni the Reveller",
+  "sections": [
+    {
+      "title": "Before the Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there!"
+            },
+            {
+              "speaker": "Manni the Reveller",
+              "text": "Do not think me rude outerlander, but our customs forbid me talking to you. All contact with outerlanders must be vetted by our chieftain, Brundt."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where is this Brundt?"
+            },
+            {
+              "speaker": "Manni the Reveller",
+              "text": "He is standing just over there. He will speak for the tribe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After the Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Howdy!"
+            },
+            {
+              "speaker": "Manni the Reveller",
+              "text": "Hey! It's [Fremennik name]! Let me buy you a drink!"
+            },
+            {
+              "speaker": "Manni the Reveller",
+              "text": "There ya go! Anyone who can drink like you earns my respect!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

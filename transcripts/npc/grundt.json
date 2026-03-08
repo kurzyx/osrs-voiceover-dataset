@@ -1,0 +1,61 @@
+{
+  "ref": "grundt",
+  "categoryRef": "npc",
+  "title": "Grundt",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before delivering their ore during The Fremennik Isles",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grundt",
+                  "text": "Bored, bored, bored. These Fremenniks are taking ages."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey, they're doing their best. You arrived early."
+                },
+                {
+                  "speaker": "Grundt",
+                  "text": "Hey, we arrived precisely when we told your representatives. Lack of planning on your part does not constitute an emergency on my part."
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "Please, someone get these guys their ore quickly. They are eating all the good food on the island, and complaining about it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd better get a move on!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After delivering their ore during The Fremennik Isles",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grundt",
+                  "text": "Ah, yes. Now that's what I call a meal."
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "That's funny, I called it fourteen meals yesterday."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

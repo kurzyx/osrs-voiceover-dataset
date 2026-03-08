@@ -1,0 +1,45 @@
+{
+  "ref": "thorkel-silkbeard",
+  "categoryRef": "npc",
+  "title": "Thorkel Silkbeard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After completing The Fremennik Isles",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Thorkel Silkbeard",
+                  "text": "I hear you killed the Troll King. Thanks you for that, however I'm afraid I can't really talk to you any more, the King would be unhappy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good luck with dealing with the King. You'll need it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using any non-quest item on Thorkel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Thorkel Silkbeard",
+                  "text": "What on earth am I supposed to do with that? Take it away."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

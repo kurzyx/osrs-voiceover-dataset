@@ -1,0 +1,4542 @@
+{
+  "ref": "death-on-the-isle",
+  "categoryRef": "quest",
+  "title": "Death on the Isle",
+  "sections": [
+    {
+      "title": "Starting the quest",
+      "sections": [
+        {
+          "title": "Talking to Patzi after rejecting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Patzi",
+                  "text": "Hello again! Are you feeling more in the partying spirit now?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Patzi",
+              "text": "Good day! I don't suppose I could trouble you for the briefest of moments?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I suppose I could consider being troubled for a little..."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Ah, on second thoughts, you may not be cut out for this job."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good day to you! I could consider being troubled, for the right reasons."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "How does access to a rather fancy party sound as a motivator?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, just as long as I get to actually enjo-"
+            },
+            {
+              "speaker": "Patzi",
+              "text": "I'm sure I can also rustle up some payment to encourange you, if you have any reservations."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "You may even find some... exciting opportunities inside, given the presence of some of Aldarin's wealthiest citizens!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So if you're going to this party, would you also be one of Aldarin's wealthiest citizens?"
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Alas, I am, quite unfortunately, not rich in money. What I do possess is a certain wealth..."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "... of talent! For you see I am... an actor! Patzi the Grand, they'll call me... eventually."
+            },
+            {
+              "speaker": "Player",
+              "text": "They call me [player name]... just [player name]. So if you're not rich in money, how am I going to get paid, assuming I agree to help you with... whatever it is you want."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Cutting words, but you need not worry. While you won't be getting paid upfront, I have a feeling that if all goes well, I will soon find myself with more than enough wealth to handsomely reward you."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "And besides, if nothing else, I'm sure you'll have a wonderful time at the party!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I suppose I could do with letting my hair down a little. Alright, I'm in."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Wonderful!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So whose party are we going to?"
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Well, that's complicated..."
+            },
+            {
+              "speaker": "Player",
+              "text": "You don't know?"
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Sometimes a man has to follow his heart... and a second hand invitation saying there's a party at Villa Lucens tonight."
+            },
+            {
+              "speaker": "Player",
+              "text": "Villa Lucens?"
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Yes! The villa is home to an almighty patron of the arts! He even has his own theatre atop the cliffs behind the villa! In fact, the whole reason for this party is because he's showing his new play!"
+            },
+            {
+              "speaker": "Player",
+              "text": "And yet you don't actually know who he is?"
+            },
+            {
+              "speaker": "Patzi",
+              "text": "This opportunity came about quite suddenly. As such, I'm unfortunately not as prepared as I otherwise would be. However, an actor like myself can't turn down the chance to meet with a man like him."
+            },
+            {
+              "speaker": "Adala",
+              "text": "Not to mention the chance to enjoy a good party."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Well said, Adala. Oh that reminds me, [player name], this is Adala. She's also helping me out today!"
+            },
+            {
+              "speaker": "Player",
+              "text": "If you have her, why do you need me?"
+            },
+            {
+              "speaker": "Patzi",
+              "text": "She advertised herself as a bag carrier, so she's here to move my bag around. There's a lot of costumes and props that I travel with, so it's nice to have someone else carry them."
+            },
+            {
+              "speaker": "Adala",
+              "text": "I'm not going to say no to going to a fancy party, even as the help."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "As for your part in all this, [player name], with this being a fancy party and all, I'm going to need a butler to help me fit in."
+            },
+            {
+              "speaker": "Player",
+              "text": "A butler?"
+            },
+            {
+              "speaker": "Patzi",
+              "text": "You know, serving me wine and tending to my needs. Fancy suit and all?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Right... So I don't actually get to enjoy the party at all, do I?"
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Oh I'm sure you will. You'll just have to act a little here and there!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I see... You mentioned a fancy suit. You wouldn't happen to have a butler outfit in that bag you mentioned?"
+            },
+            {
+              "speaker": "Patzi",
+              "text": "I don't believe I do. I don't really take roles like that these days."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, in that case, any idea where I might get one, preferably free of charge?"
+            },
+            {
+              "speaker": "Adala",
+              "text": "Lots of the villas around here will have butlers, and butlers mean uniforms."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you suggesting I steal one?"
+            },
+            {
+              "speaker": "Adala",
+              "text": "I suppose you could always put it back once you're done."
+            },
+            {
+              "speaker": "Player",
+              "text": "And I'm sure whoever I take it from will be overjoyed to have had someone else wearing their uniform."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Hmm... Maybe I should add a butler's uniform to my vast array of costumes after all."
+            },
+            {
+              "speaker": "Adala",
+              "text": "I doubt they'll ever even realise. Anyway, I remember seeing some uniforms through a window on the way over here. They were in a villa to the north."
+            },
+            {
+              "speaker": "Player",
+              "text": "Right... I guess I'm off to find a uniform then."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Good luck!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not really a party person these days, I'm afraid."
+            },
+            {
+              "speaker": "Patzi",
+              "text": "Quite unfortunate. In that case, please make sure to keep an eye out for me at your local theatre. I'll be a star soon!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Getting a uniform",
+      "sections": [
+        {
+          "title": "Talking to Patzi without a uniform",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Patzi",
+                  "text": "How's the costume hunt going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If I'm going to be working, shouldn't we be calling it a uniform?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Yes, I suppose so! Either way, Adala should be able to help you get your hands on one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Adala without a uniform",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Adala",
+                  "text": "Any luck finding that villa with the spare uniforms in yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not quite. You said it was to the north of here?"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "I believe so. Once you get there, you should keep an eye out for any guards. Wouldn't want you to get arrested before the party starts!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Stealing a uniform",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to steal another uniform",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "This person has a lot of uniforms, but I shouldn't take more than I need."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the house window while in view of the guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I probably shouldn't break into a house in full view of a guard."
+                },
+                {
+                  "speaker": "Wandering Guard",
+                  "text": "I definitely wouldn't recommend it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Adala or Patzi with a uniform",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Adala",
+                  "text": "I see you've managed to find a uniform."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have indeed. You must have a good eye to have seen them through a window as you walked by?"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "It was a bit of a lucky spot, I must admit!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Lucky indeed. It's almost like you were specifically looking for them?"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "Just good fortune. Now, I ought to get a move on getting this bag inside."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Oh, she's in a rush, isn't she?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Given the size of your bag, I'm not sure she's rushing anywhere."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Well, she sets a good example. You should probably be heading on in yourself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm guessing the entrance is just up these stairs?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "The guest entrance is yes..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't tell me..."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "You'll have to go in through the staff entrance, unfortunately. I can't be seen entering with the help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The help?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Sorry, just getting into character."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "You will have to use the staff entrance though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where would I find said entrance?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "I'll bet Adala went through it. You should've followed her! I think she headed somewhere along that hedgerow."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Patzi after Adala is gone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Patzi",
+                  "text": "Oh, she's in a rush, isn't she?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Given the size of your bag, I'm not sure she's rushing anywhere."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Well, she sets a good example. You should probably be heading on in yourself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm guessing the entrance is just up these stairs?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "The guest entrance is yes..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't tell me..."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "You'll have to go in through the staff entrance, unfortunately. I can't be seen entering with the help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The help?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Sorry, just getting into character."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "You will have to use the staff entrance though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where would I find said entrance?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "I'll bet Adala went through it. You should've followed her! I think she headed somewhere along that hedgerow."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Getting inside the Villa",
+      "sections": [
+        {
+          "title": "Talking to Patzi",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Where was that staff entrance that you mentioned?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "I'm guessing Adala went through it. I think she headed somewhere along that hedgerow."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter through the guest entrance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Villa Guard",
+                  "text": "Sorry, entry here is for guests only."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the head butler",
+          "sections": [
+            {
+              "title": "Without the butler uniform worn",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Oh yes, just give me a moment..."
+                    },
+                    {
+                      "speaker": "Head Butler",
+                      "text": "Nilsal to you."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there. I'm here to work."
+                    },
+                    {
+                      "speaker": "Head Butler",
+                      "text": "Not without a uniform you're not."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh yes, just give me a moment..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "With the butler uniform worn",
+              "sections": [
+                {
+                  "title": "Without a follower",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "I am."
+                        },
+                        {
+                          "speaker": "Head Butler",
+                          "text": "Good good. We'll hold on to any items you have on you whilst you're in there."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Not quite."
+                        },
+                        {
+                          "speaker": "Head Butler",
+                          "text": "Very well."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "With a follower",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "I am."
+                        },
+                        {
+                          "speaker": "Head Butler",
+                          "text": "Then you should put your follower away."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Not quite."
+                        },
+                        {
+                          "speaker": "Head Butler",
+                          "text": "Very well."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Head Butler",
+                      "text": "Oh, nilsal, to you. I wasn't expecting anyone else."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sorry, there was a bit of a hold up. I'm quite new to this."
+                    },
+                    {
+                      "speaker": "Head Butler",
+                      "text": "A hold up? Nothing bad I hope? I've known people to have problems with their employers before. Is yours treating you well?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "He seems... friendly enough. I'm still not sure if I'm getting paid though."
+                    },
+                    {
+                      "speaker": "Head Butler",
+                      "text": "Tetamo! Oh dear, oh dear. Are you part of a union?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I don't remember joining one. I probably should with the... varied working conditions I go through."
+                    },
+                    {
+                      "speaker": "Head Butler",
+                      "text": "We have a fantastic one here on Aldarin, if you're interested. I can't say discussions are effective, but sometimes the wealthy do come to the table!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I think this is a one-time gig for me, but thank you!"
+                    },
+                    {
+                      "speaker": "Head Butler",
+                      "text": "Very well. In that case, there are just a few quick admin bits to go through before I let you in."
+                    },
+                    {
+                      "speaker": "Head Butler",
+                      "text": "First and foremost, butlers must keep their uniforms and masks on at all times. If you are seen without yours, you will be ejected from the party."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Got it. No taking off my uniform. What's this about masks?"
+                    },
+                    {
+                      "speaker": "Head Butler",
+                      "text": "All staff are to be as anonymous as possible tonight so we'll provide you with a mask on entry. We'll be using them to keep track of who's coming and going."
+                    },
+                    {
+                      "speaker": "Head Butler",
+                      "text": "Now, for security purposes, butlers are required to enter and leave with completely empty pockets. We'll hold on to anything you need us to whilst you're in there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Got it, nothing in and nothing out."
+                    },
+                    {
+                      "speaker": "Head Butler",
+                      "text": "Right, I think that covers everything. Are you ready to enter?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Exiting via guest entrance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Villa Guard",
+                  "text": "Sorry, you'll need to use the staff exit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Exiting via staff entrance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Head Butler",
+                  "text": "Did you want to leave?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the head butler again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Head Butler",
+                  "text": "Ah, welcome back. Are you ready to enter?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the head butler after having entered the Villa",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Head Butler",
+                  "text": "Do you want to go back in?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Inside Villa Lucens",
+      "sections": [
+        {
+          "title": "Attempting to speak to anyone but Patzli",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I should probably speak to Patzi before doing anything in here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the theatre",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Villa Guard",
+                  "text": "Sorry, entry here is for guests only."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the 2nd floor[UK]3rd floor[US]",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I shouldn't go too far from the party for now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Patzi",
+          "sections": [
+            {
+              "title": "Talking to Patzi again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Patzi",
+                      "text": "How's your little task going?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I haven't quite made my way around everyone the party yet."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Patzi",
+                  "text": "You made it in, and don't you look the part! Magnificent!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I feel like a court jester..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I feel like a court jester... and not for the first time either."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Nonsense! Now, why not go and introduce yourself to our host and the other guests? I could do with knowing a little more about everyone."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hang on, I'm meant to be an anonymous butler. How do you expect me to get to know people for you?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "I'm sure you can get their names at least. That will give me something to work with."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay... Anything else I can do for you, especially things you could easily do for yourself?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "No, no. I think you're doing more than enough right now, thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Constantinius",
+          "sections": [
+            {
+              "title": "Talking to Constantinius again (house not on Aldarin)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "So, Constantinius, how often do you put on these parties?"
+                    },
+                    {
+                      "speaker": "Constantinius",
+                      "text": "Whenever we have a new play to unveil! I've got a couple of creatives from Tempestus that can write up a storm, so I find myself hosting these events more and more!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How does one usually get themselves invited?"
+                    },
+                    {
+                      "speaker": "Constantinius",
+                      "text": "Normally we just send the invitations out to all the villas on the island! If you can afford one, then you're welcome here."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well, I'm actually wealthy enough to be a homeowner myself, but not on Aldarin unfortunately."
+                    },
+                    {
+                      "speaker": "Constantinius",
+                      "text": "You must try to change that before next time. After all, the more the merrier."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "And you're definitely okay with me and my... we'll call him my employer, I guess. You're definitely okay with us being here?"
+                    },
+                    {
+                      "speaker": "Constantinius",
+                      "text": "Well, we sadly had a few who couldn't attend this time, so I'm actually quite glad you're here. Still, I wouldn't mind knowing how your employer managed to acquire an invitation..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Constantinius again (house on Aldarin)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "So, Constantinius, how often do you put on these parties?"
+                    },
+                    {
+                      "speaker": "Constantinius",
+                      "text": "Whenever we have a new play to unveil! I've got a couple of creatives from Tempestus that can write up a storm, so I find myself hosting these events more and more!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How does one usually get themselves invited?"
+                    },
+                    {
+                      "speaker": "Constantinius",
+                      "text": "Normally we just send the invitations out to all the villas on the island! If you can afford one, then you're welcome here."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well, I actually own a home here on the island. Perhaps I can be invited next time!"
+                    },
+                    {
+                      "speaker": "Constantinius",
+                      "text": "Perhaps so. After all, the more the merrier."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "And you're definitely okay with me and my... we'll call him my employer, I guess. You're definitely okay with us being here?"
+                    },
+                    {
+                      "speaker": "Constantinius",
+                      "text": "Well, we sadly had a few who couldn't attend this time, so I'm actually quite glad you're here. Still, I wouldn't mind knowing how your employer managed to acquire an invitation..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Constantinius",
+                  "text": "So, this is grand isn't it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It certainly seems to be quite the event."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "I'd say it's one of my finest yet, though I do wish more of the guests could've made it. However, it looks like we've gained a bit of a straggler."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A straggler?"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Yes, that slightly pompous fellow that hasn't introduced himself to anyone yet. The fact that he's here means he must have gained an invitation, though I don't know how..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... Is that going to be an issue?"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "I'm sure it won't be! I'm always open to meeting new people, especially those who enjoy the arts."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh good, because it's actually him who I'm here with. He was very keen to meet you, even though he didn't actually know your name..."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "I can't believe it! How could he not even know the name of his gracious host?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Perhaps he's new to the island... Still, for an actor, his research seems lacking."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "He's an actor you say? Ah, now that explains why he was so eager to be here. Well, if he's good, this might be his lucky day. I, Constantinius, am in the market for a new actor to sponsor."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sponsor?"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Well, you know actors. Very profitable once they're popular. I like to... make investments."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "For example, I've sponsored tonight's lead actor, Livius, for some time. He's done very well for himself, and for me, though he's almost too expensive for me these days."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Anyway, perhaps you'll see him tonight on stage!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Cozyac",
+          "sections": [
+            {
+              "title": "Talking to Cozyac again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Still enjoying yourself, Cozyac?"
+                    },
+                    {
+                      "speaker": "Cozyac",
+                      "text": "Absolutely! Though I'm starting to feel myself in need of another drink. I don't suppose you could sort that when you have a moment?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I can certainly look into it."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day, sir."
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "Sir? I thought I'd left that behind when I retired. Please, call me Cozyac."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Absolutely, Cozyac. You can call me..."
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "I seem to remember one of the rules of this party was that the staff were to remain anonymous."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You can't call me then. Are you enjoying the party?"
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "I am, yes. Though I am far more excited for tonight's performance. Constantinius says he's hired some of the finest actors for this one!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Pavo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Pavo",
+                  "text": "Excuse me! You there!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hi there. How can I be of service?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "I could do with... another drink."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have a preference? Wine, or something non- alcoholic?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "Alcoholic? I'll have you know that I, Pavo, am most certainly not an alcoholic. Now scram."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Pavo again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Pavo",
+                  "text": "Did you get that drink I asked for?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You sent me away before telling me what drink you actually wanted."
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "That's my mistake. I'll take some wine... Preferably a barrel of it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Xocotla",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day to you."
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "Nilsal to you as well. You seem different to the other staff here. First time?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It is. How could you tell?"
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "You see similar things on boats. People look a bit wobbly until they settle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I hadn't noticed I was..."
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "Few ever do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So do you spend a lot of time on boats?"
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "I run something of a shipping company. If you need it moving, Xocotla's Got Ya!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I don't typically find myself in need of that sort of thing, but if that ever changes, I'll keep you in mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Xocotla again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So about that shipping..."
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "I'd have preferred not to talk about work, but I suppose you do seem friendly enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What sort of things can you move?"
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "We can securely move pretty much anything. Animals, valuables, bulk cargo."
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "Swiftness and discretion are valuable to us, if you catch my drift."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the cellar before being asked to",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": ": I have no reason to go down there right now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Patzi after talking to everyone else",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Patzi",
+                  "text": "I saw you make your way around the party! So then, who's who?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, we've got..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Pavo, the drunk one over there. I'm not sure there's much to them other than their love of drinking."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Xocotla, who seems a lot more relaxed. It seems that she runs a shipping business."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Last of all for the guests we have Cozyac. He's quite up on the rules of this party, so he might not be happy that you weren't properly invited."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Pfft, invited? I have an invitation and I can act like I belong here! He'll never know!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He might not, but our host Constantinius does."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Ah..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Luckily, he didn't actually seem to mind you being here too much. Apparently he's actually looking for a new actor to sponsor."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Sponsoring... me? How marvellous! Oh I think I should have a drink to celebrate! Could you be a dear and go into the wine cellar for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What would you like from the wine cellar? A beer?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Whilst that sounds lovely, I've heard there's some Principum Red down there! It's not produced any more so is rather hard to find, but our generous host seems happy enough to share."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, one glass of wine coming right up."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Patzi again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Patzi",
+                  "text": "Did you manage to find that wine yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I haven't had a chance to even go into the cellar yet. You'll have to give me a moment."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Remember, you're looking for Principum Red. I'm sure it will be labelled."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to climb the stairs back up",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I shouldn't go too far from the party for now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the door to the cupboard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "'Cupboard, keep out!' Why does it say keep out?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to climb the stairs before investigating the wine",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I shouldn't return to the party empty handed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the fancy chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Investigating the antique wine",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Pri...pum Re..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... The label's faded, but I'm sure this is the wine Patzi was talking about."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What... Oh, that's going to stain isn't it..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to investigate the antique wine again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I think it's probably best if I don't mess around with this again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to climb the stairs after investigating the wine",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I guess I shouldn't leave without investigating that noise."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Investigating the man on the floor",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Is everything okay?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you had too much to drink?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "You there! Don't move!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What the..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "You're coming with us."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "It's always the butler, isn't it."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Now now, Stradius. We don't know for sure they did it. It looks likely though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did what exactly?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Murder!"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Stradius!"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "It was my turn to level the accusation at a suspect..."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "How often do we get to handle a murder?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "You have to respect the systems we have, Stradius!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still here, in case you forgot?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "So, murder. Interesting choice at a party full of wealthy people, wouldn't you say?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Poor Livius... He wasn't acting this time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I didn't kill anyone?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "You just happened to be found standing in a closed room with a dead body?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "With bloodstains on your clothes, no less."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Bloodstains?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "The red stains on your uniform. The victim's blood, I'm sure of it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You found me in a wine cellar and you won't even consider that it might be wine?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "I suppose I could try tasting it..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Stradius! What if it's blood?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Well, then it won't taste like wine, will it?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "No, you make a good point actually."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm just going to go..."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Oh no you won't! You're going to wait right there and answer some questions!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Would you believe me if I said I didn't do it?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "We'll consider it."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "We will?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "But first, questions! Why were you down in that cellar?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was looking for a wine. Principum Red? Patzi sent me to get some for him to drink. I just happened to hear a commotion and thought someone may have been hurt."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "So you were just trying to help?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes!"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Honestly, I'm sold."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Stradius..."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Ah, yes, sorry..."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "I'm afraid we can't just let you go. Not without an investigation."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Not to mention, given our whole job here was to stop anything bad happening at this party, we're not really doing so well right now. We'll look even more ineffective if we don't have a suspect..."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Could be a career ender, really."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Quite."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay... Well, much like I didn't kill that man, I suppose I don't want to hurt your careers. Maybe I could catch the killer!"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Do you have any relevant qualifications?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Wait... are we meant to have..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "After all, training to be a butler must have taken a long time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I'm not even a butler! I got hired to act like one!"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Right, now I have to put murder back on the table! Who are you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm just [player name]. I got hired by Patzi to be a butler for this evening, alongside a lady called Adala."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Adala? Do we know an Adala?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Yes, I believe she's accounted for."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You ran into her?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "She came in shortly after we arrested you. Your friend, Patzi, mentioned she'd been sorting out some of his costumes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You mean she was only accounted for after the murder took place?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Why do I get the feeling we're not doing a good job of actually investigating this?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "It isn't just you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Again, maybe I could be an extra pair of hands here."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Have a potential suspect investigate the murder? It wouldn't be orthodox, but it might work..."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "I'm not sure I like the implication that we can't solve it ourselves."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "I agree, but we're not actually very qualified for this. We normally just guard drunk people, not solve murders!"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "You make a fair point, Hutza."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "[player name], if you promise not to leave, can you help us work out what's happened here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I... promise not to flee the scene?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Perfect! Shall we get to investigating then?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where should I start?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "The victim was Livius, the lead actor in tonight's play. His body is still down in the cellar, so you should probably go and inspect it, along with the rest of the crime scene."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "No doubt you'll also want to question everyone. We'll keep them busy for you until you're ready. We'll also give you a case file to track your notes in!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, let's get to it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the room's door before finishing the conversation",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hutza",
+                  "text": "And where do you think you're going?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hutza or Stradius after interrupting conversation",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Stradius",
+                  "text": "I'm afraid we can't just let you go. Not without an investigation."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The Investigation",
+      "sections": [
+        {
+          "title": "Talking to Hutza or Stradius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Could you give me any tips for this investigation?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "You'll want to have a look down in the wine cellar I imagine. We made sure that nobody went down there after we arrested you, so everything should be as it was when the murder occurred."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "You'll probably also want to do a bit of questioning up here as well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you going to help with any of this?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "We'll keep an eye on everyone for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What if the actual murderer is still in the cellar somewhere?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "We'll come looking for you if you're gone too long. It's not like there's anywhere for them to escape to!"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "You will probably be dead by then though..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "On the bright side, it would prove your innocence."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Adala or Patzi",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Patzi",
+                  "text": "Oh, this is exciting isn't it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I got arrested for murder because you sent me into that cellar!"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Did you at least manage to find what I sent you down there for?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The Principum Red? Of course. Constantinius has a nice large container of it. However, I'm not sure if that's the most..."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "See Adala, you were right!"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "What self-respecting man would have a wine cellar without such a historic wine in it?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "It's a shame we're locked down up here. I'd love to try it! I came so close too, if it weren't for that actor..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you blaming Livius for his own murder?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Of course not! I'm just ruing a missed chance to try that wine..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Constantinius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Constantinius",
+                  "text": "Oh poor Livius! Where am I to find another actor of his calibre?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Was he by any chance the one you mentioned earlier? The one who was starting to get too expensive for you?"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "I may have had some quibbles with how expensive his performances were, but he always made a profit!"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "I can only hope his understudy is capable of filling the gap that's going to be left. Livius always kept her in the shadows, though he did say that she was nearly ready for a leading role of her own..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Cozyac",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "You didn't happen to know Livius, did you Cozyac?"
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "I'm familiar with his work, but not the man himself. He's been Constantinius' preferred actor for a few years now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did he ever come and join the parties? Perhaps you crossed paths during the festivities?"
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "I'm almost certain we didn't. The actors spend the entire party getting ready, and then I usually fall asleep by the end of the play!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The plays are that good are they?"
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "I'm an older man. I need a good early night to keep myself going. I am partial to a puzzle though, so solving this crime could keep me up all night!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Pavo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Pavo",
+                  "text": "You know, it's a surprisingly sobering moment when someone's murdered beneath your feet."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did you know him well?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "We were once drinking fellows. The things I've seen him drink without even breaking a sweat..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did you drink with him today?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "I don't remember... It seems likely that I would've though. He never liked to prepare for a performance without at least a small drink."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Assuming you did, where would you have had a drink with him?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "Probably down in the cellar. That was always where he preferred to go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you admit that you may well have been down there with him today. Do you think something might've happened whilst you were drinking?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "I'd like to think that I would remember something so terrible happening in front of my eyes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And yet you can't actually remember if you'd been drinking with him."
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "Oh, that's a good point... In that case, I don't know..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Xocotla",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Xocotla",
+                  "text": "Quite an unfortunate turn of events, isn't it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not sure it's unfortunate so much as a tragedy surely?"
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "Well, I believe the play was actually intended to be a comedy. I'm hopeful they have an understudy who can fill in for today."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The play's still going ahead? Are we just going to ignore that a man was murdered?"
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "I'd rather not think about it, personally."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay... So Livius wasn't a customer of yours then?"
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "Would he have reason to have been?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actors seem to have a lot of costumes to move around the place. Maybe a shipping magnate such as yourself would make good money off of them."
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "I'm afraid I can't help you there. Good tip about the actors though. I'll have to visit the College of Bards next time I'm in Tempestus."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Investigating the antique wine",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I think it's probably best if I don't mess around with this again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Investigating broken stool",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Why would Constantinius keep a broken stool around... Unless it was only just broken?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Investigating small box",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "It appears to be a box full of blank wine labels. I suppose they like to keep things well organised."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Inspecting Livius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So what's got you then?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A few cuts and scrapes... No stab wound... Poison perhaps?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe there's something nearby that could give me a better idea of what happened."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Inspecting Livius again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "A few cuts and scrapes... No stab wound... Poison perhaps?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Investigating broken pottery",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "It looks like someone's dropped this. I wonder if there was a fight?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Investigating wine storage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "It's only half full. Someone must've been drinking from it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Investigating jug",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I wonder why this jug's been tucked away in the corner... Was someone trying to hide it?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hutza or Stradius after investigating everything",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hutza",
+                  "text": "How's your investigation going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I've found everything there is to find so far. What now?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Are you sure you've investigated everything?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Do you think you could pin down a suspect?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not sure. Oddly enough, no one is admitting to having done it, and given they were all here together, I'm pretty sure they'd be each other's alibis."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "What if they hired someone to do it for them?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Stradius... That's actually a good point."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe the butlers?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "You mean more of them might be fake like you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, thanks to the masks and uniforms, they're all anonymous. It's also very hard to keep track of how many there are."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Have we been keeping tabs on all the butlers? What if one's escaped! The killer might already be in the wind!"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Both of you are missing that there's no window in which they could've left that cellar."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Ah, yes. We came down when we heard the commotion. They wouldn't have been able to get out before then."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "It seems we're back to square one again, [player name], unless you can think of anything else to investigate?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I could try stealing from the suspects? Perhaps one of them will be carrying something incriminating."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "You probably shouldn't mention that in front of us."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "I suppose we can always return things to them later."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Hutza!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll be subtle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "No worries. We'll keep everyone under control here while you continue your investigation."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not finished yet."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "No worries. We'll keep everyone under control here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hutza or Stradius without pickpocketing everyone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Stradius",
+                  "text": "How is your pocket checking going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still working on it."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Well, keep up the good work."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Failing to pickpocket Adala",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm so clumsy! Are you okay?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Adala",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I wonder what these are for..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Adala again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Failing to pickpocket Constantinius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm so clumsy! Are you okay?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Constantinius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Failing to pickpocket Cozyac",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm so clumsy! Are you okay?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Cozyac",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I wonder what this is about..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Cozyac again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Failing to pickpocket Patzi",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm so clumsy! Are you okay?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Patzi",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Failing to pickpocket Pavo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm so clumsy! Are you okay?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Pavo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Well, I suppose that's not surprising."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Pavo again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Failing to pickpocket Xocotla",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'm so clumsy! Are you okay?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Xocotla",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I wonder what this is for..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Xocotla again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Inspecting drinking flask",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Inspecting threatening note",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Inspecting shipping contract",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Inspecting wine labels",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hutza or Stradius after pickpocketing everyone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've had a little look through some pockets. I think all of the guests might be lying."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "All of them?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, maybe not Pavo. They just had this old drinking flask. Xocotla and Cozyac on the other hand both had things on them that revealed they had direct dealings with Livius."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here, have a look at what I found for yourselves."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Interesting... What about these labels?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found them on Adala."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "She was the one who wasn't accounted for when the murder took place, right?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "That's right. She's the one who came here with Patzi. Like [player name] here, both were uninvited."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Perhaps one of them is responsible... or indeed both of them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's possible I suppose, but Patzi doesn't seem capable of pulling this off."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "It seems we still don't have anything conclusive. What do you think we should do?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We could get them all together. Put pressure on them with some accusations and see who breaks?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "You think that'll work?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Only one way to find out I suppose."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "It's not the worst thought, and I guess whatever happens, there's a good chance that some more of the truth will come out."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Alright, [player name], just let us know when you want everyone gathered and we'll take them upstairs for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm ready."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Perfect! Let's get everyone upstairs!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to review the evidence a bit more."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Good idea. Just let us know when you're ready."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hutza or Stradius after giving them the evidence",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hutza",
+                  "text": "So what are these labels you found?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The Accusation",
+      "sections": [
+        {
+          "title": "Talking to Hutza",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hutza",
+                  "text": "You take the lead here, [player name]. We'll be on hand to support you where needed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Stradius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Stradius",
+                  "text": "This bit's all up to you, [player name]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Constantinius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Constantinius, you knew Livius well, didn't you?"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "I'd sponsored him for years, yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How was that sponsorship working out for you?"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Well, I can't say I wasn't profiting from it. Although I do admit that he'd become a little... excessive with his spending in recent times."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you'd almost benefit from him being out of the way, letting you find someone new to sponsor?"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "The thought has crossed my mind, but he was still profitable, and it's not like I couldn't just sponsor a second actor in addition to him anyway."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Constantinius..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Perhaps you should make sure you've questioned everyone before making an accusation, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Fair enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Constantinius! I believe you were responsible for the murder of Livius. He was getting too expensive to sponsor and you needed him gone!"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "I wasn't tied to him... If I'd wanted to stop sponsoring him, I'd have just done that. There would have been no need to kill him..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, perhaps you felt a murder mystery would have helped make this party interesting and memorable."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "I can't deny that it has very much enhanced the event, but do you think I'd have someone killed just for a social function?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's... a fair point, and indeed, why would you kill your lead actor right before the play?"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "You're the one accusing me, [player name]. You should know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Very well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Constantinius again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Constantinius afterwards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Constantinius..."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Haven't you already tried to accuse me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Indeed I have. Just keeping you on your toes. As you were."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cozyac",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Cozyac, did you not claim to have never interacted with Livius?"
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "I did, and I shall stand by that claim! Why are you the one making these accusations anyway? You were the one down there with him! Besides, you're just a butler!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stradius, the note!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A note written by yourself for Livius. Seems you weren't very happy with him..."
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "How did you..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So it seems you did know him. In fact, you had an issue with him, did you not?"
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "Not one I would have killed him over! He owed me some money and wasn't paying up. I just needed to put some pressure on him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... An outstanding debt could be considered motive for murder..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Cozyac..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Perhaps you should make sure you've questioned everyone before making an accusation, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Fair enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Cozyac! I believe you were responsible for the murder of Livius. He owed you a debt and was refusing to pay!"
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "Why? Why kill someone over a debt? A dead man can't repay me, so I'd have needed to actually reclaim the money before killing him, at which point I'd have no reason to kill him anyway!"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "He makes a fair point, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Very well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cozyac again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Cozyac afterwards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Cozyac..."
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "Haven't you already tried to accuse me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Indeed I have. Just keeping you on your toes. As you were."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pavo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Pavo, you and Livius were drinking partners, weren't you?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "We were."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How heavily would you say you drank together?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "On occasion, a little too heavily."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who provided the drinks?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "We'd tend to bring our own, although I did sometimes let him have a bit extra from my flask."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your flask, huh..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stradius, the flask!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This flask?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "Yes, that's the one! I must've misplaced it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If you were letting Livius drink from your flask, it wouldn't have been hard for you to poison him, would it?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "But why would I poison a friend?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That remains to be seen..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Pavo..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Perhaps you should make sure you've questioned everyone before making an accusation, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Fair enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Pavo! I believe you were responsible for the murder of Livius. You poisoned him when you let him drink from your flask!"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "I would never do something like that! You have no proof!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, the flask does still have some liquid left in it. Perhaps we should have it tested?"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "Wait, there's still some left?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh... Well, I guess it's not poison then. Thanks for... helping to sort that one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pavo again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Pavo afterwards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Pavo..."
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "Haven't you already tried to accuse me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Indeed I have. Just keeping you on your toes. As you were."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Xocotla",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Xocotla, you've never had any dealings with Livius, have you?"
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "Of course not."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So he's never needed anything shipped by your company? Nothing he needed to move swiftly and discretely?"
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "Why would he? I'm sure he's got more than enough solutions for moving his costumes around."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stradius, the contract!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Care to explain this, Xocotla?"
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "That looks like a contract between... myself and Livius."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good eye. Interesting how you yourself seemed to not be aware of it, especially given it was you who was carrying it."
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "Alright, fine. Livius had recently contracted us to help him move some of his belongings around. He's been doing well for himself and was moving into a larger property."
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "I needed him to sign off on a slight change in timelines, and given we were both here, I thought we may as well get it sorted."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... I see..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Xocotla..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Perhaps you should make sure you've questioned everyone before making an accusation, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Fair enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Xocotla! I believe you were responsible for the murder of Livius. You pretended you didn't know him, but you lied!"
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "Yes... It may surprise you to know that I didn't want to be associated with a murder victim whilst an investigation was ongoing!"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "I suppose that is fair, [player name], and lying isn't a crime on its own."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Very well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Xocotla again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Xocotla afterwards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Xocotla..."
+                },
+                {
+                  "speaker": "Xocotla",
+                  "text": "Haven't you already tried to accuse me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Indeed I have. Just keeping you on your toes. As you were."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Adala and Patzi",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Patzi, Adala. The two of you weren't even invited to this party..."
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "Nor were you..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But being here presented a huge opportunity for an up-and-coming actor like Patzi."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "A huge opportunity indeed!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You already knew that Constantinius was thinking about sponsoring a new actor. Perhaps you decided to speed things along a bit by removing the competition."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "But why would I need to remove the competition if he was already open to sponsoring me anyway? That doesn't make sense..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Perhaps, and indeed it is true that you couldn't have been present at the time of the murder. You never left the party. In fact you sent me down into the cellar for you, didn't you?"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "So you're saying that you're actually more likely to be guilty yourself?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Exactly!"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sending me down there made me look guilty! A perfect way of drawing attention away from the true culprit."
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "But... that would be a terrible plan. You were here with us..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Which leads me on to you, Adala. Patzi was accounted for when the murder took place, but you were not. Care to tell us what you were up to?"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "I took Patzi's bag to the backstage area, spent some time chatting to the actors, and then made my way to the party."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you never entered the wine cellar?"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "No."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But you knew a lot about it, didn't you?"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "Where are you going with this?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stradius, the labels!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wine labels from Constantinius' cellar, found on your person. Care to explain?"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "I just found them on the floor. It's bad manners not to pick up litter."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What a convenient excuse..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Patzi..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Perhaps you should make sure you've questioned everyone before making an accusation, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Fair enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Patzi! I believe you were responsible for the murder of Livius. You wanted him out of the way so you could take his place!"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "But why? Constantinius was open to sponsoring me anyway. I didn't need to kill anyone..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "I think he's right, [player name]. There's no real motive here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Very well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Adala..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Perhaps you should make sure you've questioned everyone before making an accusation, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Fair enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Adala! I believe you were responsible for the murder of Livius. All the evidence is pointing at you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You were the only person missing at the time of the murder, and despite your claims, we have clear evidence you were in that cellar!"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "Alright, fine. I admit I was in the cellar."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Wait, what is this?"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "The Principum Red, you fool. I could retire on the value of that wine. All I had to do was get out of here with it."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "My wine!"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "You used me..."
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "And I probably would've got away with it too, if it wasn't for this precocious butler turned investigator you hired!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened Adala? Did Livius interrupt your plan? Did he need to be silenced?"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "Murder! What a ridiculous assertion! I may be a thief, but I'd never kill someone!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Adala and Patzi again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Patzi..."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Haven't you already tried to accuse me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Indeed I have. Just keeping you on your toes. As you were."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fight spectators",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Fighting Adala",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Alright, I yield! You win!"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "I could've killed you, but I'm not that kind of person, just like how I didn't kill Livius."
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "Stop! You're too good for me! You win!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you ready to confess now?"
+                },
+                {
+                  "speaker": "Adala",
+                  "text": "I promise I didn't do it! I'm just a thief! I wasn't even strong enough to defeat you. How could I have killed Livius?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "She may be telling the truth, [player name], but either way, we know she's a criminal now."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Come with us, Adala. You can have fun contemplating your crimes from your new cell..."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Does this mean we can get on with tonight's play?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You still want to go ahead with the play? You don't even have a lead actor anymore!"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Yes, it is a bit of a last minute issue, but I have no doubt that Livius' understudy will be able to step up."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But Adala might not have even been the killer!"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Well, you've been doing a wonderful job so far, so I'm sure if the villain is still loose, you'll catch them."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Constantinius, with respect, I'm not sure we can let everyone leave until we're sure we have this case solved."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "That's not a problem. You can easily keep everyone in the theatre. The only place they'd be able to run to from there is straight off the cliff!"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Constantinius..."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "It's settled then! We will proceed with the play! While we do that, if the killer is still at large, the ever capable [player name] here will ensure they are dealt with!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fine, let's get going then."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Oh, no, you can't come with us. I don't want your investigation disrupting things. You'll need to stay out of sight. Why don't you take the back way?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The back way?"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Yes! It's not been used in a while, so it's a little bit precarious these days, but I'm sure you'll manage."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fine. Where do I find this back way?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "The pathway leads around the cliffs to the south. We'll see you at the theatre, [player name]."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The Backstage",
+      "sections": [
+        {
+          "title": "Attempting to climb up the loose rocks before being asked to",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I don't think I should be going up there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter through the backstage entrance before talking to Hutza or Stradius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have no reason to go down there right now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hutza or Stradius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hutza",
+                  "text": "Ah, there you are, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what's the plan here?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Well... we don't really have one, but the play is about to start and we still might have a killer on the loose."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Perhaps there's some evidence we missed somewhere."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "It seemed like you'd been quite thorough. The only place you didn't check was here at the theatre."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well then I guess it's time to fix that."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "The stairs over there lead down to the backstage area. That's where the actors, including Livius, were getting ready for the play. That seems like the best place to check for any missing clues."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll get to it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hutza or Stradius without investigating the backstage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hutza",
+                  "text": "Any luck down in the backstage area?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Keep at it! I'm sure you can solve this one!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the crate before investigating other clues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to costumer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "Nilsal. Are you the one who's trying to find Livius' killer?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's right. So I'm guessing down here is your domain?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "If you think I have any actual control in here, you'd be sorely mistaken. I don't think anyone could keep these actors in line. They're a... dramatic bunch."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Speaking of which, where are they?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "The play will be starting as we speak. They'll all be up in the theatre."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, well in that case, I'd better get to it. I'd like to have a look around down here. Hopefully I can find some sort of clue as to how Livius died."
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "Go ahead."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd also like to ask you a few questions, if that's okay?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can you tell me about the actors?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "There's four of them in total... Well... was four I should say."
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "There's Naiatli. She was Livius' understudy. After what happened, she's now taking the lead role tonight."
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "Then you have Clodius. He's getting close to retirement now so prefers to take on small, but impactful roles."
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "Finally there's Quintilia. She's quite new, so she mostly takes on the non-speaking parts."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And all of them were in here earlier?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "That's right. Livius went out for his pre-performance drink, as he likes to do. The others all stayed here until after the murder happened."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And you're sure none of them could have slipped out at any point?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "I don't think so. I suppose I do get quite engrossed in my work sometimes, so it's not impossible. But I'm sure I'd have spotted someone going up the stairs..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the crate of poison for?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "Ah, that was a gift from Constantinius. We were having a bit of a rat problem, so he gave us the poison to deal with them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It seems one of the costumes has a stain on it."
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "A stain?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, a wine stain. Apparently the costume belongs to Naiatli. Is there any reason the costume would be stained?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "No, none of her characters have any interaction with wine..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any wine backstage?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "Well, the actors do often like to have a drink after a play, but I always ask that they do that outside so as to not risk any damage to the costumes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Interesting..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did you know there was a hidden passage in here?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "A passage? I had no idea, but I suppose it's not too suprising."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How come?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "This is an old villa. Apparently it once played a role in some smuggling operations a long time ago. I could see them having a few secrets to help them with that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm going to keep looking around."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to costumer again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the costume rack",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the crate after investigating other clues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the bookshelf",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hutza or Stradius after investigating the backstage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hutza",
+                  "text": "The play is well underway and for all we know there's still a killer out there. I hope you have something for us, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I might. It turns out there's a secret passage from the backstage area into the wine cellar. Someone could have got in and out without anyone else knowing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not only that, but the backstage area has had a rat problem recently. They have plenty of poison for dealing with them. That same poison could easily have been used to kill Livius."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Great work, [player name]."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "But did you find anything that could tell us who did it?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Yes, we need to confront the killer! Who was it, [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Patzi."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "But how? We established that he couldn't have accessed the cellar."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "That's right. The secret passage doesn't change that either as he never left the villa."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, not him then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Adala."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "So it was her? But why?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Adala may be a criminal, but she had no reason to want Livius dead. I don't think it was her."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Good point."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Constantinius."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "How would he have gained from killing Livius?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Exactly. If he's wanted to stop sponsoring him, he could have just done that. No killing needed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I guess you're right."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Cozyac."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Because of the debt? That could be a motive, but he never had the means."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... I suppose you're right."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Xocotla."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "She did lie about knowing him, but we never determined any proper motive."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "I don't think she ever had the opportunity either."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think you're right actually. Ignore me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Pavo."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "I thought we'd ruled them out?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Do you have new information that changes that, [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... No."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Well then it's probably not them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Naiatli."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "The understudy that's on stage right now? Why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "As a fellow actor, she had access to the secret passage into the wine cellar where Livius was having his pre- performance drink."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "But how did she kill him?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The rat poison. Enough of that would easily kill a man. She poisoned his drink so that she could be back out of the cellar before he died."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "I suppose that makes sense, but she wasn't the only one who had access to that passage."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But she was the only one who had wine on her clothes. Wine isn't allowed backstage, so it must have come from the cellar."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Oh, very good! But what about motive?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Constantinius mentioned earlier that she had been in Livius' shadow for some time. Killing him has finally allowed her to take on a leading role."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "I suppose this does all make sense, but are you certain?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd say eighty, maybe ninety percent sure."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Well I suppose that will have to be enough. You've not taken us down too many wrong paths today..."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Except for the whole fake butler act."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "True, but you were honest about that pretty quickly. We'll wait until the play is over and then we'll take her in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait? But should we not be acting now?"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Constantinius would kill us if we stopped the performance."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "And then we'd have another murder mystery on our hands..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well then we'll have to just speed things along a bit. I'm going out there!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Clodius."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "The actor? But why would he do that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, he was one of the few who had access to the secret passage into the wine cellar. He also had access to the rat poison."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "But what was his motive?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... I don't know."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "We're going to need more than that, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Quintilia."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "The actress? But why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "She had access to both the secret passage into the wine cellar and to the rat poison."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "But she doesn't have a motive... She also isn't the only one who had access to the passage and poison."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah... Good point."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The Costumer."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Really?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, she had access to the secret passage. She claimed not to know about it, but she did know about the history of the villa. She also had access to the rat poison."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "But why would she kill him? What's the motive?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I... don't know."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Sounds like she might not be our killer then, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Livius."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "You think Livius killed himself?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well it's the last thing anyone would expect."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "It's the last thing anyone would expect because it obviously didn't happen! Let's try considering some more plausible candidates."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You two."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Us? But surely we'd remember..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Of course it wasn't us! Stop messing around, [player name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Me."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "You?! Goodness, it's the crime of the century! Right, come with us!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait! I was joking!"
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Stop playing around, [player name]! We have a killer to deal with!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The dog."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "The dog? But how would a dog do something like this?"
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "Never underestimate a dog, Hutza."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Okay, but even if the dog did have the means, it didn't have the opportunity, not to mention motive..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, fine, not the dog."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know yet. I need to review the evidence."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Be quick, [player name]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hutza or Stradius again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Stradius",
+                  "text": "We need to confront the killer! Who was it, [player name]?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The Stage",
+      "sections": [
+        {
+          "title": "Talking to Hutza",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hutza",
+                  "text": "Did you want to leave?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hutza or Stradius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'm going on stage."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Break a leg out there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequently talking to Hutza or Stradius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I need go back on stage."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "Go and get her!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to go through the guest entryway",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Villa Guard",
+                  "text": "Shouldn't you be on stage?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Naiatli",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Naiatli",
+                  "text": "At last, the vile villain shows themselves!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Villain? The only villain here is you, murderer!"
+                },
+                {
+                  "speaker": "Naiatli",
+                  "text": "I am no murderer! What vexatious allegations you come at me with!"
+                },
+                {
+                  "speaker": "Cozyac",
+                  "text": "I'm not sure about this new character. Are they even in costume?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do not pretend you don't know! Your lies are at an end!"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "I don't think this was in the original script..."
+                },
+                {
+                  "speaker": "Naiatli",
+                  "text": "I've overcome so much! I won't fall at this last hurdle!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Lay down your arms! Your heroic deeds are fabrications!"
+                },
+                {
+                  "speaker": "Naiatli",
+                  "text": "Never! Now swing at me!"
+                },
+                {
+                  "speaker": "Naiatli",
+                  "text": "Argh! You're stronger than I thought... I need to regroup!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Naiatli again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Face me!"
+                },
+                {
+                  "speaker": "Naiatli",
+                  "text": "Ha! You've stepped into my trap."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A trap?"
+                },
+                {
+                  "speaker": "Clodius",
+                  "text": "Aha, villain! This is where you fall!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attacking Clodius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "You're no match for me!"
+                },
+                {
+                  "speaker": "Clodius",
+                  "text": "I'm sorry... You'll have to fight alone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attacking Naiatli",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Naiatli",
+                  "text": "How could you be this powerful?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's all part of my grand plan. I grow stronger with every passing moment!"
+                },
+                {
+                  "speaker": "Naiatli",
+                  "text": "I can't keep up with this!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Then flee again, ignoble hero!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attacking Naiatli again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Naiatli",
+                  "text": "I must make my last stand... Could you find it in your heart to stay your hand?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And let you live to foil my plans another day? I'm afraid that's not the game we play!"
+                },
+                {
+                  "speaker": "Naiatli",
+                  "text": "And so I take my leave from this mortal coil!"
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Bravo!"
+                },
+                {
+                  "speaker": "Pavo",
+                  "text": "Well that was a twist, wasn't it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Naiatli, I know you killed Livius. Why?"
+                },
+                {
+                  "speaker": "Naiatli",
+                  "text": "I've been stuck in the shadow of that man for too long. He wouldn't even let me fill another role..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Murder is a bit far though. Could you not have just... lightly poisoned him?"
+                },
+                {
+                  "speaker": "Naiatli",
+                  "text": "You don't understand... I never poisoned him... I just tripped him. All I wanted was to put him out of action. A small injury would've been enough for him to not perform this evening..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened?"
+                },
+                {
+                  "speaker": "Naiatli",
+                  "text": "He'd had so much to drink. He fell harder than expected, and he wouldn't get up... I fled... I never wanted him to..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, Naiatli... Come on, let's get you to the guards."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stradius, Hutza, it's been a surprising pleasure working with you to solve this case."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "I can't believe it was all an accident..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "[player name], you've done well. I'd like to apologise for our hasty arrest earlier. Your commitment to helping us has been commendable."
+                },
+                {
+                  "speaker": "Stradius",
+                  "text": "To be fair to us, you did seem like the perfect suspect."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose I did, but no harm done. I'm just glad we got it all sorted out, though I don't think Patzi is going to be paying me any time soon..."
+                },
+                {
+                  "speaker": "Hutza",
+                  "text": "You win some and you lose some I guess. All the best, [player name]!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Post-quest dialogue",
+      "sections": [
+        {
+          "title": "Talking to Hutza",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hutza",
+                  "text": "You were quite impressive up on stage. Maybe you should take up a career in acting... or investigating crime."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Stradius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Stradius",
+                  "text": "Thanks for your help again, [player name]. It's good to know people like you are around."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Patzi",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Still here, Patzi?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "No thanks to you! This was meant to be a big moment for me, and you totally upstaged me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you angry at me for getting involved in all of this? Did you forget that it was you that hired me?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "I hired you to make me look better!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And I don't think I did too bad a job. You never got kicked out, even though you did bring a thief in with you."
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "I suppose."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So how about that payment you promised?"
+                },
+                {
+                  "speaker": "Patzi",
+                  "text": "Ah... Well... You see..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I thought as much."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Constantinius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Constantinius",
+                  "text": "Well, I never imagined you'd be quite the actor!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have to admit, I rather surprised myself there."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "I don't suppose you'd like to be acting here in the future? To be honest, I'd prefer you to that odd fellow that brought you to my door."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's a kind offer, but I'm afraid it was a one-time job."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "A shame to be sure."
+                },
+                {
+                  "speaker": "Constantinius",
+                  "text": "Anyway, do feel free to wander around the villa whenever you fancy. I don't recommend drinking from the wine fountain though."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the costumer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Costumer",
+                  "text": "You were very brave for going on stage to confront a killer. Looks like you did well to get her to surrender without damaging her costume."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It was very well made. Makes the job of not damaging it much easier!"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "Why thank you! I credit my needles for the good work."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Would I be able to get one of them for my own purposes?"
+                },
+                {
+                  "speaker": "Costumer",
+                  "text": "I suppose I could part with one... If you're careful not to lose it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll be careful."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Head Butler",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Head Butler",
+                  "text": "After all that, are you sure I can't convince you to join the union?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I was wondering if..."
+                },
+                {
+                  "speaker": "Head Butler",
+                  "text": "Kuani! I'll need to run and grab my forms, but if you wait there just a moment..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was going to ask if you had any spare equipment..."
+                },
+                {
+                  "speaker": "Head Butler",
+                  "text": "Spare equipment?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I may have a need to mask my identity again in the future... or perhaps carry a tray around."
+                },
+                {
+                  "speaker": "Head Butler",
+                  "text": "You're certain you don't want to join the union as well?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sure."
+                },
+                {
+                  "speaker": "Head Butler",
+                  "text": "I see. In that case, which equipment would you like?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The ram mask."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The wolf mask."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The bird mask."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The jaguar mask."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The snake mask."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The butler's tray."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "None of them."
+                },
+                {
+                  "speaker": "Head Butler",
+                  "text": "Very well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pickpocketing Constantinius",
+          "sections": [
+            {
+              "title": "Pickpocketing Constantinius while already having the key",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I wonder what this opens..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening the chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the south-western fountain",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Activating the Aldarin statue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "That's it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "*Gulp*"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

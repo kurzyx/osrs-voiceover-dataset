@@ -1,0 +1,106 @@
+{
+  "ref": "zul-cheray",
+  "categoryRef": "npc",
+  "title": "Zul-Cheray",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking to her before offering yourself as a sacrifice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zul-Cheray",
+                  "text": "Have you heard? My eldest son has been chosen as a sacrifice to the mighty Zulrah!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you feel about that?"
+                },
+                {
+                  "speaker": "Zul-Cheray",
+                  "text": "Oh, it's such an honour. He's so excited to be coming face-to-face with Zulrah, and offering himself on behalf of the tribe."
+                },
+                {
+                  "speaker": "Zul-Cheray",
+                  "text": "Also, when the sacrifice is made, his brother and I will get an extra large ration of the sacred swamp eels that Zul-Onan catches. I can't wait!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't you mind that your son will die?"
+                },
+                {
+                  "speaker": "Zul-Cheray",
+                  "text": "It's the greatest honour to which any of us can aspire! I only hope that the High Priestess will one day choose me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see."
+                },
+                {
+                  "speaker": "Zul-Cheray",
+                  "text": "The extra large ration of sacred swamp eels will be nice too."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm off."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Treasure Trails",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zul-Cheray",
+                  "text": "You have done well, [player name]!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Zul-Cheray",
+              "text": "You queue-jumper! My eldest son was chosen as a sacrifice to Zulrah, but now the priests say you're going to sacrifice yourself first."
+            },
+            {
+              "speaker": "Player",
+              "text": "You're angry that I've saved your son's life?"
+            },
+            {
+              "speaker": "Zul-Cheray",
+              "text": "The sacrifice is the greatest honour to which any of us can aspire! He was so excited to be coming face-to-face with Zulrah, and offering himself on behalf of the tribe."
+            },
+            {
+              "speaker": "Zul-Cheray",
+              "text": "Also, I won't get the extra large ration of sacred swamp eels if my son doesn't make the sacrifice. Shame on you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I see."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry."
+            },
+            {
+              "speaker": "Zul-Cheray",
+              "text": "Quite right. Now get on with sacrificing yourself."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

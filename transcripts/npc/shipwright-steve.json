@@ -1,0 +1,56 @@
+{
+  "ref": "shipwright-steve",
+  "categoryRef": "npc",
+  "title": "Shipwright Steve",
+  "sections": [
+    {
+      "title": "Standard dialogue pre-Sailing release",
+      "sections": [
+        {
+          "title": "Buy-boat, customise-boat, or recover-boat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Shipwright Steve",
+                  "text": "I'm afraid I can't help you with that at the moment. You'll have to come back later."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shipwright Steve",
+              "text": "Greetings! What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello there. What do you do around here?"
+            },
+            {
+              "speaker": "Shipwright Steve",
+              "text": "I'm a shipwright. I supply boats of all kinds to anyone with the money to afford them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Interesting... Would I be able to buy one?"
+            },
+            {
+              "speaker": "Shipwright Steve",
+              "text": "Sorry, but I don't have any ready for sale right now. I'm sure I will soon, so keep checking back."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, fair enough."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

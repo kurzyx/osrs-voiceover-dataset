@@ -1,0 +1,107 @@
+{
+  "ref": "broddi",
+  "categoryRef": "npc",
+  "title": "Broddi",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Broddi",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Broddi",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacking the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Broddi",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Broddi",
+                  "text": "Rahr!"
+                },
+                {
+                  "speaker": "Broddi",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Broddi",
+                  "text": "Grr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Broddi",
+                  "text": "Aargh!"
+                },
+                {
+                  "speaker": "Broddi",
+                  "text": "I'm a gonner!"
+                },
+                {
+                  "speaker": "Broddi",
+                  "text": "It's no use, I'm done for!"
+                },
+                {
+                  "speaker": "Broddi",
+                  "text": "Uggh!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

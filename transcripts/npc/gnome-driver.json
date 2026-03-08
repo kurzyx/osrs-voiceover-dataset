@@ -1,0 +1,49 @@
+{
+  "ref": "gnome-driver",
+  "categoryRef": "npc",
+  "title": "Gnome Driver",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When their tortoise is killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome Driver",
+                  "text": "Nooooo! Dobbie's dead!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When fighting the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome Driver",
+                  "text": "Tortoise Murderer!"
+                },
+                {
+                  "speaker": "Gnome Driver",
+                  "text": "You Beast!"
+                },
+                {
+                  "speaker": "Gnome Driver",
+                  "text": "This is for Dobbie!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

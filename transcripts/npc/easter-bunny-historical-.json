@@ -1,0 +1,113 @@
+{
+  "ref": "easter-bunny-historical-",
+  "categoryRef": "npc",
+  "title": "Easter Bunny (historical)",
+  "sections": [
+    {
+      "title": "Starting the 2005 Easter Event",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Easter Bunny",
+              "text": "Happy Easter!"
+            },
+            {
+              "speaker": "Player",
+              "text": "And to you!"
+            },
+            {
+              "speaker": "Easter Bunny",
+              "text": "Thanks for your help! You should have a break now. Come back in [number] minutes if you want to hand out more eggs."
+            },
+            {
+              "speaker": "Easter Bunny",
+              "text": "But I'm afraid I've left things a bit late this year. I'm going to need some help to get all these eggs delivered! Would you help me, [player name]?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, of course."
+            },
+            {
+              "speaker": "Easter Bunny",
+              "text": "Oh dear, you don't have any free inventory space. Talk to me again when you have."
+            },
+            {
+              "speaker": "Easter Bunny",
+              "text": "Splendid, splendid! Here's a basket of eggs. Hand out as many as you can before they disappear and then come back to me. You've only got two minutes!"
+            },
+            {
+              "speaker": "Easter Bunny",
+              "text": "Splendid, splendid! Here's a basket of eggs. Hand out as many as you can before they disappear and then come back to me for your reward. You've only got two minutes!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No."
+            },
+            {
+              "speaker": "Easter Bunny",
+              "text": "Oh dear oh dear! I've got to hurry!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "While holding the Easter basket",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Easter Bunny",
+              "text": "Quickly, [player name]! Hand out those eggs before they vanish!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After the timer has run out",
+      "sections": [
+        {
+          "title": "If no eggs were handed out",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Easter Bunny",
+                  "text": "Oh dear, [player name]. You didn't hand out any eggs at all! Do you want to try again?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If at least one egg was handed out",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Easter Bunny",
+                  "text": "Thank you, [player name]! You handed out [number] eggs!"
+                },
+                {
+                  "speaker": "Easter Bunny",
+                  "text": "Thank you, [player name]! You handed out [number] eggs! Here is your Easter reward!"
+                },
+                {
+                  "speaker": "Easter Bunny",
+                  "text": "If you lose it, you can get another one from Diango in Draynor."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

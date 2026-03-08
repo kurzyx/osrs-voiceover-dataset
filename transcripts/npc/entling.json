@@ -1,0 +1,162 @@
+{
+  "ref": "entling",
+  "categoryRef": "npc",
+  "title": "Entling",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Incorrectly pruning the entling",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Entling",
+                  "text": "Woah, that's not the cut I asked for!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to prune a fully pruned entling",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Entling",
+                  "text": "Hey, my cut is perfect, leave it alone!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When the entling wants pruning on top",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Entling",
+                  "text": "Short on top!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the entling wants pruning on the back",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Entling",
+                  "text": "Breezy on the back!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the entling wants pruning on the back or side",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Entling",
+                  "text": "Short on back and sides!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the entling wants pruning on the top and sides",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Entling",
+                  "text": "A leafy mullet!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon being fully pruned",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Pruned Entling",
+                  "text": "Now I look snazzy! Thanks!"
+                },
+                {
+                  "speaker": "Pruned Entling",
+                  "text": "That feels better! Thanks!"
+                },
+                {
+                  "speaker": "Pruned Entling",
+                  "text": "That's perfect! Thanks!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to prune a fully pruned entling",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Entling",
+                  "text": "Hey, my cut is perfect, leave it alone!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the Friendly Ent event is almost over",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Entling",
+                  "text": "Almost time to go!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the countdown ends",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

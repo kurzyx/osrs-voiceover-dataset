@@ -1,0 +1,91 @@
+{
+  "ref": "sir-lancelot",
+  "categoryRef": "npc",
+  "title": "Sir Lancelot",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Lancelot",
+                  "text": "Greetings! I am Sir Lancelot, the greatest Knight in the land! What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're a little full of yourself aren't you?"
+                },
+                {
+                  "speaker": "Sir Lancelot",
+                  "text": "I have every right to be proud of myself."
+                },
+                {
+                  "speaker": "Sir Lancelot",
+                  "text": "My prowess in battle is world renowned!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I seek a quest!"
+                },
+                {
+                  "speaker": "Sir Lancelot",
+                  "text": "Leave questing to the professionals."
+                },
+                {
+                  "speaker": "Sir Lancelot",
+                  "text": "Such as myself."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Lancelot",
+                  "text": "Greetings! I am Sir Lancelot, the greatest Knight in the land! What do you want?"
+                },
+                {
+                  "speaker": "Sir Lancelot",
+                  "text": "Sir Knight! Many thanks for your assistance in restoring Merlin to his former freedom!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Completing King's Ransom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Lancelot",
+                  "text": "Greetings! I am Sir Lancelot, the greatest Knight in the land! What do you want?"
+                },
+                {
+                  "speaker": "Sir Lancelot",
+                  "text": "Humph. You are indeed a better knight than I first suspected."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Gee, it was nothing saving you all from the clutches of Morgan Le Faye and freeing your King."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

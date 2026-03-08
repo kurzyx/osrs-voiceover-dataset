@@ -1,0 +1,125 @@
+{
+  "ref": "fabia",
+  "categoryRef": "npc",
+  "title": "Fabia",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If Xilo and Fabia have not been reunited",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fabia",
+                  "text": "I can't belive Xilo hasn't shown up."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Were you expecting to meet someone here?"
+                },
+                {
+                  "speaker": "Fabia",
+                  "text": "My... friend, Xilo. I told her to meet me by the magic trees of the rainforest. We don't often have a chance to meet without a crowd of people around."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why? Is she not particularly local to you?"
+                },
+                {
+                  "speaker": "Fabia",
+                  "text": "Unfortunately not. I'm from Aldarin, but she lives in Tal Teklan. It usually takes a special event being hosted for us both to be in the same place."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you never really get any privacy?"
+                },
+                {
+                  "speaker": "Fabia",
+                  "text": "Privacy? Are you insinuating something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not at all. Sorry if it seemed like I was."
+                },
+                {
+                  "speaker": "Fabia",
+                  "text": "It's okay... Sorry... I just miss her."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you think she's just running a little late?"
+                },
+                {
+                  "speaker": "Fabia",
+                  "text": "It's possible."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could she maybe have considered another tree magical?"
+                },
+                {
+                  "speaker": "Fabia",
+                  "text": "I suppose she may be where we first met... but this is where we shared our first... you know..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I'll keep my fingers crossed for you. I'm sure you'll be able to find one another soon!"
+                },
+                {
+                  "speaker": "Fabia",
+                  "text": "Thank you, iknami."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hang on... I think I might have met this Xilo."
+                },
+                {
+                  "speaker": "Fabia",
+                  "text": "You have? Where is she?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "By a tree to the north of here."
+                },
+                {
+                  "speaker": "Fabia",
+                  "text": "Oh, Xilo! She's gone to where we first met instead! Thank you, iknami. I'll head over there at once!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If Xilo and Fabia have been reunited",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Xilo",
+                  "text": "Hello again, iknami! Thank you for helping us find each other!"
+                },
+                {
+                  "speaker": "Fabia",
+                  "text": "To think we were waiting by different trees! It was so silly of us!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I'm happy to see you together again. Now, I'm sure you have a lot of catching up to do. I'll leave you to it."
+                },
+                {
+                  "speaker": "Xilo",
+                  "text": "Timoiva, iknami!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

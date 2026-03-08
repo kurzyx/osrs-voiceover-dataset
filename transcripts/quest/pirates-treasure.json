@@ -1,0 +1,800 @@
+{
+  "ref": "pirates-treasure",
+  "categoryRef": "quest",
+  "title": "Pirate's Treasure",
+  "sections": [
+    {
+      "title": "Getting started",
+      "sections": [
+        {
+          "title": "Talking to Redbeard Frank",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Arr, Matey!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm in search of treasure."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Arr, treasure you be after eh? Well I might be able to tell you where to find some... For a price..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What sort of price?"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Well for example if you can get me a bottle of rum... Not just any rum mind..."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "I'd like some rum made on Karamja Island. There's no rum like Karamja Rum!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Would some Braindeath 'Rum' do?"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Gadzooks, that swill! Not a chance!"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "It's Karamja Rum or no deal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, I will bring you some rum."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Yer a saint, although it'll take a miracle to get it off Karamja."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "The Customs office has been clampin' down on the export of spirits. You seem like a resourceful young [lad/lass], I'm sure ye'll be able to find a way to slip the stuff past them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I'll give it a shot."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Arr, that's the spirit!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not right now."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Fair enough. I'll still be here and thirsty whenever you feel like helpin' out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Redbeard Frank again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Arr, Matey!"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Have ye brought some rum for yer ol' mate Frank?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not yet."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Not surprising, tis no easy task to get it off Karamja."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "The Customs office has been clampin' down on the export of spirits. You seem like a resourceful young lad, I'm sure ye'll be able to find a way to slip the stuff past them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I'll give it another shot."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Visiting Karamja",
+      "sections": [
+        {
+          "title": "Talking to Luthas",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Luthas",
+                  "text": "Hello I'm Luthas, I run the banana plantation here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could you offer me employment on your plantation?"
+                },
+                {
+                  "speaker": "Luthas",
+                  "text": "Yes, I can sort something out. There's a crate ready to be loaded onto the ship."
+                },
+                {
+                  "speaker": "Luthas",
+                  "text": "You wouldn't believe the demand for bananas from Wydin's shop over in Port Sarim. I think this is the third crate I've shipped him this month.."
+                },
+                {
+                  "speaker": "Luthas",
+                  "text": "If you could fill it up with bananas, I'll pay you 30 gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That customs officer is annoying isn't she?"
+                },
+                {
+                  "speaker": "Luthas",
+                  "text": "Well I know her pretty well. She doesn't cause me any trouble any more."
+                },
+                {
+                  "speaker": "Luthas",
+                  "text": "She doesn't even search my export crates any more. She knows they only contain bananas."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Really? How interesting. Whereabouts do you send those to?"
+                },
+                {
+                  "speaker": "Luthas",
+                  "text": "There is a little shop over in Port Sarim that buys them up by the crate. I believe it is run by a man called Wydin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Filling the crate with bananas",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using Karamjan rum on Crate",
+          "sections": [
+            {
+              "title": "Attempting to hide Karamjan rum (banana) in the crate",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Attempting to hide Karamjan rum (sliced banana) in the crate",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Searching the crate",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Luthas after filling up the crate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've filled a crate with bananas."
+                },
+                {
+                  "speaker": "Luthas",
+                  "text": "Well done, here's your payment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will you pay me for another crate full?"
+                },
+                {
+                  "speaker": "Luthas",
+                  "text": "Yes certainly."
+                },
+                {
+                  "speaker": "Luthas",
+                  "text": "If you go outside you should see the old crate has been loaded on to the ship, and there is another empty crate in its place."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you, I'll be on my way."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So where are these bananas going to be delivered to?"
+                },
+                {
+                  "speaker": "Luthas",
+                  "text": "I sell them to Wydin who runs a grocery store in Port Sarim."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Customs officer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Customs officer",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I journey on this ship?"
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "You need to be searched before you can board."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why?"
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Because Asgarnia has banned the import of intoxicating spirits."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Search away, I have nothing to hide."
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Aha, trying to smuggle rum are we?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Umm... it's for personal use?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This is not the Karamja rum you are looking for."
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "This is not the Karamja rum we are looking for."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well that was easy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Drat..."
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Well you've got some odd stuff, but it's all legal. Now you need to pay a boarding charge of 30 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh dear, I don't seem to have enough money."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I'll not bother then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're not putting your hands on my things!"
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "You're not getting on this ship then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You don't need to look through my things."
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "Oh, I think I do. If you don't want to let me search your possessions, then you're not coming aboard this ship."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Does Karamja have any unusual customs then?"
+                },
+                {
+                  "speaker": "Customs officer",
+                  "text": "I'm not that sort of customs officer."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Attempting to smuggle out the rum",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Imp",
+              "text": "Don't you know? You can get into trouble for giving alcohol to minors, and I'm pretty small, it has to be said."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Retrieving the Rum",
+      "sections": [
+        {
+          "title": "Talking to Wydin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wydin",
+                  "text": "Welcome to my food store! Would you like to buy anything?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I get a job here?"
+                },
+                {
+                  "speaker": "Wydin",
+                  "text": "Well, you're keen, I'll give you that. Okay, I'll give you a go. Have you got your own white apron?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I have one right here."
+                },
+                {
+                  "speaker": "Wydin",
+                  "text": "Wow - you are well prepared! You're hired. Go through to the back and tidy up for me, please."
+                },
+                {
+                  "speaker": "Wydin",
+                  "text": "You need to put your white apron on first though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I haven't."
+                },
+                {
+                  "speaker": "Wydin",
+                  "text": "Well, you can't work here unless you have a white apron. Health and safety regulations, you understand."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I get one of those?"
+                },
+                {
+                  "speaker": "Wydin",
+                  "text": "Well, I get all of mine over at the clothing shop in Varrock. They sell them cheap there."
+                },
+                {
+                  "speaker": "Wydin",
+                  "text": "Oh, and I'm sure that I've seen a spare one over in Gerrant's fish store somewhere. It's the little place just north of here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to open the door in the Food Store before getting the job",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wydin",
+                  "text": "Hey, you can't go in there. Only employees of the grocery store can go in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I didn't realise."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to open the door after getting the job while not wearing a white apron",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wydin",
+                  "text": "Can you put your white apron on before going in there, please?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Wydin after getting the job",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wydin",
+                  "text": "Is it nice and tidy round the back now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, can I work out front now?"
+                },
+                {
+                  "speaker": "Wydin",
+                  "text": "No, I'm the one who works here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, are you going to pay me yet?"
+                },
+                {
+                  "speaker": "Wydin",
+                  "text": "Umm... No, not yet."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, it's a complete mess."
+                },
+                {
+                  "speaker": "Wydin",
+                  "text": "Ah well, it'll give you something to do, won't it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I buy something please?"
+                },
+                {
+                  "speaker": "Wydin",
+                  "text": "Yes, of course."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taking the apron in Gerrant's Fishy Business",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Search crate in the Food Store",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Delivering the rum",
+      "sections": [
+        {
+          "title": "Offering Frank stuffed banana rum",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Arr, Matey!"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Have ye brought some rum for yer ol' mate Frank?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I've got some."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Arr - this here rum's got a banana stuck in it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Offering Frank sliced banana rum",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Arr, Matey!"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Have ye brought some rum for yer ol' mate Frank?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I've got some."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Arr - I don't likes banana in me rum!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Redbeard Frank",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Arr, Matey!"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Have ye brought some rum for yer ol' mate Frank?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not yet."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Not surprising, tis no easy task to get it off Karamja."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "The Customs office has been clampin' down on the export of spirits. You seem like a resourceful young [lad/lass], I'm sure ye'll be able to find a way to slip the stuff past them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I'll give it another shot."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I've got some."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Now a deal's a deal, I'll tell ye about the treasure. I used to serve under a pirate captain called One-Eyed Hector."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Hector were very successful and became very rich. But about a year ago we were boarded by the Customs and Excise Agents."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Hector were killed along with many of the crew, I were one of the few to escape and I escaped with this."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "This be Hector's key. I believe it opens his chest in his old room in the Blue Moon Inn in Varrock."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "With any luck his treasure will be in there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok thanks, I'll go and get it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So why didn't you ever get it?"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "I'm not allowed in the Blue Moon Inn. Apparently I'm a drunken trouble maker."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the rum on Redbeard Frank",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Frank, I have some Karamja Rum."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Now a deal's a deal, I'll tell ye about the treasure. I used to serve under a pirate captain called One-Eyed Hector."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reclaiming the key",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Arr, Matey!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I seem to have lost my chest key..."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "Arr, silly you. Fortunately I took the precaution to have another one made."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finishing up",
+      "sections": [
+        {
+          "title": "Opening the Chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using the key on the Chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Digging in Falador Park",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gardener",
+                  "text": "First moles, now this! Take this, vandal!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Digging in Falador Park while being attacked by the Gardener",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Digging in Falador Park a second time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using the chest on Redbeard Frank after the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have the treasure, would you like a share?"
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "No [lad/lass], you got it fair and square."
+                },
+                {
+                  "speaker": "Redbeard Frank",
+                  "text": "You enjoy it. It's what Hector would have wanted."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening the casket",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

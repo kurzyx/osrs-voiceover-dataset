@@ -1,0 +1,94 @@
+{
+  "ref": "lord-alexei-jovkai",
+  "categoryRef": "npc",
+  "title": "Lord Alexei Jovkai",
+  "sections": [
+    {
+      "title": "Standard dialogue after Sins of the Father",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lord Alexei Jovkai",
+                  "text": "Human! Get back to the slave pens before I call the guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lord Alexei Jovkai",
+              "text": "You! You're the one that lost me my tithes. Get out before I have you killed!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player is disguised and has not yet helped Desmodus Lasiurus with his slaves during Sins of the Father",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lord Alexei Jovkai",
+              "text": "You there. Who are you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "[Vampyre name]."
+            },
+            {
+              "speaker": "Lord Alexei Jovkai",
+              "text": "Tell me, [player vampyre name], what blood tastes the best?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Err... Human?"
+            },
+            {
+              "speaker": "Lord Alexei Jovkai",
+              "text": "You misunderstand me, I mean what kind of human?"
+            },
+            {
+              "speaker": "Player",
+              "text": "One with a face?"
+            },
+            {
+              "speaker": "Lord Alexei Jovkai",
+              "text": "What? I mean, yes. But what else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't know... What's the actual answer?"
+            },
+            {
+              "speaker": "Lord Alexei Jovkai",
+              "text": "Love. Blood tastes best when it comes from one who loves."
+            },
+            {
+              "speaker": "Lord Alexei Jovkai",
+              "text": "Too many around here treat their tithes with discontentment. When they do, they miss out on the full potential blood has to offer."
+            },
+            {
+              "speaker": "Lord Alexei Jovkai",
+              "text": "Treat your tithes with respect instead. They will come to love you, and their blood becomes so much better as a result."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. I'll keep that in mind."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

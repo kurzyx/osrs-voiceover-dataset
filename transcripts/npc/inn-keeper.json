@@ -1,0 +1,37 @@
+{
+  "ref": "inn-keeper",
+  "categoryRef": "npc",
+  "title": "Inn Keeper",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Inn Keeper",
+              "text": "Welcome to the King's Axe inn! What can I help you with?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I have some beer please?"
+            },
+            {
+              "speaker": "Inn Keeper",
+              "text": "Go to the bar downstairs. I only deal with residents."
+            },
+            {
+              "speaker": "Player",
+              "text": "Residents? People live here?"
+            },
+            {
+              "speaker": "Inn Keeper",
+              "text": "No, just guests that stay the night."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

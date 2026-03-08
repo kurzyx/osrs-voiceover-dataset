@@ -1,0 +1,89 @@
+{
+  "ref": "flower-girl",
+  "categoryRef": "npc",
+  "title": "Flower Girl",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Flower Girl",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day. What are you doing?"
+                },
+                {
+                  "speaker": "Flower Girl",
+                  "text": "I'm selling flowers, 15gp for three. Would you like some?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have enough money."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please."
+                },
+                {
+                  "speaker": "Flower Girl",
+                  "text": "Thank you! Here you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Flower Girl",
+                  "text": "Good day, Your Royal Highness."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day. What are you doing?"
+                },
+                {
+                  "speaker": "Flower Girl",
+                  "text": "I'm selling flowers, 15gp for three. Would you like some, Your Highness?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have enough money."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please."
+                },
+                {
+                  "speaker": "Flower Girl",
+                  "text": "Thank you! Here you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thank you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

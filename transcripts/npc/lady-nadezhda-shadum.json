@@ -1,0 +1,44 @@
+{
+  "ref": "lady-nadezhda-shadum",
+  "categoryRef": "npc",
+  "title": "Lady Nadezhda Shadum",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lady Nadezhda Shadum",
+                  "text": "Human! Get back to the slave pens before I call the guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lady Nadezhda Shadum",
+              "text": "Who are you? Why are you in my home?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm [Vampyre name]. I was just looking around."
+            },
+            {
+              "speaker": "Lady Nadezhda Shadum",
+              "text": "You half-breeds are becoming too arrogant for your own good. If you're not careful, someone might call for a good culling. Now get out of my house!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

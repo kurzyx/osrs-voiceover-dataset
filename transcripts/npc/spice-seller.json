@@ -1,0 +1,57 @@
+{
+  "ref": "spice-seller",
+  "categoryRef": "npc",
+  "title": "Spice seller",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Spice seller",
+              "text": "Are you interested in buying or selling spice?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When stealing from the spice stall",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Spice seller",
+              "text": "Hey! Get your hands off there!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking or trading after stealing spice",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Spice seller",
+              "text": "You're the one who stole something from me!"
+            },
+            {
+              "speaker": "Spice seller",
+              "text": "Guards guards!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

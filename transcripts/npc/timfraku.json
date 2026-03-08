@@ -1,0 +1,87 @@
+{
+  "ref": "timfraku",
+  "categoryRef": "npc",
+  "title": "Timfraku",
+  "sections": [
+    {
+      "title": "After Tai Bwo Wannai Trio",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Timfraku",
+              "text": "Ah, [adventurer/wayfarer/Nobody], welcome back to Tai Bwo Wannai."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do here?"
+            },
+            {
+              "speaker": "Timfraku",
+              "text": "It should be clear to anyone that I am the chief of Tai Bwo Wannai. I ensure that things run smoothly in this village."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is there anything interesting to do here?"
+            },
+            {
+              "speaker": "Timfraku",
+              "text": "Yes Bwana, plenty of interesting things to do. Firstly you could make an effort to tidy the place up a little. Equip yourself with a machete and start cutting down the jungle that seems to be growing all around here."
+            },
+            {
+              "speaker": "Timfraku",
+              "text": "Go and have a chat with Murcaily for information, he's tending the hardwood grove to the east of here."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've been doing some work around the village."
+            },
+            {
+              "speaker": "Timfraku",
+              "text": "That's good Bwana, I would hate to think that you were just being lazy while you're in my kingdom!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm just passing through."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player is wearing a tribal mask",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Timfraku",
+              "text": "Ahhhhhhhh - Get away from me you beast!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's the problem....oh, I'm wearing this big scary mask! I'd better take it off before I start talking to the natives."
+            },
+            {
+              "speaker": "Timfraku",
+              "text": "Waahhhhh! - It's da evil broodoo beast come ta eat my very soul!"
+            },
+            {
+              "speaker": "Timfraku",
+              "text": "Ahhhhhhhh - It's a monster!"
+            },
+            {
+              "speaker": "Timfraku",
+              "text": "Ahhhhhhhh!!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

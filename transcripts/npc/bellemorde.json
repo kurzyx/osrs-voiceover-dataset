@@ -1,0 +1,63 @@
+{
+  "ref": "bellemorde",
+  "categoryRef": "npc",
+  "title": "Bellemorde",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting and after finishing Ratcatchers",
+          "sections": [
+            {
+              "title": "Without a Catspeak amulet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello puss."
+                    },
+                    {
+                      "speaker": "Bellemorde",
+                      "text": "Hiss!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "With a Catspeak amulet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello puss."
+                    },
+                    {
+                      "speaker": "Bellemorde",
+                      "text": "Hello human."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Would you like a fish?"
+                    },
+                    {
+                      "speaker": "Bellemorde",
+                      "text": "I don't want your fish. I hunt and eat what I need by myself."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

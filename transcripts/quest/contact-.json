@@ -1,0 +1,1568 @@
+{
+  "ref": "contact-",
+  "categoryRef": "quest",
+  "title": "Contact!",
+  "sections": [
+    {
+      "title": "Starting out",
+      "sections": [
+        {
+          "title": "Talking to the High Priest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So what do you plan to do now?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Well now that we've sorted out this business with Klenter, we can properly focus on dealing with these plagues."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And how's that looking?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Not great. However, we do have one bit of good news in that area, thanks to you."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Good day."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there. How goes things?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Better now that we've sorted out that business with Klenter. Still, we're no closer to dealing with these plagues."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "However, we do have one bit of good news in that area, thanks to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks to me?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Yes. You've shown us that the pox we're all infected with can't be contagious. If it was, you'd be covered in spots by now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's a very good point. Does this mean you can reopen the city?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "It does indeed. The decision to lock things down was made very quickly, so we were forced to trap many of our citizens outside the walls. We'll be able to let them all back in now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's wonderful news!"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "It is, but there is a problem."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is it?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "When the plague first started, Menaphos, our neighbouring city, closed their gates as well. Many of our citizens became trapped there when they did."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But if there's no risk of them becoming infected, can't they open up again as well?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "You'd think so, but they believe that there is still a danger. It seems they're even willing to kill if it helps keep their city isolated."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Perhaps I could help?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "The offer is appreciated, but I don't think there's anything you can do."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "You'd really be willing to help us again?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course!"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "I'm very grateful. To be honest though, I'm not really sure where to start with this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well first up, why don't you tell me what happened with Menaphos? You said something about them being willing to kill?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Indeed. Earlier today, I led a delegation across the bridge between the two cities in the hope of convincing them to end the quarantine. It didn't go well..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I have other things to do."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "I see. Fair enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cut scene 1 - Sophanem and Menaphos meet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Coenus",
+                  "text": "Halt! Don't take another step!"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "That is an improper greeting. You address the High Priest of Icthlarin!"
+                },
+                {
+                  "speaker": "Coenus",
+                  "text": "Don't try my patience! I have been ordered to stop anyone attempting to cross this bridge!"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "We have discovered that we are not contagious. You must let us pass!"
+                },
+                {
+                  "speaker": "Coenus",
+                  "text": "Step back or we will open fire."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "You wouldn't dare!"
+                },
+                {
+                  "speaker": "Coenus",
+                  "text": "Archers, take your mark!"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "You wouldn't?"
+                },
+                {
+                  "speaker": "Coenus",
+                  "text": "Take aim!"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Run!"
+                },
+                {
+                  "speaker": "Coenus",
+                  "text": "Fire!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to High Priest after the cutscene",
+          "sections": [
+            {
+              "title": "Talking to the High Priest again before asking if there is a way in from below",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "High Priest",
+                      "text": "Hello again. Have you had any thoughts on how we can get our citizens out of Menaphos?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll have a think about it."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So they just started firing arrows at you? They sound like cold-blooded thugs."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "It is often the way under Pharoah Kemesis. He leads the Menaphites in a more secular manner than we would like. Respect for the old ways is diminishing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "By old ways, do you mean Icthlarin?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "The whole Menaphite Pantheon really. Religion is starting to mean less and less in Menaphos."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "There was once a time when we would care for all of Menaphos' dead here. Now, many opt for less traditional burials."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Anyway, I've let myself become distracted. My focus is often on the dead, but right now our main worry is the living."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "It's clear that the Pharaoh has no desire to open his city, so we need to find another way of getting our citizens home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Any ideas on how we do that?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Well... I don't know. I'm open to any ideas you have."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What if I disguised myself as a citizen or a guard?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "It would not work. Their quarantine is very strict, just as ours was. Even their own people are not allowed in or out of the city."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So how do they get food and other supplies in?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "The port south of the main city is still open. Traders take their goods to the city gates and exchange them with the guards there. Everything is thoroughly checked."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. Doesn't sound like we can make anything work there then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there any way across the river?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "You'd want to swim across? If the current doesn't kill you, the crocodiles surely will."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah... Maybe not then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Perhaps I could fight my way in?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Absolutely not! We here in Sophanem are still Menaphites and those guards are our brethren. Besides, I doubt you'd succeed against so many of them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there any way into Menaphos from below?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "I don't know. I don't think so."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh. So there aren't any tunnels under this city?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Beyond the homes of our dead? I can't imagine so. We are not ones for digging tunnels unnecessarily. We leave that nonsense to the Sect of Scabaras, and they're long gone."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The Sect of Scabaras?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "They were a group dedicated to Scabaras, one of the lesser deities."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's a lesser deity?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "You already know of Icthlarin and the Devourer. They are the son and daughter of Tumeken and Elidinis. Together, they are the four main deities of the Menaphite Pantheon."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "However, the pantheon also has four lesser deities, or avatars as some call them. The Book of Light and Day says that Tumeken once fell into a deep sleep and dreamt for four days and four nights."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "With each night, his dreams took form. Those four forms became the lesser deities of the pantheon, with Scabaras being the last of them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And his followers liked to dig tunnels?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "That's right. Scabaras is the god of isolation. In keeping with his teachings, his followers mostly lived underground. As such, they were said to be great architects of the subterranean."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what happened to them?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "The Devourer was not the only member of the pantheon to wish ill upon our people. It is said that many years ago, Scabaras and his sect tried to claim these lands as their own."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "They built great tunnels beneath the Elid and used them to attack our settlements. However, Elidinis stood against them. The sect was destroyed, and Scabaras was fittingly driven into isolation."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And you don't think there's a chance they might have built some tunnels under Sophanem and Menaphos?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Er... I suppose I've never considered it before. I guess it's not impossible."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Maybe you should visit Jex at the Temple of the Lesser Gods in the north east corner of the city. He knows more about the Sect of Scabaras than I do."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "In fact, now that I think about it, I recall a rumour that the temple was actually once home to the sect."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Interesting. I'll pay him a visit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll have to think some more."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to High Priest again, before visiting Jex",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "High Priest",
+                  "text": "Hello again. Did you visit Jex at the Temple of the Lesser Gods?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "You'll find the temple in the north east corner of the city."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The Route into Menaphos",
+      "sections": [
+        {
+          "title": "Talking to Jex",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. Are you Jex?"
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "That's right. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm hoping to learn a bit more about the Sect of Scabaras. The High Priest said you'd be a good person to ask."
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "Ah yes. To be honest, not much is known about them. The sect was destroyed long ago. However, it is said that this temple was once their home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Speaking of the temple, what happened here? The place isn't looking great."
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "It was just before the plagues started! They burst up from under the cellar and trashed the place! It was late at night, so I couldn't see who they were, or if they were even human!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? Why wasn't the High Priest aware of this?"
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "The first of the plagues started that next morning. It didn't seem wise to bother him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sure he'd have still liked to have been made aware. You say they came from beneath the cellar?"
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "That's right. Turns out there's quite the network of tunnels down there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well then I think this is just what I'm after. I'd like to investigate these tunnels."
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "I wouldn't if I were you. It's incredibly dangerous down there. We had a quick look, but there are some fearsome traps and vicious monsters lurking in the darkness."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid it's essential that I go down there."
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "Well then you're either very brave or very foolish. We covered the tunnel they made with a trapdoor. Just head down into the cellar and then down that trapdoor."
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "Oh, it's also very dark down there. You should take some sort of light source and a tinderbox with you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks. You've been a great help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd better get down there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jex again, before entering the cellar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Jex."
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "How's your investigation going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I haven't made it down to the tunnels yet."
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "Well don't forget to take a light source and a tinderbox with you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will. Thanks for the warning."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd better get going."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to High Priest, before entering the cellar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "High Priest",
+                  "text": "Hello again. Any luck with getting our people out of Menaphos?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still working on it."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Well just let me know if I can help in any way."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The Sect of Scabaras",
+      "sections": [
+        {
+          "title": "Talking to Sophanem Guard, before entering the tunnels",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "Hello. How can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing down here?"
+                },
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "We're here to guard this place. Until recently, this was a bank, but then something came from the tunnels below and trashed the place."
+                },
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "Now we're guarding the trapdoor down to the tunnels instead."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have a tinderbox?"
+                },
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "I do, but I'd like to hold on to it for now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's okay, I have one with me anyway."
+                },
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "I have one I could sell you for 50 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll take it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, that's too expensive."
+                },
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "No problem. Come back if you change your mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have a torch?"
+                },
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "I do, but I'd like to hold on to it for now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's okay, I have one with me anyway."
+                },
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "I'll sell you an unlit one for 200 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll take it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, that's too expensive."
+                },
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "No problem. Come back if you change your mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How come you're not spotty?"
+                },
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "Ah, the pox. We weren't here when the outbreak took place. We were out of town trying to catch an antiques thief called Simon Templeton. We've only just got back."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Aren't you afraid you'll fall ill as well?"
+                },
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "The only reason we've been let back into the city is because the High Priest believes the pox isn't contagious."
+                },
+                {
+                  "speaker": "Sophanem Guard",
+                  "text": "Besides, Sophanem is my home. It will take a lot more than the threat of a few spots to keep me away."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You can't. I'd better go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd better go."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sophanem Guard when entering the tunnels",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bank Guard",
+                  "text": "Be careful down there!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will, I will."
+                },
+                {
+                  "speaker": "Bank Guard",
+                  "text": "It really is incredibly dangerous down there!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So people keep telling me."
+                },
+                {
+                  "speaker": "Bank Guard",
+                  "text": "You should take some food down with you in case you get hurt!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the advice."
+                },
+                {
+                  "speaker": "Bank Guard",
+                  "text": "I wouldn't take many valuables down there, just in case something bad happens."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have some faith in me."
+                },
+                {
+                  "speaker": "Bank Guard",
+                  "text": "Watch out for the traps!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will, I will."
+                },
+                {
+                  "speaker": "Bank Guard",
+                  "text": "If you see a scarab on any of the walls, stay well away from it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um, why?"
+                },
+                {
+                  "speaker": "Bank Guard",
+                  "text": "I saw one of the other guards disappear down a trapdoor when he approached it. We never saw him again!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll look out for them then."
+                },
+                {
+                  "speaker": "Bank Guard",
+                  "text": "Good luck!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jex, after entering the tunnels",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Jex."
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "How's your investigation going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not bad. Hopefully I'll make some real progress soon."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well good luck, and be careful in those tunnels."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Kaleef's corpse",
+      "sections": [
+        {
+          "title": "Talking to Maisa",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Maisa",
+                  "text": "What the... You're not Kaleef!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I'm not, I'm [player name]. As for Kaleef, I'm afraid I have some bad news about him."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "What are you on about?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, but Kaleef is dead."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Dead? He can't be dead! You're lying!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's true. It looks like some creature killed him as he was entering this cavern."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Kaleef... Curse you, Osman!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Were the two of you close?"
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "What... I..."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "No. I barely knew him. He was meant to relieve me of my posting up in Menaphos, but now I'm stuck."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Not that it matters I suppose. Even if he had made it, he wouldn't have been able to get across this chasm. We'd hoped there would be a route between the two cities down here, but clearly not."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "To be honest, that's kind of what I was hoping as well. I came down here to try and find a way into Menaphos."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Well good luck with that. If there was a way into the city, I'd have found it by now. This was my last hope."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you have no way to leave?"
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Oh I could leave. While I may not know of any way into the city, I do know of a way out. Problem is, I was ordered not to leave until I found a way for Kaleef to get in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... That gives me an idea."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "An idea? What are you talking about?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The reason I'm looking for a way into Menaphos is so that I can help the citizens of Sophanem trapped there return home. However, maybe I don't actually need to enter the city to help them."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You said you knew of a way out of the city. You could help the citizens escape."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "And why would I do that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Because if you help me, I might be able to help you. You mentioned Osman, right? I'm guessing you work for him, which makes you a spy from Al Kharid."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "That's right... I'm Maisa. You know Osman?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes. I'm the one who helped him free Prince Ali. I'm sure I could convince him to reconsider your posting."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Hmm... If you are who you say you are, tell me where the Prince was being kept."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Pollnivneach."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Draynor Village."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Port Sarim."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goblin Village."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Then we have nothing to discuss."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Interesting. And who helped you free the Prince?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hassan."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Louie Legs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Leela."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ranael."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Then we have nothing to discuss."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "You're obviously an imposter. You answered both questions incorrectly!"
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "You'll have to do better than that to convince me."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Fair enough. I'm sorry I doubted you. I will help the citizens of Sophanem for you, but first you must convince Osman to come here and meet with me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You want him to come here?"
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Yes. No more secret messages or intermediaries. I want to speak to him, face to face."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright. I'll go to Al Kharid and see what I can do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Maisa again, after incorrectly guessing Prince Ali's prison location",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Maisa",
+                  "text": "You again. If you are who you say you are, tell me where Prince Ali was being kept."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Maisa again, after correctly answering but before speaking to Osman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Maisa",
+                  "text": "Have you brought Osman?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still working on it."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Don't take too long. It's not safe for me to stay down here."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "I Spy with my Little Eye",
+      "sections": [
+        {
+          "title": "Talking to Osman at Al Kharid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Osman",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to talk to you about Sophanem."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Sophanem?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes. Your help is needed urgently there."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "My help is needed all over the place. What makes you suggest that I'm more urgently needed in Sophanem?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maisa wants to speak with you."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Maisa? You are mistaken. She's in Menaphos, and that city is locked tight to everyone, thanks in no small part to me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? What have you been up to there?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Nothing you need to concern yourself with."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You don't need to be so secretive with me. Did I not prove myself by freeing Prince Ali?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Hmm... Very well. What do you know of the political landscape here in the Kharidian Desert?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not a lot."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Well unlike many other regions, the Kharidian Desert is not united under a single banner. Instead, there are multiple independent city states, along with various lawless collectives."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "While all of the city states are currently at peace with each other, between some you'll find certain... rivalries."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh I see. So one of those rivalries is between Menaphos and Al Kharid?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Some would say so."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Including you?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "We were at war with the Menaphites for a long time. As Spymaster for Al Kharid, I know that no war is ever truly over."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Does the Emir agree with you on that?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "The Emir trusts me to protect the best interests of Al Kharid. So in answer to your original question, that's what I've been doing in Menaphos and Sophanem."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Look, this is all very interesting, but one of your people, Kaleef, is dead. He was meant to relieve Maisa of her post in Menaphos, but now he can't."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Then I will send someone else down instead. Is that all?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No. Maisa is insisting that you meet with her personally."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "That's not possible and she knows it. It would be tantamount to sticking one's head in a crocodile's mouth. If the Menaphites caught me, I'd be lynched on sight."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Now, return to her and tell her that I will send a replacement for Kaleef shortly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's not going to work. There's a chasm blocking the way from Sophanem to Menaphos. Any agent you send won't be able to enter the city. That's why Maisa wants to speak with you."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "If there's no way for someone to relieve Maisa, then she will have to remain there herself. This is the job she signed up for."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I need Maisa to help me with something. She'll only do that if you go and speak to her."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "That is your problem, not mine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And Prince Ali was your problem, but I still helped you."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "And you were paid for your services. What do you need from Maisa anyway?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "When Menaphos was locked down, many citizens from Sophanem were trapped there. I need to try and get them out of the city, but I have no way of entering Menaphos myself."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "So, you've convinced Maisa to help them on your behalf? What makes you think I want any part in this? The citizens of Sophanem are still Menaphites."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... Let's see..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It must be boring here."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "You wish to charm me with the idea of getting my hands dirty? Well I'm perfectly happy here in Al Kharid. I did all the adventuring I ever wanted to do in my youth."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There might be treasures underneath Sophanem."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "That there might be, but if so, those treasures belong to the dead. We have treasures aplenty here in Al Kharid."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It could drive a wedge between the Menaphite cities."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "How so?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Menaphos wouldn't be happy if the citizens of Sophanem bypassed the quarantine. I imagine you'd be able to take advantage of that."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Hmm... Alright, you have my curiosity. Let's see where this trail takes us. Meet me outside the gates to Sophanem. I have one or two things to sort out here before I depart."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It would give you the chance to spy first hand."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "I have Maisa and others in place to do that already."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Perhaps because there is no suitable answer. Now, I must get on with my work."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fine. I give up."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "So you've seen sense? Good. Now, I must get on with my work."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Osman at Al Kharid again, after failing to persuade him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Osman",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to talk to you about Sophanem."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "As I've already told you, I have little interest in this business of yours. Why should I help you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Osman at Al Kharid again, after succeeding to persuade him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Osman",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to talk to you about Sophanem."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Yes, yes. I have one or two things to sort here before I depart. I'll meet you outside the gates to Sophanem."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Osman outside Sophanem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "There you are."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Ah, you're here. Do you know of a good way into the city? I'm getting too old for scaling walls."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's wrong with using the gates?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Are you mad or stupid?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Neither. Why?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "What if I'm recognised? Do you not think they'd question the presence of Al Kharid's Spymaster?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, so maybe it wasn't one of my better suggestions."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Have any other bright ideas?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I know of a secret entrance to the north."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Perfect! Where is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There's a tunnel in some rocks near a camp."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Good. Now, wait for me here. There's no point in both of us risking our necks getting seen together."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What if you injure yourself down in the tunnels?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Don't worry about me. I may be getting older, but I didn't become Spymaster without getting into a fight or two."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But there's..."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Give me two hours. If I'm not back by then, come and look for me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cut scene 2 - Osman sneaks into Sophanem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Osman",
+                  "text": "Psst!"
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "Huh?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Osman's been gone for hours. I think I should have a look for him."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking to (not) Osman in Al Kharid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Osman",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to talk to you about Sophanem."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "I've no idea what's going on there. It's all on a need-to-know basis, and I don't need to know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you? Osman can't possibly be here!"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "You can call me Osman, even though I am the man who is not Osman."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So... you're one of his agents then? But you look just like him?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Of course I look like him. I'm in disguise. What sort of spy would look like a spy?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well the last time I worked with Osman there was some business with really bad wigs."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Right... Let's change the subject to something Osman might talk about. I don't want to blow my cover."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to go."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Until next time."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Beetle battle",
+      "sections": [
+        {
+          "title": "Talking to Jex",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Jex."
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "Oh... hello again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you okay?"
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "Some degenerate clubbed me and gave me a lump the size of an egg on the back of my head."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh no! I'll keep my eyes peeled for suspicious looking characters."
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "I have a fairly good idea who did it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? Who?"
+                },
+                {
+                  "speaker": "Jex",
+                  "text": "That linen merchant, Siamun. He's never liked me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cut scene 3 - Osman and Maisa speak below Sophanem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Osman",
+                  "text": "... and whatever you do, don't risk giving yourself away when you help the citizens return."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "I know what I'm doing Osman."
+                },
+                {
+                  "speaker": "Maisa",
+                  "text": "Hang on... What's going on? What's that shaking?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Get out of here quick! Before the cave collapses!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Osman!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh oh..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Osman, after the battle",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Osman",
+                  "text": "I seem to recall telling you to wait for me. What are you doing down here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Rescuing your ungrateful hide!"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "I had everything under control."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well your two hours ran out a long time ago. Anyway, where did you disappear off to during the fight?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "I didn't go anywhere. I decided to blend into the shadows. It's one of the many tricks I've picked up over the years. Not every problem needs a blade to solve it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right... So are you going to say 'thank you' or anything?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "That's not required. Once again, I had it all under control."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Anyway, you'll be pleased to know that before we were interrupted, I was able to convince Maisa to remain in Menaphos. As agreed, she will help the citizens of Sophanem return home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's good to hear. I guess I should let the High Priest know."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Before you leave, it seems that Kaleef was able to at least get one hit on that beast. I suggest you take his dagger. It's quite powerful, and he has no need for it now."
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Oh, and one more thing..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Osman",
+                  "text": "Well done. You did an alright job here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks... I suppose."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Contact established",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "High Priest",
+              "text": "Hello again. I have some wonderful news."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is it?"
+            },
+            {
+              "speaker": "High Priest",
+              "text": "Menaphos just sent over some of their dead. Imagine our suprise when we found some of our own citizens disguised among them! Apparently we have both you and someone called Maisa to thank."
+            },
+            {
+              "speaker": "Player",
+              "text": "Disguised among the dead? That's quite ingenious. I'm glad to hear they're home safe."
+            },
+            {
+              "speaker": "High Priest",
+              "text": "It seems that we are once again in your debt. Please, take this as a thank you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3075 @@
+{
+  "ref": "the-fremennik-exiles",
+  "categoryRef": "quest",
+  "title": "The Fremennik Exiles",
+  "sections": [
+    {
+      "title": "Starting out",
+      "sections": [
+        {
+          "title": "Brundt the Chieftain",
+          "sections": [
+            {
+              "title": "When talked to again before going to investigate",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "How goes the investigation, [Fremennik name]?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm still looking into it at the moment."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "No rush, [Fremennik name]. I'm sure it's nothing to worry about. Just talk to Freygerd and Reeso at the sandpit when you're ready."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any quests?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "As a matter of fact [Fremennik name], I do have a quest for you. Are you interested?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm ready for another adventure!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Excellent, now-"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what will it be this time? Joining warring islands?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "I'm a fan of your enthusiasm, [Fremennik name], but-"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Would you have me slay a mighty daggermouth? Or do you need my expertise in conquering untamed lands?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Nothing quite that fancy I'm afraid, [Fremennik name]. I just need you to investigate a minor disturbance."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Freygerd and Reeso run the sandpit a little north of here. They mentioned they heard some rustling by their hut last night and wanted an official to investigate."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "You've proven yourself more than worthy of our people's trust."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well that doesn't sound so bad. I'll get right on it."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Thank you, [Fremennik name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not right now."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Very well. Return when you wish to help."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Investigating the disturbance",
+      "sections": [
+        {
+          "title": "Reeso",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Reeso, I'm [Fremennik name]."
+                },
+                {
+                  "speaker": "Reeso",
+                  "text": "Greetings, [Fremennik name]. I imagine the Chieftain sent you over. My wife, Freygerd, is probably the best person to speak to. She was the one who saw the... well whatever it was."
+                },
+                {
+                  "speaker": "Reeso",
+                  "text": "I looked about outside but couldn't see anyone out there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll get to the bottom of it. Thank you Reeso."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Freygerd",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Freygerd, I'm [Fremennik name]."
+                },
+                {
+                  "speaker": "Freygerd",
+                  "text": "Thank goodness you've arrived!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The Chieftain told me that you saw some sort of disturbance outside your hut?"
+                },
+                {
+                  "speaker": "Freygerd",
+                  "text": "Yes, my husband thinks I'm going a bit mad but I know what I saw! Red eyes, piercing with a terrifying stare. I was so frightened, I fell to the floor!"
+                },
+                {
+                  "speaker": "Freygerd",
+                  "text": "It was the middle of the night, so I couldn't make out what it was. But when I got back on my feet, it wasn't there anymore."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. I'll have a look around and see what I can find."
+                },
+                {
+                  "speaker": "Freygerd",
+                  "text": "Thank you for your help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reeso again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Reeso",
+                  "text": "How's it going, [Fremennik name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still looking."
+                },
+                {
+                  "speaker": "Reeso",
+                  "text": "Try not to worry too much, I'm sure it's nothing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Freygerd again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Freygerd",
+                  "text": "Have you looked around the hut yet, [Fremennik name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I still think I'm missing something. I'll let you know when I'm done."
+                },
+                {
+                  "speaker": "Freygerd",
+                  "text": "Thanks again for your help. Make sure you bring anything you find back. I'll make sure my husband delivers it to the Chieftain."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching outside the house",
+          "sections": [
+            {
+              "title": "Box",
+              "sections": [
+                {
+                  "title": "Inspecting the gland",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "This seems to be a small sack filled with venom."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "This doesn't look safe... Good job my backpack magically stops things from breaking!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Rockslide",
+              "sections": [
+                {
+                  "title": "Inspecting the fang",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "This seems to be the fang of a relatively small creature. It's absolutely soaked in venom."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "It's dripping with venom. I'd better make sure I don't prick my finger!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Sand pit",
+              "sections": [
+                {
+                  "title": "After killing the Basilisk Youngling",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "Well I can honestly say I wasn't expecting that. Looks like it dropped a letter of some sorts. I'd better grab it."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "I think I've found everything I need for this investigation. I should let Freygerd know."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Search the sandpit again after killing the Basilisk Youngling",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "I already have the letter from this sand pit."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Oh, that's where that letter went! How convenient."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "What the..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "After acquiring the unsealed letter",
+          "sections": [
+            {
+              "title": "Reeso",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Reeso",
+                      "text": "How's it going, [Fremennik name]?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I think I've found everything I need."
+                    },
+                    {
+                      "speaker": "Reeso",
+                      "text": "Ah, you'd better talk to the wife then. She'll want to know what you've discovered."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Freygerd",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Freygerd",
+                      "text": "Have you looked around the hut yet, [Fremennik name]?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've had a look around and found a few things I'd like to show the Chieftain. The thing that made the noise outside your home is gone now, so there's nothing to worry about."
+                    },
+                    {
+                      "speaker": "Freygerd",
+                      "text": "Thank goodness! I'll have my husband take those items to the Chieftain for you."
+                    },
+                    {
+                      "speaker": "Reeso",
+                      "text": "Yeah, yeah... alright!"
+                    },
+                    {
+                      "speaker": "Freygerd",
+                      "text": "Thank you so much for your help, [Fremennik name]."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No problem. I best be getting back to the Chieftain!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Reeso again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello Reeso."
+                    },
+                    {
+                      "speaker": "Reeso",
+                      "text": "Greetings, [Fremennik name]. How can I help?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You didn't by any chance read that letter, did you?"
+                    },
+                    {
+                      "speaker": "Reeso",
+                      "text": "The sand business is booming over here in Rellekka! I don't have time to worry about some letter."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thank you for letting me know."
+                    },
+                    {
+                      "speaker": "Reeso",
+                      "text": "No problem, [Fremennik name]."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Please, do tell me more about the sand business in Rellekka."
+                    },
+                    {
+                      "speaker": "Reeso",
+                      "text": "An adventurer like you? Don't you have anything better to do?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not at all. I seem to have all day to talk to people. Why else would I start a conversation with you?"
+                    },
+                    {
+                      "speaker": "Reeso",
+                      "text": "Well, being so close to the shore, Rellekka provides a lot of seaweed alongside my sand."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Tell me more!"
+                    },
+                    {
+                      "speaker": "Reeso",
+                      "text": "Well I work for a business known as Sandy Sand Co. A brilliant bunch of people!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Interesting..."
+                    },
+                    {
+                      "speaker": "Reeso",
+                      "text": "The seaweed from Rellekka, in combination with my sand business, provides a huge amount of glass for the surrounding areas!"
+                    },
+                    {
+                      "speaker": "Reeso",
+                      "text": "Fellow Fremenniks aren't too pleased with my outside dealings, though know how important my job is. I think they let it slide for that reason."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well, thank you so much for all of that information Reeso. See you later."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Freygerd again",
+              "sections": [
+                {
+                  "title": "Freygerd after telling her about the basilisk",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Freygerd",
+                          "text": "A basilisk! In our town! This is how it starts!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "How what starts?"
+                        },
+                        {
+                          "speaker": "Freygerd",
+                          "text": "The end!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Well that sounds cheery. You have nothing to fear though, not with me around. Speaking of which, I'd better get back to it."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Freygerd",
+                      "text": "You didn't say, [Fremennik name]. What exactly was it that was outside? My husband didn't tell me what he took to the Chieftain for you."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "It was a basilisk."
+                    },
+                    {
+                      "speaker": "Freygerd",
+                      "text": "What did you say?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I said it was a basilisk."
+                    },
+                    {
+                      "speaker": "Freygerd",
+                      "text": "A basilisk?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well I really must get back to what I was doing. Lovely to catch up!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "It was nothing to worry about! Just a couple of knick knacks probably dropped by some kids!"
+                    },
+                    {
+                      "speaker": "Freygerd",
+                      "text": "What about the red eyes I saw though?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "They were probably just firestarters. That's what I found outside."
+                    },
+                    {
+                      "speaker": "Freygerd",
+                      "text": "Well that's certainly a relief. Thank you for letting me know!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not a problem!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Brundt",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "[Fremennik name], I'm glad you've returned! This letter you have found is very worrying and requires our utmost attention."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Never did we think this day would come."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "So many lives lost. So many sacrifices."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "But the Fremennik people shall not bow to the Jormungand again!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "[Fremennik name], please read the letter and talk to me afterwards with any questions you may have."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "[Fremennik name], I'm glad you've returned! This letter you have found is very worrying and requires our utmost attention."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I don't understand. What does the letter mean? Who is the Jormungand? And since when could basilisks read and write?"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "While they may not show it, basilisks are much smarter than they seem. Many years ago, a great basilisk army enslaved our people and took our home."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "The Jormungand, sometimes known as The Serpent King, was the leader of this army. Along with his three generals, Typhor, Vritra and Bakuna, he brought a terror to these lands unlike any other."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "If it hadn't been for the bravery of a great hero, we might never have been freed."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "A hero?"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Yes. He was known as V. He stood up to the Serpent King and confronted him on the Island of Stone. It is said that the two of them fought for days, but in the end, V stood victorious."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What happened next?"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Well that depends who you ask. The bards wrote a great song about V's victory. They called it the Ballad of the Basilisk, and it claims V killed the Jormungand."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "But..."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Well... bards are known to bend the truth a bit, especially if it makes a song sound better. In reality, V sealed the Serpent King in a magical prison on the island, where he remains to this day."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "A magical prison? I thought the Fremennik people didn't approve of magic?"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "V was different. Stories tell of how he unlocked the potential of magic with the single touch of a stone. In that moment, he became more than just a man."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "A god?"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "It's not a distinction the Fremennik particularly care for. To us, he has always been a hero to be respected, not a god to be worshipped. They say he felt the same way."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "But he earned the right to use magic?"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Exactly. Now the Moon Clan on the other hand, did not earn that right. Their use of magic is an insult to our people."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So what can we do about the Jormungand?"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "We will stay strong, [Fremennik name]. We'll..."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "We'll be doomed!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Our army isn't large enough to hold back the forces of the Serpent King."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I can help!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "[Fremennik name], you're strong. But you're no army."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You're forgetting Brundt. We have the element of surprise! They don't know we're aware of their attack."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "We could have days to prepare before they make their move. We could..."
+                    },
+                    {
+                      "speaker": "Agnar",
+                      "text": "Chieftain Brundt!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Agnar? What is it?"
+                    },
+                    {
+                      "speaker": "Agnar",
+                      "text": "Chieftain Brundt! I'm here on behalf of the Fremennik Council! We've heard some disturbing news about a basilisk in town."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Well I won't deny there's been a little issue but [Fremennik name] and I will soon have things back under control."
+                    },
+                    {
+                      "speaker": "Agnar",
+                      "text": "[Fremennik name]? When will you see that this outerlander is the cause of all of our problems!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "[Fremennik name] is no outerlander! He passed our trials and is a Fremennik, just like you and I."
+                    },
+                    {
+                      "speaker": "Agnar",
+                      "text": "You can disguise it all you want, but he is an outerlander and always will be! Ever since we let him in, we've had nothing but trouble!"
+                    },
+                    {
+                      "speaker": "Agnar",
+                      "text": "And to top it all off, now we have basilisks wandering our town. The council have had enough!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "What are you saying Agnar?"
+                    },
+                    {
+                      "speaker": "Agnar",
+                      "text": "I have a declaration here signed by seven of our twelve council members. We declare this outerlander an exile!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "This is outrageous! [Fremennik name] is one of us!"
+                    },
+                    {
+                      "speaker": "Agnar",
+                      "text": "Do not use that name! The decision of the council is final. As Chieftain, you are honour bound to enact it."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "I see..."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Exile, you must leave our province. Our people will no longer see you as their brother."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Leave at once. Do not attempt to interact with myself or my people."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Being exiled",
+      "sections": [
+        {
+          "title": "Brundt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Begone exile, you are a Fremennik no more."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Leave at once. Do not attempt to interact with myself or my people."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Askeladden",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again Askeladden."
+                },
+                {
+                  "speaker": "Askeladden",
+                  "text": "Hey pal... listen. I shouldn't really be talking to you. Everyone is saying you're a bad person. They say you were exiled!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's true but I did nothing wrong; don't believe them Askeladden!"
+                },
+                {
+                  "speaker": "Askeladden",
+                  "text": "I believe you buddy! I just can't really be seen talking to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's fine, I don't want to get you in trouble. Can you do me a favour though?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, never mind."
+                },
+                {
+                  "speaker": "Askeladden",
+                  "text": "Okay pal. If you need anything, come back to me but keep it on the down low."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bardur",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bardur",
+                  "text": "Ah! Exile! Begone with you, before you suffer the same fate as these fledglings!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fine. I was going anyway."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bjorn/Eldgrim",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bjorn/Eldgrim",
+                  "text": "Gerr owtta 'ere befur ay mayke yew!"
+                },
+                {
+                  "speaker": "Bjorn/Eldgrim",
+                  "text": "Behgawn exshiled. Elsh'll cahll thur gards!"
+                },
+                {
+                  "speaker": "Bjorn/Eldgrim",
+                  "text": "Yoo shuwdn't be warking 'round alown whyle exshiled!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Falo the Bard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi there! Who are you?"
+                },
+                {
+                  "speaker": "Falo the Bard",
+                  "text": "Hi there exile. I am Falo the bard! Like my brother Olaf, who lives in Rellekka, I also write music."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You don't seem to care too much about me getting exiled."
+                },
+                {
+                  "speaker": "Falo the Bard",
+                  "text": "Well we're not in Rellekka down here so I don't think it matters too much."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough. So, do you write about anything in particular?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Jarvald",
+          "sections": [
+            {
+              "title": "Rellekka",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Jarvald",
+                      "text": "Forgive me exile, though I can't allow you to board my ship."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Please Jarvald, it's really important!"
+                    },
+                    {
+                      "speaker": "Jarvald",
+                      "text": "Very well... for old times sake."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Fair enough."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Waterbirth Island",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Jarvald",
+                      "text": "Do you wish to return to Rellekka?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes please."
+                    },
+                    {
+                      "speaker": "Jarvald",
+                      "text": "Very well, but do make sure you're not spotted leaving my ship."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No thanks."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Maria Gunnars",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Maria Gunnars",
+                  "text": "Welcome back, [Fremennik name]. Do you have any questions?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You don't seem to be bothered about my exile."
+                },
+                {
+                  "speaker": "Maria Gunnars",
+                  "text": "I'm not. Neitiznot does not consider you an exile, that's just the mainland."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mord Gunnars",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mord Gunnars",
+                  "text": "Hail the conquering hero!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Heh. Thanks - I was pretty heroic even if I say so myself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You do know I've been exiled right? You don't seem to care."
+                },
+                {
+                  "speaker": "Mord Gunnars",
+                  "text": "Don't worry [Fremennik name], your exile does not cover the island of Jatizso. We still consider you a Fremennik."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pet rock",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Not you too!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Aw..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sailor",
+          "sections": [
+            {
+              "title": "Rellekka",
+              "sections": [
+                {
+                  "title": "Right-click Miscellania option",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Sailor",
+                          "text": "You're lucky you're needed on Miscellania exile. Just don't speak to me on the journey!"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Sailor",
+                      "text": "Don't talk to me exile."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Please, I must get to Miscellania."
+                    },
+                    {
+                      "speaker": "Sailor",
+                      "text": "You're lucky you're needed there. Just don't speak to me on the journey!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Let's go!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sorry."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Miscellania",
+              "sections": [
+                {
+                  "title": "Right-click Rellekka option",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Sailor",
+                          "text": "Let's go exile. Sooner you're off my ship the better."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello. Can I get a ride on your ship?"
+                    },
+                    {
+                      "speaker": "Sailor",
+                      "text": "Fine. I won't pretend to like it though."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Let's go!"
+                    },
+                    {
+                      "speaker": "Sailor",
+                      "text": "Okay. Suit yourself."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Thorodin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Thorodin",
+                  "text": "Exile. You don't have many friends around here at the moment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you feel about it?"
+                },
+                {
+                  "speaker": "Thorodin",
+                  "text": "Doesn't bother me. Some people take these things more seriously than others. On that note, do you need something?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Torfinn",
+          "sections": [
+            {
+              "title": "Before Dragon slayer II",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Torfinn",
+                      "text": "Sorry [Fremennik name], I can't be seen talking to you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After Dragon Slayer II",
+              "sections": [
+                {
+                  "title": "Rellekka",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Torfinn",
+                          "text": "I'm not meant to be talking to you [Fremennik name]. I guess I can still take you to Ungael though if you want."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Ungael",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Torfinn",
+                          "text": "Do you want to return to Rellekka?"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": []
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Any other Fremennik in Rellekka",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "NPC",
+                  "text": "Leave exile, before I alert the guards."
+                },
+                {
+                  "speaker": "NPC",
+                  "text": "Leave now, before I get rid of you myself."
+                },
+                {
+                  "speaker": "NPC",
+                  "text": "Begone exile, you're no [brother/sister/Fremennik] to me."
+                },
+                {
+                  "speaker": "NPC",
+                  "text": "Begone exile, before I call the Fremennik guards!"
+                },
+                {
+                  "speaker": "NPC",
+                  "text": "I'm sorry, you are Fremennik no more. I cannot help you. Leave, before I must call the guards."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Undoing the exilement",
+      "sections": [
+        {
+          "title": "Brundt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Well that was awkward..."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Indeed. I'm sorry [Fremennik name]. The reality is that many on the council did not take kindly to you becoming one of us. They've been looking for a good excuse to exile you ever since you arrived."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But they're the ones that voted for me in the first place!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Well... not quite. Seven of the twelve council members gave you their vote, but you never had the support of the other five. They're the ones who've been pushing for your exile."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. And they've used this basilisk problem to convince some of the others."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "It would seem so. Try not to judge them too harshly though, they only had what was best for the province in mind. This basilisk situation has a lot of people scared."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't understand though, they're only basilisks. Surely we have the strength to defeat them."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Ah, I see you are not familiar with the End of Things."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The End of Things?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Many years ago, before the time of V, it was foretold that this world will end in a great battle. They called this battle Ragnarok, or more commonly, the End of Things."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well that doesn't sound good. Where do the basilisks fit in?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "The prophecies say that the battle will begin after the Serpent King is freed. So you see, it is not the basilisks people fear, it is what comes after."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Then we'd better make sure the Jormungand stays in that prison!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Well, [Fremennik name], that's why I asked you to meet me out here. If you are to help us put a stop to this threat, you'll need to regain the trust of the council. And I think I know just how you can do that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "I think the best possible way to show your worth to them is by being the person that restores V's Shield."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "V's Shield?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "The shield used by V when he defeated the Serpent King. It is legendary amongst our people. If we are to have any chance of stopping this threat, we will need to remake it."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "There's a few things I know about the shield, though other things are lost from stories past."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "I believe some members of the Moon Clan might know the details I don't, so your diplomatic relations should come in handy."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Keep in mind, now that you've been exiled, most people in the province will be unlikely to talk to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough. So where should I start?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Stories tell of how V's Shield was made using four components."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "First, the base of the shield. This was a traditional Fremennik Shield, like the ones our warriors use."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Next, the Lunar Glass. This was apparently created by a great Moon Clan mystic and was used to reflect the Serpent King's gaze."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Then you have the Polishing Rock. This was needed to shine the Lunar Glass. This rock was heated softly in a boiling spring."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Finally, V's Sigil. This sigil was crafted by the Moon Clan, using a unique metal known only to them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find a Fremennik Shield?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Fremennik Shields are only given to warriors of the province."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I made a round shield with arctic pine in my previous adventure to Neitiznot?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "No, this shield is different. I'd recommend heading to Waterbirth Island. The daggermouths within the dungeon will likely have some from warriors they've sent to Valhalla."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "You could slay them and reclaim a shield from their corpses."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What if that doesn't work?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "There's a warrior down there known as Bardur, gathering many a daggermouth hide and saving Fremennik Shields."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "If you have no luck finding a shield, perhaps you could charm him to give one to you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks Brundt, I'll keep that in mind."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "No problem."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Do you have any more questions about V's Shield, [Fremennik name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's all thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I get Lunar Glass?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "I'm not sure I'm afraid. I imagine someone from the Moon Clan would likely have more knowledge on the matter."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I know just the chicken-legged-house-bound lady to ask!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry about it..."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Do you have any more questions about V's Shield, [Fremennik name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I make the Polishing Rock?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Well firstly, a rock would probably help..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I know a guy! Well, a boy. Hopefully he'll still be willing to speak to me despite the exile."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Convenient. As for the matter of heating the rock, there's some hot springs on the mountain to the east that should be warm enough."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Use something to lower the rock into one of the geysers there, and you should be good to go."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Do you have any more questions about V's Shield, [Fremennik name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I make V's Sigil?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "V's Sigil is, well... in the shape of a V."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh... is that it?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Well, one side of the sigil is shaped like a basilisk. Spines down its back, and maw wide like a gate."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And the other side?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Nothing fancy. Just the other side of the letter V."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What exactly is it made of?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "The stories tell of a cave on Lunar Isle where V first gained his power. Apparently it contains a unique metal used only by the Moon Clan."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "I'd say three bars of this metal should be enough. Take them to an anvil and you should be able to make the sigil."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Once you have made the sigil, you'll need to have it enchanted. This was apparently done by a powerful spirit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know of such a spirit?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "The stories didn't specify, though I would wager the Fossegrimen might be able to help."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Do you have any more questions about V's Shield, [Fremennik name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Brundt again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Greetings [Fremennik name]."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Making V's shield",
+      "sections": [
+        {
+          "title": "Fremennik shield",
+          "sections": [
+            {
+              "title": "Bardur",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Bardur",
+                      "text": "Ah! Exile! Begone with you, before you suffer the same fate as these fledglings!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Bardur, wait! I'm here with a task from the Chieftain."
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "I'm not too certain I should trust you! What is it you want?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm looking to remake V's Shield, but I require a Fremennik Shield from a warrior. Where could I find one?"
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "You already have one! Begone, exile!"
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "The daggermouths found in these caves should drop a few when slain. They take them from fallen warriors. I have a few myself, in fact. I wish to give them back to the families of the fallen."
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "These fledgelings won't drop anything you're looking for, though. Search the caves for some matured daggermouths."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks for your time, Bardur."
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "You're lucky I'm busy exile! Things might have been different if I wasn't..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Maybe I could buy one off you?"
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "Hmm... Well I suppose the money would be of great help to the families of the fallen. Very well, I will sell you a shield for 150,000 coins."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sounds good to me."
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "Perhaps I misjudged you, exile. Best of luck on your adventure."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "That's far too much, I won't pay that!"
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "Well I wouldn't expect an exile like you to care about the fallen. Be gone with you!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I could honour the fallen by remaking V's Shield."
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "Hmm... They would indeed be pleased. Having your shield used to make the shield of a hero would be an honour!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So what do you say?"
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "Very well..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks Bardur."
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "Perhaps I misjudged you, exile. Best of luck on your adventure."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bardur after receiving a Fremennik shield from him",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Bardur",
+                      "text": "Exile, has that shield served you well?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes, thank you."
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "All the best, exile."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I lost it."
+                    },
+                    {
+                      "speaker": "Bardur",
+                      "text": "Well you're not having another one if that's how you take care of things! If you want another, you'll need to slay some daggermouths!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Lunar glass",
+          "sections": [
+            {
+              "title": "Baba Yaga",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Ah! [player name], I'm glad to see you've returned. How can I help?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I was wondering if you could help me make..."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Lunar Glass?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You really need to stop doing that."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Stop doing what?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Stop finishing my..."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Sentences? Sorry it's a force of habit! Mind reading and watnot."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "..."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Oh don't look at me like that! I'm not the one who exiled you."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Look, those are my private thoughts! You can't just go reading my mind without permission."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Those aren't private thoughts! They're nothing compared to the other things I can see..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Please... can we just focus on the matter at hand?"
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Sure thing! Lunar Glass isn't so hard to make, but I will require a piece of Molten Glass. Return to me when you have some!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thank y..."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "You're welcome."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Sure thing! Lunar Glass isn't so hard to make, but I will require..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Some Molten Glass? I have some right here!"
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Hey! That's... really annoying."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh, how the tables have turned!"
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "How did you even know..."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Anyway, let me imbue this piece of glass for you."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "You will need to enchant it by using it on the Astral Altar. The process will also require 100 Astral Runes."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh. Can't you just do it for me?"
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Afraid not, I have lots of tidying to do around here."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Tidying?"
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Have you ever tried living in a house that's constantly shaking? It's a total nightmare, believe me."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I guess I never thought about that before, fair enough."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Best of luck, [player name]."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Baba Yaga again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Ah! [player name], I'm glad to see you've returned. How can I help?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I was wondering if you could help me make..."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Lunar Glass? I can do that. I will require a piece of Molten Glass. Return to me when you have some!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thank y..."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "You're welcome."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Lunar Glass?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes! I have th..."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "The Molten Glass? Excellent!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "That one wasn't even mind reading! I could have guessed what I was going to say there."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Anyway, let me imbue this piece of glass for you."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "You will need to enchant it by using it on the Astral Altar. The process will also require 100 Astral Runes."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh. Can't you just do it for me?"
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Afraid not, I have lots of tidying to do around here."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Tidying?"
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Have you ever tried living in a house that's constantly shaking? It's a total nightmare, believe me."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I guess I never thought about that before, fair enough."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Best of luck, [player name]."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Enchanting the molten glass (i)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Baba Yaga again after she imbues the molten glass",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Ah! [player name], I'm glad to see you've returned. How can I help?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I was wondering if you could help me make..."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Lunar Glass? But I can see you already have the Imbued Glass you need! You don't have to be a mind reader to see that..."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Remember, you'll need to enchant it by using it on the Astral Altar. This process will also require 100 Astral Runes."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Lunar Glass? You'll need some Imbued Glass first. Don't worry, I can make some more for you."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "You don't seem to have any Molten Glass. Come back when you do!"
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "There you go. Remember, you'll need to enchant it by using it on the Astral Altar. This process will also require 100 Astral Runes."
+                    },
+                    {
+                      "speaker": "Baba Yaga",
+                      "text": "Lunar Glass? But I can see you already have some! You don't have to be a mind reader to see that..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Enchanting the molten glass (i) with Lunar glass in the player's inventory or bank",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I already have some Lunar Glass. I should probably gather the rest of the items for V's Shield!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Polishing rock",
+          "sections": [
+            {
+              "title": "Small geyser",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "It might have helped if I'd actually remembered to bring my pet rock."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "This geyser looks a little small. I'd probably do a better job heating this rock in a larger geyser!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Large geyser",
+              "sections": [
+                {
+                  "title": "When tried again",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "I can't do this to you with all of these happy memories!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "You're right... I'll talk to Peer the Seer. He'll help me forget all of our times together."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "It'll make this easier."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "It might have helped if I'd actually remembered to bring my pet rock."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay, here we go!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Any second now, I'm going to lower this rock into the geyser and boil it..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "It's just a rock, how is it looking so sad? Come on, I can do this! For the Province!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "It's for the good of the Province... I must do it!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I can't do it! I love you pet rock."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You're right, pet rock... Why does it have to be this way?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I can't do this to you with all of these happy memories!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You're right... I'll talk to Peer the Seer. He'll help me forget all of our times together."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "It'll make this easier."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Peer the Seer",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Peer the Seer",
+                      "text": "Though I appreciate your efforts in our trials, I'm afraid I can't speak to you [Fremennik name]."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Please, Seer! I'm on a mission for Brundt."
+                    },
+                    {
+                      "speaker": "Peer the Seer",
+                      "text": "Hmm... If the Chieftain can still trust you, so can I. How may I be of assistance?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "It's a bit of a sensitive subject..."
+                    },
+                    {
+                      "speaker": "Peer the Seer",
+                      "text": "You can tell me anything, [Fremennik name]. What's the matter?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I can't bring myself to boil my pet rock!"
+                    },
+                    {
+                      "speaker": "Peer the Seer",
+                      "text": "..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I know, I'm a horrible person! Please help me, I can't bring myself to do it."
+                    },
+                    {
+                      "speaker": "Peer the Seer",
+                      "text": "Are you serious? I'm a busy man..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Please Seer, you're my only hope!"
+                    },
+                    {
+                      "speaker": "Peer the Seer",
+                      "text": "Very well. I'll clear your mind of any memories you have of your..."
+                    },
+                    {
+                      "speaker": "Peer the Seer",
+                      "text": "*cough*"
+                    },
+                    {
+                      "speaker": "Peer the Seer",
+                      "text": "pet rock..."
+                    },
+                    {
+                      "speaker": "Peer the Seer",
+                      "text": "I won't be able to speak with you after this. The others might start to get suspicious."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I understand."
+                    },
+                    {
+                      "speaker": "Peer the Seer",
+                      "text": "Concussio! Forgessan! Geodeus!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thank you, Seer! I'll head back to the mountains now."
+                    },
+                    {
+                      "speaker": "Peer the Seer",
+                      "text": "Now be gone with you, exile!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I know it's just an act... but that hurt."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Large geyser after the player has forgotten their memories with their pet rock",
+              "sections": [
+                {
+                  "title": "Without a fishing rod",
+                  "sections": [
+                    {
+                      "title": "Inspecting again",
+                      "sections": [],
+                      "dialogues": [
+                        {
+                          "lines": [
+                            {
+                              "speaker": "Player",
+                              "text": "I'm not going to be able to get my rock back with just my bare hands! I'll need to get something to fish it out."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Inspecting again with another pet rock",
+                      "sections": [],
+                      "dialogues": [
+                        {
+                          "lines": [
+                            {
+                              "speaker": "Player",
+                              "text": "I've already dropped one rock in there. I should try fishing it out rather than throwing more away."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "..."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Well I don't think that will be bobbing up to the top anytime soon! I'll need to fish it out with something."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "With a fishing rod",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Player",
+                          "text": "Ow!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Darn it! That rock was hot..."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "If only I had something that could keep my hands cold!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Darn it! It would probably help if I actually wore my ice gloves."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": []
+            },
+            {
+              "title": "Inspecting either geyser with a polishing rock in the player's inventory or bank",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I already have a Polishing Rock. I think I'm done here."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I already have a Polishing Rock in my bank. I think I'm done here."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "V sigil",
+          "sections": [
+            {
+              "title": "Anvil",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Fossegrimen",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Fossegrimen",
+                      "text": "What can I do for you?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I hear that I can present you with an offering and you will enchant my lyre for me."
+                    },
+                    {
+                      "speaker": "Fossegrimen",
+                      "text": "This is true. For a simple enchantment, you may place an offering on my Altar. Can I help you with anything else?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm currently trying to remake V's Shield. I was told I need his sigil enchanted by a powerful spirit."
+                    },
+                    {
+                      "speaker": "Fossegrimen",
+                      "text": "V? Now that's a name I haven't heard in a long time..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You know of V?"
+                    },
+                    {
+                      "speaker": "Fossegrimen",
+                      "text": "Oh yes. Were it not for V, this conversation might never had happened."
+                    },
+                    {
+                      "speaker": "Fossegrimen",
+                      "text": "I owe V a debt that can never be repaid. It would be an honour to enchant his sigil."
+                    },
+                    {
+                      "speaker": "Fossegrimen",
+                      "text": "Bring the unenchanted sigil to me and I'll provide you with what you need."
+                    },
+                    {
+                      "speaker": "Fossegrimen",
+                      "text": "*The Fossegrimen whispers an enchantment*"
+                    },
+                    {
+                      "speaker": "Fossegrimen",
+                      "text": "There you go! Go forth mighty warrior."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Making the shield",
+          "sections": [
+            {
+              "title": "Brundt, with all four components",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Greetings [Fremennik name]."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I think I have everything needed to make V's Shield."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Well what are you waiting for? Get it made and we'll have everything we need to put an end to your exile."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using the items on each other",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Inspecting the shield",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "This looks complete! I should head back to the Chieftain and see what he thinks."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Brundt, with V's shield in the bank",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Greetings [Fremennik name]."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've completed V's Shield!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Excellent!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "..."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Hand it over then, [Fremennik name]."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh, sorry. I simply left it in my bank. I'm such a ditzy person sometimes!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "That's certainly one way to put it... Perhaps you should go and get it?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Will do, see you shortly!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Brundt, with V's shield, without two kegs of beer",
+              "sections": [
+                {
+                  "title": "Bringing the kegs afterwards",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Brundt the Chieftain",
+                          "text": "Have you got the two kegs of beer?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "I have them right here!"
+                        },
+                        {
+                          "speaker": "Brundt the Chieftain",
+                          "text": "Great!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Hey!"
+                        },
+                        {
+                          "speaker": "Brundt the Chieftain",
+                          "text": "I'm litchrally abousht to go shtand uhp to the enshtire *hiccup* counshil for yooo...! I need thish!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "That's a very good point. Carry on then."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "I should probably head back to the longhall..."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Greetings [Fremennik name]."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've completed V's Shield!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "[Fremennik name]... This is incredible! It's as if you forged the shield from a picture. It's exactly how I imagined it from the stories!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you think this will be enough to convince the council?"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "I hope so [Fremennik name]. I do suspect some of them may never respect you though."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Beggars can't be choosers, I suppose. Let's get going then..."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Wait!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What is it?"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "The shield. It requires one last thing."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What's missing?"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Return to me with two beers. No... Two kegs of beer! Quickly! There's not much time!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Brundt, with V's shield and two kegs of beer",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Return to me with two beers. No... Two kegs of beer! Quickly! There's not much time!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I actually have some here."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "You're a bigger alcoholic than I am! Hand them over."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Basilisks in the market",
+      "sections": [
+        {
+          "title": "Brundt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Good to see you [Fremennik name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And you Brundt. You sobered up quickly."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "We Fremennik know how to handle a drink, [Fremennik name]. Anyway, I have some good news for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is it?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Following your successful recreation of V's Shield, the council have agreed to end your exile. I hearby declare you a Fremennik again!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Not only that, but we would like you to be the one to carry V's legendary shield into battle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm very honoured."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "So you should be [Fremennik name]. V was our greatest hero. There is no greater honour than to bear his shield in battle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what's our plan?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "The basilisks intend to attack the town so they can keep us distracted while they free the Jormungand. Luckily for us, we know about this."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Once the attack begins, the majority of our forces will stay here to hold the town. While they do, you and I will journey to the Island of Stone."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "There, we will ensure that the prison of the Jormungand remains sealed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds good, when do..."
+                },
+                {
+                  "speaker": "Fremennik Warrior",
+                  "text": "Basilisks in the market! Basilisks in the market!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "They've walked right through our defences!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "They've walked right through our defences!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Kill them all!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Kill them all!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "During the fight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "NPC",
+                  "text": "This is Rellekka!"
+                },
+                {
+                  "speaker": "NPC",
+                  "text": "Kill the invaders!"
+                },
+                {
+                  "speaker": "NPC",
+                  "text": "You die here beast!"
+                },
+                {
+                  "speaker": "NPC",
+                  "text": "Die you foul beasts!"
+                },
+                {
+                  "speaker": "NPC",
+                  "text": "Death to the basilisks!"
+                },
+                {
+                  "speaker": "NPC",
+                  "text": "Kill them! Kill them all!"
+                },
+                {
+                  "speaker": "NPC",
+                  "text": "You will not take our home!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player leaves the market during the Market fight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Brundt again",
+          "sections": [
+            {
+              "title": "After killing enough basilisks",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "[Fremennik name]! Get to the boat. It's time for us to go!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fremennik Warrior",
+                  "text": "Basilisks in the market! Basilisks in the market!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Island of Stone",
+      "sections": [
+        {
+          "title": "Brundt",
+          "sections": [
+            {
+              "title": "Brundt again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "What now?"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Have you opened the door yet?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not yet."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Hurry [Fremennik name]. We need to get inside before it's too late."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Unlocking the door",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "That's the door unlocked."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Good work [Fremennik name]. Let's get inside and see what's going on."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What now?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "This isn't good [Fremennik name]. The prison has already been breached."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So we're too late?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Not quite, but we'll have to act fast. If the Jormungand manages to leave the prison, the End of Things will be upon us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well we'd better get in there and make sure that doesn't happen."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "It looks like the basilisks resealed the door behind them. We'll have to get through it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "From what I can tell, the door uses a combination lock. You'll need to get the right combination to unlock it. Too many wrong attempts will reset the lock though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd better be careful then. I'll get to work."
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Hurry [Fremennik name]. We can't afford to waste any time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Brundt again after unlocking the door",
+          "sections": [
+            {
+              "title": "Going into Jormungand's prison",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Typhor",
+                      "text": "Humans!"
+                    },
+                    {
+                      "speaker": "Bakuna",
+                      "text": "Destroy them! Our king must be freed!"
+                    },
+                    {
+                      "speaker": "Vritra",
+                      "text": "It will be done."
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "With me [Fremennik name]! Let's kill these foul beasts!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What now?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Let's get inside and see what's going on."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Jormungand",
+          "sections": [
+            {
+              "title": "In combat with The Jormungand",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Turn away [Fremennik name]!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Don't look into his eyes!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Don't look at him [Fremennik name]!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "[Fremennik name]! Do not face him!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "The stone is weak! You can break it!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "Try to break free [Fremennik name]!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "[Fremennik name]! You need to break loose!"
+                    },
+                    {
+                      "speaker": "Brundt the Chieftain",
+                      "text": "You can free yourself [Fremennik name]!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "The Jormungand",
+                  "text": "At long last, I have been granted freedom. You have done well Bakuna."
+                },
+                {
+                  "speaker": "Bakuna",
+                  "text": "I exist to serve."
+                },
+                {
+                  "speaker": "The Jormungand",
+                  "text": "Good, for I have one final use of you. My long rest has weakened me, you will grant me strength."
+                },
+                {
+                  "speaker": "The Jormungand",
+                  "text": "Power!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "This isn't over yet [Fremennik name], the Jormungand is weak from his imprisonment! We can still stop him!"
+                },
+                {
+                  "speaker": "The Jormungand",
+                  "text": "Humans, you have been bestowed with a great honour, for you are about to become the first of your kind in millennia to feed my power!"
+                },
+                {
+                  "speaker": "The Jormungand",
+                  "text": "Rejoice with me, for your miserable lives are finally at an end!"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "You will not defeat us this day! Come [Fremennik name]!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Brundt again after leaving the prison and coming back to the Island of Stone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What now?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Hurry [Fremennik name]! We need to get inside and stop those basilisks!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the prison before claiming items from Brundt the Chieftain",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Wait [Fremennik name]! I have some things for you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Brundt while he has items in his Item Retrieval Service",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any of my items?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "I do have some of your items here [Fremennik name]. Do try to be careful with them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Brundt's right-click Collect option while he does not have items in his Item Retrieval Service",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "I'm afraid I don't have anything for you [Fremennik name]. If I did have any of your items, but you died before collecting them, they'll now be lost."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After killing The Jormungand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Ah, nothing like a glorious fight to make you feel alive!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what now?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "Now? We drink of course! The Jormungand has been defeated and the End of Things prevented!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you sure? They did manage to free him. How do you know we weren't too late?"
+                },
+                {
+                  "speaker": "Brundt the Chieftain",
+                  "text": "You worry too much [Fremennik name]. If the end had begun, we'd have noticed by now. Come! Let us go and celebrate!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Longhall celebration",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Olaf the Bard",
+              "text": "T'was on a haughty winter,"
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "We're bitten with frost,"
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "And none would dare venture,"
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "Where many were lost."
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "V sailed his mighty longship,"
+            },
+            {
+              "speaker": "Manni the Reveller",
+              "text": "Another great victory for our people!"
+            },
+            {
+              "speaker": "Brundt the Chieftain",
+              "text": "But it wouldn't have been possible without [Fremennik name]!"
+            },
+            {
+              "speaker": "Agnar",
+              "text": "You have truly proven yourself to be one of us, [Fremennik name]! I'm sorry we ever doubted you."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm just glad it all worked out in the end."
+            },
+            {
+              "speaker": "Manni the Reveller",
+              "text": "And on that note, time for a drink! I want to see if [Fremennik name] can still drink me under the table!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Uh oh..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The off-screen segment of the bard's ballad",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Olaf the Bard",
+              "text": "To the Island of Stone,"
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "Where the king of the serpents,"
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "Had made it his home."
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "The storm it was a ragin',"
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "Waves broke on the deck,"
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "The bell rang with a tolling,"
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "To warn of the wreck."
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "But naught could deter him,"
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "From the fate of his quest,"
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "Winds tore through the main sail,"
+            },
+            {
+              "speaker": "Olaf the Bard",
+              "text": "Yet onward he pressed."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

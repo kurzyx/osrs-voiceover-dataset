@@ -1,0 +1,135 @@
+{
+  "ref": "pox",
+  "categoryRef": "npc",
+  "title": "Pox",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting Ratcatchers",
+          "sections": [
+            {
+              "title": "Without a Catspeak amulet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi cat!"
+                    },
+                    {
+                      "speaker": "Pox",
+                      "text": "Miaooow!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "With a Catspeak amulet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi cat!"
+                    },
+                    {
+                      "speaker": "Pox",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What are you doing?"
+                    },
+                    {
+                      "speaker": "Pox",
+                      "text": "I think I'll go hunting soon, there's a warehouse with some rats in it nearby."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Happy hunting."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "During Ratcatchers while Pox is poisoned",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi cat!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After finishing Ratcatchers",
+          "sections": [
+            {
+              "title": "Without a Catspeak amulet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi cat!"
+                    },
+                    {
+                      "speaker": "Pox",
+                      "text": "Miaooow!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "With a Catspeak amulet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi cat!"
+                    },
+                    {
+                      "speaker": "Pox",
+                      "text": "Hello [player name]."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How are you feeling now?"
+                    },
+                    {
+                      "speaker": "Pox",
+                      "text": "Still a bit below purrrr. Thank you for fetching the medicine for me."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No problem, I hope you get better soon."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

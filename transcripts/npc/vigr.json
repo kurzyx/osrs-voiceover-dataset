@@ -1,0 +1,134 @@
+{
+  "ref": "vigr",
+  "categoryRef": "npc",
+  "title": "Vigr",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "When using the smelt option on the nearby furnace",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vigr",
+                  "text": "That furnace is the property of the Red Axe! Hands off!"
+                },
+                {
+                  "speaker": "Vigr",
+                  "text": "That furnace is my property! Hands off!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Didn't all this belong to the Red Axe? And weren't you a member?"
+                },
+                {
+                  "speaker": "Vigr",
+                  "text": "I don't know what you're talking about."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using an item on the nearby furnace",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vigr",
+                  "text": "Who do you think are, coming in here and using the property of the Red Axe!"
+                },
+                {
+                  "speaker": "Vigr",
+                  "text": "Who do you think are, coming in here and using my property?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Didn't all this belong to the Red Axe? And weren't you a member?"
+                },
+                {
+                  "speaker": "Vigr",
+                  "text": "I don't know what you're talking about."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using an item on the nearby fireplace",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vigr",
+                  "text": "Hands off! That fireplace belongs to the Red Axe, not some puny arrogant human!"
+                },
+                {
+                  "speaker": "Vigr",
+                  "text": "Hands off! That fireplace belongs to me! Not some puny arrogant human!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Didn't all this belong to the Red Axe? And weren't you a member?"
+                },
+                {
+                  "speaker": "Vigr",
+                  "text": "I don't know what you're talking about."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using an item on the nearby sink",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vigr",
+                  "text": "Who gave you permission to use that?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Vigr",
+              "text": "What do you want, human?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ehm, anything on offer?"
+            },
+            {
+              "speaker": "Vigr",
+              "text": "Can you wield a warhammer? If not, then go away."
+            },
+            {
+              "speaker": "Player",
+              "text": "Of course I can."
+            },
+            {
+              "speaker": "Player",
+              "text": "I can, but I won't."
+            },
+            {
+              "speaker": "Vigr",
+              "text": "Yeah, right."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

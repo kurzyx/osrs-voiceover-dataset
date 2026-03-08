@@ -1,0 +1,144 @@
+{
+  "ref": "brother-tranquility",
+  "categoryRef": "npc",
+  "title": "Brother Tranquility",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before The Great Brain Robbery without quest requirements",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brother Tranquility",
+                  "text": "Excuse me..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes? Can I help you?"
+                },
+                {
+                  "speaker": "Brother Tranquility",
+                  "text": "Sorry to have bothered you; I'm looking for a more experienced adventurer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing The Great Brain Robbery",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How's your head feeling?"
+                },
+                {
+                  "speaker": "Brother Tranquility",
+                  "text": "A lot better, thanks. Can I help you with anything?"
+                },
+                {
+                  "speaker": "Brother Tranquility",
+                  "text": "This washed up on the beach earlier. I thought you could get it fixed by Smithing Smith in Mos Le'Harmless. It could be valuable."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not really. I was just popping by to see how you were all getting on and possibly help cull some of the zombies."
+                },
+                {
+                  "speaker": "Brother Tranquility",
+                  "text": "Your concern is most gratifying. Saradomin be with you."
+                },
+                {
+                  "speaker": "Brother Tranquility",
+                  "text": "Would you like me to take you to Harmony?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not at the moment, thanks."
+                },
+                {
+                  "speaker": "Brother Tranquility",
+                  "text": "Do you want me to take you back to Mos Le'Harmless?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not at the moment, thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "Speaking to him again with the challenge scroll in the inventory",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brother Tranquility",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Brother Tranquility",
+                      "text": "How can that be? Go check again!"
+                    },
+                    {
+                      "speaker": "Brother Tranquility",
+                      "text": "Spot on!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brother Tranquility",
+                  "text": "Ah! Here you go!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Brother Tranquility",
+                  "text": "I need you to answer this for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

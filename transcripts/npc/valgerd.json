@@ -1,0 +1,107 @@
+{
+  "ref": "valgerd",
+  "categoryRef": "npc",
+  "title": "Valgerd",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Valgerd",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Valgerd",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacking the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Valgerd",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Valgerd",
+                  "text": "Rahr!"
+                },
+                {
+                  "speaker": "Valgerd",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Valgerd",
+                  "text": "Grr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Valgerd",
+                  "text": "Aargh!"
+                },
+                {
+                  "speaker": "Valgerd",
+                  "text": "I'm a gonner!"
+                },
+                {
+                  "speaker": "Valgerd",
+                  "text": "It's no use, I'm done for!"
+                },
+                {
+                  "speaker": "Valgerd",
+                  "text": "Uggh!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

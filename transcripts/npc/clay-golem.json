@@ -1,0 +1,53 @@
+{
+  "ref": "clay-golem",
+  "categoryRef": "npc",
+  "title": "Clay golem",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After completion of The Golem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clay golem",
+                  "text": "Thank you for helping me. A golem can have no greater satisfaction than knowing that its task is complete."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But the whole city is destroyed! Doesn't that bother you?"
+                },
+                {
+                  "speaker": "Clay golem",
+                  "text": "I was never programmed to appreciate the city. My only purpose was the destruction of the demon, and that is achieved!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completion of Shadow of the Storm",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clay golem",
+                  "text": "I regret that I could not assist you in the slaying of Agrith-Naar."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, golem! You've done enough demon-slaying in your time."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

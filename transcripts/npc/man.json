@@ -1,0 +1,526 @@
+{
+  "ref": "man",
+  "categoryRef": "npc",
+  "title": "Man",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Contacting through NPC Contacts Random option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Excuse me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh sorry, what did I do?"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Can't you see I'm on the toilet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait a minute... a toilet?"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Yeah. A toilet."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Riiiight. Oh, man, you didn't wipe your hands?"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Get over it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Fancily Clad Man in the house south-east of the Falador Park",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "What are you doing in my house?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was just exploring."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "You're exploring my house?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You don't mind, do you?"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "But... why are you exploring in my house?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I don't know, I just wandered in, saw you and thought it'd be fun to speak to you."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "... you are very strange..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Perhaps I should go now."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Yes, please go away now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The man with the pink cap in the house north-east of the Falador fountain",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "[Good day, sir/Good day, madam/Good day]. What brings you to this end of town?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, what is there to do around here?"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "If you're into Mining, plenty! The dwarves have one of the largest mines in the world just under our feet. There's an entrance in the building just north-east of my house."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "If you'd rather enjoy yourself, there's the party room just north of here! Or you might like to climb up onto the city wall - you can get a good view of Falador from there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The suited man on the top floor of the Blue Moon Inn or the Jolly Boar Inn",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "... whassup?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you alright?"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "... see... two of you... why there two of you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There's only one of me, friend."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "... no, two of you... you can't count... ... maybe you drunk too much..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Whatever you say, friend."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "... giant hairy cabbages..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Man with backpack by Musa Point",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Man",
+                  "text": "Molten lava! MOLTEN LAVA!"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Snakes! Snakes! Ohhhh, there are snakes!"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Why don't I have a 'Teleport Home to Lumbridge' button like everyone else?"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Too many monkeys - I can't stand it!"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "I should have stayed in Port Sarim."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "So... many... trees..."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "I can't take the heat!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "Not too bad, but I'm a little worried about the increase of goblins these days."
+            },
+            {
+              "speaker": "Player",
+              "text": "Don't worry, I'll kill them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "How can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you want to trade?"
+            },
+            {
+              "speaker": "Man",
+              "text": "No, I have nothing I wish to get rid of. If you want to do some trading, there are plenty of shops and market stalls around though."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm in search of a quest."
+            },
+            {
+              "speaker": "Man",
+              "text": "I'm sorry I can't help you there."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm in search of enemies to kill."
+            },
+            {
+              "speaker": "Man",
+              "text": "I've heard there are many fearsome creatures that dwell under the ground..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "Get out of my way, I'm in a hurry!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "I'm fine, how are you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Very well thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "Hello there! Nice weather we've been having."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "I'm very well thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm a bold adventurer."
+            },
+            {
+              "speaker": "Man",
+              "text": "Ah, a very noble profession."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "Do I know you? I'm in a hurry!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "I think we need a new king. The one we've got isn't very good."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "Not too bad thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "Are you asking for a fight?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "I'm busy right now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "None of your business."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you wish to trade?"
+            },
+            {
+              "speaker": "Man",
+              "text": "No, I have nothing I wish to get rid of. If you want to do some trading, there are plenty of shops and market stalls around though."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm in search of a quest."
+            },
+            {
+              "speaker": "Man",
+              "text": "I'm sorry I can't help you there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm in search of enemies to kill."
+            },
+            {
+              "speaker": "Man",
+              "text": "I've heard there are many fearsome creatures that dwell under the ground..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "No I don't have any spare change."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "I'm a little worried - I've heard there's lots of people going about, killing citizens at random."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "No, I don't want to buy anything!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "That is classified information."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "Have this flyer..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, how's it going?"
+            },
+            {
+              "speaker": "Man",
+              "text": "Yo, wassup!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue for the Falador men",
+      "sections": [
+        {
+          "title": "When the Party Room chest contains more than 50,000 or 76,000 coins in Grand Exchange value (on a F2P or members' world respectively)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Man",
+                  "text": "Party! Party!"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Something's happening in the party room!"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Everyone get to the party room!"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "What's happening in the party room?"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Someone's having a big party!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the lever is pulled",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Man",
+                  "text": "Get to the party room NOW!"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Get to the party room!"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Get to the party room quick!"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Big value items in the party room now!"
+                },
+                {
+                  "speaker": "Man",
+                  "text": "Quick! Get to the party room!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

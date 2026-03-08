@@ -1,0 +1,155 @@
+{
+  "ref": "elite-void-knight",
+  "categoryRef": "npc",
+  "title": "Elite Void Knight",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elite Void Knight",
+              "text": "I'm afraid I cannot offer to upgrade any Void Knight armour for you. You do not satisfy the order's requirements."
+            },
+            {
+              "speaker": "Elite Void Knight",
+              "text": "Do you wish me to upgrade any Void Knight armour for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What does that do?"
+            },
+            {
+              "speaker": "Elite Void Knight",
+              "text": "The top and robes can be upgraded, separately, to give each piece a +3 prayer bonus. It costs 200 Commendation points to upgrade each item."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Elite Void Knight",
+              "text": "Very well. Hand me the top or robe you wish me to upgrade. It costs 200 Commendation points to upgrade each item."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Elite Void Knight",
+              "text": "Do you wish me to upgrade any Void Knight armour for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What does that do?"
+            },
+            {
+              "speaker": "Elite Void Knight",
+              "text": "The top and robes can be upgraded, separately, to give each piece a +3 prayer bonus. It costs 200 Commendation points to upgrade each item."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Elite Void Knight",
+              "text": "Very well. Hand me the top or robe you wish me to upgrade. It costs 200 Commendation points to upgrade each item."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have any more paint?"
+            },
+            {
+              "speaker": "Elite Void Knight",
+              "text": "Certainly. How much do you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on the Elite Void Knight",
+      "sections": [
+        {
+          "title": "Using the void knight top",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using the void knight robe",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using ornamented void items, elite void top, or elite void bottom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elite Void Knight",
+                  "text": "I'm afraid that cannot be upgraded."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using void orb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, I have something you might be interested in..."
+                },
+                {
+                  "speaker": "Elite Void Knight",
+                  "text": "What a peculiar orb. It doesn't seem useful, but it does seem rather interesting still..."
+                },
+                {
+                  "speaker": "Elite Void Knight",
+                  "text": "I can offer you something in return. Somebody donated us a large quantity of green paint, but it doesn't exactly work with our existing palette."
+                },
+                {
+                  "speaker": "Elite Void Knight",
+                  "text": "If you would like more of that paint, just ask. We have... too much of it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using any other item",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elite Void Knight",
+                  "text": "No thank you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

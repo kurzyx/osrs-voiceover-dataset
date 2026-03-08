@@ -1,0 +1,59 @@
+{
+  "ref": "local-gnome",
+  "categoryRef": "npc",
+  "title": "Local Gnome",
+  "sections": [
+    {
+      "title": "Before Tree Gnome Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Local Gnome",
+              "text": "Lardi dee, lardi da."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you alright?"
+            },
+            {
+              "speaker": "Local Gnome",
+              "text": "Hee hee, lardi da, lardi dee. (The gnome appears to be singing.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Local Gnome",
+              "text": "You're the best!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks."
+            },
+            {
+              "speaker": "Local Gnome",
+              "text": "Well I'm better. Hee hee."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "ref": "skullball-trainer",
+  "categoryRef": "npc",
+  "title": "Skullball Trainer",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Adventurer",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Skullball Trainer",
+              "text": "This is the Skullball Course."
+            },
+            {
+              "speaker": "Skullball Trainer",
+              "text": "Go and talk to the boss at the beginning of the course if you'd like a go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When shooting the skullball through one of the intermediary goals",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "You have truly gifted paws!"
+                },
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "I've never seen anything like it!"
+                },
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "You need a few more skullball lessons."
+                },
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "Keep it up!"
+                },
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "Don't give up the day job!"
+                },
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "Look at [her/him] go!"
+                },
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "Pathetic!"
+                },
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "What - a - goal !!!"
+                },
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "That was just plain lucky."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When scoring the last goal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "[He/She] shoots - [He/She] scores!!!!!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When shooting the skullball through one of the intermediary goals without a ring of Charos equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "Humans play skullball worse than puppies!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When scoring the last goal without a ring of Charos equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Skullball Trainer",
+                  "text": "The human's scored!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

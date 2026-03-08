@@ -1,0 +1,71 @@
+{
+  "ref": "king-lathas",
+  "categoryRef": "npc",
+  "title": "King Lathas",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "King Lathas",
+              "text": "Leave me citizen. I'm far too busy to talk."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Regicide",
+      "sections": [
+        {
+          "title": "While not wearing full Mourner gear",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day my lord."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Hello [player name]. I've got nothing for you right now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "While wearing full Mourner gear",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "What are you doing here? All Mourners should know that if they need to contact me, they need to use the proper channels!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I'm a new recruit."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Well do not let it happen again."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "ref": "brother-kojo",
+  "categoryRef": "npc",
+  "title": "Brother Kojo",
+  "sections": [
+    {
+      "title": "Before Clock Tower",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello monk."
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "Hello adventurer. My name is Brother Kojo. Do you happen to know the time?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, sorry, I don't."
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "Exactly! This clock tower has recently broken down, and without it nobody can tell the correct time. I must fix it before the town people become too angry!"
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "I don't suppose you could assist me in the repairs? I'll pay you for your help."
+            },
+            {
+              "speaker": "Player",
+              "text": "OK old monk, what can I do?"
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "Oh, thank you kind [sir/madam]! In the cellar below, you'll find four cogs. They're too heavy for me, but you should be able to carry them one at a time."
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "I know one goes on each floor... but I can't exactly remember which goes where specifically. Oh well, I'm sure you can figure it out fairly easily."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, I'll do my best."
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "Thank you again! And remember to be careful, the cellar is full of strange beasts!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not now old monk."
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "OK then. Come back and let me know if you change your mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Clock Tower",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello again Brother Kojo."
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "Oh hello there traveller. You've done a grand job with the clock. It's just like new."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "With a chart and sextant in the inventory",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "Hello, traveller, how can I help?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm trying to learn how to be a navigator."
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "I don't know if I can help you there."
+            },
+            {
+              "speaker": "Player",
+              "text": "The professor from the Observatory says that I need a watch."
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "Ah, that I can help you with. I've been tinkering with this new idea of a watch and made a few. The problem is the villagers don't see the point as they have the Clock Tower!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I have one?"
+            },
+            {
+              "speaker": "Brother Kojo",
+              "text": "You can have this one! It's the display model."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "Speaking to him again with the challenge scroll in the inventory",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brother Kojo",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Brother Kojo",
+                      "text": "How can that be? Go check again!"
+                    },
+                    {
+                      "speaker": "Brother Kojo",
+                      "text": "You really clocked that one!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brother Kojo",
+                  "text": "Ah! Here you go!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Brother Kojo",
+                  "text": "I need you to answer this for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

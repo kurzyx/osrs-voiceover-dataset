@@ -1,0 +1,199 @@
+{
+  "ref": "captain-khaled",
+  "categoryRef": "npc",
+  "title": "Captain Khaled",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before stealing/delivering an artefact",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Khaled",
+                  "text": "What are you playing at? I've given you a job, get it done."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What am I supposed to be doing?"
+                },
+                {
+                  "speaker": "Captain Khaled",
+                  "text": "You need to recover an artefact for me. It can be found in the [location]."
+                },
+                {
+                  "speaker": "Captain Khaled",
+                  "text": "Watch yourself, if the guards catch you carrying hot goods they'll throw you in the brig."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll get to it right away, boss."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Getting caught or losing the artefact",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've lost the artefact..."
+                },
+                {
+                  "speaker": "Captain Khaled",
+                  "text": "Congratulations, you're a failure. Come back to me when you think you've got what it takes to get the job done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Delivering the artefact",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Khaled",
+                  "text": "This is exactly what our friends overseas were looking for. Here's your cut. Let me know when you're ready for more work."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Captain Khaled",
+              "text": "Eh, what do you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's your story?"
+            },
+            {
+              "speaker": "Captain Khaled",
+              "text": "Sea piracy just ain't what it used to be, so my crew and I have had to make do on land. We specialise in 'acquiring' valuable antiquities from around the city and shipping them to our friends overseas."
+            },
+            {
+              "speaker": "Player",
+              "text": "And people just let you get away with this?"
+            },
+            {
+              "speaker": "Captain Khaled",
+              "text": "Of course they do, for the right price. That's just how things work around here, kid."
+            },
+            {
+              "speaker": "Player",
+              "text": "Looking for any help?"
+            },
+            {
+              "speaker": "Captain Khaled",
+              "text": "Yeah, you look like you might be able to help me out. If you think you've got what it takes, I might have a job for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have what it takes."
+            },
+            {
+              "speaker": "Captain Khaled",
+              "text": "We'll see about that."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not sure I have the time right now."
+            },
+            {
+              "speaker": "Captain Khaled",
+              "text": "Perhaps some other time."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll be on my way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "Talking again while holdiing the challenge scroll",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Captain Khaled",
+                      "text": "Please give me your answer!"
+                    },
+                    {
+                      "speaker": "Captain Khaled",
+                      "text": "How can that be? Go check again!"
+                    },
+                    {
+                      "speaker": "Captain Khaled",
+                      "text": "Spot on!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Khaled",
+                  "text": "Ah! Here you go!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Captain Khaled",
+                  "text": "I need you to answer this for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical",
+      "sections": [
+        {
+          "title": "Without 75% reputation",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Khaled",
+                  "text": "I've got nothing to say to you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

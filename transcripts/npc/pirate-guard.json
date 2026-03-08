@@ -1,0 +1,38 @@
+{
+  "ref": "pirate-guard",
+  "categoryRef": "npc",
+  "title": "Pirate Guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "When opening Grip's cupboard",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Pirate Guard",
+              "text": "I don't think Mr Grip will like you opening that. That's his private drinks cabinet."
+            },
+            {
+              "speaker": "Player",
+              "text": "He won't notice me having a quick look."
+            },
+            {
+              "speaker": "Grip",
+              "text": "Stay out of my drinks cabinet!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, I'll leave it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

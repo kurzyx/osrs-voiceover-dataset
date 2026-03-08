@@ -1,0 +1,71 @@
+{
+  "ref": "burntof",
+  "categoryRef": "npc",
+  "title": "Burntof",
+  "sections": [
+    {
+      "title": "Before starting Below Ice Mountain",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Burntof",
+              "text": "Buy ush a drink."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think you have had enough."
+            },
+            {
+              "speaker": "Burntof",
+              "text": "Pleash, buy ush a drink."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing Below Ice Mountain",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "How you holding up Burntof? Must have had quite the fright when you woke that monster."
+            },
+            {
+              "speaker": "Burntof",
+              "text": "You're right [lad/lass]. It did give me a little fright."
+            },
+            {
+              "speaker": "Burntof",
+              "text": "But I saw some interesting things down in the ruins..."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you mean?"
+            },
+            {
+              "speaker": "Burntof",
+              "text": "Some of the markings on the wall look very familiar to me. I've seen them before."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, when I defeated the monster, an Imcando dwarf opened the barred door..."
+            },
+            {
+              "speaker": "Burntof",
+              "text": "An Imcando dwarf! I thought they were all but extinct! You've found something truly amazing [player name]!"
+            },
+            {
+              "speaker": "Burntof",
+              "text": "I wish I had a drink to celebrate, but this desert is bone dry."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "ref": "supervisor-lalo",
+  "categoryRef": "npc",
+  "title": "Supervisor Lalo",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "The first time the player talks to Supervisor Lalo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "I've not seen your face before. Given they let you come down here, I'm assuming you've been allowed to join the Alchemical Society?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's right!"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Well in that case, just through there is the lab we use to produce potions for the kingdom. However, before you head in and get started, there's a couple of things to note."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "First, I can see you're not from around here, so I'll point out that Varlamorian Alchemy is a little different from the Druidic Herblore that you'll be familiar with."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How so?"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "We discovered that the majority of herbs in the world can be broken down into three alchemical reagents: Mox, Aga and Lye."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "When mixed in the correct way, these three components produce drastically different results. As such, in the lab you will be using these components to create various potions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What potions do I need to make?"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "That depends. We get orders in from across the kingdom. You'll need to keep an eye out for what potions are currently desired and ensure you're making the right ones."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's do that run through."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Very well... Listen closely."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Start by breaking down herbs or unfinished potions over at the Refiner. This will give you your reagents: Mox, Aga, and Lye paste. The type you get will depend on the quality of what you put in."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Insert the paste into the Hopper and it will become available to use in the Mixer."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "From here, you'll need to pull the Mixer Levers to create the right combination of reagents."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But how do I know what the combinations are?"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "I see you've already found our book of lab notes. That'll give you the formulas for our various products."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Have a look on the bookshelf for a book of lab notes. That'll give you the formulas for our various products."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "To know what needs making, you'll need to check the order list. There will always be three orders to choose from. You can work on just one or them, or multiple. It's up to you."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Just be aware that demand shifts fast here. Every time you fulfil one or more orders, a new set will come through."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Now, once you have set your desired combination of reagents, collect the unfinished mixture from the Mixing Vessel. This will then need to be processed on one of the three tables to finish it off."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "The Alembic will Crystalise the mixture."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "The Agitator will Homogenise the mixture."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "And finally, the Retort will Concentrate the mixture."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "After processing, place the finished mixture on the Conveyor Belt and move on to the next order."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What if I get an order wrong, or am unable to fulfil any of the orders?"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "We always have need for spares, so fulfilling an incorrect order will still grant you a small reward and will refresh the orders."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "One final thing to mention... We have some Digweed growing in the lab."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "These rare herbs will occasionally come into maturity for a short period of time. Harvest them while you can!"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Mixing some into your product will increase its potency and grant you bonus rewards."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Bonus rewards?"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "That's right. As you produce potions, you'll find yourself collecting three types of Resin. The types obtained depend on what reagents are used, with the quantities being determined by the complexity of the"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "potion."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Potions using Digweed will reward additional Resin, as will handing in multiple potions in one go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Got it! So, refine herbs, deposit into the hopper, mix some products, process them, and then throw them on the conveyor. Seems easy enough!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sure I can work it out."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Suit yourself. I'll be here if you change your mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Supervisor Lalo after the first interaction",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you explain how to make potions?"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Very well... Listen closely."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I have some rewards?"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "As you wish."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about the Alchemical Society?"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Can't imagine there's much to tell beyond what you already know. We exist to bring about advancements in Herblore, but in truth, a lot of what we produce doesn't directly contribute to that."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Instead, many of the potions we make here are simply to sell. Doing so is what provides the funding we need to further our true goals."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Makes sense. So how did the society first get established?"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "For a long time, it was just a couple of us operating out of a makeshift lab we'd built in my garden. Our big break came when the Moonrise Brewery and Winery learnt about us."
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "They provided us with some initial funding to properly get things going, but more importantly, they provided this lab space. This was actually one of their old wine cellars before we moved in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why were they so interested in your work?"
+                },
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "They never properly said why, just that they were very keen to see us grow. Maybe they're hoping our work can help them create new beers and wines."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. I suppose that makes sense."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing, I'll be going now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with any of the machines before talking to Supervisor Lalo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "Hey! I haven't given you permission to do that!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "Receiving a tutorial from Supervisor Lalo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Supervisor Lalo",
+                  "text": "To know what needs making, you'll need to check the order list. There will always be three orders to choose from. Demand shifts fast here so every time you fulfil an order, a new set will come through."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

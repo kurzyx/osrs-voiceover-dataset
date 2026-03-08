@@ -1,0 +1,89 @@
+{
+  "ref": "santa-historical-",
+  "categoryRef": "npc",
+  "title": "Santa (historical)",
+  "sections": [
+    {
+      "title": "Initial dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Santa",
+              "text": "Ho Ho Ho Merry Xmas, [player name]! Have you been a good [boy/girl] this year?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes I have, Santa!"
+            },
+            {
+              "speaker": "Santa",
+              "text": "Ho Ho Ho Then take this present, and have a merry Xmas!"
+            },
+            {
+              "speaker": "Santa",
+              "text": "Ho Ho Ho If you lose your yo-yo, don't forget you can get a replacement from Diango in Draynor!"
+            },
+            {
+              "speaker": "Santa",
+              "text": "Merry Xmas!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I lost my Yo-yo Santa..."
+            },
+            {
+              "speaker": "Santa",
+              "text": "Ho Ho Ho You've already had your Xmas present this year!"
+            },
+            {
+              "speaker": "Santa",
+              "text": "Ho Ho Ho Then you may have another! Don't forget you can get your Yo-yo returned from Diango in Draynor!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Santa",
+              "text": "Merry Xmas!"
+            },
+            {
+              "speaker": "Santa",
+              "text": "Come talk to Santa!"
+            },
+            {
+              "speaker": "Santa",
+              "text": "I love Xmas"
+            },
+            {
+              "speaker": "Santa",
+              "text": "Ho Ho Ho"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

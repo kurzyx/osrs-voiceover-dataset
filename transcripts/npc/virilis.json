@@ -1,0 +1,148 @@
+{
+  "ref": "virilis",
+  "categoryRef": "npc",
+  "title": "Virilis",
+  "sections": [
+    {
+      "title": "Standard Dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Virilis",
+              "text": "Nilsal. Do you wish me to exchange banknotes for you? I charge only 10 coins for each banknote."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Virilis",
+              "text": "Then hand me the banknotes you wish me to exchange."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Virilis",
+              "text": "I am Virilis. I can exchange banknotes of bones for real items. Do you want any banknotes converted?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What can I do here?"
+            },
+            {
+              "speaker": "Virilis",
+              "text": "I'm glad you've asked! Next to me is an old altar of Ralos, upon which you can ask for bones and wines to be blessed."
+            },
+            {
+              "speaker": "Virilis",
+              "text": "You should beware though, Ralos won't hear your prayers if you aren't experienced enough. I wouldn't want you to get caught in the cold just waiting for nothing to happen."
+            },
+            {
+              "speaker": "Virilis",
+              "text": "Anyway, once you've had Ralos' blessing, you can break the bones down into shards. Then, along with your blessed wine, you can take them to the libation bowl and sacrifice them in Ralos' honour!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Libation bowl?"
+            },
+            {
+              "speaker": "Virilis",
+              "text": "Yes! You'll find it inside the Teomat, near the library."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. And what happens if I drink the blessed wine?"
+            },
+            {
+              "speaker": "Virilis",
+              "text": "The last person to try that ended up in the libation bowl. I do not recommend it."
+            },
+            {
+              "speaker": "Virilis",
+              "text": "Anyway, do you want any banknotes converted?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using an Item on Virilis",
+      "sections": [
+        {
+          "title": "Using an unnoted item",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Virilis",
+                  "text": "I'm afraid I can only exchange bank notes for real items."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a noted item other than bones",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Virilis",
+                  "text": "I only exchange bones that you can bless at Ralos' altar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a noted bones with less than 10 coins in inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Virilis",
+                  "text": "I require 10 coins for exchanging each banknote."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to unnote bones with a full inventory:",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Virilis",
+                  "text": "Your inventory is too full."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon successfully unnoting bones",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "ref": "karam",
+  "categoryRef": "npc",
+  "title": "Karam",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After Monkey Madness I",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing now?"
+                },
+                {
+                  "speaker": "Karam",
+                  "text": "My squad and I are to remain on this island in secret. The monkeys think we are trying to break our friends out of the jail, but we are just biding our time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Monkey Madness II",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What are you still doing here?"
+                },
+                {
+                  "speaker": "Karam",
+                  "text": "I'm hunting for maniacal monkeys that escaped Glough's airship laboratory!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Any luck?"
+                },
+                {
+                  "speaker": "Karam",
+                  "text": "Not yet, I'm still perfecting my strategy... I'll let you know as soon as I find a way."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

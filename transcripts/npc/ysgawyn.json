@@ -1,0 +1,39 @@
+{
+  "ref": "ysgawyn",
+  "categoryRef": "npc",
+  "title": "Ysgawyn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Treasure Trails",
+          "sections": [],
+          "dialogues": []
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey."
+            },
+            {
+              "speaker": "Ysgawyn",
+              "text": "Can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not really I just wanted to chat."
+            },
+            {
+              "speaker": "Ysgawyn",
+              "text": "Sorry, I do not have time for idle gossip. Good day."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "ref": "aurel",
+  "categoryRef": "npc",
+  "title": "Aurel",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Aurel",
+              "text": "Hey it's the hero! Thank you so much for saving us from Gadderanks. And the town is looking lovely as well. You've done a great job!"
+            },
+            {
+              "speaker": "Player",
+              "text": "You're more than welcome."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do here?"
+            },
+            {
+              "speaker": "Aurel",
+              "text": "I'm Aurel the village store owner."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you open the shop for me please?"
+            },
+            {
+              "speaker": "Player",
+              "text": "How do you like your town?"
+            },
+            {
+              "speaker": "Aurel",
+              "text": "It's just perfect, thanks so much for your efforts."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's happening around here?"
+            },
+            {
+              "speaker": "Aurel",
+              "text": "Oh, not much really, we're all still hiding from the vampyres and eking out a living from this terrible place, hopefully soon we'll be strong enough to make the journey to the temple on the Salve."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is there anything I can do to help out?"
+            },
+            {
+              "speaker": "Aurel",
+              "text": "Not as far as I know, we have some basic amenities now which is so very useful, we're all incredibly grateful to you. I've never really seen or known a hero before, so I have nothing to compare one to, but I suspect in"
+            },
+            {
+              "speaker": "Aurel",
+              "text": "most people's judgement, you would be one! I for one am very pleased to have met you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player has lost the Gadderhammer",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Aurel",
+              "text": "Hey it's the hero! Thank you so much for saving us from Gadderanks. And the town is looking lovely as well. You've done a great job!"
+            },
+            {
+              "speaker": "Player",
+              "text": "You're more than welcome."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've lost Gadderanks' Warhammer."
+            },
+            {
+              "speaker": "Aurel",
+              "text": "Hmm, how careless of you! However, you're in luck! Someone found it earlier and sold it to me."
+            },
+            {
+              "speaker": "Aurel",
+              "text": "Now I can pass the hammer back to you for the remarkably cheap price of 3000 gold coins. Deal?"
+            },
+            {
+              "speaker": "Player",
+              "text": "But I don't have 3000 coins on me?"
+            },
+            {
+              "speaker": "Aurel",
+              "text": "So that means you can't have it then! Come back when you have 3000 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oayk, I'll pay 3000 coins for the hammer."
+            },
+            {
+              "speaker": "Aurel",
+              "text": "A good deal and I'm sure of it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks, I'll leave it, 3000 coins is too much to pay."
+            },
+            {
+              "speaker": "Aurel",
+              "text": "Very good then! I'll have no guilty conscience in offering it to other adventurers that frequent my shop then. Many thanks for your time and good day to ya sir."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why does the hammer cost so much?"
+            },
+            {
+              "speaker": "Aurel",
+              "text": "So much! That's cheap! The adventurer I bought it from wanted twice as much but I managed to knock him down to a reasonable price."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

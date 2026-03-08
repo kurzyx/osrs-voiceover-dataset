@@ -1,0 +1,192 @@
+{
+  "ref": "commander-connad",
+  "categoryRef": "npc",
+  "title": "Commander Connad",
+  "sections": [
+    {
+      "title": "Before speaking to Captain Cain",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello?"
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "Sorry soldier, you don't have permission to speak with me yet. Go and talk to the Captain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Gambling/Lucky dip dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Commander Connad",
+                  "text": "Gamble, you say! Let me take something from my big bag of prizes!"
+                },
+                {
+                  "speaker": "Commander Connad",
+                  "text": "Lucky dip, you say! Let me take something from my big bag of prizes!"
+                },
+                {
+                  "speaker": "Commander Connad",
+                  "text": "Let's see..."
+                },
+                {
+                  "speaker": "Commander Connad",
+                  "text": "Got something!"
+                },
+                {
+                  "speaker": "Commander Connad",
+                  "text": "You've won..."
+                },
+                {
+                  "speaker": "Commander Connad",
+                  "text": "Okay, here we go..."
+                },
+                {
+                  "speaker": "Commander Connad",
+                  "text": "I've got my hand on something!"
+                },
+                {
+                  "speaker": "Commander Connad",
+                  "text": "Hmmm, not bad, it's..."
+                },
+                {
+                  "speaker": "Commander Connad",
+                  "text": "What can I find?"
+                },
+                {
+                  "speaker": "Commander Connad",
+                  "text": "Ah, found something!"
+                },
+                {
+                  "speaker": "Commander Connad",
+                  "text": "You've got..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Selling back items",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Commander Connad",
+                  "text": "Don't you want it anymore? I'll buy it back off you for [X] points in each of the four roles."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I believe you might be able to reward me for my progress in this arena?"
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "Well, that depends upon your skill levels for each role."
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "What's your name, soldier?"
+            },
+            {
+              "speaker": "Player",
+              "text": "[player name], Sir!"
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "Okay. What exactly do you want to know, [player name]?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I trade some of my points?"
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "Of course."
+            },
+            {
+              "speaker": "Player",
+              "text": "What points do I have so far, sir?"
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "Let me check..."
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "You have absolutely no points, whatsoever. Best you get back into that arena!"
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "You have: [amount] Attacker Honour Points, [amount] Defender Honour Points, [amount] Collector Honour Points and [amount] Healer Honour Points."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have a Queen Help book?"
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "You already have one!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh yes, sorry."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, no. Wait, I don't have enough space to carry one."
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "Well, you can come back and get one at any time from me."
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "By all means."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have my current wave reset to one?"
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "You do realise that you're already on wave one?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah. Yes. Sorry about that."
+            },
+            {
+              "speaker": "Player",
+              "text": "That is all, sir."
+            },
+            {
+              "speaker": "Commander Connad",
+              "text": "Very well, on your way."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

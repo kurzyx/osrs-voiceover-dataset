@@ -1,0 +1,130 @@
+{
+  "ref": "guild-scribe-verity",
+  "categoryRef": "npc",
+  "title": "Guild Scribe Verity",
+  "sections": [
+    {
+      "title": "First time talking",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "Oh, hello there newcomer. I'm Guild Scribe Verity. Do you need me to explain the work we do here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "So it's nice and simple. Just chat to any of the hunters in here to help them out. They're all following reports that I've split up amongst them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Reports?"
+            },
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "Indeed. There are all sorts of interesting creatures to hunt out there. Sometimes we get reports of a particularly unique example. When that happens, one of the hunters will set out to find it."
+            },
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "If you do decide to take a job from any of the hunters, they'll tell you what type of creature they're looking into. Hunt that creature until you encounter the unique specimen."
+            },
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "Once you've caught it, bring some proof back to the hunter that sent you out in the first place. I'm sure they'll reward you for your time."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. Thanks for the information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "Nilsal, hunter. Anything to report?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing abnormal today."
+            },
+            {
+              "speaker": "Player",
+              "text": "What does a scribe do?"
+            },
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "I'm the primary record-keeper here. I organise all of our reports and write up anything important to be sent back to the city."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you go out on any hunts with the others?"
+            },
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "I wouldn't know what to do with myself out there, so I like to stay back here with my scrolls."
+            },
+            {
+              "speaker": "Player",
+              "text": "How many rumours have I completed?"
+            },
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "Our records suggest you've managed to complete [number of completed rumours] rumours for us!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I have this spare hunter gear, is there anything I can do with it?"
+            },
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "Spare, you say? Hmmm.... I'm sure one of the other hunters could benefit from it if you're sure. If you hand it over to me, I can give you some spare supplies in return."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have to go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rumour-settings option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "Would you like me to filter the rumour information a little more than I am right now?"
+            },
+            {
+              "speaker": "Guild Scribe Verity",
+              "text": "Would you like me to filter the rumour information a little less than I am right now?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Handing in spare hunter gear or blueprints",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

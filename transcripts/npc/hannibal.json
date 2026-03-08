@@ -1,0 +1,404 @@
+{
+  "ref": "hannibal",
+  "categoryRef": "npc",
+  "title": "Hannibal",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without a catspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me, Hannibal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello, Hannibal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there, Hannibal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hi there, Hannibal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With a catspeak amulet",
+          "sections": [
+            {
+              "title": "Response 1",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Hi [player name]. You woke me up, I was fast asleep!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm sorry, I didn't realise you were sleeping. I just wanted to say hello."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Hello then. Can I help you with anything?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No, that's it. You can go back to sleep, sorry to have disturbed you."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "It's no problem."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Response 2",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Hello [player name]. Did you need something?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Nothing important. I'd like to ask you a question if that is okay?"
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Ask away."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why did you pick the kitchen as your spot to sleep? It must get quite noisy sometimes?"
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "It does during meal times, but it's also lovely and warm near the fire, and look at all the food!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Good point. Now it seems like the best spot in the house!"
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "You catch on quickly, for a human! Now I am going to go back to sleep, unless there is something else I can help you with?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "That was all I wanted to ask, thank you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Response 3",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Oh, hello [player name]. Did I hear a bark?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "A bark? Is there a dog here?"
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "There is, sometimes..."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "It always wakes me up with its barking."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "It seems to come and go. I can't figure out why or how."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "That is indeed strange. I'll keep an eye out for it."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "There it is again, did you hear it?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I can't say I did."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Maybe I'm imagining it."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Response 4",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Hi [player name]."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How are you doing?"
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "I'm okay, thank you. I've been enjoying the piano playing. Was it you playing earlier?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh, that wasn't me."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Must have been Gem then. She often plays the piano when she thinks nobody is listening."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "She's actually quite good."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll have to keep an ear out."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Response 5",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Hi there, [player name]."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have another question for you, if that is okay?"
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Go ahead."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you ever leave the hall? I've only ever seen you in here."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "I do sometimes. If I do go out, it's normally at night."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "I much prefer it in here though. Nice and warm with good food. There is even a bank, if I ever needed a bank for anything."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "That's fair enough. The world can be a pretty scary place out there anyway."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Exactly. It's much nicer to relax here, even with the occasional adventurer disturbing me."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "That'll be me! Sorry, I'll let you get back to sleep."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me, Hannibal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello, Hannibal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there, Hannibal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hi there, Hannibal."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Petting Hannibal",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Feeding Hannibal",
+      "sections": [
+        {
+          "title": "Selecting the \"Feed\" option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I should give him some fish from my inventory!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using raw fish on Hannibal",
+          "sections": [
+            {
+              "title": "Without a catspeak amulet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Purr!"
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Purpurr"
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Puuurrrrr!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "With a catspeak amulet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Thank you [player name]. That's very tasty, though it would be even more tasty if it was cooked."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You prefer cooked food?"
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "I do. Why do you think I'm in the kitchen? All this lovely food being cooked all the time!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "That is a good point. I will see if I can find you something cooked."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "I look forward to it. You know where to find me."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Using cooked fish on Hannibal",
+          "sections": [
+            {
+              "title": "Without a catspeak amulet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "With a catspeak amulet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Thank you [player name]. That was lovely! Do you have any more?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You just ate the entire thing, and you're still hungry?"
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Sleeping is hungry work."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I do often wake up hungry, maybe you're on to something."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll see if I can find you something else."
+                    },
+                    {
+                      "speaker": "Hannibal",
+                      "text": "Lovely, I'll be right here, working hard."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

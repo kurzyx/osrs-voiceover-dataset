@@ -1,0 +1,273 @@
+{
+  "ref": "oziach",
+  "categoryRef": "npc",
+  "title": "Oziach",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting Dragon Slayer I",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oziach",
+                  "text": "Aye, 'tis a fair day my friend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not your friend."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "I'm surprised if you're anyone's friend with those kind of manners."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, it's a very nice day."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Aye, may the gods walk by yer side. Now leave me alone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to trade",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oziach",
+                  "text": "I ain't got nothing to sell ye, adventurer. Leave me be!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After completing Dragon Slayer I",
+      "sections": [
+        {
+          "title": "If the player has an anti-dragon shield equipped or in their inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oziach",
+                  "text": "Aye, 'tis a fair day, my mighty dragon-slaying friend."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "I see ye've got one of them anti-dragon shields there. I've got an idea about them things."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's your idea about anti-dragon shields?"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "See, when ye uses them to fight a dragon, they absorb the fire. The shield must be storing the dragonfire, and just letting it radiate away."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Now, if there was only a way to get the dragonfire out again..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What use would that be?"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Why, ain't it obvious? Ye could project blasts of dragonfire from yer shield!"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Ye know, I think there might be a way."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What way?"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "I've heard legends of a thing called a 'draconic visage'. It was made by the dragonkin themselves apparently."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "This 'draconic visage' had the power to channel dragonfire. Now, if I could attach the visage to the front of this shield..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will look for this draconic visage!"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Good luck wi' that. They're mighty rare, so yer quest will take some time. If any monsters have them, it'll be the dragons."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has a draconic visage in their inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oziach",
+                  "text": "Aye, 'tis a fair day, my mighty dragon-slaying friend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Look at this visage."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Amazin'! Ye can almost feel it pulsing with draconic power!"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Now, if ye bring me this and the anti-dragonbreath shield, I reckon I could combine them into something pretty special!"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Now, if ye want me to, I could attach this to yer anti-dragonbreath shield and make something pretty special."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "I'll charge 1,250,000 coins to construct it. What d'ye say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please!"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "There ye go. Now, the more dragonfire the shield absorbs, the more powerful it'll become."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Suit yerself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's a bit expensive!"
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Yes it is. But I'm a master smith so I reckon I can charge what I like. Unless ye've got level 90 Smithing too, which I doubt!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I don't have level 90 Smithing."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "I thought not. I'm the master smith of Misthalin! So, shall I construct the shield for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I have got level 90 Smithing."
+                },
+                {
+                  "speaker": "Oziach",
+                  "text": "Oh! Well, I suppose ye don't need me for this then."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Oziach",
+              "text": "Aye, 'tis a fair day, my mighty dragon-slaying friend."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I buy a rune platebody now please?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I have another key to Melzar's Maze?"
+            },
+            {
+              "speaker": "Oziach",
+              "text": "It's the Guildmaster in the Champions' Guild who hands those keys out now. Go talk to him. No need to bother me if you don't need armour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "While holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Oziach",
+                      "text": "That isn't right, keep trying."
+                    },
+                    {
+                      "speaker": "Oziach",
+                      "text": "Well done, traveller."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oziach",
+                  "text": "The solving of this puzzle could be the key to your treasure."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Ancient wyvern shield",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Oziach",
+              "text": "This shield turned up, recently... I believe it belongs to you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "ref": "banker",
+  "categoryRef": "npc",
+  "title": "Banker",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Banker",
+              "text": "Good day, how may I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to buy more bank slots."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Why? You don't use the bank."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh yeah... Never mind then."
+            },
+            {
+              "speaker": "Banker",
+              "text": "I can sell you up to [number] additional bank slots in sets of 50. How many are you interested in buying?"
+            },
+            {
+              "speaker": "Player",
+              "text": "[number] slots please."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Buying [number] additional bank slots will cost [number] coins. Be warned, this purchase is not reversible. Are you happy to proceed?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh... I don't seem to have enough money for that. Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'm happy with that."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Your additional bank slots have been added."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I've changed my mind."
+            },
+            {
+              "speaker": "Banker",
+              "text": "I'm afraid not! You've already got as much bank space as you can obtain without purchase."
+            },
+            {
+              "speaker": "Banker",
+              "text": "I can sell you up to [number] additional bank slots in sets of 50. How many are you interested in buying?"
+            },
+            {
+              "speaker": "Banker",
+              "text": "I'm not supposed to tell you this, but you can obtain more bank space by [setting up a PIN], [setting up an Authenticator] [or] [upgrading to a Jagex Account]."
+            },
+            {
+              "speaker": "Banker",
+              "text": "I can sell you up to [number] additional bank slots in sets of 50. How many are you interested in buying?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I've changed my mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Banker",
+              "text": "This is a branch of the Bank of Gielinor. We have branches in many towns."
+            },
+            {
+              "speaker": "Player",
+              "text": "And what do you do?"
+            },
+            {
+              "speaker": "Banker",
+              "text": "We will look after your items and money for you. Leave your valuables with us if you want to keep them safe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue for Falador bankers",
+      "sections": [
+        {
+          "title": "When the Party Room chest contains more than 50,000 or 76,000 coins in Grand Exchange value (on a F2P or members' world respectively)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Banker",
+                  "text": "Party! Party!"
+                },
+                {
+                  "speaker": "Banker",
+                  "text": "Something's happening in the party room!"
+                },
+                {
+                  "speaker": "Banker",
+                  "text": "Everyone get to the party room!"
+                },
+                {
+                  "speaker": "Banker",
+                  "text": "What's happening in the party room?"
+                },
+                {
+                  "speaker": "Banker",
+                  "text": "Someone's having a big party!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the lever is pulled",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Banker",
+                  "text": "Get to the party room NOW!"
+                },
+                {
+                  "speaker": "Banker",
+                  "text": "Get to the party room!"
+                },
+                {
+                  "speaker": "Banker",
+                  "text": "Get to the party room quick!"
+                },
+                {
+                  "speaker": "Banker",
+                  "text": "Big value items in the party room now!"
+                },
+                {
+                  "speaker": "Banker",
+                  "text": "Quick! Get to the party room!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

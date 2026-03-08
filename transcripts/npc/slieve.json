@@ -1,0 +1,71 @@
+{
+  "ref": "slieve",
+  "categoryRef": "npc",
+  "title": "Slieve",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Slieve",
+              "text": "Hello. Are you here for my black dragons?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I have a Slayer assignment to kill those, yes."
+            },
+            {
+              "speaker": "Slieve",
+              "text": "Fair enough. Do what you have to do."
+            },
+            {
+              "speaker": "Player",
+              "text": "They're not my Slayer target."
+            },
+            {
+              "speaker": "Slieve",
+              "text": "Oh, good. In that case you're welcome to go and admire them, but don't get any ideas about killing them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are you here asking about that?"
+            },
+            {
+              "speaker": "Slieve",
+              "text": "Because I like my black dragons, and I had to work hard to get access to their lair, and I don't want people using them for training without a reason."
+            },
+            {
+              "speaker": "Slieve",
+              "text": "So if one of the Slayer Masters sent you to slay black dragons, that's fine, but otherwise you should go and train elsewhere."
+            },
+            {
+              "speaker": "Slieve",
+              "text": "I'd rather people didn't train on my dragons at all, but I've got a distant cousin who's a Slayer Master, so I've got to support the family business."
+            },
+            {
+              "speaker": "Player",
+              "text": "Excuse me, I've got to go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When attempting to kill monsters that aren't part of a player's slayer task",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Slieve",
+              "text": "Hey, go and train somewhere else! I'm not having people mess with my dragons unless a Slayer Master's told them to do it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

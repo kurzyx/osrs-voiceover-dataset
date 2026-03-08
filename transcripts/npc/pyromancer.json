@@ -1,0 +1,109 @@
+{
+  "ref": "pyromancer",
+  "categoryRef": "npc",
+  "title": "Pyromancer",
+  "sections": [
+    {
+      "title": "Using any item except a rejuvenation potion on them",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Pyromancer",
+              "text": "That's no use!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "During an active Wintertodt minigame",
+      "sections": [
+        {
+          "title": "When the brazier is not lit",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "When the brazier is lit",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "When the brazier is broken",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using a rejuvenation potion on them when they are full health",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Pyromancer",
+                  "text": "No need! I'm fine thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When their Hitpoints reaches 0",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "While incapacitated",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Upon defeating Wintertodt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using a rejuvenation potion without an active Wintertodt",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Pyromancer",
+              "text": "Looks like it's quiet for now. I don't need help, but thank you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

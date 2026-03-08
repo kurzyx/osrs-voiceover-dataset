@@ -1,0 +1,263 @@
+{
+  "ref": "monkey-minder",
+  "categoryRef": "npc",
+  "title": "Monkey minder",
+  "sections": [
+    {
+      "title": "During Monkey Madness I",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Don't you think this is all a bit cruel?"
+            },
+            {
+              "speaker": "Monkey minder",
+              "text": "What do you mean?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Keeping so many monkeys locked up in that crowded pen. I bet they dream of being back in the jungle..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Don't you ever dream?"
+            },
+            {
+              "speaker": "Monkey minder",
+              "text": "I ... er ... used to dream to be a Monkey Minder when I was young boy..."
+            },
+            {
+              "speaker": "Player",
+              "text": "And look at you now ... all grown up having achieved your dreams! Would you deny me my dreams? Would you deny a monkey its dreams?"
+            },
+            {
+              "speaker": "Monkey minder",
+              "text": "Er, look, stop wasting my time."
+            },
+            {
+              "speaker": "Player",
+              "text": "I -"
+            },
+            {
+              "speaker": "Monkey minder",
+              "text": "Leave me alone now. Some of us have work to do."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've just thought of a way to solve your little monkey problem..."
+            },
+            {
+              "speaker": "Monkey minder",
+              "text": "Oh, what's that then?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, you have too many monkeys, don't you?"
+            },
+            {
+              "speaker": "Monkey minder",
+              "text": "Yes..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, you could give away your monkeys to people who would look after them. You could even start with me!"
+            },
+            {
+              "speaker": "Monkey minder",
+              "text": "I'm sorry, I don't think I'm allowed to do that. I've just been ordered to not let any monkeys escape."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has not talked to a monkey minder before",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "Hello, sir."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I haven't seen Monkey Minders here before..."
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "Yes, you wouldn't have. We have newly been posted here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But why do we need Monkey Minders?"
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "It's entirely necessary: just take a look at the monkeys. They've been multiplying out of control!"
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "Every time we turn our backs another one of them tries to break free. It's almost as if they're plotting to escape!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has talked with a monkey minder before",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Why have the monkeys been multiplying?"
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "We just don't know. Perhaps it's the weather. Perhaps it's something in the food. Perhaps it's just that time of year."
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "Your guess is as good as ours."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you going to do about the monkeys?"
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "We're going to post enough men here to be able to contain the monkeys in case they manage to escape."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is that very likely?"
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "Stranger things have happened in Ardougne."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a monkey minder with a Karamjan monkey greegree equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Monkey minder",
+                  "text": "Why do you monkeys keep trying to escape? Good thing I've caught you before you got away, you little scoundrel."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ook!"
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "Let's put you back in your cage where you belong..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok!"
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "What??"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err ... Ook?"
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "I must be imagining things ... monkeys can't talk."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a monkey minder with any other greegree equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ook Ook!"
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "I don't know what kind of monkey you think you are, but you're not getting anywhere near my monkeys!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a monkey minder while inside the monkey cage with any greegree equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Monkey minder",
+                  "text": "Stop hassling me!"
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "Be quiet, you monkey!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a monkey minder while inside the monkey cage without any greegree equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Monkey minder",
+                  "text": "My word - what are you doing in there?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I ... er ... I don't know! One minute I was asleep, and the next minute I was here surrounded by monkeys!"
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "Well, don't worry. We'll have you out of there shortly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you."
+                },
+                {
+                  "speaker": "Monkey minder",
+                  "text": "No problem."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

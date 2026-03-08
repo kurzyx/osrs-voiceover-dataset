@@ -1,0 +1,45 @@
+{
+  "ref": "avinia",
+  "categoryRef": "npc",
+  "title": "Avinia",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey there."
+            },
+            {
+              "speaker": "Avinia",
+              "text": "Need something, iknami?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not really. Just wondering what brings you out here?"
+            },
+            {
+              "speaker": "Avinia",
+              "text": "I'm here to trade with the dwarves here on behalf of Fortis. Stonecutter Outpost is the main supplier of the stone we use for building."
+            },
+            {
+              "speaker": "Player",
+              "text": "And is the trading going well?"
+            },
+            {
+              "speaker": "Avinia",
+              "text": "Well it's significantly better than dealing with the dwarves in Cam Torum, but they're still not the easiest to work with."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, well in that case, I'd better leave you to it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

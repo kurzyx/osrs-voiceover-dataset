@@ -1,0 +1,3176 @@
+{
+  "ref": "the-giant-dwarf",
+  "categoryRef": "quest",
+  "title": "The Giant Dwarf",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "Talking to Dwarven Boatman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "Ho there, human!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "[player name]."
+                },
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "Ho there, [player name]! Want to take a ride with me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where are you going? Across the river?"
+                },
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "No no, that's what the ferryman is for! I'm going to Keldagrim, my home!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How much will that cost me then?"
+                },
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "For a human like you, I can do it for free!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's a deal!"
+                },
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "Excellent! I'm just waiting for my ship to arrive and then we can go."
+                },
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "Mind, this trip could take a few minutes! Are you sure you're ready to go as well?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I'm ready and don't mind it taking a few minutes."
+                },
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "Well, let's not waste any more time then!"
+                },
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "Look, there's the statue of King Alvis, guarding the entrance to Keldagrim!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Amazing! And we're going to go straight past it?"
+                },
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "That's right!"
+                },
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "Er, hold on! There's something wrong!"
+                },
+                {
+                  "speaker": "Both",
+                  "text": "Aaargh!"
+                },
+                {
+                  "speaker": "Black Guard Berserker",
+                  "text": "Halt! By order of the Black Guard, you are under arrest!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?? I didn't do anything! It wasn't me!"
+                },
+                {
+                  "speaker": "Black Guard Berserker",
+                  "text": "Come with us, human! Commander Veldaban wants a word with you!"
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Identify yourself, human!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I err, I'm [player name]. I was told I was under arrest. I had a little accident on the way in here."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Ah, so you're the one who knocked over the statue of our glorious king!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose so... I mean, I didn't do it on purpose or anything..."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Ah, don't worry about it!"
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "We haven't been ruled by a king for many a year... that statue was long overdue for replacement anyway. You're not under arrest, I merely wanted to talk to you."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "But let me introduce myself. I am Veldaban, son of Dondakan. I am the Commander of the Black Guard in Keldagrim."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Dondakan, you say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I helped your father in the mines south of the city."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Ah, so you are the one! I heard you banished a demon by defeating its avatar, most impressive."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Dondakan, you say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm helping your father in the mines south of the city."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Ah, he is forever trying to break open that rock of his, until his death I sometimes think."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you don't think it's possible?"
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Perhaps, human, perhaps... but if even our multicannon does not dent it, what chance is there really?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, ehm... nice to meet you, Veldaban."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Now listen carefully. I have a task for you."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "I want you to go and see the local sculptor and help him build a new statue."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Will you do this for us?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I can't be bothered."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "You destroy our statue and you cannot be bothered to help rebuild it? By Guthix, you are rude... even for a human!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I will do this."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "You are a good human, [player name]."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Now, I need you to go to Blasidar, he is a sculptor who lives in Keldagrim-East."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "To be honest I'm not much of a sculptor myself."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Oh, don't worry! I just need you to help him out while he rebuilds the statue."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "I'm sure there are many tasks that he needs doing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll see what I can do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I don't have time right now, I'll be back later."
+                },
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "Sure, sure! Come back when you need to!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I prefer the mines to the city."
+                },
+                {
+                  "speaker": "Dwarven Boatman",
+                  "text": "Well, suit yourself then!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Veldaban again after agreeing to help",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "How are you getting on with rebuilding our statue, [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I haven't really done much yet..."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Get back to it as soon as you can, please!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Riki before agreeing to help",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there, can you help me?"
+                },
+                {
+                  "speaker": "Riki the sculptor's model",
+                  "text": "Talk... to Blasidar."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? No, I was wondering if you could help me."
+                },
+                {
+                  "speaker": "Riki the sculptor's model",
+                  "text": "Talk... to Blasidar."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, alright."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Blasidar the sculptor",
+          "sections": [
+            {
+              "title": "Talking to Blasidar after declining to help",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "What was it you needed doing again?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me, are you Blasidar, the famous sculptor?"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Why, yes, yes, that I am!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, well, I'm [player name]. Veldaban of the Black Guard sent me to you, you see. Said you might need some help with the statue."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Oh, I don't need an assistant sculptor, really, I can do just fine on my own."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not a sculptor."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "And I've also got a model here, you see, to base my statue on."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not a model!"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "But come to think of it, I do need some errands run. Yes, quite important errands too."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Yes, you will do just fine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ehm, right, okay."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what did you need doing?"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Well, see... the Consortium has commisioned me to rebuild the statue exactly the way it was."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "But the statue itself has broken into a million pieces... and we dwarves aren't very good painters, you know, so we don't have any paintings of it either."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not a very artistic race, then, are you?"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "No, that's not what I said, I said we're not very good painters."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "We're excellent with, for example, stone. Oh yes, quite good if I say so myself."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "But I digress... simply speaking, I need some help with getting some items that I can base the new statue on."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Will you be able to help me with this, [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I can't be bothered."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "How rude is that? I don't think the Black Guard will be very pleased with you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I will do this."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Excellent, excellent! Now what I need is the following..."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "I will need a pair of boots, the most exquisite boots you can find. The more they look like the original the better, but I don't think you'll be able to find an exact match."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "For the torso, I need clothes that look like King Alvis' clothes. I'm not sure where you would be able to find that, but I'm sure you'll manage."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Also, I need a battleaxe. Now this is particularly important. You are in luck, however, as I believe King Alvis' original axe still survives."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, so I need a pair of boots, a piece of clothing and a battleaxe. Is that all?"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "For now, [player name], for now! I wish you good luck, and hurry back with the items!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But... wait, wait, how am I supposed to find all this?"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "I don't know! You're supposed to find that out for me!"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "But it's a beautiful city, Keldagrim is, I'm sure you'll see many things while you do these tasks!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Clothes fit for a king",
+      "sections": [
+        {
+          "title": "Talking to Vermundi",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vermundi",
+                  "text": "Welcome to my clothes stall, can I help you with anything?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I'm looking for some special clothes."
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Oh, that sounds interesting, what's this about?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm helping the sculptor to rebuild the statue of King Alvis. But he wants to know what his clothes looked like."
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Oh dear, that statue is in a terrible mess, isn't it?"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "I could hear the tumult from over here!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But the clothes, do you have any similar clothes?"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Oh no, no, I can't quite recall what the clothes looked like. But I know someone who can!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who's that?"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Well, I'm sure Hugi the librarian in West can help you along."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "West?"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Keldagrim-West, dear... on the other side of the Kelda, towards the north end of the city."
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "I'm sure he can show you the exact designs of the clothes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I need the actual clothes themselves, not just the designs."
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Oh, just bring the designs to me then, I'll fix you up some nice clothes!"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Sounds like a fun little thing to do!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, thanks a lot, I'll check out the library!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hugi",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Librarian",
+                  "text": "Welcome to the Keldagrim library, human traveller!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know anything about King Alvis's clothes?"
+                },
+                {
+                  "speaker": "Librarian",
+                  "text": "His clothes? How do you mean?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm helping Blasidar the sculptor to rebuild the statue of King Alvis, but he needs to know the design of his clothes."
+                },
+                {
+                  "speaker": "Librarian",
+                  "text": "I see, I see."
+                },
+                {
+                  "speaker": "Librarian",
+                  "text": "There is a book, somewhere in the library, that may help you. It is the 'Scholars Guide to Dwarven Costumes' and it contains the designs of the costumes of a lot of old Kings and dwarven dignitaries."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds like just the thing. Where exactly could I find it?"
+                },
+                {
+                  "speaker": "Librarian",
+                  "text": "Let me think... I believe it is on the top shelf of one of the bookcases in the library, because it is such an old book."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you be any more specific? Upstairs, downstairs?"
+                },
+                {
+                  "speaker": "Librarian",
+                  "text": "I don't remember, sorry. You will have to try several bookcases. You will probably need the ladders, tall a human though you are."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, thanks, I'll have a look."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Retrieving the book",
+          "sections": [
+            {
+              "title": "Trying to pick up the book off the ground while already having a copy",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Bah. Annoying dwarven ladders, they're much too flimsy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning to Vermundi",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vermundi",
+                  "text": "Welcome to my clothes stall, can I help you with anything?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, about those special clothes again..."
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Oh yes, did you get those designs from the librarian?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I haven't actually spoken to the librarian yet, let me do that now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I don't have them yet, but I can get them for you. The librarian has a book."
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "A book, how wonderful!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I have a book right here, have a look at it!"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Oh, I see, I see!"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "I can definitely help you with this."
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "I only have one small problem, you see... I've run out of fuel for my spinning machine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What does it run on?"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Steam, of course!"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "But I've used up all my coal and wood and I don't have the time to leave my stall to get them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, I'll get them for you. Let's see... some coal and some logs. Shouldn't be too hard."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lighting the spinning machine",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to light the spinning machine after it is already lit",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Vermundi after giving her the book",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vermundi",
+                  "text": "Welcome to my clothes stall, can I help you with anything?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, about those special clothes again..."
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Well, like I said, I can't do anything really without my spinning machine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, and what did you need again to start the engine?"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Some coal and logs should do it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've got them right here!"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Then put them in the machine dear!"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Well, the spinning machine is all ready now, except that it needs to be powered up."
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "As soon as it's up and running, I can spin your clothes for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How does that work?"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Why, you light the logs of course!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, okay, I'll do it! Just a moment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I have those clothes now?"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Yes, I can spin them for you, but I will have to ask you for a small payment of money for them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What, after all that work?"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "I'm sorry, but the cloth to spin this is expensive. But for you, I can make the clothes for a nominal fee of 200 credits."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll pay, I'll pay."
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "Wonderful, let me get started then!"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "There we go! And look how beautiful these clothes look!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you very much!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I won't pay, that's outrageous!"
+                },
+                {
+                  "speaker": "Vermundi",
+                  "text": "I'm sorry you feel that way, I was looking forward to making these clothes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to pick up exquisite clothes when you already have some",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Wearing the clothes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "These clothes are too small for me, I might ruin them if I put them on. I'd better take them to the sculptor instead."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Boots fit for a king",
+      "sections": [
+        {
+          "title": "Talking to Saro",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Saro",
+                  "text": "Welcome to my store, human! Are you interested in buying anything?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I'm looking for a pair of special boots."
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "Boots, you say? What kind of boots?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The best you have! Boots fit for a king!"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "Hmm, let's see... Well, I've got this pair of very exclusive boots. They're not armoured, but they look nice."
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "Or rather, I had. I'm afraid I sold them, come to think of it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And you don't have anything else?"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "I don't normally stock boots, no, nothing that's appropriate for... what did you say? A king?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please, tell me! Who did you sell the boots to?"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "Old chap here in the west part of town, his name is Dromund. He's quite well known, not only for his wealth, but also for his... pecularities."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What house does he live in?"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "Go out the door, and head north. You'll have the headquarters of the Black Guard on your left and the bank on your right. Keep heading north and you'll find Dromund's house on your right. Can't miss it!"
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "And if you're going to try to get the boots off him, good luck. You'll need it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Saro again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Saro",
+                  "text": "Welcome to my store, human! Are you interested in buying anything?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I'm looking for a pair of special boots."
+                },
+                {
+                  "speaker": "Saro",
+                  "text": "I thought I already told you where to get them?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh yes. The old dwarf north of the bank has them, I remember now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to take the boots before talking to Dromund",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Dromund",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dromund",
+                  "text": "You're trespassing, get out!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Calm down! I just want to ask you a few questions."
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "Are you with the Black Guard or something?"
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "No, you wouldn't be, you're just a human."
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "What do you want from me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I went to the Quality Armour shop. The proprietor told me you have just recently purchased a pair of boots from him."
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "Right, and nice they look too on my display tables."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're not actually using them then? Might I be able to buy them off you?"
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "Good one, human!"
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "They're mine and the last thing I'll do is part with them!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me, how much will you accept for these boots?"
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "Get out you pesky human! The boots are mine and you're not having them!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Dromund again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Are you sure you don't want to give me those boots?"
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "Get out of here before I get one of my servants to throw you out!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taking the left boot",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dromund",
+                  "text": "What are you doing there?!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taking the right boot",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cat",
+                  "text": "Get your hands off that, you dirty human!"
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "Stay away from there! Who do you think you are, coming into my house like that?"
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "What are you doing, casting spells in my house? Get out!"
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "Hey! Is there someone at my window?"
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "Scram before I get the Black Guard to arrest you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to pick up the left or right boot while already having the exquisite boots",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Wearing the boots",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What, wear just one boot? Besides, the boot is too precious for that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I shouldn't wear these boots, I don't want anything to happen to them before I bring them to the sculptor."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dropping the boots",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "An axe fit for a king",
+      "sections": [
+        {
+          "title": "Talking to Santiri",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Santiri",
+                  "text": "Welcome, human, to the Quality Weapons Shop! Can I interest you in a purchase?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I'm looking for a particular battleaxe."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Fancy a particular colour then? Blue is quite popular at the moment, and red is on the rise."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, actually, I'm looking for King Alvis' axe."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "The King's axe!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "What would a human want with it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've been tasked by Veldaban, Commander of the Black Guard in Keldagrim, to assist in every way possible with the rebuilding of King Alvis' statue."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Oh yes, the statue... a most unfortunate incident."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Not that I'm entirely sure that it was merely an accident, of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you mean?"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "I'm not entirely sure what I mean, human. But the axe, you say, what exactly did you need it for?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just give me the axe already, I know you have it!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "I'll give it to you, embedded into your head!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've had just about enough of this! Goodbye!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Blasidar the sculptor needs it for his statue. He wants a model for the axe, you see, and he believes the original axe still survives."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "And so it does!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "It's been in my family's care for a few generations now, after it has been lost for a long time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened to it?"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "I do not know how it got lost, but my great-grandfather found it at the banks of the Kelda, further downstream from the city."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I see it?"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "There is not much left of it, to be honest. The blade has almost completely rusted away, and the sapphires on the hilt were either stolen or were washed away by the river before it was found."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "I doubt it is useful to Blasidar in this state, master sculptor though he is."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you sure this is the real axe then?"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Not entirely, no, but it matches the description well enough, and the holes for the sapphires are still clearly visible on the hilt. But since no one has a similar claim, I don't really care. It's genuine to me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This is tedious, I've lost interest."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "I'll get back to work then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Perhaps I can repair the axe?"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "On your own? I doubt it. The sapphires, perhaps, if you are a skilled enough crafter. But the blade..."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Your feeble smithing skills will be of no use. No, you will need expert help on this."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "You're a decent smith, but this is far beyond your capabilities."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Formidable though your smithing skills are, this is beyond your capabilities."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Clearly you are a master smith, perhaps one of the best human smiths in all of Gielinor. Yet this is beyond even you."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "What you need is the skills of an Imcando dwarf... but they must all be dead by now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Perhaps I could try and find one?"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Yes, perhaps, perhaps..."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Perhaps the librarian, just due east of here, can help you."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Yes, I like the sound of this!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I know where I can find an Imcando dwarf!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He actually made a sword for me a while ago. I'm sure I can get him to help me again."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Really? That is amazing news."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He lives on a cliff at the very south end of Asgarnia, just south of Port Sarim. I can visit him again if you like."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Excellent! You can take a cart to Ice Mountain from the station here, that should help you get there faster."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "I will entrust you with King Alvis' battleaxe, then, human."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Help to restore it to its former glory!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "And please ask Blasidar to return it to me after he's done with it, I would sure love to see the restored blade again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you. I will not disappoint you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't really care for it after all."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Then stop wasting my time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Santiri again",
+          "sections": [
+            {
+              "title": "Trying to pick up the axe while already having one",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Trying to wield the axe",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I should be very careful with this battleaxe, it's almost a museum piece! I don't want to damage it by wielding it."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Santiri",
+                  "text": "Welcome, human, to the Quality Weapons Shop! Can I interest you in a purchase?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I'm looking for a particular battleaxe."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Ah, you mean King Alvis' axe? You still have it, yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, but I was just wondering what I should be doing with this piece of junk."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Piece of junk??"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "I thought you were going to put sapphires on it and bring it to an Imcando dwarf?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh yes, of course, that's what I was going to do!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Ah, you mean King Alvis' axe? You still have it, yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I... sort of... ehm..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Look, I lost it!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "At least you are honest, human."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "I found it, actually, after you lost it. I'm not happy with giving it to you again, but the rebuilding of the statue is important."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Be careful with it this time, alright?"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Ah, you mean King Alvis' axe? You still have it, yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, and I've crafted some sapphires on the hilt, look!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "That's a great start! Now if you can find an Imcando dwarf so the blade can be repaired, that would be even better!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Ah, you mean King Alvis' axe? You still have it, yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, and I got Thurgo the Imcando dwarf to fix it up nice and proper! Look!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Oh, that's beautiful! All it needs now is three sapphires crafted onto the hilt."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Ah, you mean King Alvis' axe? You still have it, yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, and look, it's all fixed up now! I got Thurgo the Imcando dwarf to fix the blade, and I've crafted three sapphires onto the hilt."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "That is amazing! Absolutely astounding work!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Go and give Blasidar a hand with it then, and make sure to tell him to send it back to me when he's done with it!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Ah, you mean King Alvis' axe? Didn't you give it to Blasidar?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I did, actually, I was just wondering if he returned it to you yet."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "No, I believe he's still using it."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "But thanks for your help with restoring the axe to its former glory!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hugi (with The Knight's Sword incomplete)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Librarian",
+                  "text": "Welcome to the Keldagrim library, human traveller!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you help me find an Imcando dwarf?"
+                },
+                {
+                  "speaker": "Librarian",
+                  "text": "An Imcando dwarf, you say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I need the help of an Imcando dwarf to repair an ancient battleaxe."
+                },
+                {
+                  "speaker": "Librarian",
+                  "text": "I see, I see."
+                },
+                {
+                  "speaker": "Librarian",
+                  "text": "Ah, I'm afraid I can't help you here, Keldagrim lost contact with that particular tribe of dwarves a long time ago."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there no one else who can help me?"
+                },
+                {
+                  "speaker": "Librarian",
+                  "text": "I suppose you could try Reldo, in the palace of Varrock. He is a most capable human librarian and knows quite a bit about us dwarves."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you think he can help me?"
+                },
+                {
+                  "speaker": "Librarian",
+                  "text": "He lives quite a good deal closer to where the Imcando used to live than we do, so it is not unlikely. Tell him Hugi the librarian sent you and I'm sure he'll be happy to help."
+                },
+                {
+                  "speaker": "Librarian",
+                  "text": "And take a cart to Ice Mountain from the station in the east side of the city. It'll help you get to Varrock faster."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Reldo (with The Knight's Sword incomplete)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What do you know about the Imcando dwarves?"
+                },
+                {
+                  "speaker": "Reldo",
+                  "text": "The Imcando dwarves, you say? Let's see..."
+                },
+                {
+                  "speaker": "Reldo",
+                  "text": "Ah, yes... For many hundreds of years, they were the world's most skilled smiths. They used secret smithing knowledge passed down from generation to generation."
+                },
+                {
+                  "speaker": "Reldo",
+                  "text": "Unfortunately, about a century ago, the once thriving group was wiped out during the barbarian invasions of that time."
+                },
+                {
+                  "speaker": "Reldo",
+                  "text": "I believe a few of them survived, but with the bulk of their population destroyed, their numbers dwindled even further. If any are left now, they'll no doubt keep to themselves."
+                },
+                {
+                  "speaker": "Reldo",
+                  "text": "However, I have heard tales of their love for redberry pie. Perhaps one of those could convince one to reveal their true heritage."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So I just go around offering random dwarves redberry pie?"
+                },
+                {
+                  "speaker": "Reldo",
+                  "text": "Well, not totally random. Apparently some of the surviving Imcando made a home for themselves near the cliffs on the Asgarnian southern peninsula. That would be a good place to start."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Thurgo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you help me with this ancient axe?"
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "No. I don't do that anymore. I'm getting old."
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "Well, you know what to do! Get me another redberry pie and I'll have a look at that axe of yours!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Would you like a redberry pie?"
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "I'd never say no to a redberry pie! We Imcando dwarves love them - they're GREAT!"
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "By Guthix! THAT was good pie! Anyone who makes pie like THAT has got to be alright!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you help me with this ancient axe?"
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "You make excellent redberry pies, [player name], so how can I refuse? Let me see what's wrong with it then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here... the blade of this axe has become extremely dull and brittle. I need it restored to its former glory."
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "Its former glory eh? May I ask where exactly you got this axe from?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It was given to me by someone in Keldagrim. I prefer not to say any more than that."
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "Ah, Keldagrim. We have not been there for a long time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We?"
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "Never mind."
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "Hand me the axe and I'll fix it right up for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will you need any materials?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You don't want any blurite this time?"
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "Oh no, blurite is not appropriate here. No no, this is going to be a very delicate piece of work, requiring only a small amount in the way of raw materials."
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "Can you get me one bar of iron? Then I'll be able to start my work on this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've got one right here."
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "Good, good! Hand me the axe and I'll get to work."
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "Here's your axe, [player name]. It looks like there's some damage to the hilt as well, probably some missing sapphires. But I'm sure you can take care of that yourself."
+                },
+                {
+                  "speaker": "Thurgo",
+                  "text": "Here you go, [player name], good as new."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help Thurgo!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using sapphires on the axe before having Thurgo repair it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using the sapphires on the axe after having Thurgo repair it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Trying to wield the restored axe",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The head of a dwarf",
+      "sections": [
+        {
+          "title": "Talking to Blasidar the sculptor before giving the items to Riki",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "How are you getting along with those items, [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have your boots yet."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have your boots!"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Excellent, excellent! Go and give them to Riki over there so I can start my work on the base of the statue!"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "What else?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have your clothes yet."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I also don't have your clothes yet, I'm afraid."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I had Vermundi make these clothes!"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Oh yes, Vermundi is a good woman, she's very reliable. Wonderful clothing. Give it to Riki please."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "And? The battleaxe?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, no, I'm still looking for it."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Look a little harder please!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Look, I've got it right here."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "What, that old thing? Is that a piece of rubbish you found in the garbage?"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "It looks so brittle it might well fall apart at any moment. I can't base my statue on that!"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Besides, from what I recall of the original axe, this doesn't even look anything like it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, yes, I've got it right here!"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Good job! Riki is your man, right over there. Give it to him please!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Riki the sculptor's model before giving him anything",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, I'll be back later with all those items!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Riki the sculptor's model with two items left",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, I'll be back with the rest of the items later!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Riki the sculptor's model with one item left",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'll be back with the last item before you know it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Riki the sculptor's model with clothes but not other items",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have some clothes for you to wear."
+                },
+                {
+                  "speaker": "Riki the sculptor's model",
+                  "text": "Thank... you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Riki the sculptor's model with the battleaxe but not other items",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have this battleaxe for you."
+                },
+                {
+                  "speaker": "Riki the sculptor's model",
+                  "text": "Thank... you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Riki the sculptor's model with all items",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Here, I have these boots for you to wear."
+                },
+                {
+                  "speaker": "Riki the sculptor's model",
+                  "text": "Thank... you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And look, I have some clothes as well!"
+                },
+                {
+                  "speaker": "Riki the sculptor's model",
+                  "text": "Thank... you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And finally, I have this battleaxe for you!"
+                },
+                {
+                  "speaker": "Riki the sculptor's model",
+                  "text": "Thank... you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Riki the sculptor's model after giving all items to him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, you're looking nice in that outfit!"
+                },
+                {
+                  "speaker": "Riki the sculptor's model",
+                  "text": "Yes... I do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So is the job done now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello?"
+                },
+                {
+                  "speaker": "Riki the sculptor's model",
+                  "text": "No... it isn't."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Care to tell me why not?"
+                },
+                {
+                  "speaker": "Riki the sculptor's model",
+                  "text": "Talk... to Blasidar."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's very tiring trying to talk to you, you know?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Blasidar the sculptor after giving the items to Riki",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've all the items you asked me to get you. Can you make the statue now?"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Yes, yes, that will do just fine. There is only one problem now, I still need to make the head."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you need me to find a crown now as well?"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Oh no, no no, apparantly the Consortium has decided that crowns are out of fashion. As well as kings. Well, kings have been out of fashion here for hundreds of years."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what is the head supposed to look like now?"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "I don't think they've quite made a decision on that. You see, I think each of the directors of the Consortium fancies their own face on top of the statue."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? But I thought the whole point was that it would look like king what's-his-face?"
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Yes, the Consortium can be a little fickle like that, unfortunately."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "But can you go and see if they've made a decision yet? I can't very well continue working on this statue without knowing what the face should look like, can I?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I suppose you can't. Alright, I'll check it out."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Great! In the mean time, I'll build the statue up to the neck!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Blasidar the sculptor again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Any word from the Consortium yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, the directors have not made a decision yet."
+                },
+                {
+                  "speaker": "Blasidar the sculptor",
+                  "text": "Then please, try to persuade one of the directors to force the Consortium into a decision. I must finish this statue before I can move onto my other work."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Riki the sculptor's model after talking to Blasidar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'm glad I don't have to talk to you anymore!"
+                },
+                {
+                  "speaker": "Riki the sculptor's model",
+                  "text": "Hrm."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a company secretary",
+          "sections": [
+            {
+              "title": "Turning in items",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I've completed your task! Here is your ore!"
+                    },
+                    {
+                      "speaker": "[company name] Secretary",
+                      "text": "And not a minute too late as well. Well done."
+                    },
+                    {
+                      "speaker": "[company name] Secretary",
+                      "text": "I am happy to see that the trust we put in you has not been in vain."
+                    },
+                    {
+                      "speaker": "[company name] Secretary",
+                      "text": "The [company name] recognizes your performance."
+                    },
+                    {
+                      "speaker": "[company name] Secretary",
+                      "text": "That's good to hear, thanks."
+                    },
+                    {
+                      "speaker": "[company name] Secretary",
+                      "text": "I have to admit, I was worried for a moment, but I'm glad to see you came through for us."
+                    },
+                    {
+                      "speaker": "[company name] Secretary",
+                      "text": "Well done, well done!"
+                    },
+                    {
+                      "speaker": "[company name] Secretary",
+                      "text": "You're always reliable, [player name]!"
+                    },
+                    {
+                      "speaker": "[company name] Secretary",
+                      "text": "You have done a great service to the [company name]!"
+                    },
+                    {
+                      "speaker": "[company name] Secretary",
+                      "text": "Wonderful! I will personally oversee that it goes to the trade floor on time!"
+                    },
+                    {
+                      "speaker": "[company name] Secretary",
+                      "text": "I knew you were the right human for the job!"
+                    },
+                    {
+                      "speaker": "[company name] Secretary",
+                      "text": "Thanks, I will make sure the director hears of your expeditiousness!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you have another task for me?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the Red Axe Secretary",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Red Axe Secretary",
+                      "text": "Don't bother me!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the Brown Engine Secretary (before 9 November 2022)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Who are you?"
+                    },
+                    {
+                      "speaker": "Brown Engine Secretary",
+                      "text": "I am the head secretary of the Brown Engine."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "The what?"
+                    },
+                    {
+                      "speaker": "Brown Engine Secretary",
+                      "text": "The Brown Engine. We are one of the eight major mining companies, but our standard is higher than that of all the others."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How is that?"
+                    },
+                    {
+                      "speaker": "Brown Engine Secretary",
+                      "text": "Our policy is strictly gentlemen only, you see."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I don't quite see how that is good, but if you say so..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "And this is a good thing, how?"
+                    },
+                    {
+                      "speaker": "Brown Engine Secretary",
+                      "text": "Oh, my dear, please don't take it personally."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Don't patronise me. I've had enough of this."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Is there anything I can help you with?"
+                    },
+                    {
+                      "speaker": "Brown Engine Secretary",
+                      "text": "The Brown Engine is a gentleman only society, I'm afraid."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How rude."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the Yellow Fortune Secretary (before 9 November 2022)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Who are you?"
+                    },
+                    {
+                      "speaker": "Yellow Fortune Secretary",
+                      "text": "I am the head secretary of the Yellow Fortune."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "The what?"
+                    },
+                    {
+                      "speaker": "Yellow Fortune Secretary",
+                      "text": "The Yellow Fortune! We are the grandest of the mining companies that make up the Consortium!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How is that?"
+                    },
+                    {
+                      "speaker": "Yellow Fortune Secretary",
+                      "text": "Why, because men are not allowed to work in our company, of course!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Ha, I see what you mean!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "That's a bit drastic, don't you think?"
+                    },
+                    {
+                      "speaker": "Yellow Fortune Secretary",
+                      "text": "We simply consider men to be weak and inferior."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I think I'd better go now, I don't like being insulted."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Is there anything I can help you with?"
+                    },
+                    {
+                      "speaker": "Yellow Fortune Secretary",
+                      "text": "The Yellow Fortune does not employ the services of men."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why not?"
+                    },
+                    {
+                      "speaker": "Yellow Fortune Secretary",
+                      "text": "We often find that they are too weak or too slow to be of sufficient use."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You shouldn't say such things to people."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "What can I do for you, human?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Can I help you with anything?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Was there anything you wanted?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "What did you need of the [company name]?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Is there anything you need assistance with?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "And what can I do for you?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Oh, hello there [player name]! Nice to see you!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "And what can I do for you on this fine day?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Welcome back to the palace of Keldagrim, [player name]!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Come in, come in! And tell us what you need!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "How may the [company name] assist you today?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Come to help us out some more, [player name]?"
+                },
+                {
+                  "speaker": "Purple Pewter Secretary",
+                  "text": "Oh, by the way, I really like that outfit of yours!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there anything I can help you with?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Have you completed your task yet? Did you get our [number] pieces of [copper ore/tin ore/clay/iron ore/silver ore/coal/gold ore/mithril ore]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not yet."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Then please, hurry up before time runs out."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "You should speak directly to the director."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "I'm afraid I have no more work to offer you, [player name], please speak to the director."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "There's always work to be done, yes."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Just a moment."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Yes, the [company name] always has work to do!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Yes, I think we do have something for you."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Let's see... yes, yes, I do have a task for you."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "I believe we have some work available, yes."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Oh yes, as you know the [company name] always has work!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Ah, always looking for ways to help us!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Of course, we reserve our best tasks just for you, [player name]!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "The [company name] is pleased to offer more work to an eager worker such as yourself, [player name]!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "I do believe we do, yes!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "I dare say we have something for you, yes."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Naturally, my good human, naturally!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "We need [number] pieces of [copper ore/tin ore/clay/iron ore/silver ore/coal/gold ore/mithril ore] in the next [number] minutes."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "That ore needs to go on the trade floor soon, [player name], please hurry back with it."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "I will await your return soon, then."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "The clock is ticking, please hurry back."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Thanks, it's appreciated."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "The [company name] has noted your willingness to help."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Excellent, I thought you'd like this!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "You never disappoint, [player name]!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "The [company name] appreciates the hard work you do."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Thanks! But hurry back please, we really need that ore!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "I'm happy to hear that!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "That's unfortunate to hear."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "That does not reflect well on you."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Please, it would be appreciated if you made up your mind before you ask. I'm very busy you know."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Fair enough, maybe some other time?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "I can't say I'm too pleased to hear that, to be honest."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "The [company name] isn't too pleased to hear that."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Please, in that case, you're wasting my time."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Oh. Didn't know you were the type to refuse work."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "That's a great shame, [player name]."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "I suppose you have other important business to attend to?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Is everything okay? I didn't think you normally refused our tasks."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "No? That's unusual for you, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to speak to the director."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "And I would grant you such a request, why?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "You need to prove yourself to the company first before such a privilege is bestowed on you."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "I don't see any reason to grant such a privilege to a lowly worker. No, first you must prove yourself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But you don't understand. I've come from Blasidar the sculptor."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Blasidar does not command the [company name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But... Commander Veldaban of the Black Guard has instructed me to do this!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Nor does the Black Guard. They are under the command of the Consortium, not the other way around."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How can I prove myself?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "It's all very simple. You perform some tasks for us, help us out a little when we need something done urgently, and in reward you will rise in our estimation."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "That is not a request that I can grant you yet, [player name], even though I am impressed with you so far."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "The [company name] appreciates what you have done so far, [player name], but the director will only speak to the most loyal of followers."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But you don't understand. I've come from Blasidar the sculptor."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Blasidar does not command the [company name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But... Commander Veldaban of the Black Guard has instructed me to do this!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "I see. This sounds like a most serious matter, but I cannot bend the rules."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What else must I do to prove myself?"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Keep up what you're doing, [player name]! The more you help us out, the more we appreciate you!"
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "I'm sure the director will be happy to talk to you once the time is right."
+                },
+                {
+                  "speaker": "[company name] Secretary",
+                  "text": "Why, naturally [player name]! The director is standing right over there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a company director",
+          "sections": [
+            {
+              "title": "Turning in items",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I've completed your task! Here are your bars!"
+                    },
+                    {
+                      "speaker": "[company name] Director",
+                      "text": "I will get my secretary to send this to the trade floor at once!"
+                    },
+                    {
+                      "speaker": "[company name] Director",
+                      "text": "You never fail to satisfy, [player name]!"
+                    },
+                    {
+                      "speaker": "[company name] Director",
+                      "text": "You are a true asset to the [company name]!"
+                    },
+                    {
+                      "speaker": "[company name] Director",
+                      "text": "I am well pleased with your work, [player name]!"
+                    },
+                    {
+                      "speaker": "[company name] Director",
+                      "text": "Guthix be praised!"
+                    },
+                    {
+                      "speaker": "[company name] Director",
+                      "text": "The [company name] can always rely on you, [player name]."
+                    },
+                    {
+                      "speaker": "[company name] Director",
+                      "text": "Have you ever considered joining the [company name], [player name]? You would truly make a marvelous member."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the Red Axe Director",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Red Axe Director",
+                      "text": "I am conducting a meeting here, begone!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the Brown Engine Director (before 9 November 2022)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brown Engine Director",
+                      "text": "Hello, [player name], are you trying to get in touch with your female side?"
+                    },
+                    {
+                      "speaker": "Brown Engine Director",
+                      "text": "Hello there! You're looking a little feminine today, [player name]!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the Yellow Fortune Director (before 9 November 2022)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Yellow Fortune Director",
+                      "text": "You are looking more and more like a male these days, [player name]... be careful now!"
+                    },
+                    {
+                      "speaker": "Yellow Fortune Director",
+                      "text": "Hello there, [player name]. You look a little masculine today!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "[company name] Director",
+                  "text": "How did you get in here? I don't have time to talk to you!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Talk to my secretary, I don't have time to deal with you."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "My secretary will deal with any inquiries you have about the [company name]."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "I'm busy, please leave."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "I'm too important to talk to the likes of you, leave."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "I can't help you, go and see my secretary."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Do you mind? You're blocking my view."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Today is not a good day, can you come back tomorrow?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "My secretary is sitting just over there, thank you."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "If you're looking for the market, it's downstairs."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "You are an exceptional member of the [company name]."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "[player name]! I've been hearing great things about you!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Come in, [player name], my secretary has been saying good things about you."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "What have you come to ask of us, honourable [player name]?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Have you come to serve the [company name] again, [player name]?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Come, [player name], let us converse a while on your future with us."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "You are proving yourself a loyal member of the [company name], [player name]!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Hello again, [player name], come in!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Come in, come in my friend!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "The [company name] is pleased to see you again!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Welcome back [player name], it's great to see you again!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's an honour to meet you!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "I'm always happy to make time for you, [player name]!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "And I'm honoured to make some time for you, [player name]!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Don't mention it, [player name]!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Almost as much an honour as it is to meet you again, [player name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to officially join your company."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Hmm, interesting, a human joining the [company name]."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "But no. You may have proven yourself to my head secretary, and much appreciated that is as well, you have not fully proven yourself to me yet."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "So no, I cannot grant you this request yet, but I will certainly keep it in mind. In the mean time make sure you help out the [company name] in any way you can."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "But you have certainly proven yourself to be a most worthwhile contributor. I have not seen such dedication in all my years as a director of this company."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "It is agreed then! You are now a 'trusted associate' of the [company name]. Welcome!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will not disappoint you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any more tasks for me?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Have you completed your current task yet? Did you get me my bars of [bronze/iron/steel/silver/gold/mithril]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still working on it, sorry."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Hurry then, I don't have time for all this."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Verily, I believe I do."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "I do believe so, yes."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Why, certainly."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "A moment please, let me check."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Yes, I have something appropriate for you here."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "You don't need to do this anymore, you know?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "We need [number] bars of [bronze/iron/steel/silver/gold/mithril] in the next [number] minutes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll take it."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Happy to hear that!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Admirable attitude, [player name]!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "The [company name] appreciates what you're doing, [player name]."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Excellent, get to it now!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Then hurry back, [player name], I'm counting on you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "I'm sorry to hear that, [player name], the company really needed those bars."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "I don't understand, I thought you were a loyal follower?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Then why did you ask, [player name]?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "That is an unusual thing to say for you, [player name]."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Oh? I thought you liked doing this kind of work?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Blasidar the sculptor has sent me."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Oh yes? This is in connection with the statue, presumably?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He says he needs to know what the head of the statue should look like now that it's no longer going to look like King Alvis."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Oh yes, Hreidmar suggested that it should be one of us. The Era of Kings is long gone, after all. Now the Consortium provides peace and above all prosperity... so the statue should reflect this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hreidmar? Who is Hreidmar?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "He is the Director of the Red Axe. Ha, that old fool quite fancies his own head up on that statue, he thinks he can get away with that just because his company is one of the largest in the Consortium."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So I shouldn't tell the sculptor that he should base it on him then?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Certainly not!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "The Consortium has yet to make a decision... all the companies are vying for the honour."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I would support you."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Ah, would you now, would you?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "I'm not altogether sure... much appreciated though you are, you are not really part of the [company name]. Not as such."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What if I were?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Were what? A part of the [company name]?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Yes, that might certainly change things..."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "This might well work. Yes, an outsider to the city might have considerably more influence than one might expect, if we play our cards right."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you mean, play our cards right?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "We wait until the most opportune moment for you to show your support. Yes, you must really come along to one of our meetings."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Now you're really losing me... what meetings?"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "A Consortium meeting, when all the directors meet on the top floor of the palace. We have them from time to time. We'll have another one soon, to once and for all solve our little problem with the statue."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "So what do you say, will you speak out for me at the next meeting, so that they will base the head of the statue on me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes! Long live the [company name]!"
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Hurrah!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to have a think about that."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Understandable, yes. Just be sure not to think about it for too long."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I hope you lot figure it out soon. This little job is starting to tire me out."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Don't count on it being any time soon. We're rather locked in an impasse on it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just my luck."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you for your time."
+                },
+                {
+                  "speaker": "[company name] Director",
+                  "text": "Not at all, it was a delight to speak to you once more!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Art by committee",
+      "sections": [
+        {
+          "title": "Talking to Commander Veldaban",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "What news from the Consortium, [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have told the director of the [company name] that I will support their bid to be put upon the statue."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Then perhaps they can finally end their impasse! Well, let's go to the meeting then!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What, now?"
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Well... not exactly now, no. I believe the Consortium has some other important business to attend to first. Come back in a minute or so."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Yes, now! Are you ready?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm ready."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "I do have to warn you, this meeting may take a while. Do you want to attend the meeting personally, or do you simply want the minutes of the meetings so you can read what happened afterwards?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to see the meeting."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Happy to hear that! Let's hurry then, I think the meeting is already starting!"
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Oh, I'm sorry, I was mistaken. The meeting hasn't started yet, we need to wait a bit longer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I do NOT want to attend, I don't have time to waste."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "[player name], are you absolutely sure? You might not get another chance like this. Are you sure you just want to read the summary of the meeting instead of seeing the actual meeting?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "On second thought, I can spare a few minutes to attend."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Happy to hear that! Let's hurry then, I think the meeting is already starting!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I just have a lot of smithing to do today, I can't attend."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Very well. I'll give you the meeting minutes after it's finished."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I need more time."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Very well then. Come back when you're ready, but hurry! You don't want to miss the meeting."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Consortium Meeting",
+          "sections": [
+            {
+              "title": "Prior to 9 November 2022",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brown Engine Director",
+                      "text": "Clearly it is I who is most suitable."
+                    },
+                    {
+                      "speaker": "Yellow Fortune Director",
+                      "text": "A male? How preposterous!"
+                    },
+                    {
+                      "speaker": "Silver Cog Director",
+                      "text": "But the statue is clearly male! It can't have a female head!"
+                    },
+                    {
+                      "speaker": "Red Axe Director",
+                      "text": "Enough of this, everyone! This bickering is pointless."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brown Engine Director",
+                  "text": "Clearly it is I who is most suitable."
+                },
+                {
+                  "speaker": "Yellow Fortune Director",
+                  "text": "You? How preposterous! Evidently, it should be my head atop that statue!"
+                },
+                {
+                  "speaker": "Silver Cog Director",
+                  "text": "Surely, your claim to the statue can be no better than anyone else's?"
+                },
+                {
+                  "speaker": "Red Axe Director",
+                  "text": "Enough of this, everyone! This bickering is pointless."
+                },
+                {
+                  "speaker": "Red Axe Director",
+                  "text": "The Red Axe is the largest and wealthiest mining company, we have all rights here!"
+                },
+                {
+                  "speaker": "White Chisel Director",
+                  "text": "The fact that The Red Axe does its accounting behind closed doors makes that claim quite dubious!"
+                },
+                {
+                  "speaker": "Blue Opal Director",
+                  "text": "We are not assembled here to squabble over accounting details or the economic state of the Consortium."
+                },
+                {
+                  "speaker": "White Chisel Director",
+                  "text": "Dondakan's breaking of his rock, and the finding of his gold, has laid doubt to that claim!"
+                },
+                {
+                  "speaker": "Blue Opal Director",
+                  "text": "It is not yet clear what consequences that discovery will have on the economy."
+                },
+                {
+                  "speaker": "Green Gemstone Director",
+                  "text": "Perhaps, then, we should choose a director for the statue at random?"
+                },
+                {
+                  "speaker": "Red Axe Director",
+                  "text": "No! I will go on top of that statue! I proposed this in the first place!"
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Veldaban, Commander of the Black Guard in Keldagrim, presenting himself to the Consortium with a guest."
+                },
+                {
+                  "speaker": "Red Axe Director",
+                  "text": "A human, at a Consortium meeting? What is this?"
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "This human helped to rebuild the statue. [He has deserved/She has deserved/They deserve] this honour, surely?"
+                },
+                {
+                  "speaker": "Purple Pewter Director",
+                  "text": "Aye."
+                },
+                {
+                  "speaker": "Green Gemstone Director",
+                  "text": "Aye."
+                },
+                {
+                  "speaker": "Silver Cog Director",
+                  "text": "Aye."
+                },
+                {
+                  "speaker": "Purple Pewter Director",
+                  "text": "Well then... instead of flipping a coin, why don't we let the human decide?"
+                },
+                {
+                  "speaker": "Brown Engine Director",
+                  "text": "Amusing, I accept!"
+                },
+                {
+                  "speaker": "Red Axe Director",
+                  "text": "This is outrageous! I'm warning you, The Red Axe will boycott the Trade Octagon!"
+                },
+                {
+                  "speaker": "Yellow Fortune Director",
+                  "text": "Stop your hollow threats and let the human speak."
+                },
+                {
+                  "speaker": "Commander Veldaban",
+                  "text": "Well then, [player name], what is it going to be?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I choose..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The [chosen company name]!"
+                },
+                {
+                  "speaker": "Red Axe Director",
+                  "text": "You'll regret this, all of you!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

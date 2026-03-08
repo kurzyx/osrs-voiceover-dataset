@@ -1,0 +1,112 @@
+{
+  "ref": "elder-chaos-druid-npc-",
+  "categoryRef": "npc",
+  "title": "Elder Chaos druid (NPC)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Chaos druid",
+              "text": "Hello, and welcome to The Dark Lord's temple. Zamorak will reward those who offer the bones of the vanquished on his altar."
+            },
+            {
+              "speaker": "Elder Chaos druid",
+              "text": "I can exchange banknotes for bones, should you require such a service."
+            },
+            {
+              "speaker": "Elder Chaos druid",
+              "text": "My services, however, are not free. I charge 50 coins per banknote."
+            },
+            {
+              "speaker": "Elder Chaos druid",
+              "text": "Hand me the banknotes you wish me to exchange."
+            },
+            {
+              "speaker": "Elder Chaos druid",
+              "text": "That is not important. I am here to facilitate your offerings to The Dark Lord. Would you like any bone banknotes exchanged?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using any non-noted item on him",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Chaos druid",
+              "text": "I exchange banknotes for real items. That's not a banknote."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using any noted item that cannot be sacrificed on the altar on him",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Chaos druid",
+              "text": "I only exchange items that can be offered as a sacrifice to The Dark Lord's altar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player does not have at least 50 coins",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Chaos druid",
+              "text": "I charge 50 coins for exchanging each banknote."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "With a full inventory",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Chaos druid",
+              "text": "Your inventory is too full."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical",
+      "sections": [
+        {
+          "title": "On seasonal Deadman Mode worlds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

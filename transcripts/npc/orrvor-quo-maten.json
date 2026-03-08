@@ -1,0 +1,103 @@
+{
+  "ref": "orrvor-quo-maten",
+  "categoryRef": "npc",
+  "title": "Orrvor quo Maten",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Orrvor quo Maten",
+              "text": "Human."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you doing here?"
+            },
+            {
+              "speaker": "Orrvor quo Maten",
+              "text": "This passage leads to the lair of what your kind call the Alchemical Hydra. It is an ancient beast, the only one of its kind."
+            },
+            {
+              "speaker": "Orrvor quo Maten",
+              "text": "I am here to protect it. For protecting it will protect the balance. I make sure that only those who have permission can fight it."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I get permission?"
+            },
+            {
+              "speaker": "Orrvor quo Maten",
+              "text": "Only Konar quo Maten can grant permission to fight the Alchemical Hydra. She will rarely grant this permission when the beast needs calming."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks for the information."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have any of my items?"
+            },
+            {
+              "speaker": "Orrvor quo Maten",
+              "text": "I do not. If I did have any of your items, but you died before collecting them, they'll now be lost."
+            },
+            {
+              "speaker": "Orrvor quo Maten",
+              "text": "I do. I suppose you want them back."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have to go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Collect option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Orrvor quo Maten",
+              "text": "I don't have anything for you human. If I did have any of your items, but you died before collecting them, they'll now be lost."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to kill the Alchemical Hydra outside of a slayer task",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Orrvor quo Maten",
+              "text": "Human! To attack that creature would be a threat to the balance. Only those with permission may fight it!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to enter the Alchemical Hydra's lair with items in Orrvor quo Maten's Item Retrieval Service",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Orrvor quo Maten",
+              "text": "I have some items of yours here human. I'd recommend you collect them before returning to the lair."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "ref": "parrot",
+  "categoryRef": "npc",
+  "title": "Parrot",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When a bottle of rum is finished",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Parrot",
+                  "text": "Awk! Awk! Rum's done! Rum's done!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "At random",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Parrot",
+                  "text": "Awk! More ingredients! More ingredients!"
+                },
+                {
+                  "speaker": "Parrot",
+                  "text": "Awk! Feed the fires! Feed the fires!"
+                },
+                {
+                  "speaker": "Parrot",
+                  "text": "Awk! Gimme a cracker!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When talked to",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Polly, what should we do?"
+                },
+                {
+                  "speaker": "Parrot",
+                  "text": "Awk! More ingredients! More ingredients!"
+                },
+                {
+                  "speaker": "Parrot",
+                  "text": "Awk! Feed the fires! Feed the fires!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

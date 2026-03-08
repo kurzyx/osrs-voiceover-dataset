@@ -1,0 +1,83 @@
+{
+  "ref": "osvald",
+  "categoryRef": "npc",
+  "title": "Osvald",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Osvald",
+              "text": "Welcome to the Miscellania food store. We've only opened recently."
+            },
+            {
+              "speaker": "Osvald",
+              "text": "Would you like to buy anything, Your Royal Highness?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Could you show me what you have for sale?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you, I don't need food just now."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's it like living down here?"
+            },
+            {
+              "speaker": "Osvald",
+              "text": "The town's thriving. I'm sure it'll soon be as busy as Rellekka!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue during Royal Trouble",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Osvald",
+              "text": "Welcome to the Miscellania food store. We've only opened recently."
+            },
+            {
+              "speaker": "Osvald",
+              "text": "Would you like to buy anything, Your Royal Highness?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's it like living down here?"
+            },
+            {
+              "speaker": "Osvald",
+              "text": "The town's growing larger, and business is doing well."
+            },
+            {
+              "speaker": "Osvald",
+              "text": "I'm worried about the stories I've heard about monsters, though."
+            },
+            {
+              "speaker": "Player",
+              "text": "What stories about monsters?"
+            },
+            {
+              "speaker": "Osvald",
+              "text": "I heard that one of the dwarves saw monsters in the other caves!"
+            },
+            {
+              "speaker": "Osvald",
+              "text": "I don't know more than that, so you'd have to ask the dwarves."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

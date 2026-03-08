@@ -1,0 +1,33 @@
+{
+  "ref": "maze-guardian",
+  "categoryRef": "npc",
+  "title": "Maze Guardian",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Maze Guardian",
+              "text": "Well done on releasing me. Would you like to try another maze?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Maze Guardian",
+              "text": "Very well. Talk to me if you want to move onto the next maze, or you can return to the entrance hall through the portal."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

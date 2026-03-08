@@ -1,0 +1,113 @@
+{
+  "ref": "angelo",
+  "categoryRef": "npc",
+  "title": "Angelo",
+  "sections": [
+    {
+      "title": "Before joining the company",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Angelo",
+              "text": "Hey, how can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do here?"
+            },
+            {
+              "speaker": "Angelo",
+              "text": "This is one of the branches for Mahogany Homes, Gielinor's first construction company."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh wow, how can I get involved?"
+            },
+            {
+              "speaker": "Angelo",
+              "text": "If you go see Amy in the Falador branch, she'll fill you in. Her office is just east of the Estate Agent in Falador."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nice, thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After joining the company",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I'd like a construction contract."
+            },
+            {
+              "speaker": "Angelo",
+              "text": "What kind of contract would you like?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have a beginner contract please?"
+            },
+            {
+              "speaker": "Angelo",
+              "text": "Please could you go see [client] [area] [city], [location description] for us? You can get another job once you have furnished [his/her] home."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have a novice contract please?"
+            },
+            {
+              "speaker": "Angelo",
+              "text": "Please could you go see [client] [area] [city], [location description] for us? You can get another job once you have furnished [his/her] home."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have an adept contract please?"
+            },
+            {
+              "speaker": "Angelo",
+              "text": "Please could you go see [client] [area] [city], [location description] for us? You can get another job once you have furnished [his/her] home."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have an expert contract please?"
+            },
+            {
+              "speaker": "Angelo",
+              "text": "Please could you go see [client] [area] [city], [location description] for us? You can get another job once you have furnished [his/her] home."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll pass actually."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Before completing a contract",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What's my current construction contract?"
+            },
+            {
+              "speaker": "Angelo",
+              "text": "You're currently on a [type of contract]. Go see [client], [location description] [area]. You can get another job once you have furnished [his/her] home."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

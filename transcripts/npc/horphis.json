@@ -1,0 +1,127 @@
+{
+  "ref": "horphis",
+  "categoryRef": "npc",
+  "title": "Horphis",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Horphis",
+              "text": "Good day, traveller."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hey there. What brings you here?"
+            },
+            {
+              "speaker": "Horphis",
+              "text": "I am researching the Dark Altar. Many of our forefathers spent their lives studying it, though much knowledge was lost over the generations."
+            },
+            {
+              "speaker": "Horphis",
+              "text": "I believe some of their writings would have been stored in this Library, though the Librarian seems unable to help me locate any."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well good luck in your search."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "Before 20% Favour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Horphis",
+                  "text": "Excuse me, I do not believe we have any business."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After 20% Favour",
+          "sections": [
+            {
+              "title": "Initial Dialogue",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Horphis",
+                      "text": "I wonder, traveller... Could you assist me?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What do you need?"
+                    },
+                    {
+                      "speaker": "Horphis",
+                      "text": "I am researching the Dark Altar. Many of our forefathers spent their lives studying it, though much knowledge was lost over the generations."
+                    },
+                    {
+                      "speaker": "Horphis",
+                      "text": "I believe many of their writings would have been stored in this Library, though the Librarian seems unable to help me locate any."
+                    },
+                    {
+                      "speaker": "Horphis",
+                      "text": "In your exploration of the Library, if you should happen to find any manuscripts of this nature, please bring them to me, and you will gain my gratitude."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Understood."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sorry, no."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Horphis after asking to help",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Horphis",
+                      "text": "Do you have any dark manuscripts for me, traveller?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not at the moment."
+                    },
+                    {
+                      "speaker": "Horphis",
+                      "text": "Our forefathers studied the Dark Altar for generations. I am sure their knowledge is stored in this Library somewhere. It is a shame that the Librarian seems unable to help me."
+                    },
+                    {
+                      "speaker": "Horphis",
+                      "text": "Thank you very much. In return, I have given you some knowledge that you may perhaps appreciate."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

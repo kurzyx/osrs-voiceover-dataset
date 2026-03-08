@@ -1,0 +1,97 @@
+{
+  "ref": "chancy",
+  "categoryRef": "npc",
+  "title": "Chancy",
+  "sections": [
+    {
+      "title": "Standard dialogue in Rimmington",
+      "sections": [
+        {
+          "title": "In a members world",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello! Playing solitaire?"
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Hush - I'm trying to perfect the art of dealing off the bottom of the deck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "In a non-members world",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello! Playing solitaire?"
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Hush - I'm trying to perfect the art of dealing off the bottom of the deck. Whatever you want, come back later and I'll speak to you then."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Standard dialogue in Varrock",
+      "sections": [
+        {
+          "title": "After Biohazard",
+          "sections": [
+            {
+              "title": "In a members world",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Good morning."
+                    },
+                    {
+                      "speaker": "Chancy",
+                      "text": "Leave me alone. I'm trying to find my gambling buddies!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "In a non-members world",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Good morning."
+                    },
+                    {
+                      "speaker": "Chancy",
+                      "text": "Leave me alone. I'm trying to find my gambling buddies! Whatever you want, come back later and I'll speak to you then."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

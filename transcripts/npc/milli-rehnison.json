@@ -1,0 +1,53 @@
+{
+  "ref": "milli-rehnison",
+  "categoryRef": "npc",
+  "title": "Milli Rehnison",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After Plague City",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Milli Rehnison",
+                  "text": "Have you found Elena yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, she's safe at home."
+                },
+                {
+                  "speaker": "Milli Rehnison",
+                  "text": "I hope she comes and visits sometime."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Song of the Elves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Milli Rehnison",
+                  "text": "I hope Elena comes to visit soon."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ref": "vermundi",
+  "categoryRef": "npc",
+  "title": "Vermundi",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Vermundi",
+              "text": "Welcome to my clothes stall, can I help you with anything?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, what clothes do you have in stock?"
+            },
+            {
+              "speaker": "Vermundi",
+              "text": "Not a lot, I'm afraid, most of what I produce goes to my sister. Her shop is in Keldagrim-West."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, show me what you do have then."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm just browsing."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

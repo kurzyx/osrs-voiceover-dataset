@@ -1,0 +1,74 @@
+{
+  "ref": "wizard-distentor",
+  "categoryRef": "npc",
+  "title": "Wizard Distentor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Attempting to open the north-western or south-eastern door to the Wizards' Guild without the 66 Magic requirement",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wizard Distentor",
+                  "text": "You need a magic level of 66. The magical energy in here is unsafe for those below that level."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the north-eastern or south-western door to the Wizards' Guild without the 66 Magic requirement",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wizard Distentor",
+                  "text": "You need a magic level of 66 for admittance to the guild. The magical energy inside the guild is unsafe for anyone below that level. For any other business please ring for attention."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wizard Distentor",
+              "text": "Welcome to the Magicians' Guild!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Wizard Distentor",
+              "text": "What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing thanks, I'm just looking around."
+            },
+            {
+              "speaker": "Wizard Distentor",
+              "text": "That's fine with me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you teleport me to the Rune Essence?"
+            },
+            {
+              "speaker": "Wizard Distentor",
+              "text": "Senventior Disthine Molenko!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "ref": "zombie-pirate-npc-",
+  "categoryRef": "npc",
+  "title": "Zombie pirate (NPC)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has not yet asked about the crew",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello! What brings you here?"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "I'm here to guard this ship from any scurvy dogs darin' to loot her cargo."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How did your ship end up here?"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Arr, 'tis a woeful tale."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Me hearties and I were enjoying a bit o' grog when we espied a group of landlubbers fightin' on the shore. 'Twas such an exciting battle that our navigator forgot to watch for the rocks."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Now we've run aground, as ye can see."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where's the rest of your crew?"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "They're searchin' for booty at that temple to the west."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will they return to the ship?"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "They best do! That scurvy lot keep fillin' their lockers with loot and sneakin' off without swappin' places!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you really want to go to the temple? I've heard the mages there have some really annoying spells."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Nothin' we can't handle! We've a way of stoppin' their tricksy teleports."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How can a group of mindless zombies invent a counter to magic?"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "What we lack in brains, we make up for in gold! We found us a landlubber willin' to share their knowledge... for a price."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "They wrote us down a spell on some magic scrolls. All we 'ave to do is read one, and then we're properly anchored! Those mages can't teleport us anywhere!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow, I'm actually impressed. Do you think your friends at the temple will lend me one?"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Naw, they're too busy fightin' to talk to the likes of ye. Besides, we stash all our spare scrolls in these lockers for safekeepin'."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I take a scroll from a locker, then?"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Ye'll need a key for that, matey! One of the crew should 'ave one."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "And when ye see 'em, tell 'em it's their turn to keep watch!"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "There be plenty o' loot in them lockers, matey. Don't expect to find a scroll right away."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks. I'd say 'see you around', but I sort of hope I don't."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Aye, the feelin's mutual."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye, I hope your crew comes back soon."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Arr, me too matey."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Bye, matey."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has learnt about the crew but not yet asked about the temple",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you really want to go to the temple? I've heard the mages there have some really annoying spells."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Nothin' we can't handle! We've a way of stoppin' their tricksy teleports."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Arr, I've still not seen any of my crew."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh dear, how strange."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell if I've used the Teleport anchoring scroll?"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Aye, I can tell by the cut of your jib that ye haven't yet read the Teleport anchoring scroll."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Aye, I can tell by the cut of your jib that you've read the Teleport anchoring scroll."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How many times have I opened your lockers?"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Ye've never done it even once!"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Ye've done it once, and once only."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Ye've done it [#] times."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll leave you to wait for your crew."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "\"Check\" option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Zombie pirate",
+              "text": "I can tell by the cut of your jib that ye haven't yet read the Teleport anchoring scroll, and ye've never opened our lockers."
+            },
+            {
+              "speaker": "Zombie pirate",
+              "text": "I can tell by the cut of your jib that ye haven't yet read the Teleport anchoring scroll, and ye've opened our lockers once, and once only."
+            },
+            {
+              "speaker": "Zombie pirate",
+              "text": "I can tell by the cut of your jib that ye haven't yet read the Teleport anchoring scroll, though ye've opened our lockers [#] times."
+            },
+            {
+              "speaker": "Zombie pirate",
+              "text": "I can tell by the cut of your jib that you've read the Teleport anchoring scroll, but ye've never opened our lockers."
+            },
+            {
+              "speaker": "Zombie pirate",
+              "text": "I can tell by the cut of your jib that you've read the Teleport anchoring scroll, and ye've opened our lockers once, and once only."
+            },
+            {
+              "speaker": "Zombie pirate",
+              "text": "I can tell by the cut of your jib that you've read the Teleport anchoring scroll, and ye've opened our lockers [#] times."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "Subsequent dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Still here?"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "I've not seen any of my crew yet."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wonder why."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "\"Check\" option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell if I've used the Teleport anchoring scroll?"
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Aye, I can tell by the cut of your jib that ye haven't yet read the Teleport anchoring scroll."
+                },
+                {
+                  "speaker": "Zombie pirate",
+                  "text": "Aye, I can tell by the cut of your jib that you've read the Teleport anchoring scroll."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

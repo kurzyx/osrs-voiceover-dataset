@@ -1,0 +1,120 @@
+{
+  "ref": "ranulph",
+  "categoryRef": "npc",
+  "title": "Ranulph",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After completing Vale Totems",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "Hello there. Would you like to exchange research?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please!"
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "Very good! I'll happily exchange some treasures I've found in return for your findings!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need another notebook."
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "Are you sure? It looks like you already have one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need another notebook."
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "Not a problem! Here you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Ranulph",
+                  "text": "Well, I'll be here if you need anything."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using Vale totems rewards on him",
+      "sections": [
+        {
+          "title": "Fletching knife",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Bow string spool",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Greenman mask",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ranulph",
+                  "text": "Grand work! You'll want this as a reward!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

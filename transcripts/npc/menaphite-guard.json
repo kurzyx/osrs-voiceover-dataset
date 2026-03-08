@@ -1,0 +1,45 @@
+{
+  "ref": "menaphite-guard",
+  "categoryRef": "npc",
+  "title": "Menaphite Guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Trying to open the gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'll not get through these gates; they're too heavily boarded up!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...And these walls don't look very climbable at all."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Walking away from the gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Menaphite guard",
+                  "text": "That's right, clear off. You're not welcome here!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "ref": "krato",
+  "categoryRef": "npc",
+  "title": "Krato",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Krato",
+              "text": "Hello, how can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Krato",
+              "text": "My name is Krato. I'm an assistant librarian for the Historical Archive."
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Krato",
+              "text": "This is the Library Historical Archive. Here you'll find historical documents and texts from all eras of Great Kourend's history, dating all the way back to the first decade."
+            },
+            {
+              "speaker": "Krato",
+              "text": "If you're looking for something specific you should speak to Istoria."
+            },
+            {
+              "speaker": "Player",
+              "text": "Great, thanks!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

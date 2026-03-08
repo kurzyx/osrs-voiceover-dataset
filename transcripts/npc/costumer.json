@@ -1,0 +1,60 @@
+{
+  "ref": "costumer",
+  "categoryRef": "npc",
+  "title": "Costumer",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has a costume needle",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Costumer",
+                  "text": "Have you still got that needle safe and secure?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have indeed."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Costumer",
+              "text": "You were very brave for going on stage to confront a killer. Looks like you did well to get her to surrender without damaging her costume."
+            },
+            {
+              "speaker": "Player",
+              "text": "It was very well made. Makes the job of not damaging it much easier!"
+            },
+            {
+              "speaker": "Costumer",
+              "text": "Why thank you! I credit my needles for the good work."
+            },
+            {
+              "speaker": "Player",
+              "text": "Would I be able to get one of them for my own purposes?"
+            },
+            {
+              "speaker": "Costumer",
+              "text": "I suppose I could part with one... If you're careful not to lose it."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll be careful."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

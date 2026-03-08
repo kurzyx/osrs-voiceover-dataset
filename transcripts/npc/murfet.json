@@ -1,0 +1,41 @@
+{
+  "ref": "murfet",
+  "categoryRef": "npc",
+  "title": "Murfet",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Murfet",
+              "text": "Hello, how can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's in this cave?"
+            },
+            {
+              "speaker": "Murfet",
+              "text": "Creatures known as ents inhabit the depths of the hills, rumour has it they reside there due to the presence of the ancient redwood trees on the hills."
+            },
+            {
+              "speaker": "Murfet",
+              "text": "If you're as skilled a fighter as you are a woodcutter, you may enter the caves. You should find Kai once you are inside, he can give you some more information."
+            },
+            {
+              "speaker": "Player",
+              "text": "I was just passing through."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

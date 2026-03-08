@@ -1,0 +1,139 @@
+{
+  "ref": "captain-barnaby",
+  "categoryRef": "npc",
+  "title": "Captain Barnaby",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is on the dock in East Ardougne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Hello there. Would you like to travel somewhere? I can take you to Rimmington or Brimhaven for 30 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to go to Rimmington."
+                },
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Come back when you've got 30 coins for me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to go to Brimhaven."
+                },
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Come back when you've got 30 coins for me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm good thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Or I could pay you nothing at all..."
+                },
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Well that seems totally reasonable. Where would you like to go?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is on the dock in Rimmington",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Hello there. Would you like to travel somewhere? I can take you to Ardougne or Brimhaven for 30 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to go to Ardougne."
+                },
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Come back when you've got 30 coins for me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to go to Brimhaven."
+                },
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Come back when you've got 30 coins for me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm good thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Or I could pay you nothing at all..."
+                },
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Well that seems totally reasonable. Where would you like to go?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is on the dock in Brimhaven",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Hello there. Would you like to travel somewhere? I can take you to Rimmington or Ardougne for 30 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to go to Rimmington."
+                },
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Come back when you've got 30 coins for me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to go to Ardougne."
+                },
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Come back when you've got 30 coins for me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm good thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Or I could pay you nothing at all..."
+                },
+                {
+                  "speaker": "Captain Barnaby",
+                  "text": "Well that seems totally reasonable. Where would you like to go?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

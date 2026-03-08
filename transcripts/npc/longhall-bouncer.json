@@ -1,0 +1,49 @@
+{
+  "ref": "longhall-bouncer",
+  "categoryRef": "npc",
+  "title": "Longhall Bouncer",
+  "sections": [
+    {
+      "title": "Before The Fremennik Trials",
+      "sections": [
+        {
+          "title": "Talking to him or attempting to open the door to the long hall backstage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Longhall bouncer",
+                  "text": "Hey, outerlander. You can't go through there. Talent only, backstage."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After completing the Bard's trial",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Longhall Bouncer",
+              "text": "You can't go through there. Talent only, backstage."
+            },
+            {
+              "speaker": "Player",
+              "text": "But I'm a Bard!"
+            },
+            {
+              "speaker": "Longhall Bouncer",
+              "text": "No you're not. I saw your performance. I was paid well to keep you from ever setting foot on stage here again."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

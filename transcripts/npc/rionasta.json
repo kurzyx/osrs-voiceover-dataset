@@ -1,0 +1,133 @@
+{
+  "ref": "rionasta",
+  "categoryRef": "npc",
+  "title": "Rionasta",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What do you do here?"
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "Well, it's funny you should ask that actually, I run the local parcel service to the mainland."
+            },
+            {
+              "speaker": "Player",
+              "text": "Parcel service?"
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "Yes, we sometimes get asked to send items back to the mainland. We can send items to individuals' bank accounts, for a small fee of course."
+            },
+            {
+              "speaker": "Player",
+              "text": "How much does it cost?"
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "It costs 10 trading sticks per item, unfortunately, even stackable items cost the same."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are trading sticks and how do I get some?"
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "Trading sticks are our local currency, you could perhaps earn some trading sticks by doing some work around the village."
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "Have a chat with Murcaily, I think he was looking for someone to help him, he works near the hardwood grove to the east of Trufitus' hut."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I send a parcel please?"
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "It costs at least 10 trading sticks to use this service. Sorry but you don't have enough."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, thanks."
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "Of course...which items would you like to send to your bank?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've been doing some work around the village."
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "Yeah, you've been doing a lot of good work around here. Let me give you something for your time and effort."
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "I've already given you some trading sticks and I don't have any more on me at the moment. Why not go and talk to some of the other villagers and get some contributions?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Receiving trading sticks",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Rionasta",
+              "text": "Hey, I've seen you working around the village. You've been doing a lot of good work around here for us. Let me give you something for your trouble."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player is wearing a tribal mask",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Rionasta",
+              "text": "Ahhhhhhhh - Get away from me you beast!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's the problem....oh, I'm wearing this big scary mask! I'd better take it off before I start talking to the natives."
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "Waahhhhh! - It's da evil broodoo beast come ta eat my very soul!"
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "Ahhhhhhhh - It's a monster!"
+            },
+            {
+              "speaker": "Rionasta",
+              "text": "Ahhhhhhhh!!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "ref": "zaff",
+  "categoryRef": "npc",
+  "title": "Zaff",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Free-to-play worlds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zaff",
+                  "text": "Would you like to buy or sell some staffs?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thank you."
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "Well, 'stick' your head in again if you change your mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Huh, terrible pun! You just can't get the 'staff' these days!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Members worlds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zaff",
+                  "text": "Would you like to buy or sell some staffs? Or is there something else you need?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you any extra stock of battlestaffs I can buy?"
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "For you, my friend, maybe. Take a look in the barrel in the corner."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I have another ring?"
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "There's still one in your inventory, [player name]!"
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "Go and get the one that's in your bank, [player name]!"
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "I would be happy to give you another ring, but I'm afraid you don't have enough inventory space for it!"
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "Yes, of course, [player name]. Here you are. Please bear in mind that this ring has no charges left with which to summon me, however."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With Bryophyta's essence in inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you make me a staff?"
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "Make you a staff? With what?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found this magical essence when I was out on my adventures. I'd like to attach it to a battlestaff, but I'm not sure how to do that myself."
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "Let me see this essence."
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "Interesting, very interesting. This would indeed make a very nice staff."
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "You could make it yourself if you wanted. Just attach the essence to a battlestaff."
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "Nevertheless, I'm happy to do it for you if you like."
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "I'll attach it to a battlestaff for you if you are willing to pay me 50,000 coins. How does that sound?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please."
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "Thank you, here you go. I'm not sure what it does, but it feels pretty magical."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I don't have enough coins. I'll come back later."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                },
+                {
+                  "speaker": "Zaff",
+                  "text": "I'll be here if you change your mind."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "ref": "fairy-chef",
+  "categoryRef": "npc",
+  "title": "Fairy chef",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Fairy chef",
+              "text": "'Ello, sugar. I'm afraid I can't gossip right now, I've got a cake in the oven."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to take the nearby chocolate bar",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Fairy chef",
+              "text": "Oi you! Did you think I didn't see that? That's my chocolate bar, that is!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, sorry. I didn't realise it belonged to anybody."
+            },
+            {
+              "speaker": "Fairy chef",
+              "text": "That's alright, honey. You look a bit thin anyway. Take it if you need it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using Nuff's certificate on her",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Do you know what these strange marks mean?"
+            },
+            {
+              "speaker": "Fairy chef",
+              "text": "Sorry dearie, no, but I have seen a sign with similar marks near the mysterious ruins. You know, the ones that lead you to the Cosmic Rune Altar."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "ref": "skully",
+  "categoryRef": "npc",
+  "title": "Skully",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Using \"Settings\" option",
+          "sections": [
+            {
+              "title": "Without loot keys access",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Skully",
+                      "text": "Don't waste my time trying to change settings on a thing you haven't bought yet!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "With loot keys access",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Skully",
+              "text": "Eyup. They call me Skully. I run this Wilderness Loot Chest. What can I do for you?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Well, you know how when you kill someone all of their stuff just ends up in a pile on the floor and it's really hard to pick it all up quickly?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I've never killed anyone else."
+            },
+            {
+              "speaker": "Skully",
+              "text": "...Oh. Well, when you do, all of their stuff just ends up in a pile on the floor and it's really hard to pick it all up quickly."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeah?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "So, I made an enchantment that teleports the loot to another dimension instead!"
+            },
+            {
+              "speaker": "Player",
+              "text": "How does that help?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Well, instead of getting a pile of rubbish, you get a single key. You just take the key to this chest and BAM! There's your loot!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So the loot is safe in this other dimension?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Eh, seems like it. As long as they've had the key, I've never had anyone unable to get the stuff back out. Though if you lose the key, you can't get the stuff out."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Oh, and be careful running about with too many keys on you. Other people will know you've got them, and I'm not gonna stop them opening the chest!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So if I kill someone and take their keys, I can use them myself?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "...Eh, if you wanna think about it that way, sure."
+            },
+            {
+              "speaker": "Skully",
+              "text": "I got nothing better to do, so I'll keep track of the value of the stuff you unlock."
+            },
+            {
+              "speaker": "Skully",
+              "text": "And anything you don't want, you can have the chest destroy it."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Except the food. I'll eat that instead."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Now, if you want your own keys instead of relying on the misfortune of others, I can put the enchantment on you as well, but it's gonna cost ya."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I have access to the chest?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "So, if you have keys from someone else, you're more than welcome to put them in the chest and see what comes out."
+            },
+            {
+              "speaker": "Skully",
+              "text": "If you want the enchantment that makes the keys, I'm afraid it's gonna cost you 1 million coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, I'll pay for that."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Are you sure? 1 million is a lot of coins, and you won't get them back!"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Hmm... I don't think you have enough money on you there, mate."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Ok, let me just... and a bit of... and we're done! You'll now get loot keys whenever you kill someone in the Wilderness. Talk to me again if you have any questions."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Fair enough mate, talk to me again if you change your mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not right now, thanks."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Fair enough mate, want to talk about something else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "How much?!"
+            },
+            {
+              "speaker": "Skully",
+              "text": "1 million coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why do you charge so much?!"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Runes. People don't wanna deliver across the Wilderness, and I'm in no shape to go to them, so I have to pay through the nose."
+            },
+            {
+              "speaker": "Skully",
+              "text": "I make maybe a couple hundred coins of profit, which at least lets me buy a few beers."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why is the beer so cheap if it's so expensive to get deliveries out here?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "The barman makes it himself with whatever scraps he can get his hands on."
+            },
+            {
+              "speaker": "Skully",
+              "text": "You'd think it'd turn out horrible, but compared to every other 2 coin beer out there, it's not half bad."
+            },
+            {
+              "speaker": "Skully",
+              "text": "But enough about beer. If you want access to the loot keys, it's gonna cost you 1 million coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I change how these loot keys work?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Well, I can turn the enchantment that creates the loot keys on and off for you. Won't cost you anything to turn it back on again, either."
+            },
+            {
+              "speaker": "Skully",
+              "text": "If you'd like it so stuff like food and potions stay out of the keys so you can use them yourself, I can do that too."
+            },
+            {
+              "speaker": "Skully",
+              "text": "And if you like the feeling of picking up valuables, I can make it so that anything above a certain value hits the floor as well."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Ok, whenever you kill someone else now, their items will go to the floor like normal. Just remember, they could have loot keys on them, and they'll still go to your inventory!"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Ok, you'll now get loot keys when you kill another person in the Wilderness."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Ok, food and potions will now be dropped to the floor instead of stored in a loot key."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Ok, food and potions will now be sent to your loot keys."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Ok, valuable items will now be dropped to the floor instead of stored in a loot key."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Ok, valuable items will now be sent to your loot keys."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Currently, if you were to have valuable items drop to the floor, they'd need to be worth at least [number]gp. What do you want to change that value to?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Hmph. Yeah, real funny, wise guy."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Ok, now items worth at least [entered amount]gp will drop to the floor."
+            },
+            {
+              "speaker": "Player",
+              "text": "How much loot have I claimed?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Well, seeing as you haven't claimed a key yet, I reckon you've claimed a total of 0gp worth of loot."
+            },
+            {
+              "speaker": "Skully",
+              "text": "You've claimed 1 key, containing loot worth about [number]gp. I haven't seen you destroy anything of value yet, though."
+            },
+            {
+              "speaker": "Skully",
+              "text": "You've claimed 1 key, containing loot worth about [number]gp, and you destroyed everything of value."
+            },
+            {
+              "speaker": "Skully",
+              "text": "You've claimed [number] keys, containing loot worth about [number]gp. I haven't seen you destroy anything of value yet, though."
+            },
+            {
+              "speaker": "Skully",
+              "text": "You've claimed [number] keys, containing loot worth about [number]gp. You've destroyed [number]gp worth of it."
+            },
+            {
+              "speaker": "Skully",
+              "text": "You've claimed [number] keys, containing loot worth about [number]gp, and you destroyed everything of value."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you, exactly?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Ah, used to be an adventurer like you, I guess. Used to roam the world, killing monsters for a living. 'Cept then, I discovered the Wilderness."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Used to take on anyone and everyone who stood in me way, and made myself a small fortune doing it too."
+            },
+            {
+              "speaker": "Skully",
+              "text": "It's how I got the name, used to go anywhere and everywhere with a skull over my head!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So how'd you end up like... this?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Ah, you live a life feeding on others, eventually something higher up the food chain finds you."
+            },
+            {
+              "speaker": "Skully",
+              "text": "I used to have a hidden outpost out near the Bone Yard, somewhere to keep my stuff in an emergency. One day all I come back to is a smouldering pile of rubble."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Next thing I know, someone's snuck up behind me and has put a spear through my back."
+            },
+            {
+              "speaker": "Player",
+              "text": "And you survived?!"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Always carry a ring of life, friend! Never know when you'll need it."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Still, the damage was done. Everything I ever owned up in smoke, and even though the wound's fully healed, I can still feel that spear in my back to this day."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Thankfully, Ferox was kind enough to take me in, and I managed to repurpose some of my old storage magic for adventurers like you."
+            },
+            {
+              "speaker": "Player",
+              "text": "But why come back to the Wilderness?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "What, go life a normal life behind a shop counter so I can pedal swamp paste for a living instead? I'll pass!"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Anyhow, enough about me. What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Skully",
+              "text": "I'll be here if you need anything."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ironman dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Skully",
+              "text": "Eyup. They call me Skully. I run this Wilderness Loot Chest. What can I do for you?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Well, you know how when you kill someone all of their stuff just ends up in a pile on the floor and it's really hard to pick it all up quickly?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeah?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "So, I made an enchantment that teleports the loot to another dimension instead!"
+            },
+            {
+              "speaker": "Player",
+              "text": "How does that help?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Well, instead of getting a pile of rubbish, you get a single key. You just take the key to this chest and BAM! There's your loot!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So the loot is safe in this other dimension?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "Eh, seems like it. As long as they've had the key, I've never had anyone unable to get the stuff back out. Though if you lose the key, you can't get the stuff out."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Oh, and be careful running about with too many keys on you. Other people will know you've got them, and I'm not gonna stop them opening the chest!"
+            },
+            {
+              "speaker": "Player",
+              "text": "So if I kill someone and take their keys, I can use them myself?"
+            },
+            {
+              "speaker": "Skully",
+              "text": "...Eh, if you wanna think about it that way, sure."
+            },
+            {
+              "speaker": "Skully",
+              "text": "I know you Iron people are weird about taking other people's stuff, so if you just wanna have the chest destroy it all, that's fine by me."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Except the food. I'm eating that instead."
+            },
+            {
+              "speaker": "Skully",
+              "text": "Now, if you want your own keys instead of relying on the misfortune of others, I can put the enchantment on you as well, but it's gonna cost ya."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Interacting with Skully in Deadman Mode",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Skully",
+              "text": "Sorry mate, can't run the Loot Chest on a Deadman World."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

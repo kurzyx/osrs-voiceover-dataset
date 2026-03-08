@@ -1,0 +1,83 @@
+{
+  "ref": "willow-below-ice-mountain-",
+  "categoryRef": "npc",
+  "title": "Willow (Below Ice Mountain)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Near the Dwarven Mine",
+          "sections": [
+            {
+              "title": "Before starting Below Ice Mountain",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there. What are you doing all the way out here?"
+                    },
+                    {
+                      "speaker": "Willow",
+                      "text": "Nothing you need to worry about."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "At Nardah",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So this is where you scampered off to after the monster awoke?"
+                },
+                {
+                  "speaker": "Willow",
+                  "text": "Look [player name], it was a simple misunderstanding, that's all..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh really? You threatening to kill me was just a misunderstanding?"
+                },
+                {
+                  "speaker": "Willow",
+                  "text": "Things got a little heated down there, but we all made it out alive, right?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Barely... I had to defeat that monster on my own!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing out here, anyway?"
+                },
+                {
+                  "speaker": "Willow",
+                  "text": "We thought you'd rat us out to the authorities, so we came out here to hide."
+                },
+                {
+                  "speaker": "Willow",
+                  "text": "Plus, we heard there are some sealed tombs in the desert that haven't been touched in hundreds of years..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah, of course... scoping out your next grave to rob."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

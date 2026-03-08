@@ -1,0 +1,73 @@
+{
+  "ref": "ogre-guard",
+  "categoryRef": "npc",
+  "title": "Ogre guard",
+  "sections": [
+    {
+      "title": "Watchtower Standard dialogue",
+      "sections": [
+        {
+          "title": "North-west guards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Stop, creature! Only ogres and their friends allowed in this city. Show me a sign of companionship, like a lost relic or somefing, and you may pass."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Until then, back to whence you came!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "East guards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Halt! You cannot pass here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am a friend to ogres."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "You will be my friend only with gold. Bring me a bar of pure gold and I will let you pass."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Creature, did you bring me the gold?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I don't have it."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "No gold, no passage. Get out of this city!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here it is!"
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "It's brought it! On your way."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

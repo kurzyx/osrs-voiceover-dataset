@@ -1,0 +1,105 @@
+{
+  "ref": "sbott",
+  "categoryRef": "npc",
+  "title": "Sbott",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "With hides in inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sbott",
+                  "text": "Hello stranger. Would you like me to tan any hides for you?"
+                },
+                {
+                  "speaker": "Sbott",
+                  "text": "Soft leather - 2 gp per hide Hard leather - 5 gp per hide Snakeskins - 25 gp per hide Dragon leather - 45 gp per hide."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why are you so expensive? The tanner in Al-Kharid is almost half the price!"
+                },
+                {
+                  "speaker": "Sbott",
+                  "text": "Hey, I charge more because I'm worth it! I deal in bulk, and I work extremely quickly. You'll see for yourself!"
+                },
+                {
+                  "speaker": "Sbott",
+                  "text": "You got a lot of hides you want tanning quickly? I'm your guy!"
+                },
+                {
+                  "speaker": "Sbott",
+                  "text": "So you got hides for me to tan, or are you just gonna bust my chops about prices all day?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I'm not interested."
+                },
+                {
+                  "speaker": "Sbott",
+                  "text": "Okay; you change your mind, you come see me. I'm your guy!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Without hides in inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sbott",
+                  "text": "Hello stranger. Would you like me to tan any hides for you?"
+                },
+                {
+                  "speaker": "Sbott",
+                  "text": "Soft leather - 2 gp per hide Hard leather - 5 gp per hide Snakeskins - 25 gp per hide Dragon leather - 45 gp per hide."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why are you so expensive? The tanner in Al-Kharid is almost half the price!"
+                },
+                {
+                  "speaker": "Sbott",
+                  "text": "Hey, I charge more because I'm worth it! I deal in bulk, and I work extremely quickly. You'll see for yourself!"
+                },
+                {
+                  "speaker": "Sbott",
+                  "text": "You got a lot of hides you want tanning quickly? I'm your guy!"
+                },
+                {
+                  "speaker": "Sbott",
+                  "text": "So you got hides for me to tan, or are you just gonna bust my chops about prices all day?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I haven't any hides."
+                },
+                {
+                  "speaker": "Sbott",
+                  "text": "Fair enough. I can't tan what you don't bring me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I haven't any hides."
+                },
+                {
+                  "speaker": "Sbott",
+                  "text": "Fair enough. I can't tan what you don't bring me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

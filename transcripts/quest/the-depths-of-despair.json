@@ -1,0 +1,840 @@
+{
+  "ref": "the-depths-of-despair",
+  "categoryRef": "quest",
+  "title": "The Depths of Despair",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "Talking to Lord Hosidius again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Lord Kandur Hosidius",
+                  "text": "Hello there. Have you found my son yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Lord Kandur Hosidius",
+                  "text": "I suggest you begin your search by talking to my family and servants. One of them might know where he's gone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Butler Jarvis",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Butler Jarvis",
+                  "text": "Good day, [sir/madam]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello. I'm helping Lord Hosidius find his missing son. I was wondering if you could help me."
+                },
+                {
+                  "speaker": "Butler Jarvis",
+                  "text": "I'm afraid I know not where Artur has gone. I do not speak to him much. He keeps himself to himself."
+                },
+                {
+                  "speaker": "Butler Jarvis",
+                  "text": "However, I've noticed him speaking to Olivia before. Maybe she can help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Butler Jarvis again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Butler Jarvis",
+                  "text": "Good day [sir/madam]. I hope your quest is going well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Elena Hosidius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. I..."
+                },
+                {
+                  "speaker": "Elena Hosidius",
+                  "text": "You're the one helping to find our son."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes I..."
+                },
+                {
+                  "speaker": "Elena Hosidius",
+                  "text": "It's good that you're here to help. Artur is a good lad, but he does have a habit of biting off more than he can chew."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was wondering if..."
+                },
+                {
+                  "speaker": "Elena Hosidius",
+                  "text": "He's meant for greatness you know. He'll be a king one day."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't you mean..."
+                },
+                {
+                  "speaker": "Elena Hosidius",
+                  "text": "Lord. I meant to say lord. Now be on your way. Artur needs your help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Chef Olivia",
+          "sections": [
+            {
+              "title": "Talking to Chef Olivia again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Chef Olivia",
+                      "text": "Please bring Artur back."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Where should I be looking again?"
+                    },
+                    {
+                      "speaker": "Chef Olivia",
+                      "text": "He's been spending a lot of time in the Arceuus Library. He mentioned a librarian called Galana. Maybe she can help you."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thank you."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, I'm helping Lord Hosidius find his missing son. I was wondering if you had any idea where he might have gone?"
+                },
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "I'm sorry, but I don't know anything."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you sure?"
+                },
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "Well... I err..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err?"
+                },
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "Oh this is awful. Please don't tell Lord Hosidius. He'll fire me if he finds out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Calm down, you have nothing to fear from me. I just want to help find Artur. Do you know where he is?"
+                },
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "Artur and I, we're..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're in love aren't you?"
+                },
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "Yes..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well don't worry, your secret is safe with me."
+                },
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "Thank you. Before he went missing, Artur told me he was going to find the original copy of the Royal Accord of Twill. That's where he will have gone."
+                },
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "He's been spending a lot of time in the Arceuus Library recently, researching the Accord. He mentioned a librarian called Galana. Maybe she can help you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you."
+                },
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "Please bring Artur back."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Lord Kandur Hosidius",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Lord Kandur Hosidius",
+              "text": "I am Lord Kandur Hosidius, ruler of this city. Who are you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm [player name]."
+            },
+            {
+              "speaker": "Lord Kandur Hosidius",
+              "text": "Pleased to meet you [player name]. It is a shame we could not meet in better circumstances."
+            },
+            {
+              "speaker": "Player",
+              "text": "Anything I can help you with?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Anything I can help you with?"
+            },
+            {
+              "speaker": "Lord Kandur Hosidius",
+              "text": "Our family is in dire need of assistance. Alas, I do not feel I can trust you enough to involve you in this."
+            },
+            {
+              "speaker": "Lord Kandur Hosidius",
+              "text": "Our family is in dire need of assistance. My eldest son, Artur, has gone missing and we could desperately use some help in finding him."
+            },
+            {
+              "speaker": "Lord Kandur Hosidius",
+              "text": "Would you be willing to assist us? You will be rewarded if you bring him home safe."
+            },
+            {
+              "speaker": "Player",
+              "text": "I can help. What do you need me to do?"
+            },
+            {
+              "speaker": "Lord Kandur Hosidius",
+              "text": "Thank you friend. I suggest you begin your search by talking to my family and servants. One of them might know where Artur has gone."
+            },
+            {
+              "speaker": "Player",
+              "text": "No. I'm afraid I have other things to be doing."
+            },
+            {
+              "speaker": "Lord Kandur Hosidius",
+              "text": "I'm sorry to hear that. If you change your mind please return to me as soon as you can."
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Lord Kandur Hosidius",
+              "text": "Until next time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Envoy to Varlamore",
+      "sections": [
+        {
+          "title": "Talking to Galana",
+          "sections": [
+            {
+              "title": "Talking to Galana again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Could you remind me where I can find that book on the Accord?"
+                    },
+                    {
+                      "speaker": "Galana",
+                      "text": "Try the [top/middle/bottom] floor, [north/south] [eastern/western] bay."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thank you."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Galana",
+                  "text": "Do you need something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for information on the Royal Accord of Twill."
+                },
+                {
+                  "speaker": "Galana",
+                  "text": "The Royal Accord of Twill was signed by the heads of Kourend's five houses, known then as the Royal Lords. This was over a thousand years ago."
+                },
+                {
+                  "speaker": "Galana",
+                  "text": "The Accord declared that they would take over rulership of Great Kourend from the Council of Elders."
+                },
+                {
+                  "speaker": "Galana",
+                  "text": "For many years after the Accord was signed, the Royal Lords took it in turns to rule the kingdom. Each of them ruled for ten years in turn."
+                },
+                {
+                  "speaker": "Galana",
+                  "text": "Those practices have long since been abolished though and Kourend is now ruled by the Kourend Council. The original Accord has since been lost, but copies still exist in this library."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What if I wanted to find the original?"
+                },
+                {
+                  "speaker": "Galana",
+                  "text": "Many have tried and failed. You would likely have no better luck. However, if it interests you, you might wish to read The Envoy to Varlamore, by Deryk Paulson."
+                },
+                {
+                  "speaker": "Galana",
+                  "text": "It details how the original Accord was lost."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know where I can find the book?"
+                },
+                {
+                  "speaker": "Galana",
+                  "text": "Try the [top/middle/bottom] floor, [north/south] [eastern/western] bay."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the appropriate bookshelf",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Entering the cave",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Entering the crevice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Crossing the stepping stone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Crikey!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Climbing the rocks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ouch!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Climbing down the tunnel entrance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Artur Hosidius",
+          "sections": [
+            {
+              "title": "Talking to Artur Hosidius again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Artur Hosidius",
+                      "text": "Have you killed that snake yet?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not yet."
+                    },
+                    {
+                      "speaker": "Artur Hosidius",
+                      "text": "The sooner you kill it, the sooner I can head home."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "Hello. I wasn't expecting to see anyone else down here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you Artur Hosidius?"
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "That's me. Who are you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm [player name]. Your father sent me to find you. He's worried about you."
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "He really shouldn't worry, I'm fine. I'll head home as soon as I've finished here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well could I help speed things along in some way? I promised him I'd get you home."
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "Now that you mention it, I could use some help. There's a chest in the next cave with something important in it. It's got a big snake guarding it though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "By something important do you mean the Royal Accord of Twill?"
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "How did you know that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you think I found you?"
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "Oh. Well as you already seem to know, yes I'm here looking for the Royal Accord of Twill. I think it's in that chest, but the snake is in the way. Could you kill it for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can't you do it yourself?"
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "I tried, but I'm not very good at fighting."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Typical. Fine, I'll kill the snake. Just wait here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Artur Hosidius after killing the snake",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "It's dead."
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "Great. Now we just need to empty that chest. Would you mind?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fine. Wait here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Looting the chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After emptying the Chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've emptied that chest."
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "And?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found the Accord."
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "Great! Hand it over then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet. You'll get it once you've returned home."
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "Eugh. Fine, I'll go home. But you'd better not run off with the Accord."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why do you want the Accord anyway?"
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "Why wouldn't I want it? The signing of the Accord marked the start of a golden age. Once the Royal Lords replaced the Council of Elders, Kourend prospered like never before."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But that was a long time ago. Why does it matter now?"
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "Because I think it's time for another golden age. The Kourend Council, like the Council of Elders before them, have failed to do a good job in running this kingdom."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And you think the five houses would do a better job?"
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "Exactly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What makes you say the Council have done a bad job?"
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "More crime. Fewer homes. More illness. Loss of jobs. The list goes on."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But aren't the five houses partially to blame as well? They rule the cities."
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "The Council sets the laws and the Council sets the budgets. We have to do as they say, just like everyone else."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmmm, fair enough. Anyway, we'd better get off."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough. Now let's be off."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I won't. Now let's get going."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Climbing up the rope",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Climbing out of the caves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finishing up",
+      "sections": [
+        {
+          "title": "Talking to Artur",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again Artur."
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "Hello [player name]. Thanks for your help in recovering the Accord."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No problem."
+                },
+                {
+                  "speaker": "Artur Hosidius",
+                  "text": "You should talk to my father. He will probably want to reward you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Chef Olivia after Artur returns",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "Thank you for bringing Artur home safe."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Butler Jarvis after Artur returns",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Butler Jarvis",
+                  "text": "Good day [sir/madam]. On behalf of the Hosidius family, I thank you for bringing Artur home."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Elena Hosidius after Artur returns",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elena Hosidius",
+                  "text": "Thank you for finding our son. You've done this kingdom a great service."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's no..."
+                },
+                {
+                  "speaker": "Elena Hosidius",
+                  "text": "I do wonder if his father could have done more though. My brother would have had the entire army out searching."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your brother..."
+                },
+                {
+                  "speaker": "Elena Hosidius",
+                  "text": "My brother is Lord Shiro Shayzien. He commands the Shayzien Army. A luxury my husband doesn't have."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you..."
+                },
+                {
+                  "speaker": "Elena Hosidius",
+                  "text": "Maybe it doesn't always have to be that way. Things may well soon be different. Now be on your way, I have things to do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning to Lord Hosidius",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Lord Kandur Hosidius",
+                  "text": "Hello there. Artur is safely back home again. I hear we have you to thank for that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "All in a days work."
+                },
+                {
+                  "speaker": "Lord Kandur Hosidius",
+                  "text": "He also said that you managed to recover the original copy of the Royal Accord of Twill."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I did. I don't have it with me though."
+                },
+                {
+                  "speaker": "Lord Kandur Hosidius",
+                  "text": "Well go fetch it and bring it here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I did. I assume you'll be wanting it."
+                },
+                {
+                  "speaker": "Lord Kandur Hosidius",
+                  "text": "Yes. I'll make sure it's well looked after. Now as for that reward I promised."
+                },
+                {
+                  "speaker": "Lord Kandur Hosidius",
+                  "text": "Is there anything else I can do for you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lord Hosidius again before getting the full reward",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Lord Kandur Hosidius",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Lord Kandur Hosidius",
+                  "text": "I assume you're after that reward I promised you. Here you go."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

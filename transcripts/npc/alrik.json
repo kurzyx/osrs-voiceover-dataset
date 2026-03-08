@@ -1,0 +1,107 @@
+{
+  "ref": "alrik",
+  "categoryRef": "npc",
+  "title": "Alrik",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Alrik",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Alrik",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacking the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Alrik",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Alrik",
+                  "text": "Rahr!"
+                },
+                {
+                  "speaker": "Alrik",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Alrik",
+                  "text": "Grr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Alrik",
+                  "text": "Aargh!"
+                },
+                {
+                  "speaker": "Alrik",
+                  "text": "I'm a gonner!"
+                },
+                {
+                  "speaker": "Alrik",
+                  "text": "It's no use, I'm done for!"
+                },
+                {
+                  "speaker": "Alrik",
+                  "text": "Uggh!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

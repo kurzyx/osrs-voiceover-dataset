@@ -1,0 +1,47 @@
+{
+  "ref": "berry-woodcutting-guild-",
+  "categoryRef": "npc",
+  "title": "Berry (Woodcutting Guild)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Berry",
+              "text": "Good day, adventurer. If you have any questions, I'm sure Lars will be more than happy to answer them. He's in the building to the south."
+            },
+            {
+              "speaker": "Berry",
+              "text": "Also don't forget to visit my sister's axe shop. She works in the same building as Lars."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When entering the Woodcutting Guild",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Berry",
+              "text": "Welcome to the Woodcutting Guild, adventurer."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

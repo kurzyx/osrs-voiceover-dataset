@@ -1,0 +1,63 @@
+{
+  "ref": "sigmund",
+  "categoryRef": "npc",
+  "title": "Sigmund",
+  "sections": [
+    {
+      "title": "Before Rune Mysteries",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sigmund",
+              "text": "Can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have any quests for me?"
+            },
+            {
+              "speaker": "Sigmund",
+              "text": "I hear the Duke has a task for an adventurer. Otherwise, if you want to make yourself useful, there are always evil monsters to slay."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, I might just do that."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Sigmund",
+              "text": "I'm the Duke's advisor."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you give me any advice then?"
+            },
+            {
+              "speaker": "Sigmund",
+              "text": "I only advise the Duke. But if you want to make yourself useful, there are evil goblins to slay on the other side of the river."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Lost Tribe",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sigmund",
+              "text": "...And I would have gotten away with it too, if it wasn't for that pesky adventurer!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

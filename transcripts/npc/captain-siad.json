@@ -1,0 +1,63 @@
+{
+  "ref": "captain-siad",
+  "categoryRef": "npc",
+  "title": "Captain Siad",
+  "sections": [
+    {
+      "title": "Standard dialogue after The Tourist Trap",
+      "sections": [
+        {
+          "title": "Historical",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "How is the camp holding up?"
+            },
+            {
+              "speaker": "Captain Siad",
+              "text": "The whole place is falling apart, to be honest. I'd jump at the chance to shut it all down for good."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why don't you leave this camp and join my crew?"
+            },
+            {
+              "speaker": "Captain Siad",
+              "text": "Your crew? As in, go back to sailing?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Of course!"
+            },
+            {
+              "speaker": "Captain Siad",
+              "text": "It's tempting, but you don't look like you'd last a day on the high seas."
+            },
+            {
+              "speaker": "Captain Siad",
+              "text": "I can't see how I could refuse an offer like that! Let's get to it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Captain Siad",
+              "text": "Until next time."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "ref": "bandit-bandit-camp-",
+  "categoryRef": "npc",
+  "title": "Bandit (Bandit Camp)",
+  "sections": [
+    {
+      "title": "Before Desert Treasure I",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bandit",
+              "text": "Get out of this village. You are not welcome here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing Desert Treasure I",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bandit",
+              "text": "So you're the one who freed Azzanadra from his prison? Thank you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "If the player is wearing a Saradomin item",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bandit",
+                  "text": "Time to die, Saradominist filth!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is wearing a Zamorakian item",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bandit",
+                  "text": "Prepare to suffer, Zamorakian scum!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player attacks another bandit",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bandit",
+                  "text": "You chose the wrong place to start trouble!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player fails to pick a bandit's pocket",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bandit",
+                  "text": "You dare steal from me?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

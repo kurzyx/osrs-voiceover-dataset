@@ -1,0 +1,134 @@
+{
+  "ref": "council-workman",
+  "categoryRef": "npc",
+  "title": "Council workman",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "When using a beer or beer tankard on the workman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Council workman",
+                  "text": "A bit early in the day fer that ain't it?"
+                },
+                {
+                  "speaker": "Council workman",
+                  "text": "Ta very much, like. That'll hit the spot nicely. Here, you can have this. I picked it up as a souvenir on me last hols."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is it?"
+                },
+                {
+                  "speaker": "Council workman",
+                  "text": "I dunno rightly, but if you use a tinderbox on it, it don't half make a loud noise!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using another type of ale on the workman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Council workman",
+                  "text": "No ta, not my brand of beer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using a jug of wine on the workman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Council workman",
+                  "text": "No ta, not a big wine fan, me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When using a bottled drink on the workman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Council workman",
+                  "text": "A bit early in the day fer that ain't it?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Council workman",
+              "text": "How do. You planning on crossing this here bridge and heading up to Rellekka then?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, actually I was."
+            },
+            {
+              "speaker": "Council workman",
+              "text": "Aye, 'tis a good thing we fixed this 'ere bridge, I reckon. You best be careful up there. Them Fremenniks are odd 'uns."
+            },
+            {
+              "speaker": "Player",
+              "text": "So you fixed this bridge yourself?"
+            },
+            {
+              "speaker": "Council workman",
+              "text": "Aye, that I did. 'Twas real thirsty work too. If only some kind stranger would buy us a bit of beer to sup, eh?"
+            },
+            {
+              "speaker": "Council workman",
+              "text": "What with that inn at seers so close by and all, eh?"
+            },
+            {
+              "speaker": "Council workman",
+              "text": "Just make sure yer don't get me none of that non alcoholic rubbish from that poison salesman guy at the tavern!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I wasn't planning on it, no."
+            },
+            {
+              "speaker": "Council workman",
+              "text": "Aye, that's what I told t'gaffer. Nobody wants to go up and hang out with a buncha dumb barbarians when there's a perfectly good inn to sup in, in t'seers village."
+            },
+            {
+              "speaker": "Council workman",
+              "text": "Ain't much better in life than having a nice cold beer to sup on a hot day like this, eh? Better'n fixing bridges, eh?"
+            },
+            {
+              "speaker": "Council workman",
+              "text": "Just make sure yer don't get me none of that non alcoholic rubbish from that poison salesman guy at the tavern!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

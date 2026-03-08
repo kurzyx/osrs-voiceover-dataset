@@ -1,0 +1,172 @@
+{
+  "ref": "gnome-trainer",
+  "categoryRef": "npc",
+  "title": "Gnome trainer",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello how are you?"
+            },
+            {
+              "speaker": "Gnome trainer",
+              "text": "I'm amazed by how much humans chat. The sign over there says training area, not pointless conversation area."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello, what is this place?"
+            },
+            {
+              "speaker": "Gnome trainer",
+              "text": "This, my friend, is where we train. Here we improve our agility. It's an essential skill."
+            },
+            {
+              "speaker": "Player",
+              "text": "It looks easy enough."
+            },
+            {
+              "speaker": "Gnome trainer",
+              "text": "If you complete the course in order from the slippery log to the end, your agility will increase much faster than by repeating just one obstacle."
+            },
+            {
+              "speaker": "Player",
+              "text": "This is fun!"
+            },
+            {
+              "speaker": "Gnome trainer",
+              "text": "This is training soldier. If you want fun go make some cocktails."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Gnome trainer",
+              "text": "This isn't a grannies' tea party, let's see some sweat human. Go! Go! Go!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When crossing the log balance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome trainer",
+                  "text": "Okay get over that log, quick quick!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When climbing over the obstacle net",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome trainer",
+                  "text": "Move it, move it, move it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When climbing up the tree branch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome trainer",
+                  "text": "That's it - straight up"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When balancing over the rope",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome trainer",
+                  "text": "Come on scaredy cat, get across that rope!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When climbing over the net",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome trainer",
+                  "text": "My Granny can move faster than you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "While holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Gnome trainer",
+                      "text": "My baby sister can do puzzles better than that!"
+                    },
+                    {
+                      "speaker": "Gnome trainer",
+                      "text": "Excellent work!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome trainer",
+                  "text": "You're not done yet! Do this for me!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

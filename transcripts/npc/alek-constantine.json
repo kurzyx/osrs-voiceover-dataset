@@ -1,0 +1,44 @@
+{
+  "ref": "alek-constantine",
+  "categoryRef": "npc",
+  "title": "Alek Constantine",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Alek Constantine",
+                  "text": "Human! Get back to the slave pens before I call the guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Alek Constantine",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "[Vampyre name]."
+            },
+            {
+              "speaker": "Alek Constantine",
+              "text": "Not the one I'm expecting. Move along."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

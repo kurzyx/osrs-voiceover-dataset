@@ -1,0 +1,44 @@
+{
+  "ref": "child",
+  "categoryRef": "npc",
+  "title": "Child",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "While wearing full Mourner gear",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Child",
+                  "text": "I'm not allowed to speak with Mourners."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Child",
+              "text": "I'm not allowed to speak with strangers."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

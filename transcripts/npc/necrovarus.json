@@ -1,0 +1,81 @@
+{
+  "ref": "necrovarus",
+  "categoryRef": "npc",
+  "title": "Necrovarus",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting Ghosts Ahoy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Necrovarus",
+                  "text": "Speak to me again and I will rend the soul from your flesh."
+                },
+                {
+                  "speaker": "Necrovarus",
+                  "text": "Nobody speaks to me unless I speak to them!!!"
+                },
+                {
+                  "speaker": "Necrovarus",
+                  "text": "I do not answer questions, mortal fool!!"
+                },
+                {
+                  "speaker": "Necrovarus",
+                  "text": "I will answer questions when you are dead!!"
+                },
+                {
+                  "speaker": "Necrovarus",
+                  "text": "You dare to speak to me??? Have you lost your wits????"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened to everyone here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I get into the town?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the completion of Ghosts Ahoy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Told you I'd defeat you, Necrovarus. My advice to you is to pass over to the next world yourself with everybody else."
+                },
+                {
+                  "speaker": "Necrovarus",
+                  "text": "I should fry you for what you have done..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Quiet, evil priest!! If you try anything I will command you again, but this time it will be throw yourself into the Endless Void for the rest of eternity."
+                },
+                {
+                  "speaker": "Necrovarus",
+                  "text": "Please no! I will do whatever you say!!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

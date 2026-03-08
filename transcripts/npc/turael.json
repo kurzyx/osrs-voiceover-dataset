@@ -1,0 +1,351 @@
+{
+  "ref": "turael",
+  "categoryRef": "npc",
+  "title": "Turael",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "First time speaking to Turael",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Who are you?"
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "I'm one of the elite Slayer Masters."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's a slayer?"
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Oh dear, what do they teach you in school?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... er..."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "I suppose I'll have to educate you then. A slayer is someone who is trained to fight specific creatures. They know these creatures' every weakness and strength. As you can guess it makes killing them a lot easier."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never heard of you..."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "That's because my foe never lives to tell of me. We slayers are a dangerous bunch."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow, can you teach me?"
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Hmmm well I'm not so sure..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Pleeeaasssse!"
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Oh okay then, you twisted my arm. You'll have to train against specific groups of creatures."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, what's first?"
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "We'll start you off hunting [monster name], you'll need to kill [number] of them."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "You'll also need this enchanted gem, it allows Slayer Masters like myself to contact you and update you on your progress. Don't worry if you lose it, you can buy another from any Slayer Master."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, great!"
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Good luck! Don't forget to come back when you need a new assignment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds useless to me."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Suit yourself."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent visits to Turael",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Turael",
+                  "text": "'Ello, and what are you after then?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need another assignment."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "You're actually very strong, are you sure you don't want Chaeldar in Zanaris to assign you a task?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No that's okay, I'll take a task from you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh okay then, I'll go talk to Chaeldar."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Excellent, you're doing great. Your new task is to kill [amount] [task monster]."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "You're still hunting [task monster], you have [amount] to go."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Although, it's not an assignment that I'd normally give... I guess I could give you a new assignment, if you'd like."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "If you do get a new one, you will reset your standard task streak of [task streak amount]. Is that okay? It won't affect your Wilderness task streak of [task streak amount]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "You're still hunting [monster], with [amount] to go."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "I don't think that's a suitable task for you. Shall I cancel it? This will not wipe your task streaks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please cancel it."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Alright, consider the task cancelled. You can now get a new assignment when you want one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks, I want to try doing it."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Good luck with that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you any rewards for me, or anything to trade?"
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "I have quite a few rewards you can earn, and a wide variety of Slayer equipment for sale."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's talk about the difficulty of my assignments."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "The Slayer Masters may currently assign you any task in our lists, regardless of your combat level."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's fine - I can handle any task."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "That's the spirit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "In future, please don't give anything too tough."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Okay, from now on, all the Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "The Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's fine - I don't want anything too tough."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Okay, we'll keep checking your combat level."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stop checking my combat level - I can take anything!"
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Okay, from now on, all the Slayer Masters will assign you anything from their lists, regardless of your combat level."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello, I'm here about the blessed axe again."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "I suppose you want a new axe?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, yes."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "You'll need to hand over both a mithril axe and holy symbol of Saradomin. You don't have an axe in your pack, so I'm not able to help."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Here's the replacement; be more careful with this one, eh?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not right now."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Goodbye, then. You may, of course, return if you decide you want a new axe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello, I'm here about the blessed axe again."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "You already have an axe in your bag but you want another?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, yes."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "You'll need to hand over both a mithril axe and holy symbol of Saradomin. You don't have an axe in your pack, so I'm not able to help."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Here's the replacement; be more careful with this one, eh?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not right now."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Goodbye, then. You may, of course, return if you decide you want a new axe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... Nothing..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Via the NPC Contact spell",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Turael",
+              "text": "'Ello, can I help you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Turael",
+                  "text": "Very well done, take this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical",
+      "sections": [
+        {
+          "title": "Before Update:Game Improvements (26 March 2020)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello?"
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "'Ello, who's that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm [player name]. I'm using my magic to communicate with you."
+                },
+                {
+                  "speaker": "Turael",
+                  "text": "Bizarre, go on, what do you want then?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

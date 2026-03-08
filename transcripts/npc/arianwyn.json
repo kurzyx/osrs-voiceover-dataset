@@ -1,0 +1,60 @@
+{
+  "ref": "arianwyn",
+  "categoryRef": "npc",
+  "title": "Arianwyn",
+  "sections": [
+    {
+      "title": "Talking to Arianwyn before starting Mourning's End Part I",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Arianwyn",
+              "text": "How did you get in here? You must leave."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Mourning's End Part II",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello Arianwyn, how's it going?"
+            },
+            {
+              "speaker": "Arianwyn",
+              "text": "I am well [player name], yourself?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not bad thanks, any news on Lord Iorwerth?"
+            },
+            {
+              "speaker": "Arianwyn",
+              "text": "Not yet, I will try to send word if we find out anything new."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh okay, well see you then."
+            },
+            {
+              "speaker": "Arianwyn",
+              "text": "Until next time, [player name]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Song of the Elves",
+      "sections": [],
+      "dialogues": []
+    }
+  ]
+}

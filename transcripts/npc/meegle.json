@@ -1,0 +1,59 @@
+{
+  "ref": "meegle",
+  "categoryRef": "npc",
+  "title": "Meegle",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "So what do you do?"
+            },
+            {
+              "speaker": "Meegle",
+              "text": "I breed Terrorbirds."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are they called Terrorbirds?"
+            },
+            {
+              "speaker": "Meegle",
+              "text": "Well, they're supposed to look terrifying but I think they are rather cute."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sure they are cute, unless they are biting your arm off."
+            },
+            {
+              "speaker": "Meegle",
+              "text": "Oh they'd never do that - unless I tell them to, of course."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd better stay on your good side then!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gnome Restaurant delivery",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Meegle",
+              "text": "Ah, just in time for a break. Thank you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

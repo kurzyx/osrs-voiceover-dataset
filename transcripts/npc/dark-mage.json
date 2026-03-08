@@ -1,0 +1,186 @@
+{
+  "ref": "dark-mage",
+  "categoryRef": "npc",
+  "title": "Dark Mage",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Post-quest dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dark Mage",
+                  "text": "Can I help you with something, traveller? I am experimenting with dark magic; it is a dangerous craft, and I prefer not to be disturbed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll leave you to it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you recharge my Staff of Iban?"
+                },
+                {
+                  "speaker": "Dark Mage",
+                  "text": "Your staff is already as fully charged as it can go."
+                },
+                {
+                  "speaker": "Dark Mage",
+                  "text": "I'll want 100,000 coins to recharge the Staff of Iban."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you recharge my Staff of Iban?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you upgrade my Staff of Iban?"
+                },
+                {
+                  "speaker": "Dark Mage",
+                  "text": "Hah! Yes, I can upgrade it to hold 2500 charges, enough to cast Iban's magic 2500 times at monsters or 1250 times at people like you. That'll cost you 200,000 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, I'll bear it in mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you repair my broken Staff of Iban?"
+                },
+                {
+                  "speaker": "Dark Mage",
+                  "text": "The Staff of Iban holds dangerous magic, traveller. I can fix it, but it will cost you - the process could kill me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How much?"
+                },
+                {
+                  "speaker": "Dark Mage",
+                  "text": "200,000 coins. That'll give it 120 charges, enough to cast Iban's magic 120 times at monsters or 60 times at people like you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's 200,000 coins. Please repair the staff."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, I appreciate that."
+                },
+                {
+                  "speaker": "Dark Mage",
+                  "text": "You be careful with that thing!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you make it hold more than 120 charges?"
+                },
+                {
+                  "speaker": "Dark Mage",
+                  "text": "Hah! Yes, I can upgrade it to hold 2500 charges, enough to cast Iban's magic 2500 times at monsters or 1250 times at people like you. That'll cost you 400,000 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, I'll bear it in mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll leave you to it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Dark Mage",
+              "text": "Why do you interrupt me, traveller? I am experimenting with dark magic; it is a dangerous craft, and I prefer not to be disturbed."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm just looking around."
+            },
+            {
+              "speaker": "Dark Mage",
+              "text": "There's nothing to see here, just despair and death."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Staves dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Staaaaaaaaves!"
+            },
+            {
+              "speaker": "Dark Mage",
+              "text": "Traveller, I have no idea what you are talking about. If you want my help with staves, perhaps you should show me one."
+            },
+            {
+              "speaker": "Dark Mage",
+              "text": "Your staff is already as fully charged as it can go."
+            },
+            {
+              "speaker": "Dark Mage",
+              "text": "I'll want 100,000 coins to recharge the Staff of Iban."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you recharge my Staff of Iban?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you upgrade my Staff of Iban?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using an Iban's staff on Dark Mage",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Using a broken Iban's staff on Dark Mage",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Using other items on the Dark Mage",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Dark Mage",
+              "text": "Your items interest me not, traveller."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "ref": "gulldamar",
+  "categoryRef": "npc",
+  "title": "Gulldamar",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gulldamar",
+              "text": "Finest silver in all of Keldagrim, come and see!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Right, what do you have?"
+            },
+            {
+              "speaker": "Gulldamar",
+              "text": "Silver, what else!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Catching the player trying to steal from his silver stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gulldamar",
+                  "text": "That's my silver!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with him after stealing from his silver stall recently",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gulldamar",
+                  "text": "Halt, thief!"
+                },
+                {
+                  "speaker": "Gulldamar",
+                  "text": "Guards, catch that thief!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "ref": "evil-bob",
+  "categoryRef": "npc",
+  "title": "Evil Bob",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Prison Pete version",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Do you wanna meet my pet? His name's Pete. Or has this amulet of humanspeak broken again?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Island version",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Hey, [player name], come with me if you like fishing! Or has this amulet of humanspeak broken again?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When talking to another player's Evil Bob event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After losing interest or in an area where random events are disallowed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "In ScapeRune Prison Room",
+      "sections": [
+        {
+          "title": "Continuation after getting teleported",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "So you've been captured too?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Captured?"
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Yes, Evil Bob captured me and stuck me in this prison."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I get out of here? I can't be held captive by a cat!"
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Some of these balloon animals have keys in them, and if you pull the big lever it tells you which shape animal contains the correct key, but I can never find it."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "You need to pull the lever to find out which shape animal contains the key, then pop that sort of animal to get the key."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Bring me any keys you get and I'll try them on the doors."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I wan't to leave now."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Oh. Well I guess you can leave but I'll still be stuck here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When talked to again",
+          "sections": [
+            {
+              "title": "Before unlocking all gates",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "What is this place?"
+                    },
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "Don't you remember? This is ScapeRune's prison. Evil Bob caught you and brought you here."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What gives him the right to lock me up? I demand to see a lawyer! I know my rights!"
+                    },
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "Evil Bob doesn't care about people's rights. He's cruel and utterly merciless. He's a cat."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How do I get out of here? I can't be held captive by a cat!"
+                    },
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "Some of these balloon animals have keys in them, and if you pull the big lever it tells you which shape animal contains the correct key, but I can never find it."
+                    },
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "You need to pull the lever to find out which shape animal contains the key, then pop that sort of animal to get the key."
+                    },
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "Bring me any keys you get and I'll try them on the doors."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How do I get out of here? I can't be held captive by a cat!"
+                    },
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "Some of these balloon animals have keys in them, and if you pull the big lever it tells you which shape animal contains the correct key, but I can never find it."
+                    },
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "You need to pull the lever to find out which shape animal contains the key, then pop that sort of animal to get the key."
+                    },
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "Bring me any keys you get and I'll try them on the doors."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After unlocking all gates",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "Come on, we should leave before Evil Bob comes back! You go first; I'll follow along."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "When trying to use the main door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Oi! we'll be using the exit that's over here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When attempting to pop a balloon animal before pulling the lever",
+          "sections": [
+            {
+              "title": "Before unlocking all gates",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "You're meant to pull the lever to find out which sort of animal to pop!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After unlocking all gates",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "Come on, we should leave before Evil Bob comes back! You go first; I'll follow along."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "When pulling the lever",
+          "sections": [
+            {
+              "title": "Before unlocking all gates",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "That's right, pull it. Then remember what kind of animal shape you see. That's the animal that contains the right key."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After unlocking all gates",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Prison Pete",
+                      "text": "Come on, we should leave before Evil Bob comes back! You go first; I'll follow along."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "When popping a balloon animal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Great, now you've got a key! Bring it to me so I can try it on the doors."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Ooh, thanks! I'll see if it's the right one..."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Aww, that was the wrong key! You must have popped the wrong sort of animal. Try the big lever again - it'll tell you which animal to pop."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Hooray, you got the right one! Now pull the lever again and let's get the next portal unlocked!"
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "You did it, you got all the keys right! Thank you! You're my friend FOREVER!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's get out of here before that cat notices."
+                },
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Hey, bring me that key you've got! I wanna get out of here!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When leaving through the unlocked gates",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Thanks a lot for your help! Here, have a present:"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks! See you around!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When talking to again after leaving through the unlocked gates",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prison Pete",
+                  "text": "Don't mind me, I was just leaving..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "On Evil Bob's Island",
+      "sections": [
+        {
+          "title": "Continuation after getting teleported",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Huh?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where am I?"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "On my island."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Take me to your leader!"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "I am your leader, you are but a slave!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am not a slave, I am a free person!"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Ah-ha-ha-ha-ha-ha!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking with Evil Bob before giving him the correct raw fishlike thing",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Let me out of here!"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "I will never let you go, [player name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why not?"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Uhm..."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Because I say so! And because I can never have enough servants!"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Now catch me some fish, I'm hungry."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What fish, where?"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Talk to my other servants, and hurry it up!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it all about?"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Sit down and I'll tell you. It's a question of servant shortage."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Go on."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "You are a skilled worker. A human like you is worth a great deal as a slave."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A slave?? I will have nothing to do with you. Is that clear? Absolutely nothing."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Now be reasonable little human. It's just a matter of time before you will do everything I ask you to. Play along and this can be a very nice place."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will not make any deals with you. I'm a human. I will not be pushed, numbered, meowed at, teleported or enslaved. My life is my own."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes. You won't hold me."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Won't I?"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Let me assure you there's no way out."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Just ask my servants!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How is it possible that you're talking?"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "How is it possible that you're not meowing?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Meowing?? Why would I be meowing?"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Most humans do, that's why I'm wearing this amulet of Man speak... but I do try to train my staff in civilised speech."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Ah, but I suppose things are slightly different in your world... what a dreadful place that must be."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I'm getting a headache..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What did you do to Bob?"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Bob? I am Bob!"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Oh, you mean the Bob in your world? Nothing. I am an incarnation of Bob here on ScapeRune."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What, you mean this is... like some kind of mirror land?"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Something like that... somewhere in ScapeRune there must be a human servant called [player name]."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "But you work just as well for me! Now get to work, human! Fish for me!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon catching a fishlike thing",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to eat the fishlike thing",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using a fishlike thing on Evil Bob",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Evil Bob",
+                  "text": "What, are you giving me cooked fish? What am I going to do with that? Uncook it first!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Errr... Uncook it?"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "You heard me! There's the cold fire, by the trees, now get uncooking!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a raw fishlike thing on Evil Bob",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Evil Bob",
+                  "text": "What was this? That was absolutely disgusting!"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Don't you know what kind of fish I like? Talk to my other servants for some advice."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Mmm, mmm... that's... mmm... delicious..."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Now, let me take... a little... catnap..."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "ZZZzzz"
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Mmm, mmm... that's delicious."
+                },
+                {
+                  "speaker": "Evil Bob",
+                  "text": "Now get me another one, you no good human!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using anything else on Evil Bob",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Evil Bob",
+                  "text": "What am I to do with that? Catch me some fish, puny human!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to talk with Evil Bob while he's asleep",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Evil Bob",
+              "text": "Mew!"
+            },
+            {
+              "speaker": "Evil Bob",
+              "text": "Yowl!"
+            },
+            {
+              "speaker": "Evil Bob",
+              "text": "Meeeow!"
+            },
+            {
+              "speaker": "Evil Bob",
+              "text": "Meeeeow!"
+            },
+            {
+              "speaker": "Evil Bob",
+              "text": "Meeeeowby laaaater…"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

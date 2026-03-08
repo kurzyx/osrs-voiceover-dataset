@@ -1,0 +1,91 @@
+{
+  "ref": "gang-boss",
+  "categoryRef": "npc",
+  "title": "Gang boss",
+  "sections": [
+    {
+      "title": "Overhead Dialogue",
+      "sections": [
+        {
+          "title": "When giving a command to a gangster",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gang boss",
+                  "text": "Bring some of the heavy squad to carry the crates."
+                },
+                {
+                  "speaker": "Gang boss",
+                  "text": "Get this right and I'll see you're well paid."
+                },
+                {
+                  "speaker": "Gang boss",
+                  "text": "Handle the explosives carefully."
+                },
+                {
+                  "speaker": "Gang boss",
+                  "text": "If the shopkeeper won't cooperate, kill his wife."
+                },
+                {
+                  "speaker": "Gang boss",
+                  "text": "If the soldiers try to interfere, kill them."
+                },
+                {
+                  "speaker": "Gang boss",
+                  "text": "Make sure the captain knows not to talk."
+                },
+                {
+                  "speaker": "Gang boss",
+                  "text": "Our ship is due with the evening tide."
+                },
+                {
+                  "speaker": "Gang boss",
+                  "text": "Pay attention or I'll rip your throat out."
+                },
+                {
+                  "speaker": "Gang boss",
+                  "text": "The boxes marked with a cross are ours."
+                },
+                {
+                  "speaker": "Gang boss",
+                  "text": "Weigh the gold carefully in case he double-crosses us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When departing from a gang meeting",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gang boss",
+                  "text": "We're done here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When attacked",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gang boss",
+                  "text": "Die, Shayzien scum!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

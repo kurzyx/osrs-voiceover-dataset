@@ -1,0 +1,71 @@
+{
+  "ref": "droalak",
+  "categoryRef": "npc",
+  "title": "Droalak",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player isn't wearing Ghostspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Droalak",
+                  "text": "wooo wooo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player hasn't started Making History",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Droalak",
+                  "text": "Please, leave me alone."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your loss!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Making History",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have delivered the scroll, you can rest in peace now."
+                },
+                {
+                  "speaker": "Droalak",
+                  "text": "Thanks for telling me! I've been waiting for ages!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good bye."
+                },
+                {
+                  "speaker": "Droalak",
+                  "text": "Bye!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

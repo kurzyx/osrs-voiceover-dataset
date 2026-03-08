@@ -1,0 +1,73 @@
+{
+  "ref": "brendt",
+  "categoryRef": "npc",
+  "title": "Brendt",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before delivering their ore during The Fremennik Isles",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brendt",
+                  "text": "Hmm, interesting place this. It feels a little like Kelda, except without the good bits."
+                },
+                {
+                  "speaker": "Grundt",
+                  "text": "Bored, bored, bored. These Fremenniks are taking ages."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey, they're doing their best. You arrived early."
+                },
+                {
+                  "speaker": "Grundt",
+                  "text": "Hey, we arrived precisely when we told your representatives. Lack of planning on your part does not constitute an emergency on my part."
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "Please, someone get these guys their ore quickly. They are eating all the good food on the island, and complaining about it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd better get a move on!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After delivering their ore during The Fremennik Isles",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Why are you still here?"
+                },
+                {
+                  "speaker": "Brendt",
+                  "text": "Well it seemed rude not to finish the food they gave us."
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "Feel free to leave it. Please leave."
+                },
+                {
+                  "speaker": "Grundt",
+                  "text": "I'll just finish the roast off."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

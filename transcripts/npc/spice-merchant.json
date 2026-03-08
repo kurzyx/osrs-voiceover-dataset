@@ -1,0 +1,48 @@
+{
+  "ref": "spice-merchant",
+  "categoryRef": "npc",
+  "title": "Spice Merchant",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has recently stolen from their stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Spice Merchant",
+                  "text": "You're the one who stole from me! Guards! Guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Spice Merchant",
+              "text": "A little bit of spice makes everything taste nice! Come and get it here!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's trade."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll pass."
+            },
+            {
+              "speaker": "Spice Merchant",
+              "text": "Your loss."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

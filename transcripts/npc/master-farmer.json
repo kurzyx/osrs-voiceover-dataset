@@ -1,0 +1,59 @@
+{
+  "ref": "master-farmer",
+  "categoryRef": "npc",
+  "title": "Master Farmer",
+  "sections": [
+    {
+      "title": "Upon failed pickpocketing attempt",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Master Farmer",
+              "text": "Cor blimey mate, what are ye doing in me pockets?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Master Farmers in Varlamore",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there. How's it going?"
+            },
+            {
+              "speaker": "Master Farmer",
+              "text": "Well, the work is going well, so I'm very good, thank you."
+            },
+            {
+              "speaker": "Master Farmer",
+              "text": "Not too bad thanks."
+            },
+            {
+              "speaker": "Master Farmer",
+              "text": "I'm fine, how are you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Very well, thank you."
+            },
+            {
+              "speaker": "Master Farmer",
+              "text": "Nilsal! I'm pretty good, thank you. It's always nice to be out in the sun."
+            },
+            {
+              "speaker": "Master Farmer",
+              "text": "Hello there! Nice weather we've been having. Perfect for a day outdoors!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

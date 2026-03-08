@@ -1,0 +1,161 @@
+{
+  "ref": "grave-digger",
+  "categoryRef": "npc",
+  "title": "Grave digger",
+  "sections": [
+    {
+      "title": "Dialogue without a ghostspeak amulet equipped",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Grave digger",
+              "text": "Wooo wooo wooooo!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I don't speak ghost."
+            },
+            {
+              "speaker": "Restless ghost",
+              "text": "Woo woo?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nope, still don't understand you."
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "WOOOOOOOOO!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Mmmm, should I be writing this down?"
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "Woo wooo. Woooooooooooooooooo!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll come back later."
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "Wooooooo woo! Wooooo woo wooooo woowoowoo woo Woo wooo. Wooooo woo woo? Woooooooooooooooooo!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dialogue with a ghostspeak amulet equipped",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "How's it going?"
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "I'm dead."
+            },
+            {
+              "speaker": "Player",
+              "text": "Maybe you should try looking on the bright side of..."
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "...Of?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, yeah. Nevermind."
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "Ok."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using Kharedst's memoirs or book of the dead with History and hearsay included on him",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Are you the grave digger this entry mentions?"
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "It seems likely, but I've no recollection of this conversation."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's odd. Did you forget a lot when you..."
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "Died? I guess some memories have faded, but my death still lingers within me."
+            },
+            {
+              "speaker": "Player",
+              "text": "How did it happen?"
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "I was minding my own business while digging a grave when suddenly there was a loud metallic sound."
+            },
+            {
+              "speaker": "Player",
+              "text": "And then?"
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "I was dead... I recall seeing a man a few yards from me, speaking out loud, yet nobody else was around..."
+            },
+            {
+              "speaker": "Player",
+              "text": "And?"
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "I thought I could hear a woman's voice respond, but it was likely just the wind."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's very peculiar."
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "I wouldn't think on it too long. I'd just died, my emotions were unbearable."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll let you know if I figure anything out. What's your name?"
+            },
+            {
+              "speaker": "Grave digger",
+              "text": "Please do. My name? It's um... Sander."
+            },
+            {
+              "speaker": "Player",
+              "text": "Pleased to meet you Sander, I'll see you around."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

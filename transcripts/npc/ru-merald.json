@@ -1,0 +1,342 @@
+{
+  "ref": "ru-merald",
+  "categoryRef": "npc",
+  "title": "Ru Merald",
+  "sections": [
+    {
+      "title": "Initial dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ru Merald",
+              "text": "Good day!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello there! What are you doing out here?"
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "I've been tracking gemstones, and I think I've found a potential source for them!"
+            },
+            {
+              "speaker": "Player",
+              "text": "You have?"
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "Yes! A large crab!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Right..."
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "It moves around a bit, but look! It's right here with us at the moment!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Right... And where is this crab?"
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "It moves around a bit, but I believe it's currently to the south!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Subsequent dialogue",
+      "sections": [
+        {
+          "title": "Directions option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ru Merald",
+                  "text": "Look! The crab is right here with us!"
+                },
+                {
+                  "speaker": "Ru Merald",
+                  "text": "I believe the crab is currently to the [direction]!"
+                },
+                {
+                  "speaker": "Ru Merald",
+                  "text": "Strange... I've lost track of the crab. I'm sure I'll pick up the trail again shortly."
+                },
+                {
+                  "speaker": "Ru Merald",
+                  "text": "It seems the crab is burrowing at the moment, but I believe it's heading [direction]!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ru Merald",
+              "text": "Hello again! Look! That large crab is here!"
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "Hello again!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you happen to know where that large crab is?"
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "I believe it's currently to the north!"
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "I believe it's currently to the north east!"
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "I believe it's currently to the north west!"
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "I believe it's currently to the south!"
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "I believe it's currently to the south east!"
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "I believe it's currently to the south west!"
+            },
+            {
+              "speaker": "Ru Merald",
+              "text": "Strange... I've lost track of it. I'm sure I'll pick up the trail shortly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "Avium Savannah",
+          "sections": [
+            {
+              "title": "First conversation",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Come on... Something here has to work..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Care for any assistance?"
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Absolutely! I can't seem to find a way into that crevice to continue my scientific endeavour. I don't suppose you could have a dig around?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "A scientific dig... Where have I heard of that before?"
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Don't dwell on it too long. There are things I must learn about our world!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After digging up the uncut ruby",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I found a ruby in the ground."
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Wondrous! A good sign to be sure! You may keep it, while I will keep the knowledge of what may be here."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "South of Fortis Colosseum",
+          "sections": [
+            {
+              "title": "First conversation",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "So I'm here... That's there... Then how do we get down there?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Chatting to yourself?"
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Ah, hello there! I'm just pondering on the wonders of geography."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Anything I can help you out with?"
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Most certainly. Perhaps you could dig around near the mouth of that nearby cave and elucidate its nature for me."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Will I get anything for helping?"
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "The feeling of satisfaction after helping a scientist in need?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Fair enough."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After digging up the uncut sapphire",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I found a sapphire nearby."
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Outstanding! This can only be seen as a positive! I shall add the knowledge to my reserves. You may keep the gem."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Alright..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "South of Ralos' Rise",
+          "sections": [
+            {
+              "title": "First conversation",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Are you lost?"
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "No, my good friend, but I am in a bit of a pickle."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "A pickle?"
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Perhaps a jam... Those bandits over there are in the way of scientific discovery!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Would you like me to deal with them?"
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Well, I'm not averse to a little academic collaboration. I just need some proof that there's something strange here."
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Is there any chance you could dig near the mouth of that cave for me? Let me know if you find anything."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What should I do with the bandits?"
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "I have no qualms with you doing what you must on that front."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After digging up the uncut emerald",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I found an emerald in the earth."
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Stupendous! Combined with the other locations, I suspect there may be more to this than meets the eye."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Right..."
+                    },
+                    {
+                      "speaker": "Ru Merald",
+                      "text": "Keep the gem for yourself, as payment for your assistance."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

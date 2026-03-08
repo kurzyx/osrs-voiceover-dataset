@@ -1,0 +1,49 @@
+{
+  "ref": "blair",
+  "categoryRef": "npc",
+  "title": "Blair",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Blair",
+              "text": "Looking to buy some armour?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Show me what you've got."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm good thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical",
+      "sections": [
+        {
+          "title": "With less than 20% Shayzien Favour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Blair",
+                  "text": "My stock is only for those trusted in Shayzien, sorry."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

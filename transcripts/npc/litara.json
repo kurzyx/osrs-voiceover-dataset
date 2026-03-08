@@ -1,0 +1,130 @@
+{
+  "ref": "litara",
+  "categoryRef": "npc",
+  "title": "Litara",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has spoken to Solztun",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Litara",
+                  "text": "Hello there. You look lost, are you okay?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I travelled to the bottom of the stronghold, and I emerge victorious!"
+                },
+                {
+                  "speaker": "Litara",
+                  "text": "Well done! You didn't happen to find my brother?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "About that..."
+                },
+                {
+                  "speaker": "Litara",
+                  "text": "I sense bad news. It's okay, he's been gone so long. I believe I've moved on."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, at least he died doing what he loved."
+                },
+                {
+                  "speaker": "Litara",
+                  "text": "True, I will raise a drink for him tonight, he was a good man, even if he was a pacifist."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "As will I. See you around, Litara."
+                },
+                {
+                  "speaker": "Litara",
+                  "text": "Goodbye, [player name]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has already informed her of the fate of Solztun",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Litara",
+                  "text": "Hello there. You look lost, are you okay?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I travelled to the bottom of the stronghold, and I emerge victorious!"
+                },
+                {
+                  "speaker": "Litara",
+                  "text": "I am glad the challenges of the stronghold have been overcome; it feels like my brother has somehow been avenged."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Litara",
+              "text": "Hello there. You look lost, are you okay?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm looking for a stronghold or something..."
+            },
+            {
+              "speaker": "Litara",
+              "text": "Ahh... the Stronghold of Security. It's down there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Looks kind of... deep and dark."
+            },
+            {
+              "speaker": "Litara",
+              "text": "Yeah... tell that to my brother, he still hasn't come back."
+            },
+            {
+              "speaker": "Player",
+              "text": "Your brother?"
+            },
+            {
+              "speaker": "Litara",
+              "text": "He's an explorer too. When the miner fell down that hole he'd made and came back babbling about doors, questions and treasure, my brother went to explore. No-one has seen him since."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh... that's not good."
+            },
+            {
+              "speaker": "Litara",
+              "text": "Lots of people have been down there, but none of them have seen him, Let me know if you do, will you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll certainly keep my eyes open."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm fine, just passing through."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

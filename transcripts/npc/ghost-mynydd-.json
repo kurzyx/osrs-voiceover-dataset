@@ -1,0 +1,49 @@
+{
+  "ref": "ghost-mynydd-",
+  "categoryRef": "npc",
+  "title": "Ghost (Mynydd)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without a Ghostspeak amulet equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ghost",
+                  "text": "Woooo wooo wooooo woooo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With a Ghostspeak amulet equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ghost",
+                  "text": "Don't send me back to that library!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Ghost",
+                  "text": "It took me too long to get out of there... Just don't send me back!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

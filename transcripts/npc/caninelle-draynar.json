@@ -1,0 +1,92 @@
+{
+  "ref": "caninelle-draynar",
+  "categoryRef": "npc",
+  "title": "Caninelle Draynar",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Caninelle/Pipistrelle Draynar",
+                  "text": "Human! Get back to the slave pens before I call the guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Player: Hello there."
+            },
+            {
+              "speaker": "Caninelle Draynar",
+              "text": "Darling, who's this?"
+            },
+            {
+              "speaker": "Pipistrelle Draynar",
+              "text": "I don't know, darling. Why don't you ask them?"
+            },
+            {
+              "speaker": "Caninelle Draynar",
+              "text": "Yes, good idea!"
+            },
+            {
+              "speaker": "Caninelle Draynar",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm [Vampyre name]."
+            },
+            {
+              "speaker": "Caninelle Draynar",
+              "text": "Hello, [Vampyre name]. I'm Caninelle Draynar and this is Pipistrelle Draynar."
+            },
+            {
+              "speaker": "Pipistrelle Draynar",
+              "text": "Hello there!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Draynar? Any connection to Draynor?"
+            },
+            {
+              "speaker": "Pipistrelle Draynar",
+              "text": "Oh yes. The Draynar family has been around since before vampyres came to this world."
+            },
+            {
+              "speaker": "Caninelle Draynar",
+              "text": "Over time, some people took the name and started pronouncing it differently. Hence Draynor."
+            },
+            {
+              "speaker": "Pipistrelle Draynar",
+              "text": "Draynor is more commonly used as a first name though, with Draynar as a last name."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks for the information. I wonder if there's a Draynor Draynar out there."
+            },
+            {
+              "speaker": "Pipistrelle Draynar",
+              "text": "Now that would be funny."
+            },
+            {
+              "speaker": "Player",
+              "text": "See you around."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

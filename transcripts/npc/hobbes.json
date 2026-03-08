@@ -1,0 +1,35 @@
+{
+  "ref": "hobbes",
+  "categoryRef": "npc",
+  "title": "Hobbes",
+  "sections": [
+    {
+      "title": "Standard dialogue before Murder Mystery",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hobbes",
+              "text": "This is private property! Please leave!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after Murder Mystery",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hobbes",
+              "text": "Thank you for all your help in solving the murder."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ref": "knight-sir-gerry-",
+  "categoryRef": "npc",
+  "title": "Knight (Sir Gerry)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player attempts to enter hole before speaking to the Knight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Knight",
+                  "text": "Cough... Hey, over here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to talk to the knight after receiving his notes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Who are you? What are you doing here in the snow?"
+            },
+            {
+              "speaker": "Knight",
+              "text": "My name is...Sir Gerry. I am...a member of a secret...society of knights. My time is short and I need...your help."
+            },
+            {
+              "speaker": "Player",
+              "text": "A secret society of knights? What a surprise! Is there an old charter or decree that says if you're a knight you have to belong to a secret order?"
+            },
+            {
+              "speaker": "Knight",
+              "text": "I'm sorry, my friend... I do not understand your meaning. Please, time is short... Take this scroll to Sir Tiffy. You will find him in Falador park... You should not...read it... It contains information for his eyes only."
+            },
+            {
+              "speaker": "Player",
+              "text": "A secret society of knights? You don't mean the Temple Knights, do you?"
+            },
+            {
+              "speaker": "Knight",
+              "text": "Yes! Praise Saradomin! You...have been sent in...my hour of need. Please, take...this scroll to Sir Tiffy in Falador park... You should not...read it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

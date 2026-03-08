@@ -1,0 +1,370 @@
+{
+  "ref": "death-npc-",
+  "categoryRef": "npc",
+  "title": "Death (NPC)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Death",
+              "text": "Hello mortal. Have you come to retrieve something you lost when you died?"
+            },
+            {
+              "speaker": "Player",
+              "text": "How does that work?"
+            },
+            {
+              "speaker": "Death",
+              "text": "When you die, you often drop things you were carrying. In most cases, a gravestone appears near where you died, and your items can be retrieved there."
+            },
+            {
+              "speaker": "Death",
+              "text": "However, gravestones do not last for long. When your gravestone collapses, your items come here, to me. I can return them to you - though I charge a fee for my services."
+            },
+            {
+              "speaker": "Death",
+              "text": "Aside from that, if you bring me your unwanted possessions, and sacrifice them into my Coffer here, I'll count their value against any future fees I charge you."
+            },
+            {
+              "speaker": "Death",
+              "text": "I don't accept just any junk, but I'll try to give you a good price for anything decent."
+            },
+            {
+              "speaker": "Death",
+              "text": "So do you need to retrieve something you lost when you died?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Death",
+              "text": "As you should be able to see, I am Death. The Grim Reaper. The Inexorable One. The Inescapable Grasp of Mortal Destiny. And this is my little office. Nice, isn't it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's lovely."
+            },
+            {
+              "speaker": "Death",
+              "text": "Thank you. I feel the colour scheme suits my style. Now, can I help you retrieve something you lost when you died?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Your decorations leave a bit to be desired."
+            },
+            {
+              "speaker": "Death",
+              "text": "Sometimes it's hard to care for beauty when one's very existence is just seen as a curse upon the world. Now, do you actually want to retrieve something from me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, have you got anything for me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I choose a different-looking gravestone?"
+            },
+            {
+              "speaker": "Death",
+              "text": "You haven't got 200,000 coins to pay for that. I can take coins from your inventory, or from my Coffer."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I choose a different-looking gravestone?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, never mind."
+            },
+            {
+              "speaker": "Death",
+              "text": "Most people won't see your grave, by the way. It appears to you, but it aims to be invisible to everyone else. Are you sure you want to buy a cosmetic override for it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I understand other people won't often see it."
+            },
+            {
+              "speaker": "Death",
+              "text": "It is not for me to judge how people spend their money."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks, it's not worth it."
+            },
+            {
+              "speaker": "Death",
+              "text": "It is not for me to judge how people spend their money."
+            },
+            {
+              "speaker": "Death",
+              "text": "Do you really want to switch to the basic gravestone? I'm not offering to give back the fee you paid earlier."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I want the basic gravestone."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, never mind."
+            },
+            {
+              "speaker": "Death",
+              "text": "You've already got the basic gravestone."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I choose a different-looking gravestone?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, never mind."
+            },
+            {
+              "speaker": "Death",
+              "text": "Er... I suppose so."
+            },
+            {
+              "speaker": "Death",
+              "text": "How would you like to... die?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not just now, thanks."
+            },
+            {
+              "speaker": "Death",
+              "text": "Really? There isn't much else for you to do here. But you know your business."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ultimate Ironman Dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Death",
+              "text": "Hello mortal. If you're looking for something you lost when you died, I'm afraid I don't cater to Ultimate Ironmen. Your items would have fallen on the ground where you died."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I change how I die?"
+            },
+            {
+              "speaker": "Death",
+              "text": "Er... I suppose so."
+            },
+            {
+              "speaker": "Death",
+              "text": "How would you like to... die?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Upon losing any items while dying for the first time",
+      "sections": [
+        {
+          "title": "Talking to Death again after reaching the dialogue options for the first time but before completeing the tutorial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Death",
+                  "text": "I believe I was explaining gravestones to you. We still have some more topics to cover."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to leave before finishing the tutorial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Death",
+                  "text": "I haven't finished talking to you yet, [player name]. Please don't worry about your gravestone - it will wait until you leave this place."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Death after completing the tutorial, but before leaving Death's Office",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Death",
+                  "text": "Would you like me to remind you about gravestones?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Death",
+              "text": "So, mortal... you have died, as all mortals do. As you have suffered the loss of some items on this occasion, I have brought you here to explain for you how that works."
+            },
+            {
+              "speaker": "Player",
+              "text": "I lost items? Can I get them back?"
+            },
+            {
+              "speaker": "Death",
+              "text": "Let me explain... Across most of the land of Gielinor, when you die, some of the items you're carrying are dropped."
+            },
+            {
+              "speaker": "Death",
+              "text": "I will look after such items, without a time limit. However, I do charge more for my services. It would be cheaper to retrieve them from the gravestone directly, if you can reach it in time."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about gravestones again."
+            },
+            {
+              "speaker": "Death",
+              "text": "Gladly... Across most of the land of Gielinor, when you die, some of the items you're carrying are dropped."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I pay a gravestone fee?"
+            },
+            {
+              "speaker": "Death",
+              "text": "Cash is always acceptable. Also, a gravestone can take it directly from you bank, in case you didn't have enough with you."
+            },
+            {
+              "speaker": "Death",
+              "text": "Besides that, take a look at my Coffer here. You can bring your unwanted possessions, and sacrifice them into my Coffer. I'll count their value against any future gravestone fees you're charged."
+            },
+            {
+              "speaker": "Player",
+              "text": "How long do I have to return to my gravestone?"
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I know what will happen to my items when I die?"
+            },
+            {
+              "speaker": "Death",
+              "text": "There is a menu to predict these things for you. Take a look at your Worn Items side-panel..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think I'm done here."
+            },
+            {
+              "speaker": "Death",
+              "text": "I'm afraid we have more topics to cover before you leave. Speak to me when you are ready to continue."
+            },
+            {
+              "speaker": "Death",
+              "text": "Very well. Once you pass through my portal, you will have 15 minutes to reach your gravestone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical Dialogue",
+      "sections": [
+        {
+          "title": "Choosing how you would like to die",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Death",
+                  "text": "How would you like to... die?"
+                },
+                {
+                  "speaker": "Death",
+                  "text": "You haven't unlocked that. You can do so by reading a Trailblazer reloaded death scroll."
+                },
+                {
+                  "speaker": "Death",
+                  "text": "Have you come to retrieve something you lost from a previous gravestone?"
+                },
+                {
+                  "speaker": "Death",
+                  "text": "You will now die like a Trailblazer."
+                },
+                {
+                  "speaker": "Death",
+                  "text": "Have you come to retrieve something you lost from a previous gravestone?"
+                },
+                {
+                  "speaker": "Death",
+                  "text": "You are already using that."
+                },
+                {
+                  "speaker": "Death",
+                  "text": "Have you come to retrieve something you lost from a previous gravestone?"
+                },
+                {
+                  "speaker": "Death",
+                  "text": "You are already using that."
+                },
+                {
+                  "speaker": "Death",
+                  "text": "Have you come to retrieve something you lost from a previous gravestone?"
+                },
+                {
+                  "speaker": "Death",
+                  "text": "You will now perish like most others in Gielinor."
+                },
+                {
+                  "speaker": "Death",
+                  "text": "Have you come to retrieve something you lost from a previous gravestone?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ultimate Ironman Dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Death",
+                  "text": "Hello mortal. If you're looking for something you lost when you died, I'm afraid I don't cater to Ultimate Iron [Men/Women]. Your items would have fallen on the ground where you died."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what can I do here?"
+                },
+                {
+                  "speaker": "Death",
+                  "text": "Nothing, really. Please leave when you are ready."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

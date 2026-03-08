@@ -1,0 +1,41 @@
+{
+  "ref": "arcis",
+  "categoryRef": "npc",
+  "title": "Arcis",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Arcis",
+              "text": "Greetings."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Arcis",
+              "text": "I am an architect. I designed and built many of the buildings in Arceuus using magic."
+            },
+            {
+              "speaker": "Player",
+              "text": "How exciting!"
+            },
+            {
+              "speaker": "Arcis",
+              "text": "It is an honour to serve my city in such a way. Now, I am very busy, please leave."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

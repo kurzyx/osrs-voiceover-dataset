@@ -1,0 +1,137 @@
+{
+  "ref": "soldier-tier-4-",
+  "categoryRef": "npc",
+  "title": "Soldier (tier 4)",
+  "sections": [
+    {
+      "title": "If the player has less than 90% Shayzien favour",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Soldier (tier 4)",
+              "text": "Don't expect me to deal with the likes of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player has less than 90% Shayzien favour and 20 Defence",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Soldier (tier 4)",
+              "text": "If you're planning on fighting me for a set of my armour, I'm afraid I'm not interested. The combat XP from fighting you isn't worthwhile. Get a Defence level of 20 first."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player does not have a full set of tier 3 armour",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Soldier (tier 4)",
+              "text": "If you're hoping to fight me for a piece of my armour, you've got to own a full set of the tier 3 armour first. Try fighting my subordinate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player has a full set of tier 3 armour",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Soldier (tier 4)",
+              "text": "Fancy a fight? The combat practice would be good for me. I'll give you a piece of my armour if you win."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, let's fight."
+            },
+            {
+              "speaker": "Soldier (tier 4)",
+              "text": "To the arena!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Soldier (tier 4)",
+              "text": "I'll be here if you ever change your mind. I love a good fight."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player does not have the full set of tier 4 armour",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Soldier (tier 4)",
+              "text": "Fancy another fight? The combat practice is good for me. I'll give you some more of my armour if you win."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player has the full set of tier 4 armour",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Soldier (tier 4)",
+              "text": "Don't you already have a set of my armour?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's fight again - I don't mind duplicates."
+            },
+            {
+              "speaker": "Soldier (tier 4)",
+              "text": "To the arena!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, I guess I needn't fight you again."
+            },
+            {
+              "speaker": "Soldier (tier 4)",
+              "text": "I'll be here if you ever change your mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If talked to whilst fighting another soldier",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Soldier (tier 4)",
+              "text": "Focus on your fight!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

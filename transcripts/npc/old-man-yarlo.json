@@ -1,0 +1,63 @@
+{
+  "ref": "old-man-yarlo",
+  "categoryRef": "npc",
+  "title": "Old Man Yarlo",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Old Man Yarlo",
+              "text": "What brings you here, young [man/lady/one]?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm just wandering around."
+            },
+            {
+              "speaker": "Old Man Yarlo",
+              "text": "Oh, that's nice. I used to wander around, back when my legs were better. So long ago."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing, really."
+            },
+            {
+              "speaker": "Old Man Yarlo",
+              "text": "That's the trouble with young people these days. Not my boy, though. He's a good boy, always working. That's why he never visits. Run along now, young [man/lady/one]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Old Man Yarlo after the quest",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Old Man Yarlo",
+              "text": "Hello again, young [man/lady/one]. You really did wonders for my little home. I feel so much happier living here now."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's good to hear. Goodbye now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about more things I can do with Construction."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

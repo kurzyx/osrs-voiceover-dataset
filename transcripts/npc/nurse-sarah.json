@@ -1,0 +1,71 @@
+{
+  "ref": "nurse-sarah",
+  "categoryRef": "npc",
+  "title": "Nurse Sarah",
+  "sections": [
+    {
+      "title": "During Biohazard",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello nurse."
+            },
+            {
+              "speaker": "Nurse Sarah",
+              "text": "I don't know how much longer I can cope here."
+            },
+            {
+              "speaker": "Player",
+              "text": "What? Is the plague getting to you?"
+            },
+            {
+              "speaker": "Nurse Sarah",
+              "text": "No, strangely enough the people here don't seem to be affected. It's just the awful living conditions that is making people ill."
+            },
+            {
+              "speaker": "Player",
+              "text": "I was under the impression that everyone here was affected."
+            },
+            {
+              "speaker": "Nurse Sarah",
+              "text": "Me too, but that doesn't seem to be the case."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Nurse Sarah",
+              "text": "Hello my dear, how are you feeling?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm okay thanks."
+            },
+            {
+              "speaker": "Nurse Sarah",
+              "text": "Well in that case I'd better get back to work. Take care."
+            },
+            {
+              "speaker": "Player",
+              "text": "You too."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1128 @@
+{
+  "ref": "sea-slug",
+  "categoryRef": "quest",
+  "title": "Sea Slug",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "Talking to Caroline again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Caroline."
+                },
+                {
+                  "speaker": "Caroline",
+                  "text": "Brave [player name], have you any news about my son and his father?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm working on it now Caroline."
+                },
+                {
+                  "speaker": "Caroline",
+                  "text": "Please bring them back safe and sound."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll do my best."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Caroline",
+              "text": "Is there any chance you could help me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's wrong?"
+            },
+            {
+              "speaker": "Caroline",
+              "text": "It's my husband, he works on a fishing platform. Once a month he takes our son, Kennith, out with him."
+            },
+            {
+              "speaker": "Caroline",
+              "text": "They usually write to me regularly, but I've heard nothing all week. It's very strange."
+            },
+            {
+              "speaker": "Player",
+              "text": "Maybe the post was lost!"
+            },
+            {
+              "speaker": "Caroline",
+              "text": "Maybe, but no-one's heard from the other fishermen on the platform. Their families are becoming quite concerned."
+            },
+            {
+              "speaker": "Caroline",
+              "text": "Is there any chance you could visit the platform and find out what's going on?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I suppose so, how do I get there?"
+            },
+            {
+              "speaker": "Caroline",
+              "text": "That's very good of you [player name]. My friend Holgart will take you there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, I'll go and see if they're ok."
+            },
+            {
+              "speaker": "Caroline",
+              "text": "I'll reward you for your time. It'll give me peace of mind to know Kennith and my husband, Kent, are safe."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry, I'm too busy."
+            },
+            {
+              "speaker": "Caroline",
+              "text": "That's a shame."
+            },
+            {
+              "speaker": "Player",
+              "text": "Bye."
+            },
+            {
+              "speaker": "Caroline",
+              "text": "Bye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Holgart",
+      "sections": [
+        {
+          "title": "Talking to Holgart again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Holgart."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Hello m'hearty. Did you manage to make some swamp paste?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid not."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "It's simply swamp tar mixed with flour heated over a fire. Unfortunately the only supply of swamp tar is in the swamps below Lumbridge."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "I can't fix my row boat without it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, I'll try to find some."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I have some here."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Superb, this looks great."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Right me hearty. Let's get this boat fixed."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Huzzah! We've fixed the leaky old tub."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Holgart after fixing the boat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Holgart."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Hello again land lover. There's some strange goings on, on that platform, I tell you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will you take me there?"
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Of course m'hearty. If that's what you want."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm keeping away from there."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Fair enough m'hearty."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Holgart",
+              "text": "Hello m'hearty."
+            },
+            {
+              "speaker": "Player",
+              "text": "I would like a ride on your boat to the fishing platform."
+            },
+            {
+              "speaker": "Holgart",
+              "text": "I'm afraid it isn't sea worthy, it's full of holes. To fill the holes I'll need some swamp paste."
+            },
+            {
+              "speaker": "Player",
+              "text": "Swamp paste?"
+            },
+            {
+              "speaker": "Holgart",
+              "text": "Yes, swamp tar mixed with flour and heated over a fire."
+            },
+            {
+              "speaker": "Holgart",
+              "text": "In fact, unless me nose be mistaken, you've got some in yer pack."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh yes, I forgot about that stuff. Can you use it?"
+            },
+            {
+              "speaker": "Holgart",
+              "text": "Aye, that be perfect."
+            },
+            {
+              "speaker": "Holgart",
+              "text": "Right me hearty. Let's get this boat fixed."
+            },
+            {
+              "speaker": "Holgart",
+              "text": "Huzzah! We've fixed the leaky old tub."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where can I find swamp tar?"
+            },
+            {
+              "speaker": "Holgart",
+              "text": "Unfortunately the only supply of swamp tar is in the swamps below Lumbridge. It's too far for an old man like me to travel."
+            },
+            {
+              "speaker": "Holgart",
+              "text": "If you make me some swamp paste I'll give you a ride in my boat."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll see what I can do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "At the Fishing Platform",
+      "sections": [
+        {
+          "title": "Talking to Holgart at the Fishing Platform",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, Holgart."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Have you had enough of this place yet? It's really starting to scare me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I'm going to stay a while."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Okay... you're the boss."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, let's go back."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Okay m'hearty, jump on."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a possessed fisherman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "You are not part of our family..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Umm. Not last time I checked."
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Soon you will be... Soon you will..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Really?"
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "She is coming..."
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Must escape the blue.. Deep deep blue"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Pardon?"
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Family... Under the blue... Must escape the blue..."
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Lost to us.. She is Lost to us..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who is lost?"
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Trapped by the light... Lost and trapped..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ermm... So you don't want to tell me then?"
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Trapped... In stone and darkness..."
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Must find family..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Soon we will all be together..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you ok?"
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Must find family... They are all under the blue... Deep deep under the blue..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ermm... I'll leave you to it then."
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Below the deep, deep blue she waits..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who waits?"
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "They came to her with fire and faith..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who? Who came to who?"
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Too many... Too many..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Too many what? Make sense!"
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Locked away for all eternity..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You'd better start making sense Sonny Jim or I'll..."
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Free... Soon to be free..."
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Free of the deep blue we are..."
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "We must find..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "a new home..."
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "We must leave this place..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where will you go?"
+                },
+                {
+                  "speaker": "Fisherman",
+                  "text": "Away.. Away to her..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Riiight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taking a Sea slug",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ouch!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bailey",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "What? Who are you? Come inside quickly!"
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "What are you doing here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm trying to find out what happened to a boy named Kennith."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Oh you mean Kent's son. He's around somewhere, probably hiding if he knows what's good for him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hiding from what? What's got you so frightened?"
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Haven't you seen all those things out there?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The sea slugs?"
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "It all began about a week ago. We pulled up a haul of deep sea flatfish. Mixed in with them we found those slug things, but thought nothing of it."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Not long after that my friends began to change, now they spend all day pulling in hauls of fish, only to throw back the fish and keep those nasty sea slugs."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "What am I supposed to do with those? I haven't figured out how to kill one yet, if I put them near the stove they squirm and jump away."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I doubt they would taste too good."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "This is no time for humour."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I didn't mean to upset you."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "That's okay. I just can't shake the feeling that this is the start of something... Terrible."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kennith",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Are you okay young one?"
+                },
+                {
+                  "speaker": "Kennith",
+                  "text": "No, I want my daddy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is your father?"
+                },
+                {
+                  "speaker": "Kennith",
+                  "text": "He went to get help days ago."
+                },
+                {
+                  "speaker": "Kennith",
+                  "text": "The nasty fishermen tried to throw me and daddy into the sea. So he told me to hide here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's good advice, you stay here and I'll go try and find your father."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue with Kennith",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Are you okay?"
+                },
+                {
+                  "speaker": "Kennith",
+                  "text": "I want to see daddy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm working on it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to Holgart after talking to Kennith",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Holgart, something strange is going on here."
+            },
+            {
+              "speaker": "Holgart",
+              "text": "You're telling me, none of the sailors seem to remember who I am."
+            },
+            {
+              "speaker": "Player",
+              "text": "Apparently Kennith's father left for help a couple of days ago."
+            },
+            {
+              "speaker": "Holgart",
+              "text": "That's a worry, no-one's heard from him on shore. Come on, we'd better go look for him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "At the shipwreck island",
+      "sections": [
+        {
+          "title": "Talking to Holgart",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Where are we?"
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Someway off mainland still. You'd better see if me old matey's okay."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kent",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kent",
+                  "text": "Oh thank Saradomin! I thought I'd be left out here forever."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your wife sent me out to find you and your boy. Kennith's fine by the way, he's on the platform."
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "I knew the row boat wasn't sea worthy. I couldn't risk bringing him along but you must get him off that platform."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's going on here?"
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "Five days ago we pulled in a huge catch. As well as fish we caught small slug like creatures, hundreds of them."
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "That's when the fishermen began to act strange."
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "It was the sea slugs, they attach themselves to your body and somehow take over the mind of the carrier."
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "I told Kennith to hide until I returned but I was washed up here."
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "Please go back and get my boy, you can send help for me later."
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "[player name] wait!"
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "A few more minutes and that thing would have full control of your body."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yuck! Thanks Kent."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue with Kent",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Kent",
+                  "text": "Oh my, I must get back to shore."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Holgart again before returning to the fishing platform",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "We'd better get back to the platform so we can see what's going on."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "You're right. It all sounds pretty creepy."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Rescuing Kennith",
+      "sections": [
+        {
+          "title": "Talking to Bailey",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Oh, thank the gods it's you. They've all gone mad I tell you, one of the fishermen tried to throw me into the sea!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They're all being controlled by the sea slugs."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "I figured as much."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to get Kennith off this platform, but I can't get past the fishermen."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "The sea slugs are scared of heat, I figured that out when I tried to cook them."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Here."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "I doubt the fishermen will come near you if you can get this torch lit."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "The only problem is all the wood and flint are damp... I can't light a thing!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've managed to lose my torch."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "That was silly, fortunately I have another. Here, take it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bailey again with the unlit torch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'd better find a way to light this torch, and soon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with the items",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Making a fire",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bailey with the lit torch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've managed to light the torch."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Well done traveller, you'd better get Kennith out of here soon."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "The fishermen are becoming stranger by the minute, and they keep pulling up those blasted sea slugs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry I'm working on it."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Just be sure to watch your back. The fishermen seem to have taken notice of you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to go upstairs with an unlit torch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ouch!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kennith",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Kennith, are you okay?"
+                },
+                {
+                  "speaker": "Kennith",
+                  "text": "No, I want my daddy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You'll be able to see him soon. First we need to get you back to land, come with me to the boat."
+                },
+                {
+                  "speaker": "Kennith",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What, why not?"
+                },
+                {
+                  "speaker": "Kennith",
+                  "text": "I'm scared of those nasty sea slugs. I won't go near them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, you wait here and I'll go figure another way to get you out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the lit torch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Freeing Kennith",
+      "sections": [
+        {
+          "title": "Talking to Kennith after making a hole in the wall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Kennith, I've made an opening in the wall. You can come out through there."
+                },
+                {
+                  "speaker": "Kennith",
+                  "text": "Are there any sea slugs on the other side?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Kennith, I've made an opening in the wall. You can come out through there."
+                },
+                {
+                  "speaker": "Kennith",
+                  "text": "Are there any sea slugs on the other side?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not one."
+                },
+                {
+                  "speaker": "Kennith",
+                  "text": "How will I get downstairs?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll figure that out in a moment."
+                },
+                {
+                  "speaker": "Kennith",
+                  "text": "Ok, when you have I'll come out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue with Kennith",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using the crane",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bailey after freeing Kennith",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Bailey."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Hello again. I saw you managed to get Kennith off the platform. Well done. He wasn't safe around those slugs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you going to come back with us?"
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "No, these fishermen are my friends, I'm sure they can be saved. I'm going to stay and try to get rid of all these slugs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have a way of removing the slugs once they've attached themselves to someone?"
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Not yet but I'll keep working on it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I only hope they stay confined to the fishing platform."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Yes, I dread to think what would happen if they got to Witchaven nearby."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "I guess I'll just have to keep an eye on things here until a way of removing the slugs can be found."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're braver than most. Take care of yourself Bailey."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "You too [player name]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Holgart",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Did you get the kid back to shore?"
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Yes, he's safe and sound with his parents. Your turn to return to land now adventurer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Looking forward to it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Caroline",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Caroline",
+                  "text": "Brave [player name], you've returned!"
+                },
+                {
+                  "speaker": "Caroline",
+                  "text": "Kennith told me about the strange goings-on at the platform. I had no idea it was so serious."
+                },
+                {
+                  "speaker": "Caroline",
+                  "text": "I could have lost my son and my husband if it wasn't for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We found Kent stranded on an island."
+                },
+                {
+                  "speaker": "Caroline",
+                  "text": "Yes, Holgart told me and sent a rescue party out. Kent's back home now, resting with Kennith. I don't think he'll be doing any fishing for a while."
+                },
+                {
+                  "speaker": "Caroline",
+                  "text": "Here, take these Oyster pearls as a reward. They're worth quite a bit and can be used to make lethal crossbow bolts."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Caroline",
+                  "text": "Thank you. Take care of yourself [player name]."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

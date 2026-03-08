@@ -1,0 +1,41 @@
+{
+  "ref": "miner-motherlode-mine-",
+  "categoryRef": "npc",
+  "title": "Miner (Motherlode Mine)",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "After successfully mining an ore vein",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Miner",
+                  "text": "Pay-dirt!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon being struck by a rockfall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Miner",
+                  "text": "Ow!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

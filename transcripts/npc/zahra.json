@@ -1,0 +1,55 @@
+{
+  "ref": "zahra",
+  "categoryRef": "npc",
+  "title": "Zahra",
+  "sections": [
+    {
+      "title": "Standard dialogue prior to Spirits of the Elid",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Zahra",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Player",
+              "text": "You don't look too happy."
+            },
+            {
+              "speaker": "Zahra",
+              "text": "True. We've not fallen on the best of times here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Any way that I can help?"
+            },
+            {
+              "speaker": "Zahra",
+              "text": "Possibly. I'd go talk to Awusah the Mayor of Nardah. He's in the big house on the east side of the town square."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after completing Spirits of the Elid",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "How's life now the curse has been lifted?"
+            },
+            {
+              "speaker": "Zahra",
+              "text": "Much better thanks to you. We're all very impressed."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

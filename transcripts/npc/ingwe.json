@@ -1,0 +1,97 @@
+{
+  "ref": "ingwe",
+  "categoryRef": "npc",
+  "title": "Ingwe",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Ingwe",
+              "text": "You know, there are so many different ways to greet people. Hello, 'ello, hello there..."
+            },
+            {
+              "speaker": "Player",
+              "text": "That still only counts as one!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Ingwe",
+              "text": "Hello. How are you today?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm great, thank you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Ingwe",
+              "text": "Hello! What a day it is in the crystal city, huh?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Indeed."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Ingwe",
+              "text": "What can I do for ya?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is there to do around here?"
+            },
+            {
+              "speaker": "Ingwe",
+              "text": "All kinds of things! The towers are a wonderful sight to see."
+            },
+            {
+              "speaker": "Ingwe",
+              "text": "On a day like today, I'd recommend visiting the market."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Failed pickpocket attempt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ingwe",
+                  "text": "What do you think you're doing?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

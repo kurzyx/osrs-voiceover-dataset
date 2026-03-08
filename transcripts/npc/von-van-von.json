@@ -1,0 +1,72 @@
+{
+  "ref": "von-van-von",
+  "categoryRef": "npc",
+  "title": "Von van Von",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Von van Von",
+                  "text": "Human! Get back to the slave pens before I call the guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey! I'm [Vampyre name]. What's your name?"
+            },
+            {
+              "speaker": "Von van Von",
+              "text": "Von van Von."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry... What?"
+            },
+            {
+              "speaker": "Von van Von",
+              "text": "Did I stutter? My name is Von van Von."
+            },
+            {
+              "speaker": "Player",
+              "text": "Your name is Von van Von?"
+            },
+            {
+              "speaker": "Von van Von",
+              "text": "Yes."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, just to clarify. Von van Von? That's your name?"
+            },
+            {
+              "speaker": "Von van Von",
+              "text": "Yes! Is there a problem?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well... I guess not."
+            },
+            {
+              "speaker": "Von van Von",
+              "text": "Good! Now leave me alone!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

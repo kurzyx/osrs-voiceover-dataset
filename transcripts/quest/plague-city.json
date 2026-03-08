@@ -1,0 +1,2392 @@
+{
+  "ref": "plague-city",
+  "categoryRef": "quest",
+  "title": "Plague City",
+  "sections": [
+    {
+      "title": "Starting the quest",
+      "sections": [
+        {
+          "title": "Talking to Edmond",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello old man."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Sorry, I can't stop to talk..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why, what's wrong?"
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "I've got to find my daughter. I pray that she is still alive..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's happened to her?"
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Elena's a healer. Three weeks ago she managed to cross the wall into West Ardougne. No one's allowed to cross the wall in case they spread the plague."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Plague?"
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Not that long ago, West Ardougne was hit by a deadly plague. They had the wall built to try and keep it contained. No one is allowed to enter the city now apart from the mourners."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "They say the plague is a horrible way to go... That's why Elena felt she had to go help. She said she'd be gone for a few days but we've heard nothing since."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe I could help find her?"
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Really, would you? I've been working on a plan to get into West Ardougne, but I'm too old and tired to carry it through. But you on the other hand, you should have no problem."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where should I start?"
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "If you're going into West Ardougne you'll need protection from the plague. My wife made a special gas mask for Elena with dwellberries rubbed into it."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "They help to repel the plague apparently. We need some more though..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find these dwellberries?"
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "The only place I know of is McGrubor's Wood, just west of Seers' Village. The berries are bright blue so they're easy to spot."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll go and get some."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "The foresters keep a close eye on it, but there is a back way in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "On second thoughts, I'd better not."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Well if you hear anything about Elena please tell me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will. Goodbye."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, good luck finding her."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Edmond before getting dwellberries",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Edmond."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Have you got the dwellberries yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I'm afraid not."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "You'll probably find them in McGrubor's Wood, just west of Seers' Village. The berries are bright blue so they're easy to spot."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll go and get some."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "The foresters keep a close eye on it, but there is a back way in."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Alrena before getting dwellberries",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, Edmond has asked me to help find your daughter."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Yes he told me. I've begun making your special gas mask, but I need some dwellberries to finish it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll try to get some."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "The best place to look is in McGrubor's Wood, just west of Seers' Village."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Edmond after getting dwellberries",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Edmond."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Have you got the dwellberries yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes I've got some here."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Take them to my wife Alrena, she's inside."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Alrena after getting dwellberries",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, Edmond has asked me to help find your daughter."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Yes he told me. I've begun making your special gas mask, but I need some dwellberries to finish it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes I've got some here."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "There we go, all done. While in West Ardougne you must wear this at all times, or you could catch the plague."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "I'll make a spare mask for you in case you lose that one. I'll hide it in the cupboard in case the mourners come looking."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the cupboard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Alrena after getting the gas mask",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Alrena",
+                  "text": "Hello darling, I think Edmond had a good idea of how to get into West Ardougne, you should hear his idea."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, I'll go and see him now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Edmond after getting the gas mask",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi Edmond, I've got the gas mask now."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Good stuff, now for the digging. Beneath us are the Ardougne sewers. I've done some research, and I reckon you can use them to enter West Ardougne."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "I've already tried digging down to them but the soil is rock hard. You'll need to pour on several buckets of water to soften it up. I reckon four buckets should do it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Edmond before pouring water on the mud patch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Edmond",
+                  "text": "How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I still need to pour four more buckets of water on the soil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Alrena before pouring water on the mud patch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Alrena."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Hello darling, how's that tunnel coming along?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I just need to soften the soil and then we'll start digging."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Well I'm sure you're quicker than Edmond."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Digging the mud patch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Interacting with the mud patch",
+          "sections": [
+            {
+              "title": "Using bucket of water on the mud patch",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Digging hole to make a tunnel",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Climbing up the mud pile",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Climbing down dug hole",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to Mourner outside Edmond's house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "What are you up to?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "You and that Edmond fella, you're looking very suspicious."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We're just gardening. Have you heard any news about West Ardougne?"
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Just the usual, everyone's sick or dying. I'm furious at King Tyras for bringing this plague to our lands."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Edmond after pouring one bucket of water on the mud patch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Edmond",
+                  "text": "How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I still need to pour three more buckets of water on the soil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Alrena after pouring one bucket of water on the mud patch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Alrena."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Hello darling, how's that tunnel coming along?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I just need to soften the soil a little more and then we'll start digging."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Edmond after pouring two buckets of water on the mud patch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Edmond",
+                  "text": "How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I still need to pour two more buckets of water on the soil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Edmond after pouring three buckets of water on the mud patch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Edmond",
+                  "text": "How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I still need to pour one more bucket of water on the soil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Edmond after pouring four buckets of water on the mud patch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've soaked the soil with water."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "That's great, it should be soft enough to dig through now. There should be a spade nearby that you can use."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Alrena after pouring four buckets of water on the mud patch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again Alrena."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "How's the tunnel going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm getting there."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "One of the mourners has been sniffing around asking questions about you and Edmond, you should keep an eye out for him."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Also, don't forget about that spare gas mask if you need it. It's hidden in the cupboard."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, thanks Alrena!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks for the warning."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mourner outside Edmond's house after talking with Edmond",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "What are you up to with old man Edmond?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing, we've just been chatting."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "What about his daughter?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, you know about that then?"
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "We know about everything that goes on in Ardougne. We have to if we are to contain the plague."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you see his daughter recently?"
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "I imagine she's caught the plague. Either way she won't be allowed out of West Ardougne, the risk is too great."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Edmond in the tunnel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Edmond",
+                  "text": "I think it's the pipe to the south that comes up in West Ardougne."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright I'll check it out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Alrena after digging the tunnel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Alrena."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Hi, have you managed to get through to West Ardougne?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, but I should be going soon."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Make sure you wear your mask while you're over there! I can't think of a worse way to die."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Don't forget, I've got a spare one hidden in the cupboard if you need it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, thanks Alrena!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks for the warning."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mourner outside Edmond's house after digging the tunnel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Been digging have we?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Your hands are covered in mud."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh that..."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Funny, you don't look like the gardening type."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh no, I love gardening! It's my favorite pastime."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mourner outside Edmond's house after pulling off the grate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "What are you up to?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "I don't trust you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You don't have to."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "If I find you attempting to cross the wall I'll make sure you never return."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with the pipe",
+          "sections": [
+            {
+              "title": "Climb-up pipe",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Edmond",
+                      "text": "I can't let you enter the city without your gas mask on."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Open grill",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Using rope on grill",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to Edmond after trying to pull the grill",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Edmond, I can't get through to West Ardougne! There's an iron grill blocking my way, I can't pull it off alone."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "If you get some rope you could tie to the grill, then we could both pull it at the same time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Edmond after tying the rope to the grill on the pipe",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've tied a rope to the grill over there, will you help me pull it off?"
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Alright, let's get to it..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "1... 2... 3... Pull!"
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Once you're in the city look for a man called Jethick. He's an old friend of the family. Hopefully he can help you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, thanks I will."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Entering West Ardougne",
+      "sections": [
+        {
+          "title": "Talking to Edmond after unlocking West Ardougne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Have you found Elena yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, it's a big city over there."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "I hope it's not too late."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Alrena after unlocking West Ardougne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Alrena."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Hello, any word on Elena?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet I'm afraid."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Is there anything else I can do to help?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's alright, I'll get her back soon."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "That's the spirit, dear. Don't forget that there's a spare gas mask in the cupboard if you need one."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "That's the spirit, dear."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with the manhole in West Ardougne",
+          "sections": [
+            {
+              "title": "Climb-down manhole out of West Ardougne",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Opening manhole cover",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Closing manhole cover",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Opening doors to leave West Ardougne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Men and Women in West Ardougne",
+          "sections": [
+            {
+              "title": "Woman (variant 1)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello, how's it going?"
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "Bah, those mourners... they're meant to be helping us, but I think they're doing more harm here than good. They won't even let me send a letter out to my family."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Have you seen a lady called Elena around here?"
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "Yes, I've seen her. Very helpful person."
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "Not for the last few days though... I thought maybe she'd gone home."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You should stand up to them more."
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "Oh I'm not one to cause a fuss."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Woman (variant 2)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello, how's it going?"
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "Life is tough."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes, living in a plague city must be hard."
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "Plague? Pah, that's no excuse for the treatment we've received. It's obvious pretty quickly if someone has the plague."
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "I'm thinking about making a break for it. I'm perfectly healthy, not gonna infect anyone."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm sorry to hear that."
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "Well, ain't much either you or me can do about it."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm looking for a lady called Elena."
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "I've not heard of her. Old Jethick knows a lot of people, maybe he'll know where you can find her."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Woman (variant 3)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Good day."
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "We don't have good days here anymore. Curse King Tyras."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh okay, bad day then."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why, what has he done?"
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "His army curses our city with this plague then wanders off again, leaving us to clear up the pieces."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm looking for a woman called Elena."
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "Not heard of her."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Woman (variant 4)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Good day."
+                    },
+                    {
+                      "speaker": "Woman",
+                      "text": "An outsider! Can you get me out of this hell hole?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sorry, that's not what I'm here to do."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Man (variant 1)",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Man",
+                      "text": "We don't have good days here anymore. Curse King Tyras."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh okay, bad day then."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why, what has he done?"
+                    },
+                    {
+                      "speaker": "Man",
+                      "text": "His army curses our city with this plague then wanders off again, leaving us to clear up the pieces."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm looking for a woman called Elena."
+                    },
+                    {
+                      "speaker": "Man",
+                      "text": "Not heard of her."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to Mourner or Head Mourner in West Ardougne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mourner",
+                  "text": "Hmmm, how did you get over here? You're not one of this rabble. Ah well, you'll have to stay. Can't risk you going back now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what's a mourner?"
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "We're working for King Lathas of East Ardougne. He has tasked us with containing the accursed plague sweeping West Ardougne."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "We also do our best to ease these people's suffering. We're nicknamed mourners because we spend a lot of time at plague victim funerals, no one else is allowed to risk attending."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "It's a demanding job, and we get little thanks from the people here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I haven't got the plague though..."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Can't risk you being a carrier. That protective clothing you have isn't regulation issue. It won't meet safety standards."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for a woman named Elena."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Ah yes, I've heard of her. A healer I believe. She must be mad coming over here voluntarily."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "I hear rumours she has probably caught the plague now. Very tragic, a stupid waste of life."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ted Rehnison before getting the book from Jethick",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ted Rehnison",
+                  "text": "Go away. We don't want any."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jethick if the player does not have Elena's picture",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jethick",
+                  "text": "Hello, I don't recognise you. We don't get many newcomers around here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How come?"
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "The plague of course. Not many people want to come to a place like this and the few that do normally get stopped by the mourners."
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "All you'll find here now are the dead and the dying. Even our own king has abandoned us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your king?"
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "Yes, King Tyras of West Ardougne. He's the brother of King Lathas, the ruler of East Ardougne."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So where is the king?"
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "Well he's always been a bit of an explorer. He's led multiple expeditions into the uncharted lands to the west."
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "The plague first started when he came back from one of these expeditions. More than a few suspect that some of his men caught it out there and brought it back with them."
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "The king didn't care though. He just left on another expedition to the west. He hasn't been seen since. He left the city warder Bravek in charge but he's no better."
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "Anyway, you clearly didn't come here to talk about kings. So tell me, what brings you to West Ardougne?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for a woman from East Ardougne called Elena."
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "East Ardougnian women are easier to find in East Ardougne. Not many would come to West Ardougne to find one. Although the name is familiar, what does she look like?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um... brown hair... in her twenties..."
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "Hmmm, that doesn't narrow it down a huge amount... I'll need to know more than that, or see a picture?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to main Clerk in West Ardougne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clerk",
+                  "text": "Hello, welcome to the Civic Office of West Ardougne. How can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who is through that door?"
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "The city warder Bravek is in there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go in?"
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "He has asked not to be disturbed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm just looking thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to other Clerk in West Ardougne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "Sorry, I don't have time to talk. Bravek needs lots of help running the city."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Edmond after Jethick asks for Elena's picture",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Have you found Elena yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, it's a big city over there. Do you have a picture of Elena?"
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "There should be a picture of Elena in the house. Please find her quickly, I hope it's not too late."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Alrena after Jethick asks for Elena's picture",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Alrena."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Hello, any word on Elena?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet I'm afraid."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Is there anything else I can do to help?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have a picture of Elena?"
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Yes. There should be one in the house somewhere. Let me know if you need anything else."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finding Elena",
+      "sections": [
+        {
+          "title": "Talking to Jethick after getting Elena's picture",
+          "sections": [
+            {
+              "title": "Talking to Jethick again before delivering the book",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Jethick",
+                      "text": "Hello. We don't get many newcomers around here."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm looking for a woman from East Ardougne called Elena."
+                    },
+                    {
+                      "speaker": "Jethick",
+                      "text": "Ah yes. She came over here to help the plague victims. I think she is staying over with the Rehnison family."
+                    },
+                    {
+                      "speaker": "Jethick",
+                      "text": "They live in the small timbered building at the far north side of town. I've not seen her around here in a while, mind."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jethick",
+                  "text": "Hello, I don't recognise you. We don't get many newcomers around here."
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "Hello. We don't get many newcomers around here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for a woman from East Ardougne called Elena."
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "East Ardougnian women are easier to find in East Ardougne. Not many would come to West Ardougne to find one. Although the name is familiar, what does she look like?"
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "Ah yes. She came over here to help the plague victims. I think she is staying over with the Rehnison family."
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "They live in the small timbered building at the far north side of town. I've not seen her around here in a while, mind."
+                },
+                {
+                  "speaker": "Jethick",
+                  "text": "I don't suppose you could run me a little errand while you're over there? I borrowed this book from them, can you return it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I'll return it for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I don't have time for that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning the book to Ted Rehnison",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ted Rehnison",
+                  "text": "Go away. We don't want any."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm a friend of Jethick's, I have come to return a book he borrowed."
+                },
+                {
+                  "speaker": "Ted Rehnison",
+                  "text": "Oh... Why didn't you say, come in then."
+                },
+                {
+                  "speaker": "Ted Rehnison",
+                  "text": "Thanks, I've been missing that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jethick after delivering the book",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jethick",
+                  "text": "Hello. We don't get many newcomers around here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Billy Rehnison",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Martha Rehnison",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi, I hear a woman called Elena is staying here."
+                },
+                {
+                  "speaker": "Martha Rehnison",
+                  "text": "Yes she was staying here, but slightly over a week ago she was getting ready to go back. However she never managed to leave."
+                },
+                {
+                  "speaker": "Martha Rehnison",
+                  "text": "My daughter Milli was playing near the west wall when she saw some shadowy figures jump out and grab her. Milli is upstairs if you wish to speak to her."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ted Rehnison",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi, I hear a woman called Elena is staying here."
+                },
+                {
+                  "speaker": "Ted Rehnison",
+                  "text": "Yes she was staying here, but slightly over a week ago she was getting ready to go back. However she never managed to leave."
+                },
+                {
+                  "speaker": "Ted Rehnison",
+                  "text": "My daughter Milli was playing near the west wall when she saw some shadowy figures jump out and grab her. Milli is upstairs if you wish to speak to her."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Milli Rehnison",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. Your parents say you saw what happened to Elena..."
+                },
+                {
+                  "speaker": "Milli Rehnison",
+                  "text": "*sniff* Yes I was near the south east corner when I saw Elena walking by. I was about to run to greet her when some men jumped out. They shoved a sack over her head and dragged her into a building."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Which building?"
+                },
+                {
+                  "speaker": "Milli Rehnison",
+                  "text": "It was the boarded up building with no windows in the south east corner of West Ardougne."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ted Rehnison after questioning Milli",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ted Rehnison",
+                  "text": "Any luck finding Elena yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet..."
+                },
+                {
+                  "speaker": "Ted Rehnison",
+                  "text": "I wish you luck, she did a lot for us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Martha Rehnison after questioning Milli",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Martha Rehnison",
+                  "text": "Any luck finding Elena yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet..."
+                },
+                {
+                  "speaker": "Martha Rehnison",
+                  "text": "I wish you luck, she did a lot for us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the plague house Elena is in",
+          "sections": [
+            {
+              "title": "First attempt after talking to Milli Rehnison",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Mourner",
+                      "text": "I'd stand away from there. That black cross means that house has been touched by the plague."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "But I think a kidnap victim is in here."
+                    },
+                    {
+                      "speaker": "Mourner",
+                      "text": "Sounds unlikely, even kidnappers wouldn't go in there. Even if someone is in there, they're probably dead by now."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Good point."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I want to check anyway."
+                    },
+                    {
+                      "speaker": "Mourner",
+                      "text": "You don't have clearance to go in there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How do I get clearance?"
+                    },
+                    {
+                      "speaker": "Mourner",
+                      "text": "Well you'd need to apply to the head mourner, or I suppose Bravek the city warder."
+                    },
+                    {
+                      "speaker": "Mourner",
+                      "text": "I wouldn't get your hopes up though."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I fear not a mere plague."
+                    },
+                    {
+                      "speaker": "Mourner",
+                      "text": "That's irrelevant. You don't have clearance to go in there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How do I get clearance?"
+                    },
+                    {
+                      "speaker": "Mourner",
+                      "text": "Well you'd need to apply to the head mourner, or I suppose Bravek the city warder."
+                    },
+                    {
+                      "speaker": "Mourner",
+                      "text": "I wouldn't get your hopes up though."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks for the warning."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Attempting before talking to Milli Rehnison, and subsequent attempts",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Mourner",
+                      "text": "I'd stand away from there. That black cross means that house has been touched by the plague."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to Milli Rehnison after attempting to enter the plague house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Milli Rehnison",
+                  "text": "Have you found Elena yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I'm still looking."
+                },
+                {
+                  "speaker": "Milli Rehnison",
+                  "text": "I hope you find her. She was nice."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Head Mourner after attempting to enter the plague house",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Head Mourner",
+                  "text": "How did you get into West Ardougne? Ah well you'll have to stay, can't risk you spreading the plague outside."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need clearance to enter a plague house. It's in the south east corner of West Ardougne."
+                },
+                {
+                  "speaker": "Head Mourner",
+                  "text": "You must be nuts, absolutely not!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There's a kidnap victim inside!"
+                },
+                {
+                  "speaker": "Head Mourner",
+                  "text": "Well they're as good as dead then, no point in trying to save them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've got a gas mask though..."
+                },
+                {
+                  "speaker": "Head Mourner",
+                  "text": "It's not regulation. Anyway you're not properly trained to deal with the plague."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I get trained?"
+                },
+                {
+                  "speaker": "Head Mourner",
+                  "text": "It requires a strict 18 months of training."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have that sort of time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I'm utterly crazy."
+                },
+                {
+                  "speaker": "Head Mourner",
+                  "text": "You're wasting my time, I have a lot of work to do!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the door to Bravek before the Clerk lets you in",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bravek",
+                  "text": "Go away, I'm busy! I'm... Umm... In a meeting!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Clerk Before getting permission to speak to Bravek",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clerk",
+                  "text": "Hello, welcome to the Civic Office of West Ardougne. How can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need permission to enter a plague house."
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "Rather you than me! The mourners normally deal with that stuff, you should speak to them. Their headquarters are right near the city gate."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll try asking them then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Surely you don't let them run everything for you?"
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "Well, they do know what they're doing here. If they did start doing something badly Bravek, the city warder, would have the power to override them. I can't see that happening though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I speak to Bravek anyway?"
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "He has asked not to be disturbed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who is through that door?"
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "The city warder Bravek is in there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go in?"
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "He has asked not to be disturbed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This is urgent though! Someone's been kidnapped!"
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "I'll see what I can do I suppose."
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "Mr Bravek, there's [a man/a lady/someone] here who really needs to speak to you."
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "I suppose they can come in then. If they keep it short."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll leave him alone."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know when he will be available?"
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "Oh I don't know, an hour or so maybe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm just looking thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Clerk after getting permission to speak to Bravek",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clerk",
+                  "text": "Bravek will see you now but keep it short!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, I won't take much of his time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bravek",
+          "sections": [
+            {
+              "title": "Talking to Bravek again before getting the hangover cure",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Bravek",
+                      "text": "Uurgh! My head still hurts too much to think straight. Oh for one of Trudi's hangover cures!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you know what's in the cure?"
+                    },
+                    {
+                      "speaker": "Bravek",
+                      "text": "Hmmm let me think... Ouch! Thinking isn't clever. Ah here, she did scribble it down for me."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bravek",
+                  "text": "My head hurts! I'll speak to you another day..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This is really important though!"
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "I can't possibly speak to you with my head spinning like this... I went a bit heavy on the drink again last night. Curse my herbalist, she made the best hang over cures. Darn inconvenient of her catching the plague."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, goodbye."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You shouldn't drink so much then!"
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "Well positions of responsibility are hard, I need something to take my mind off things... Especially with the problems this place has."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't think drink is the solution."
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "I don't feel well enough to have a philosophical discussion about it right now. My head hurts."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know what's in the cure?"
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "Hmmm let me think... Ouch! Thinking isn't clever. Ah here, she did scribble it down for me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, goodbye."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mixing the hangover cure",
+          "sections": [
+            {
+              "title": "Using chocolate on a bucket of milk",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Using snape grass on chocolatey milk",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to Bravek after getting the hangover cure",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bravek",
+                  "text": "Uurgh! My head still hurts too much to think straight. Oh for one of Trudi's hangover cures!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Try this."
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "Ooh that's much better! Thanks, that's the clearest my head has felt in a month. Ah now, what was it you wanted me to do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to rescue a kidnap victim called Elena. She's being held in a plague house, I need permission to enter."
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "Well the mourners deal with that sort of thing..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll go speak to them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is that all anyone says around here?"
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "Well, they know best about plague issues."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't you want to take an interest in it at all?"
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "Nope, I don't wish to take a deep interest in plagues. That stuff is too scary for me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see why people say you're a weak leader."
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "Bah, people always criticise their leaders but delegating is the only way to lead. I delegate all plague issues to the mourners."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This whole city is a plague issue!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll talk to the mourners."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They won't listen to me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They say I'm not properly equipped to go in the house, though I do have a very effective gas mask."
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "Hmmm, well I guess they're not taking the issue of a kidnapping seriously enough. They do go a bit far sometimes."
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "I've heard of Elena, she has helped us a lot... Okay, I'll give you this warrant to enter the house."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bravek before getting the warrant",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bravek",
+                  "text": "Thanks again for the hangover cure."
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "Ah now what was it you wanted me to do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to rescue Elena. She's now a kidnap victim! She's being held in a plague house, I need permission to enter."
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "Well the mourners deal with that sort of thing..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bravek after receiving the warrant",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bravek",
+                  "text": "Thanks again for the hangover cure."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not a problem, happy to help out."
+                },
+                {
+                  "speaker": "Bravek",
+                  "text": "I'm just having a little drop of whisky, then I'll feel really good."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Clerk after meeting Bravek",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Clerk",
+                  "text": "Hello, welcome to the Civic Office of West Ardougne. How can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who is through that door?"
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "The city warder Bravek is in there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go in?"
+                },
+                {
+                  "speaker": "Clerk",
+                  "text": "I suppose so."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm just looking thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Freeing Elena",
+      "sections": [
+        {
+          "title": "Attempting to enter the plague house with the warrant",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mourner",
+                  "text": "I'd stand away from there. That black cross means that house has been touched by the plague."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a warrant from Bravek to enter here."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "This is highly irregular. Please wait..."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Hey... I've got someone here with a warrant from Bravek, what should we do?"
+                },
+                {
+                  "speaker": "Mourner (2)",
+                  "text": "Well you can't let them in..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mourners outside the plague house while holding the warrant",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have a warrant from Bravek to enter here."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "This is highly irregular. Please wait..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the basement door of the plague house without the key",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elena",
+                  "text": "Hey get me out of here please!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I would do but I don't have a key."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "I think there may be one around somewhere. I'm sure I heard them stashing it somewhere."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you caught the plague?"
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "No, I have none of the symptoms."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Strange, I was told this house was plague infected."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "I suppose that was a cover up by the kidnappers."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll look for it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the barrel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Opening the basement door of the plague house while holding the key",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Elena after unlocking the basement door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi, you're free to go! Your kidnappers don't seem to be about right now."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Thank you, being kidnapped was so inconvenient. I was on my way back to East Ardougne with some samples, I want to see if I can diagnose a cure for this plague."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well you can leave via the manhole in the middle of the city."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Go and see my father, I'll make sure he adequately rewards you. Now I'd better leave while I still can."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After freeing Elena",
+      "sections": [
+        {
+          "title": "Talking to Ted Rehnison after freeing Elena",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ted Rehnison",
+                  "text": "Any luck finding Elena yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, she is safe at home now."
+                },
+                {
+                  "speaker": "Ted Rehnison",
+                  "text": "That's good to hear, she helped us a lot."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Martha after freeing Elena",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Martha Rehnison",
+                  "text": "Any luck finding Elena yet?"
+                },
+                {
+                  "speaker": "Martha Rehnison",
+                  "text": "That's good to hear, she helped us a lot."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Alrena after freeing Elena",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Alrena",
+                  "text": "Thank you for rescuing my daughter! Elena has told me of your bravery in entering a house that could have been plague infected. I can't thank you enough!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Edmond",
+          "sections": [
+            {
+              "title": "Talking to Edmond again before using the Ardougne teleport scroll",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Edmond",
+                      "text": "Ah hello. Thank you again for rescuing my daughter."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you have any more of those scrolls?"
+                    },
+                    {
+                      "speaker": "Edmond",
+                      "text": "Yes, here you go."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No problem."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using the teleport scroll",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Edmond",
+                  "text": "Thank you, thank you! Elena beat you back by minutes. Now I said I'd give you a reward. What can I give you as a reward I wonder? Here take this magic scroll, I have little use for it but it may help you."
+                },
+                {
+                  "speaker": "Edmond",
+                  "text": "Now I'd recommend you go and see Elena. She'll want to thank you herself. She lives in the house opposite ours."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

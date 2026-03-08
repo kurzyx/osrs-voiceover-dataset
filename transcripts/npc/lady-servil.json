@@ -1,0 +1,33 @@
+{
+  "ref": "lady-servil",
+  "categoryRef": "npc",
+  "title": "Lady Servil",
+  "sections": [
+    {
+      "title": "Standard dialogue after Fight Arena",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, Lady Servil."
+            },
+            {
+              "speaker": "Lady Servil",
+              "text": "Hello there. My husband and son are resting while I wait for the cart fixer."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well I hope it doesn't take too long."
+            },
+            {
+              "speaker": "Lady Servil",
+              "text": "I'm sure it won't. Thanks again for everything."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ref": "logava",
+  "categoryRef": "npc",
+  "title": "Logava",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Interacting with Logava shortly after stealing from a fruit stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Logava",
+                  "text": "Hey! You're that thief! Get away from my stall."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Logava",
+              "text": "Hello, can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's trade."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where am I?"
+            },
+            {
+              "speaker": "Logava",
+              "text": "This is the marketplace of Hosidius. To the north west there's my sister's pub, and in the south is my grandfather's fruit farm. Do you need to buy anything while you're here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm okay."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

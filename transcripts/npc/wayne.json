@@ -1,0 +1,45 @@
+{
+  "ref": "wayne",
+  "categoryRef": "npc",
+  "title": "Wayne",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wayne",
+              "text": "Welcome to Wayne's Chains. Do you wanna buy or sell some chain mail?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wayne",
+                  "text": "Very well done, take this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

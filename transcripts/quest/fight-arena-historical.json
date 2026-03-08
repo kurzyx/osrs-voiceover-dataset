@@ -1,0 +1,1716 @@
+{
+  "ref": "fight-arena-historical",
+  "categoryRef": "quest",
+  "title": "Fight Arena/Historical",
+  "sections": [
+    {
+      "title": "Getting started",
+      "sections": [
+        {
+          "title": "Talking to Khazard Guard at the east entrance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "This area is restricted, leave now!"
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "OUT! And don't come back."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Khazard Guard around the Fight Arena",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "I don't know you stranger. Get off our land."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Local",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Local",
+                  "text": "Hello stranger, are you new to these parts? You look lost."
+                },
+                {
+                  "speaker": "Local",
+                  "text": "I suppose you're here for the fight arena? There are some rich folk fighting tomorrow. Should be entertaining."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lady Servil",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi there. Looks like you're in some trouble."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "Oh I wish this broken cart was my only problem... I've got to find my family..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "Would you? Please?"
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "I'm Lady Servil, my husband is Sir Servil. We were travelling north together with our son Sammy when we were ambushed by General Khazard's men."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "General Khazard?"
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "He's been after me ever since I declined his hand in marriage."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "Now he's kidnapped my husband and son to fight in his battle arena to the south of here. I hate to think what he'll do to them. He's a sick and twisted man."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll try my best to return your family."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "Please do. My family is wealthy and can reward you handsomely. I'll be waiting here for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I hope you can, good luck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lady Servil after starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Lady Servil."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "Brave traveller, please... bring back my family."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Entering the arena",
+      "sections": [
+        {
+          "title": "Talking to Khazard Guard by the armour chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Who goes there?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... I... um..."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "I don't know who you are. Get out of my house stranger."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening the armour chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the armour chest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lady Servil after getting armour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Lady Servil."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "Have you had any luck with freeing my family?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've managed to get a guard's uniform, hopefully I can infiltrate the arena."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "Please hurry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Khazard Guard by the armour chest with Khazard armour equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Despicable thieving scum, that was good armour. Did you see anyone around here soldier?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Me? No, no one!"
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Hmmmm."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Khazard Guard around the fight arena with Khazard armour equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Can I help you stranger?"
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Oh, you're a guard as well. That's ok then. We don't like strangers around here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Local after getting the armour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Local",
+                  "text": "I heard the Servil family are fighting soon. Should be very entertaining."
+                },
+                {
+                  "speaker": "Local",
+                  "text": "Hello stranger, are you new to these parts?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose I am."
+                },
+                {
+                  "speaker": "Local",
+                  "text": "What's your business?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just visiting friends in the cells."
+                },
+                {
+                  "speaker": "Local",
+                  "text": "Visiting, that's funny."
+                },
+                {
+                  "speaker": "Local",
+                  "text": "Only Khazard guards are allowed to see prisoners. Unless you know where to get some Khazard armour, you won't be visiting anyone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Khazard barman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard barman",
+                  "text": "Hi, what can I get you? We have a range of quality brews."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll have a beer please."
+                },
+                {
+                  "speaker": "Khazard barman",
+                  "text": "That'll be two gold coins please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I don't have enough money with me."
+                },
+                {
+                  "speaker": "Khazard barman",
+                  "text": "There you go, that's two gold coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Got any news?"
+                },
+                {
+                  "speaker": "Khazard barman",
+                  "text": "If you want to see the action around here you should visit the famous Khazard fight arena. I've seen some grand battles in my time. Ogres, goblins, even dragons have fought there."
+                },
+                {
+                  "speaker": "Khazard barman",
+                  "text": "Although you have to feel sorry for some of the slaves sent in there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Khazard Guard inside the building with Khazard armour equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "I've never seen you around here before!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Long live General Khazard!"
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Erm.. yes.. soldier, I take it you're new around here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You could say that."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Khazard died two hundred years ago. However his dark spirit remains in the form of the undead maniac General Khazard. Remember he is your master, always watching."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Got that newbie?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Undead, maniac, master. Got it, loud and clear."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening door while a Khazard Guard is nearby",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "This door appears to be locked."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Nice observation guard. You could have just asked to be let in like a normal person."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Joe",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do either of you know a Justin or Sammy Servil?"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "If we did, why would we tell you guard?"
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "Until our last breath, our every action will be against Khazard. Never will we help you."
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "I spit on Khazard's grave, and all who do his bidding."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do either of you know a Justin or Sammy Servil?"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "I have heard of those of whom you speak. But I fear it may be too late."
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "It is said that Khazard has a personal vendetta against those two, their time is therefore short."
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "You're a brave [man/woman]. If the guards get you, you'll be in here next."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kelvin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do either of you know a Justin or Sammy Servil?"
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "If we did, why would we tell you guard?"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "Until our last breath, our every action will be against Khazard. Never will we help you."
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "I spit on Khazard's grave, and all who do his bidding."
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "I have heard of those of whom you speak. But I fear it may be too late."
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "It is said that Khazard has a personal vendetta against those two, their time is therefore short."
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "You're a brave [man/woman]. If the guards get you, you'll be in here next."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Fightslave",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you know of a Justin or Sammy Servil in this arena?"
+                },
+                {
+                  "speaker": "Fightslave",
+                  "text": "Please leave me alone."
+                },
+                {
+                  "speaker": "Fightslave",
+                  "text": "I've not met anybody in here by that name."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hengrad",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you know a Justin or Sammy Servil?"
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "You're not a real guard. I've been in here long enough to know that. What's your business?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've been sent to rescue Sir Servil and his son."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "I've seen them in here, although they don't look up to much. My advice to you is to leave before you end up in a cell too."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening door to the arena",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "And where do you think you're going? Only General Khazard decides who fights in the arena. Get out of here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to drunk Khazard Guard with Khazard armour equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Long live General Khazard!"
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Erm.. yes.. quite right."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Have you come to laugh at the fight slaves? I used to really enjoy it, but after a while they become quite boring."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Now I just want a decent drink. Mind you, too much Khali brew and I'll fall asleep."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to drunk Khazard Guard again with Khazard armour equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Bored, bored, bored. You'd think the slaves would be more entertaining. Selfish the lot of them."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "I used to enjoy this job, but now all I want is a decent drink."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sammy Servil",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "Please Sir, don't hurt me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sshh. This uniform is a disguise, I'm here to help. Where do they keep the keys?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sshh. I'm here to help. Where do they keep the keys?"
+                },
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "The guard always keeps hold of them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't lose heart, I'll be back."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lady Servil after entering the arena",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Lady Servil, I have managed to infiltrate General Khazard's arena."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "And my family?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm working on it."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "Please hurry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Khazard barman after learning about the Khali brew",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard barman",
+                  "text": "Hi, what can I get you? We have a range of quality brews."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like a Khali brew please."
+                },
+                {
+                  "speaker": "Khazard barman",
+                  "text": "That'll be five gold coins please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I don't have enough money with me."
+                },
+                {
+                  "speaker": "Khazard barman",
+                  "text": "There you go, that's five gold coins. I suggest lying down before you drink it. That way you have less distance to collapse."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to drunk Khazard Guard while holding Khali brew",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Bored, bored, bored. You'd think the slaves would be more entertaining. Selfish the lot of them.* Player: Do you still fancy a drink?"
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "I really shouldn't... oh... ok then just the one."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Blimey this stuff is pretty good. It's not too strong is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not at all. You'll be fine."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "That is some gooood stuff... yeah... wooh yeah!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you alright?"
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Yeesshh, hiccup! Oooh, maybe I sshould relax for a while."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good idea. I'll look after the prisoners."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Yeesh, yes that shounds reasonable. Here, 'hiccup', take the keysch. Any trouble, you give... you givem a good beating."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No problem, I'll keep them in line."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to drunk Khazard Guard after getting the keys",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, how's the job?"
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Please, leave me alone. I'm sure the walls never used to sway that much."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to drunk Khazard Guard after losing the keys",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi, er.. I lost the keys."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "What?! You're foolish..."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "...and I'm drunk. Here, take my spare set."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to drunk Khazard Guard after getting him drunk without Khazard armour equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Go away. Thish areash resh... restricted! We don't like strangersh, 'specially ones who sway. Oooh!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using keys on a cell that does not contain Sammy Servil",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "The gate is locked, but Sammy's not in there anyway."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sammy Servil after getting the keys",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Sammy look, I have the keys."
+                },
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "Wow! Please set me free, then we can find my dad. I overheard a guard talking. I think they've taken him to the arena."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, we'd better hurry."
+                },
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "I'll run ahead."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sammy, where's your father?"
+                },
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "Quick, help him! That beast will kill him. He's too old to fight."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The battles",
+      "sections": [
+        {
+          "title": "Talking to Sammy Servil in the arena",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Sammy, where's your father?"
+                },
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "Quick, help him! That beast will kill him. He's too old to fight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to General Khazard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "General Khazard?"
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "What do you want guard? I'm a busy man."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course sir."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "In the last two hundred years, I have survived all horrors imaginable. Now it is my turn to cover this land in darkness. One day you shall see, all will quake on hearing my name."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "Now leave me."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "Who dares enter my home? You? A feeble traveller?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Feeble?!"
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "Get out! Whoever let you in shall be severely punished for this."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Justin Servil",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Lady Servil sent me to rescue you and your son. Come on, we have to get out of here."
+                },
+                {
+                  "speaker": "Justin Servil",
+                  "text": "I'm too old to fight. I'm afraid you'll have to kill that ogre by yourself."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to exit the arena through the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "Please don't go, you must help us. We'll never survive in here alone."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where's your father Sammy?"
+                },
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "Quick, help him! That beast will kill him. He's too old to fight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attacking General Khazard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lady Servil after freeing Sammy from the jail",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Lady Servil. I freed your son, however he has returned to the arena to help your husband."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "Oh no, they won't stand a chance. Please go back and help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon killing the Khazard Ogre",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Justin Servil",
+                  "text": "You saved my life and my son's, I am eternally in your debt brave traveller."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "Haha, well done, well done that was rather entertaining. I am the great General Khazard, and the two men you just 'saved' are my property."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They belong to nobody."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "Well, I suppose we could find some arrangement for their freedom... hmmm?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "I'll let them go, but you must stay and fight for me. You'll make me double the gold if you manage to last a few fights."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "Guards! Take [him/her] to the cells."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "The General seems to have taken a liking to you. He'd normally kill imposters like you without a second thought."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Justin Servil after defeating the ogre",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Are you alright?"
+                },
+                {
+                  "speaker": "Justin Servil",
+                  "text": "You saved my life and my son's. I am eternally in your debt brave traveller."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sammy Servil after defeating the ogre",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Come on Sammy, we have to get out of here."
+                },
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "Thank you for saving my father."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "Haha, well done, well done that was rather entertaining. I am the great General Khazard, and the two men you just 'saved' are my property."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Exiting the arena after defeating the ogre",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "General Khazard",
+                  "text": "Haha, well done, well done that was rather entertaining. I am the great General Khazard, and the two men you just 'saved' are my property."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to General Khazard after defeating the ogre",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have come to demand the release of Sir Servil and his son."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "Why would I give them up, those two men are my property now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They belong to nobody."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sammy in the jail cell",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Fightslave after killing the ogre",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fightslave",
+                  "text": "Please leave me alone."
+                },
+                {
+                  "speaker": "Fightslave",
+                  "text": "Why am I here?"
+                },
+                {
+                  "speaker": "Fightslave",
+                  "text": "What did I do to deserve this?"
+                },
+                {
+                  "speaker": "Fightslave",
+                  "text": "Please help me."
+                },
+                {
+                  "speaker": "Fightslave",
+                  "text": "You're not safe here, leave while you can."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Khazard Guard inside the building after killing the ogre with Khazard armour equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "I hope you're keeping busy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "General Khazard doesn't tolerate the lazy. If you're not keeping busy I'll practice my combat skills on your hide."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Joe after killing the ogre",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Joe",
+                  "text": "Get away, get away. One day I'll have my revenge, and I'll have all your heads."
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "Spare me your fake pity. I spit on Khazard's grave, and all who do his bidding."
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "You're not safe here traveller. Leave while you still can"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "You're a brave person. If the guards get you, you'll be in here next."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kelvin after killing the ogre",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kelvin",
+                  "text": "Get away, get away. One day I'll have my revenge, and I'll have all your heads."
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "Spare me your fake pity. I spit on Khazard's grave, and all who do his bidding."
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "You're not safe here traveller. Leave while you still can"
+                },
+                {
+                  "speaker": "Kelvin",
+                  "text": "You're a brave person. If the guards get you, you'll be in here next."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hengrad in the jail cell",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Are you ok stranger?"
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "I'm fine thanks."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "So Khazard got his hands on you too?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid so."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "If you're lucky you may last as long as me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How long have you been here?"
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "I've been in Khazard's prisons ever since I can remember. I was a child when his men kidnapped me. My whole life has been spent killing and fighting, all in the hope that one day I might escape."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't give up."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "Thanks friend."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "Wait.. sshh, the guard is coming. Looks like you'll be going into the arena. Good luck friend."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Right you, move it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering the building after starting the scorpion fight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "This door appears to be locked."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "So you're back for more are you? General Khazard will be pleased."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sammy Servil in the arena during the scorpion fight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, I'll get us out of here."
+                },
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "Thanks traveller. I'm sorry that you too are now a subject of this arena."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Justin Servil in the arena during the scorpion fight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, I'll get us out of here."
+                },
+                {
+                  "speaker": "Justin Servil",
+                  "text": "You've incurred the anger of Khazard yourself now. He won't let any of us go easily."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to General Khazard during the scorpion fight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "How dare you speak to me, you are a slave of this arena now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to exit the arena during the scorpion fight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "It would be impolite to leave now. The General insists you stay a little longer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon killing the scorpion",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "General Khazard",
+                  "text": "Not bad, not bad at all. I think you need a tougher challenge. Time for my puppy. Guards! Guards! Bring on Bouncer!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Justin Servil during the Bouncer fight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Come on, we only have to fight a creature called bouncer now."
+                },
+                {
+                  "speaker": "Justin Servil",
+                  "text": "You may laugh, but the name of the General's 'pet' is feared by many in this land."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, I'll get us out of here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Local during the Bouncer fight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Local",
+                  "text": "Hey you're the guy from the arena! How'd you get out!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hengrad during the Bouncer fight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "I don't know how you managed to escape the arena, but you may not be as lucky next time. Get out of here while you can."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon killing Bouncer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "General Khazard",
+                  "text": "Nooooo! Bouncer! How dare you? You've taken the life of my only friend. Now you'll suffer traveller, prepare to meet your maker."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You agreed to let the Servils go if I stayed to fight."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "Indeed. I obviously underestimated you, although you still pale in comparison to the might of General Khazard."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "You shall see that I am not cowardly enough to make false promises. They may go."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "You however have caused me much trouble today. You must remain here so that I may at least have the pleasure of killing you myself."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Justin Servil after killing Bouncer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What does Khazard want with us now?"
+                },
+                {
+                  "speaker": "Justin Servil",
+                  "text": "I don't know, but I can't imagine he'll be happy with you now."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "The agreement was that the Servils may leave if you won a few fights, and indeed they are now free to do so."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sammy Servil after killing Bouncer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What does Khazard want with us now?"
+                },
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "I don't know, but he won't be happy that you've killed his so called pet."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "The agreement was that the Servils may leave if you won a few fights, and indeed they are now free to do so."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Justin Servil after General Khazard attacks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "You can run, Khazard's interest is in me now."
+                },
+                {
+                  "speaker": "Justin Servil",
+                  "text": "My thanks, we'll be ok now. I suggest you run too, General Khazard is mighty and his anger fearsome."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sammy Servil after General Khazard attacks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "You and your father should run, Khazard's interest is in me now."
+                },
+                {
+                  "speaker": "Sammy Servil",
+                  "text": "I'm sorry to have gotten you into so much trouble. You should run as well, Khazard is too dangerous."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to General Khazard after he attacks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "You killed my pet, and yet still you dare to speak to me?"
+                },
+                {
+                  "speaker": "General Khazard",
+                  "text": "You shall die for your insolence."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering the door to the building after Khazard attacks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "This door appears to be locked."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "You're [him/her]. The one who murdered the General's pet."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "You'll pay for that mistake!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening the door to the arena after Khazard attacks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "You're the one who killed Bouncer."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Die traitor!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sammy in the cell after Khazard attacks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Local after Khazard attacks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Local",
+                  "text": "You're the guy who beat Bouncer, amazing!"
+                },
+                {
+                  "speaker": "Local",
+                  "text": "That makes you a champion to many, but you'd better get out of here while you still can. General Khazard liked that brute."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lady Servil after Khazard attacks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Lady Servil."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "You're alive, I thought Khazard's men had taken you."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "My son and husband are safe and recovering at home. Without you they would certainly be dead. I am truly grateful for your service."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "All I can offer in return is material wealth. Please take these coins as a sign of my gratitude."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Lady Servil."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "You're alive, I thought Khazard's men had taken you."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "My son and husband are safe and recovering at home. Without you they would certainly be dead. I am truly grateful for your service."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "All I can offer in return is material wealth. Please take these coins as a sign of my gratitude."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Post quest",
+      "sections": [
+        {
+          "title": "Talking to Lady Servil after the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Lady Servil."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "Oh hello my dear. My husband and son are resting while I wait for the cart fixer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I hope he's not too long."
+                },
+                {
+                  "speaker": "Lady Servil",
+                  "text": "Thanks again for everything."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

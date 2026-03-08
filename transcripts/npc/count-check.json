@@ -1,0 +1,376 @@
+{
+  "ref": "count-check",
+  "categoryRef": "npc",
+  "title": "Count Check",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha! I am Count Check, the renowned security expert. Would you like me to check your account to see if it is secure?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Check my account, Count Check!"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "You have a Jagex Account, and you have set a Bank PIN, so you pass my checks! As you've passed my check for the first time, I award you a prize."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "You have a Jagex Account, and you have set a Bank PIN, so you pass my checks! As you've passed my check before, there's no prize now."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "You do not have a Jagex Account, so you fail my checks! You should upgrade before we meet again."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "You do not have a Jagex Account, nor a Bank PIN, so so you fail my checks! Please upgrade before we meet again."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you give me any advice?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "I can! Count with the Count as I count the steps to securing your account:"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "ONE... unique password!"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Never use the same password for different accounts, or on different websites. If it got leaked, all of your accounts would become vulnerable at once!"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "TWO... step verification for your email account!"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Good email providers let you set up two-step verification, maybe by generating security codes on a second device, or by sending codes to your phone. Make sure you've enabled this."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "THREE... Um... Use a Jagex Account. I can see you already do this."
+            },
+            {
+              "speaker": "Player",
+              "text": "Carry on."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's that got to do with THREE?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Look, I'd got something for ONE, TWO and FOUR, and I like counting, okay? Don't interrupt my flow!"
+            },
+            {
+              "speaker": "Player",
+              "text": "..."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "THREE... Um... Use a Jagex Account."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Visit the RuneScape website and log in to update your Account settings."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "FOUR... digit Bank PIN! I can see you have set one."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "FOUR... digit Bank PIN!"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Next time you visit a bank, talk to a banker and ask to check your PIN settings."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "FOUR... digit Bank PIN! I can see you do not use banks, by the way."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Muhahahahhaa! Such fun it is to count!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Where can I learn more about security?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "The Stronghold of Security, in Barbarian Village. I see you have not visited it. Would you like to? I can send you straight there - but only once."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "So may I check your account for you?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "The Stronghold of Security, in Barbarian Village. There is much to learn there. But while you are here, may I check your account for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "As you may see, I am a vampyre, from Morytania. I left there when I heard the terrible news and now I choose to spend my days warning others of the perils that lay in wait for them."
+            },
+            {
+              "speaker": "Player",
+              "text": "The perils?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Yes, be warned! The travellers of these lands face danger from outside. Accounts can be stolen, and when that happens one can lose everything one has worked for."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "I've left my vampyric ways behind me, and now I spend my days letting everyone know of this terrible danger."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "In return for my dedication, I have been blessed with the ability to check if adventurers are ready to defend themselves against these account thieves."
+            },
+            {
+              "speaker": "Player",
+              "text": "If you're a vampyre, how did you cross the Salve?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "What do you mean? 'If' I am a vampyre? Of course I am a vampyre! See my pale complexion, my teeth, my outfit - how could anyone doubt I am a true vampyre?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "I used to stalk the night drinking blood like vampyres do, and I am certainly not just a role-playing enthusiast in a costume! Never question that!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Right."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "So may I check your account for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll see you another time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Random event dialogue",
+      "sections": [
+        {
+          "title": "Talking to him again as he's leaving",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Count Check",
+                  "text": "I must be leaving now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Other player's event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Count Check",
+                  "text": "I came to check [player name], not you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha! I, Count Check, have checked your account. You have a Jagex Account, and you have set a Bank PIN, so you pass my checks! Enjoy your prize."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha! I, Count Check, have checked your account. You do not have a Bank PIN, so you fail my checks! Talk to a banker to set a PIN before we meet again."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha! I, Count Check, have checked your account. You do not have a Jagex Account, so you fail my checks! You should upgrade before we meet again."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha! I, Count Check, have checked your account. You do not have a Jagex Account, nor a Bank PIN, so so you fail my checks! Please upgrade before we meet again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha, [player name]!"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Please let me check you, [player name]!"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "I have come to check you, [player name]..."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Ahahahaha, ONE more person ignored me..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Count Check",
+              "text": "Hello [player name] you look like you've seen a ghost."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, not a ghost, but... well... you're a vampyre aren't you? Shouldn't you be in Morytania?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Ah yes, I miss that place. So lovely and dark. I left there when I heard the terrible news and now I choose to spend the rest of my days warning others of the perils that lay in wait for them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Terrible news? Peril? I don't like the sound of this. Is there something I should know?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Yes be warned! The travellers of these lands face danger from outside. Accounts that allow them access to this magical place can be stolen and when that happens they could lose everything they have worked so hard"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "for. I've left my Vampyre ways behind me and now spend my days letting everyone know of this terrible danger. In return for my dedication I have been blessed with a unique ability to be able to check if"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "adventurers who speak with me are ready to defend themselves against these account thieves."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you check to see if my account is secure?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Ok let me check your account security, but before I do there are some things that even I can not see. Firstly you must have a unique password for your account and not share it with anyone else and secondly make"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "sure you have 2 step verification for your registered recovery email. I'll leave it with you to make sure both of those things are in place."
+            },
+            {
+              "speaker": "Player",
+              "text": "A unique password that I don't share, and 2 step verification on my email... got it."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Now let me take a look at some of your other security settings for you..."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "You are using the authenticator! Excellent. This will help to keep your account secure."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "You aren't using the authenticator! This is a disaster. You should enable this to keep your account secure. Simply visit the support link on the oldschool.runescape.com website."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "You have a bank PIN. This is good, but make sure that it's one that can't be easily guessed."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "You really should set a bank PIN. If your account does get stolen, your items in the bank and other places like the GE will be safe."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is there an easy way to remember all these account security things?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Yes there is. by counting. I am a count, who likes to count and check accounts. You can ask me to check your account at any time you like and if you want to remember my top tips for account security just ask me"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "to count for you. The count loves to count."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Count with the count to easily remember my top account security tips:"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "One... unique password."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Two... step email verification."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Free... authenticator."
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Four... digit bank PIN!"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Muhahahahhaa!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Is there somewhere I can learn more about account security?"
+            },
+            {
+              "speaker": "Count Check",
+              "text": "Yes! The Stronghold of Security which can be accessed via Barbarian Village."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "ref": "karim",
+  "categoryRef": "npc",
+  "title": "Karim",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Karim",
+              "text": "Would you like to buy a nice kebab? Only one gold."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think I'll give it a miss."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oops, I forgot to bring any money with me."
+            },
+            {
+              "speaker": "Karim",
+              "text": "Come back when you have some."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you think of Ali Morrisane?"
+            },
+            {
+              "speaker": "Karim",
+              "text": "I don't like him. He makes all these claims about being the best salesman in Gielinor, and he even has some thugs that he's hired to threaten us."
+            },
+            {
+              "speaker": "Karim",
+              "text": "One of them came round here and threatened to cut my head off if I didn't cooperate with them!"
+            },
+            {
+              "speaker": "Karim",
+              "text": "I've also heard some rumours about them from my friend Ali in Pollnivneach..."
+            },
+            {
+              "speaker": "Player",
+              "text": "What sort of rumours?"
+            },
+            {
+              "speaker": "Karim",
+              "text": "Apparently he has men there as well, who have also been threatening people."
+            },
+            {
+              "speaker": "Karim",
+              "text": "And it's said that they even intend to steal from the ruler of Al Kharid himself!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Really?"
+            },
+            {
+              "speaker": "Karim",
+              "text": "That's what I've heard. Anyway, are you sure you wouldn't like a kebab?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Karim",
+                      "text": "Please enter the answer to the riddle."
+                    },
+                    {
+                      "speaker": "Karim",
+                      "text": "No that's not right, think again."
+                    },
+                    {
+                      "speaker": "Karim",
+                      "text": "Correct!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Karim",
+                  "text": "I've got a little problem for you to solve."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

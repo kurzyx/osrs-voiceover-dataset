@@ -1,0 +1,103 @@
+{
+  "ref": "cave-goblin-dorgesh-kaan-",
+  "categoryRef": "npc",
+  "title": "Cave goblin (Dorgesh-Kaan)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cave goblin",
+              "text": "How can you see properly with such tiny little eyes?"
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "Ooh! Are you [player name]?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes."
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "Everyone's talking about how you helped Zanik save the city! You're a hero!"
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "Have you visited the market? There are visitors selling foods from all over the surface there. It's so exotic!"
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "Well, I suppose it wouldn't be exotic for you, since you're from the surface."
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "But you should check it out anyway. Maybe you could sell some of your food. Everyone's crazy about surface food at the moment."
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "So, what do you think of our city, surface-dweller?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I like it!"
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "That, surface-dweller, was the right answer."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think it's rubbish."
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "Well, it beats crawling around on the surface with nothing above your head!"
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "What's it like on the surface? It sounds scary to me, having nothing above my head."
+            },
+            {
+              "speaker": "Player",
+              "text": "It's alright."
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "I'm still not sure it would be for me, though."
+            },
+            {
+              "speaker": "Player",
+              "text": "It's not all that great."
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "Never mind, you can stay down here now!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Upon failed pickpocketing attempt",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cave goblin",
+              "text": "What do you think you're doing?"
+            },
+            {
+              "speaker": "Cave goblin",
+              "text": "Help! A thief!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

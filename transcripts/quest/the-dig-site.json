@@ -1,0 +1,2447 @@
+{
+  "ref": "the-dig-site",
+  "categoryRef": "quest",
+  "title": "The Dig Site",
+  "sections": [
+    {
+      "title": "Starting the quest",
+      "sections": [
+        {
+          "title": "Talking to an examiner again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "I am still waiting for your letter of recommendation."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have lost the letter you gave me."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Oh now come on. You have it with you!"
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "That was foolish. Take this one and don't lose it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, I'll try and get it."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "I am sure you won't get any problems. Speak to the Curator of Varrock's museum."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using an unstamped letter on the examiner",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Examiner",
+                  "text": "I don't really want this back until it's been stamped!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Getting the Curator's approval",
+          "sections": [
+            {
+              "title": "Talking the curator again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Curator Haig Halen",
+                      "text": "Welcome to the museum of Varrock."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I seem to have lost the letter of recommendation that you stamped for me."
+                    },
+                    {
+                      "speaker": "Curator Haig Halen",
+                      "text": "Yes, I saw you drop it as you walked off last time. Here it is."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks!"
+                    },
+                    {
+                      "speaker": "Curator Haig Halen",
+                      "text": "I see you still have that letter I stamped for you. Why don't you run it back to the Examiner at the Exam Centre?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have another letter here; could you stamp it for me again?"
+                    },
+                    {
+                      "speaker": "Curator Haig Halen",
+                      "text": "You've already given me one of those! But... ok, give it here..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using the stamped letter on the curator",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Curator Haig Halen",
+                      "text": "No I don't want it back thank you, you'll need to take that back to the examiner at the Digsite."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "Welcome to the museum of Varrock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have been given this letter by the examiner at the digsite; can you stamp it for me?"
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "What have we here? A letter of recommendation indeed!"
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "Normally, I wouldn't do this... but in this instance I don't see why not."
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "The letter here says your name is [player name]. Well, [player name], I wouldn't normally do this for just anyone, but as you did us such a great service with the Shield of Arrav I don't see why not. Run this letter back to"
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "the Examiner to begin your adventure into the world of Earth Sciences. Enjoy your studies, Student!"
+                },
+                {
+                  "speaker": "Curator Haig Halen",
+                  "text": "There you go; good luck student. Be sure to come back and show me your certificates. I would like to see how you get on."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, I will. Thanks; see you later."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Ah hello there! I am the resident lecturer on antiquities and artefacts. I also set the Earth Sciences exams."
+            },
+            {
+              "speaker": "Player",
+              "text": "Earth Sciences?"
+            },
+            {
+              "speaker": "Examiner",
+              "text": "That is right dear, the world of Gielinor holds many wonders beneath its surface. Students come to me to take exams so that they may join in on the archaeological dig going on just north of here."
+            },
+            {
+              "speaker": "Player",
+              "text": "So if they don't pass the exams they can't dig at all?"
+            },
+            {
+              "speaker": "Examiner",
+              "text": "That's right! We have to make sure that students know enough to be able to dig safely and not damage the artefacts."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I take an exam?"
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Are you sure you want to? Our exams are serious business."
+            },
+            {
+              "speaker": "Player",
+              "text": "Of course."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Very well. You can if you get this letter stamped by the Curator of Varrock's museum."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why's that then?"
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Because he is a very knowledgeable man and employs our archaeological expert. I'm sure he knows a lot about your exploits and can judge whether you'd make a good archaeologist or not."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Besides, the museum contributes funds to the dig."
+            },
+            {
+              "speaker": "Player",
+              "text": "But why are you writing the letter? Shouldn't he?"
+            },
+            {
+              "speaker": "Examiner",
+              "text": "He's also a very busy man, so I write the letters and he justs stamps them if he approves."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, I see. I'll ask him if he'll approve me, and bring my stamped letter back here. Thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "On second thoughts, I'd better not."
+            },
+            {
+              "speaker": "Player",
+              "text": "Interesting..."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "You could gain much with an understanding of the world below."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The first exam",
+      "sections": [
+        {
+          "title": "Taking the exam",
+          "sections": [
+            {
+              "title": "Repeating the exam",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Examiner",
+                      "text": "Hello again. Are you ready for another shot at the exam?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No, not at the moment."
+                    },
+                    {
+                      "speaker": "Examiner",
+                      "text": "Okay, take your time if you wish."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using another stamped letter on the examiner",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Examiner",
+                      "text": "You've already shown me that! Get digging!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Searching the bookcases",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here is the stamped letter you asked for."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Good good, we will begin the exam..."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Okay, we will start with the first exam: Earth Sciences level 1 - Beginner."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Question 1 - Earth Sciences overview. Can you tell me what Earth Sciences is?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The study of the earth, its contents and history."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The study of gardening, planting and fruiting vegetation."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The study of planets and the history of the worlds."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The combination of archaeology and vegetarianism."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Okay, next question..."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Earth Sciences level 1, question 2 - Eligibility. Can you tell me which people are allowed to use the digsite?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Magic users, miners and their escorts."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Professors, students and workmen only."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Local residents, contractors and small pink fish."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "All that have passed the appropriate Earth Sciences exam."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Okay, next question..."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Earth Sciences level 1, question 3 - Health and safety. Can you tell me the proper safety points when working on a digsite?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Heat-resistant clothing to be worn at all times."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Rubber chickens to be worn on the head at all times."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Gloves and boots to be worn at all times; proper tools must be used."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Protective clothing to be worn; tools kept away from site."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "That concludes the exam for Earth Sciences level 1."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Let's see how you did..."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Oh deary me! This is appalling, none correct at all! I suggest you go and study properly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh dear..."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Why don't you use the resources here? There are books and the researchers, and you could even ask other students who are also studying for these exams."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "You got 1 question correct. Better luck next time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh bother!"
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Do some more research. I'm sure other students could help you out."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "You got 2 questions correct. Not bad, just a little more revision needed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh well..."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "You got all of the questions correct! Well done!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey! Excellent!"
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "You have now passed the Earth Sciences level 1 general exam. Here is your certificate to prove it. You also get a decent trowel to dig with. Of course, you'll want to get studying for your next exam now!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The student in the green top",
+          "sections": [
+            {
+              "title": "Asking the student for help",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Can you help me with the Earth Sciences exams at all?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Well... Maybe I will if you help me with something."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What's that?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "I have lost my recent good find."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What does it look like?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Err... Like an animal skull!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well, that's not too helpful, there are lots of those around here; can you remember where you last had it?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "It was around here for sure. Maybe someone picked it up?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay, I'll have a look for you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Returning to the student without the skull",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How's the study going?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Very well thanks. Have you found my animal skull yet?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No sorry, not yet."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Oh well, I am sure it's been picked up. Couldn't you try looking through some pockets?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Stealing the animal skull",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Returning the skull",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Is this your animal skull?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Oh wow! You've found it! Thank you so much. I'll be glad to tell you what I know about the exam."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "The study of Earth Sciences is: The study of the earth, its contents and history."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay, I'll remember that."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the student again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "How's it going?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I need more help with the exam."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Well ok, this is what I have learned since I last spoke to you..."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "The study of Earth Sciences is: The study of the earth, its contents and history."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay, I'll remember that."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "The student in the purple skirt",
+          "sections": [
+            {
+              "title": "Asking the student for help",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Can you help me with the Earth Sciences exams at all?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "I can if you help me..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How can I do that?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "I have lost my teddy bear. He was my lucky mascot."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you know where you dropped him?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Well, I was doing a lot of walking that day... Oh yes, that's right - we were studying ceramics in fact, near the edge of the digsite."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "I found some pottery that seemed to match the design on those large urns."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "I was in the process of checking this out, and when we got back to the centre my lucky mascot had gone!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Leave it to me, I'll find it."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Oh great! Thanks!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Returning to the student without the teddy bear",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "How's the study going?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Very well thanks. Have you found my lucky mascot yet?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No sorry, not yet."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "I'm sure it's just outside the digsite somewhere..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Searching the bush for the teddy",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hey, something has been dropped here..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Returning the teddy bear",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Guess what I found."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Hey! My lucky mascot! Thanks ever so much. Let me help you with those questions now."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "The proper health and safety points are: Leather gloves and boots to be worn at all times; proper tools must be used."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Great, thanks for your advice."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the student again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Student",
+                      "text": "How's it going?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I am stuck on some more exam questions."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Okay, I'll tell you my latest notes..."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "The proper health and safety points are: Leather gloves and boots to be worn at all times; proper tools must be used."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Great, thanks for your advice."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "The student in the orange shirt",
+          "sections": [
+            {
+              "title": "Asking the student for help",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Can you help me with the Earth Sciences exams at all?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "I can't do anything unless I find my special cup."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Your what?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "My special cup. I won it for a particularly good find last month."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh, right. So if I find it you'll help me?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "I sure will!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Any ideas where it may be?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "All I remember is that I was working near the tents when I lost it."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay, I'll see what I can do."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Returning to the student without the cup",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How's the study going?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm getting there. Have you found my special cup yet?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No sorry, not yet."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Oh dear, I hope it didn't fall into the stream; I might never find it again."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the panning guide",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello, who are you?"
+                    },
+                    {
+                      "speaker": "Panning guide",
+                      "text": "Hello, I am the panning guide. I teach students how to pan in these waters. They're not permitted to do so until after they've had training and, of course, they must be invited to pan here too."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So how do I become invited then?"
+                    },
+                    {
+                      "speaker": "Panning guide",
+                      "text": "I'm not supposed to let people pan here unless they have permission from the authorities first. Mind you, I could let you have a go if you're willing to do me a favour."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What's that?"
+                    },
+                    {
+                      "speaker": "Panning guide",
+                      "text": "Well, to be honest, what I would really like is... a nice cup of tea!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've some here that you can have."
+                    },
+                    {
+                      "speaker": "Panning guide",
+                      "text": "Ah! Lovely! You can't beat a good cuppa... You're free to pan all you want."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've some here that you can have."
+                    },
+                    {
+                      "speaker": "Panning guide",
+                      "text": "Urg! Is that what you call tea? Oh well, I suppose it will do; you can pan all you want."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Tea?!"
+                    },
+                    {
+                      "speaker": "Panning guide",
+                      "text": "Absolutely, I'm parched!"
+                    },
+                    {
+                      "speaker": "Panning guide",
+                      "text": "If you could bring me one of those, I would be more than willing to let you pan here. I usually get some from Varrock but I'm busy at the moment."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Attempting to pan with a full tray",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I already have a full panning tray; perhaps I should search it first."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Finding the cup",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Returning the cup",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Look what I found!"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Excellent! I'm so happy. Let me now help you with your exams..."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "The people eligible to use the digsite are: All that have passed the appropriate Earth Sciences exams."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks for the information."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the student again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "How's it going?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "There are more exam questions I'm stuck on."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Hey, I'll tell you what I've learned. That may help."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "The people eligible to use the digsite are: All that have passed the appropriate Earth Sciences exams."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks for the information."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to the researcher before completing the first exam",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Researcher",
+                  "text": "Hello there. What are you doing here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm going to pass the Earth Sciences exams so I can dig at the site north of here."
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "A good goal to work towards, and it should prove rewarding for you. So where are you starting your studies?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not quite sure."
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "Well, you could try looking in the Earth Sciences section of the shelves over there, although the other students may have beaten you to it."
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "You could even ask the students themselves. I'm sure I saw a group of them on their way to the digsite earlier today."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anything else?"
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "If you need something identified or are not sure about something, give it to Terry; he’s the archaeological expert in the next room."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about the tools an archaeologist uses?"
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "Of course! Let's see now... Rock picks are for splitting rocks or scraping away soil; you can get one from a cupboard in the Education Centre."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What about sample jars?"
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "I think you'll find them scattered about pretty much everywhere, but I know you can get one from a cupboard somewhere in the Education Centre, just like the rock pick!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, what about a specimen brush?"
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "We have a bit of a shortage of those at the moment. You could try borrowing one from a workman on the site... but I don't think they'd give it willingly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds like I'll need to be sneaky to get one of those, then... Okay - trowel?"
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "Ahh... that you must earn by passing your exams! The examiner holds those."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anything else?"
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "If you need something identified or are not sure about something, give it to Terry; he's the archaeological expert in the next room."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ahh, ok thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the researcher after completing the first exam",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "Oh, hello there. Congratulations on passing your first exam, I saw your performance, well done. Are you going to go for the next level?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course! I should probably talk to those students again; they were very helpful."
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "Glad to hear it!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The second exam",
+      "sections": [
+        {
+          "title": "The student in the green top",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need more help with the exam."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Well ok, this is what I have learned since I last spoke to you..."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Correct rock pick usage: Always handle with care; strike the rock cleanly on its cleaving point."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll remember that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The student in the purple skirt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Student",
+                  "text": "How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am stuck on some more exam questions."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Okay, I'll tell you my latest notes..."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Finds handling: Finds must be carefully handled, and gloves worn."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, thanks for your advice."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The student in the orange shirt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There are more exam questions I'm stuck on."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Hey, I'll tell you what I've learned. That may help."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Correct sample transportation: Samples taken in rough form; kept only in sealed containers."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the information."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the researcher",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi there! I passed my second Earth Sciences exam."
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "Well done! Are you planning on going for level 3?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes! Someday I'll know as much as you! Now, where did I leave those students...."
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "Have fun and good luck!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Hi there!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I am ready for the next exam."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Okay, this is the next part of the Earth Sciences exam: Earth Sciences level 2 - Intermediate."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Question 1 - Sample transportation. Can you tell me how we transport samples?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Samples cut and cleaned before transportation."
+            },
+            {
+              "speaker": "Player",
+              "text": "Samples ground and suspended in an acid solution."
+            },
+            {
+              "speaker": "Player",
+              "text": "Samples to be given to the melon-collecting monkey."
+            },
+            {
+              "speaker": "Player",
+              "text": "Samples taken in rough form; kept only in sealed containers."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Okay, next question..."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Earth Sciences level 2, question 2 - Handling of finds. What is the proper way to handle finds?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Finds must not be handled by anyone."
+            },
+            {
+              "speaker": "Player",
+              "text": "Finds must be carefully handled, and gloves worn."
+            },
+            {
+              "speaker": "Player",
+              "text": "Finds to be given to the site workmen."
+            },
+            {
+              "speaker": "Player",
+              "text": "Drop them on the floor and jump on them."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Okay, next question..."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Earth Sciences level 2, question 3 - Rock pick usage. Can you tell me the proper use for a rock pick?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Strike rock repeatedly until powdered."
+            },
+            {
+              "speaker": "Player",
+              "text": "Rock pick must be used flat and with a strong force."
+            },
+            {
+              "speaker": "Player",
+              "text": "Always handle with care; strike cleanly on its cleaving point."
+            },
+            {
+              "speaker": "Player",
+              "text": "Rock picks are to be used to milk cows on a rainy morning."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Okay, that concludes the level 2 Earth Sciences exam."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Let me add up your total.."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "No, no, no! This will not do. They are all wrong; start again!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh no!"
+            },
+            {
+              "speaker": "Examiner",
+              "text": "More studying for you my [boy/girl/friend]."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "You got 1 question correct. At least it's a start."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh well..."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Get out and explore the digsite, talk to people and learn!"
+            },
+            {
+              "speaker": "Examiner",
+              "text": "You got 2 questions correct. Not too bad, but you can do better..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nearly got it."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "You got all the questions correct, well done!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Great, I'm getting good at this."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "You have now passed the Earth Sciences level 2 intermediate exam. Here is your certificate. Of course, you'll want to get studying for your next exam now!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I am stuck on a question."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Well, well, have you not been doing any studies? I am not giving you the answers, talk to the other students and remember the answers."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I didn't mean to disturb you."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Oh, no problem at all."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have lost my trowel."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Deary me... That was a good one as well. It's a good job I have another. Here you go..."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Really? Look in your backpack and make sure first."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The third exam",
+      "sections": [
+        {
+          "title": "The student in the green top",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need more help with the exam."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Well ok, this is what I have learned since I last spoke to you..."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Specimen brush use: Brush carefully and slowly using short strokes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll remember that. Thanks for all your help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The student in the purple skirt",
+          "sections": [
+            {
+              "title": "Returning without an opal",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Oh, hi again. Did you bring me the opal?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I haven't found one yet."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Oh well, tell me when you do. Remember that they can be found around the digsite; perhaps try panning the river."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Giving the student the opal",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Oh, hi again. Did you bring me the opal?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Would an opal look like this by any chance?"
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Wow, great, you've found one. This will look beautiful set in my necklace. Thanks for that; now I'll tell you what I know..."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Sample preparation: Samples cleaned, and carried only in specimen jars."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Great, thanks for your advice."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the student again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "How's it going?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I am stuck on some more exam questions."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Okay, I'll tell you my latest notes..."
+                    },
+                    {
+                      "speaker": "Student",
+                      "text": "Sample preparation: Samples cleaned, and carried only in specimen jars."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Great, thanks for your advice."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "What, you want more help?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err... Yes please!"
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Well... It's going to cost you..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, well how much?"
+                },
+                {
+                  "speaker": "Student",
+                  "text": "I'll tell you what I would like: a precious stone. I don't find many of them. My favourites are opals; they are beautiful."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Just like me! Tee hee hee!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err... OK I'll see what I can do, but I'm not sure where I'd get one."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Well, I have seen people get them from panning occasionally."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "OK, I'll see what I can turn up for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The student in the orange shirt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There are more exam questions I'm stuck on."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "Hey, I'll tell you what I've learned. That may help."
+                },
+                {
+                  "speaker": "Student",
+                  "text": "The proper technique for handling bones is: Handle bones carefully and keep them away from other samples."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the information."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the researcher",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I did it! Level 3 Earth Sciences!"
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "Bravo! Well done indeed! What are your plans now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I'm not really sure; I guess I should see what I can find around the site."
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "I hear that the third level digs yield the best artefacts for display; Terry, the archaeological expert, has found many good things there that he's excited about."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the examiner again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Examiner",
+                  "text": "Well, what are you doing here? Get digging!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Ah, hello again."
+            },
+            {
+              "speaker": "Player",
+              "text": "I am ready for the last exam..."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Attention, this is the final part of the Earth Sciences exam: Earth Sciences level 3 - Advanced."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Question 1 - Sample preparation. Can you tell me how we prepare samples?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Samples may be mixed together safely."
+            },
+            {
+              "speaker": "Player",
+              "text": "Samples cleaned, and carried only in specimen jars."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sample types catalogued and carried by hand only."
+            },
+            {
+              "speaker": "Player",
+              "text": "Samples to be spread thickly with mashed banana."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Okay, next question..."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Earth Sciences level 3, question 2 - Specimen brush use. What is the proper way to use a specimen brush?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Brush quickly using a wet brush."
+            },
+            {
+              "speaker": "Player",
+              "text": "Brush carefully and slowly using short strokes."
+            },
+            {
+              "speaker": "Player",
+              "text": "Dipped in glue and stuck to a sheep's back."
+            },
+            {
+              "speaker": "Player",
+              "text": "Brush quickly and with force."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Okay, next question..."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Earth Sciences level 3, question 3 - Advanced techniques. Can you describe the technique for handling bones?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Bones must not be taken from the digsite."
+            },
+            {
+              "speaker": "Player",
+              "text": "Feed to hungry dogs."
+            },
+            {
+              "speaker": "Player",
+              "text": "Bones to be ground and tested for mineral content."
+            },
+            {
+              "speaker": "Player",
+              "text": "Handle bones very carefully and keep them away from other samples."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Okay, that concludes the level 3 Earth Sciences exam."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Let me add up the results.."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "I cannot believe this! Absolutely none right at all. I doubt you did any research before you took this exam..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah... Yes... Erm... I think I had better go and revise first!"
+            },
+            {
+              "speaker": "Examiner",
+              "text": "You got 1 question correct. Try harder!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh bother!"
+            },
+            {
+              "speaker": "Examiner",
+              "text": "You got 2 questions correct. A little more study and you will pass it."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm nearly there..."
+            },
+            {
+              "speaker": "Examiner",
+              "text": "You got all the questions correct, well done!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hooray!"
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Congratulations! You have now passed the Earth Sciences level 3 exam. Here is your level 3 certificate."
+            },
+            {
+              "speaker": "Player",
+              "text": "I can dig wherever I want now!"
+            },
+            {
+              "speaker": "Examiner",
+              "text": "Perhaps you should use your newfound skills to find an artefact on the digsite that will impress the archaeological expert."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Making a discovery",
+      "sections": [
+        {
+          "title": "Searching the south cupboard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the north cupboard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Digging up the talisman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Terry Balando",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Take a look at this talisman."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Unusual... This object doesn't appear right..."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Hmmm..."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "I wonder... Let me check my guide... Could it be? Surely not!"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "From the markings on it, it seems to be a ceremonial ornament to a god named..."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "...Zaros? I haven't heard much about him before. This is a great discovery; we know very little of the pagan gods that people worshipped."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "There is some strange writing embossed upon it - it says, 'Zaros will return and wreak his vengeance upon Zamorak the pretender.'"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "I wonder what it means by that? Some silly superstition, probably."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Still, I wonder what this is doing around here. I'll tell you what; as you have found this, I will allow you to use the private dig shafts."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "You obviously have a keen eye. Take this letter and give it to one of the workmen, and they will allow you to use them."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Terry again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. Who are you?"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Good day to you. My name is Terry Balando; I am an expert on digsite finds."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "I am employed by the museum in Varrock to oversee all finds at this digsite. Anything you find must be reported to me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, ok. If I find anything of interest I will bring it here."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Can I help you at all?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I lost the letter you gave me."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "No you haven't! You have one in your pack!"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "No you haven't! You have one in your bank!"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "I can't believe it! I go to all the effort of writing you a letter of recommendation and you lose it! Here, I'll write another... Don't lose it again!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the invitation on Terry=",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Terry Balando",
+                  "text": "There's no point in giving me this back!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reading the invitation=",
+          "sections": [
+            {
+              "title": "Giving a workman the invitation",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Here, have a look at this..."
+                    },
+                    {
+                      "speaker": "Digsite workman",
+                      "text": "I give permission... blah de blah... etc. Okay, that's all in order; you may use the mineshaft now. I'll hang onto this scroll, shall I?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using a second invitation on a workman",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Digsite workman",
+                      "text": "What on earth are you giving me another scroll for?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Terry after giving the workman the invitation",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Terry Balando",
+                      "text": "Oh, hello. I hope you're getting on well in the dig shafts."
+                    },
+                    {
+                      "speaker": "Terry Balando",
+                      "text": "Can I help you at all?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "It says, 'I give permission for the bearer... to use the mine shafts on site. - signed Terrance Balando, Archaeological Expert, City of Varrock.'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Operating the winch",
+          "sections": [
+            {
+              "title": "Using a rope on the winch",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, I think I could fit down here. I need something to help me get all the way down."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the bricks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hmmm, there's a room past these bricks. If I could move them out of the way then I could find out what's inside. Maybe there's someone around here who can help..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Doug Deeping",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Doug Deeping",
+                  "text": "Well, well... I have a visitor. What are you doing here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have been invited to research here."
+                },
+                {
+                  "speaker": "Doug Deeping",
+                  "text": "Indeed, you must be someone special to be allowed down here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know where to find a specimen jar?"
+                },
+                {
+                  "speaker": "Doug Deeping",
+                  "text": "Hmmm, let me think... Nope, can't help you there I'm afraid."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have things to do..."
+                },
+                {
+                  "speaker": "Doug Deeping",
+                  "text": "Of course, don't let me keep you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am not sure really."
+                },
+                {
+                  "speaker": "Doug Deeping",
+                  "text": "A miner without a clue - how funny!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm here to get rich, rich, rich!"
+                },
+                {
+                  "speaker": "Doug Deeping",
+                  "text": "Oh, well, don't forget that wealth and riches aren't everything."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you move a large pile of rocks?"
+                },
+                {
+                  "speaker": "Doug Deeping",
+                  "text": "There used to be this chap that worked in the other shaft. He was working on an explosive chemical mixture to be used for clearing blocked areas underground."
+                },
+                {
+                  "speaker": "Doug Deeping",
+                  "text": "He left in a hurry one day; something in the shaft scared him to death, but he didn't say what."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh?"
+                },
+                {
+                  "speaker": "Doug Deeping",
+                  "text": "Rumour has it he'd been writing a book on his chemical mixture. I'm not sure what goes in it but I'm sure you'll find the stuff he was using scattered around the digsite. He left so quickly he didn't take anything with"
+                },
+                {
+                  "speaker": "Doug Deeping",
+                  "text": "him. In fact, I still have a chest key he gave me to look after; perhaps it's more useful to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's ok, I already have one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Creating the explosive",
+          "sections": [
+            {
+              "title": "Searching the chest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Opening the barrel",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Mmmm... The lid is shut tight; I'll have to find something to lever it off."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Searching the barrel",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "It's closed tight."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using a trowel on the barrel",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Great! It's opened."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Searching the barrel",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I can't pick this up with my bare hands! I'll need something to put it in. It looks and smells rather dangerous though, so it'll need to be something small and capable of containing dangerous chemicals."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using a vial on the barrel",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I'm not sure what this stuff is. I had better be VERY careful with it; I had better not drop it either..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Identifying the liquid",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Do you know what this is?"
+                    },
+                    {
+                      "speaker": "Terry Balando",
+                      "text": "Where did you get this?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "From one of the barrels at the digsite."
+                    },
+                    {
+                      "speaker": "Terry Balando",
+                      "text": "This is a VERY dangerous liquid called nitroglycerin. Be careful how you handle it. Don't drop it or it will explode!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Identifying the powder",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Do you know what this powder is?"
+                    },
+                    {
+                      "speaker": "Terry Balando",
+                      "text": "Really, you do find the most unusual items. I know what this is, it's a strong chemical called ammonium nitrate. Why you want this I'll never know..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Adding the arcenia root to the mixed chemicals",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Excellent! This looks just right!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using a tinderbox on the bricks before pouring the mixture on them",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Now, what am I trying to achieve here?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using a rock pick on the bricks",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "That would be like cutting the lawn with nail scissors! It would take a year to chip away these rocks!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using a pickaxe on the bricks",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "That was a good idea, but these blocks are huge. I' m going to need something much more powerful to shift these..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Spreading the mixture",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Okay, the mixture is all over the bricks. I need some way to ignite this compound."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lighting the mixture",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Whoa! This is going to blow! I'd better run!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow, that was a big explosion! What's that noise I can hear? Sounds like bones moving or something..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reading the stone tablet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "It says: Tremble mortal, before the altar of our dread lord Zaros."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the researcher",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Researcher",
+                  "text": "I hear you've been given access to the private mining shafts. You're very lucky."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I managed to find something... interesting."
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "Oh? What was that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A talisman linked to Zaros, so Terry says."
+                },
+                {
+                  "speaker": "Researcher",
+                  "text": "Wow! That's a serious find! Good luck in the lower digs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Turning in the stone table",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I found this in a hidden cavern beneath the digsite."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Incredible!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There is an altar down there. The place is crawling with skeletons!"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Yuck!"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "This is an amazing discovery! All this while we were convinced that no other race had lived here."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "It seems the followers of Saradomin have tried to cover up the evidence of the Zaros altar. This whole city must have been built over it!"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Thanks for your help; your sharp eyes have spotted what many have missed. Here, take this gold as your reward."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

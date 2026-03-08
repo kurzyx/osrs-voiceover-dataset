@@ -1,0 +1,151 @@
+{
+  "ref": "belona",
+  "categoryRef": "npc",
+  "title": "Belona",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Belona",
+              "text": "Hello human."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do here?"
+            },
+            {
+              "speaker": "Belona",
+              "text": "This guild contains minerals that haven't been found anywhere else. I'm here to try and identify them."
+            },
+            {
+              "speaker": "Belona",
+              "text": "If you come across any unusual minerals when mining here I'll take them off your hands. Don't worry, I'll make it worth your while."
+            },
+            {
+              "speaker": "Belona",
+              "text": "I've also been digging out this cave recently. I found a bunch of amethyst in there."
+            },
+            {
+              "speaker": "Player",
+              "text": "What can you offer me?"
+            },
+            {
+              "speaker": "Belona",
+              "text": "I have some gloves that will help you when Mining. When you wear these gloves you'll find that some rocks will instantly respawn."
+            },
+            {
+              "speaker": "Player",
+              "text": "How do they do that?"
+            },
+            {
+              "speaker": "Belona",
+              "text": "Magic!"
+            },
+            {
+              "speaker": "Belona",
+              "text": "Beyond that, I could consider letting you access this new cave. It seems to contain even more minerals."
+            },
+            {
+              "speaker": "Belona",
+              "text": "So, what would you like?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like access to the cave."
+            },
+            {
+              "speaker": "Belona",
+              "text": "Now hold on. There's a lot of minerals in there, and digging out the cave was hard work. Only a true friend of Falador would be allowed in there."
+            },
+            {
+              "speaker": "Belona",
+              "text": "You don't seem like you're quite there yet. Come speak to me again once you have completed the Elite Falador Achievement Diary."
+            },
+            {
+              "speaker": "Belona",
+              "text": "And you truly are a friend of Falador. Well done on completing the Elite Falador Achievement Diary. Go on in, you may access the cave."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's all thank you."
+            },
+            {
+              "speaker": "Belona",
+              "text": "Don't forget to come to me if you find any minerals."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't want to receive minerals."
+            },
+            {
+              "speaker": "Belona",
+              "text": "Very well. You'll no longer find any minerals when you mine here. If you change your mind just let me know."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to receive minerals."
+            },
+            {
+              "speaker": "Belona",
+              "text": "As you wish. You'll now find minerals when you mine here. Let me know if you want to change this."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you combine my mining gloves?"
+            },
+            {
+              "speaker": "Belona",
+              "text": "I guess I could combine some Mining gloves with some Superior mining gloves. These new gloves would require 70 Mining to equip."
+            },
+            {
+              "speaker": "Belona",
+              "text": "It wouldn't be free though. I'd want 40 minerals in return."
+            },
+            {
+              "speaker": "Belona",
+              "text": "You don't have any gloves for me to combine. You'll need to bring me some Mining gloves and some Superior mining gloves."
+            },
+            {
+              "speaker": "Belona",
+              "text": "There you go. I've combined your gloves into some Expert mining gloves. Enjoy."
+            },
+            {
+              "speaker": "Belona",
+              "text": "Fair enough. I'll be here if you change your mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's all thank you."
+            },
+            {
+              "speaker": "Belona",
+              "text": "Don't forget to come to me if you find any minerals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to enter the diary amethyst mine without granted access",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Belona",
+              "text": "Hey, you! You're not allowed in there! Come speak to me first."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

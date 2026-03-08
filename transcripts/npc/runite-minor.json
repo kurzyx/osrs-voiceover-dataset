@@ -1,0 +1,41 @@
+{
+  "ref": "runite-minor",
+  "categoryRef": "npc",
+  "title": "Runite Minor",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "After successfully mining an ore vein",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Runite Minor",
+                  "text": "Pay-dirt!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon being struck by a rockfall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Runite Minor",
+                  "text": "Ow!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

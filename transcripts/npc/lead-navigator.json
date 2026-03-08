@@ -1,0 +1,81 @@
+{
+  "ref": "lead-navigator",
+  "categoryRef": "npc",
+  "title": "Lead Navigator",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Digsite",
+          "sections": [
+            {
+              "title": "Right-click 'Travel' option",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Lead Navigator",
+                  "text": "Would you like to travel to Fossil Island?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fossil Island",
+          "sections": [
+            {
+              "title": "Right-click 'Travel' option",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Lead Navigator",
+                  "text": "Would you like to travel to the Digsite?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

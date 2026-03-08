@@ -1,0 +1,87 @@
+{
+  "ref": "pillory-guard",
+  "categoryRef": "npc",
+  "title": "Pillory Guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Pillory Guard",
+              "text": "You're under arrest! I've come to lock you up."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, guv, I'll come quietly."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not coming."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When the player chooses the \"I'm not coming.\" option, or moves to a random event free zone",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Pillory Guard",
+              "text": "Hmmph!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Other players' Pillory Guard",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Pillory Guard",
+              "text": "I'm here to arrest [player name]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Pillory Guard",
+              "text": "[player name], you're under arrest!"
+            },
+            {
+              "speaker": "Pillory Guard",
+              "text": "I've come to arrest you, [player name]!"
+            },
+            {
+              "speaker": "Pillory Guard",
+              "text": "Come and be locked up, [player name]!"
+            },
+            {
+              "speaker": "Pillory Guard",
+              "text": "Report to me for punishment, [player name]!"
+            },
+            {
+              "speaker": "Pillory Guard",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

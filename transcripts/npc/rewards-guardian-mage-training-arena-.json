@@ -1,0 +1,119 @@
+{
+  "ref": "rewards-guardian-mage-training-arena-",
+  "categoryRef": "npc",
+  "title": "Rewards Guardian (Mage Training Arena)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Rewards Guardian",
+              "text": "Greetings. What wisdom do you seek?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Rewards Guardian",
+              "text": "Me? I'm here to grant you rewards for any of the Pizazz Points you may have earned in this training arena. Like my fellow Guardians, I am part of the arena and live to ensure its safe running."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I trade my Pizazz Points please?"
+            },
+            {
+              "speaker": "Rewards Guardian",
+              "text": "Why of course."
+            },
+            {
+              "speaker": "Player",
+              "text": "Got anything else I can buy?"
+            },
+            {
+              "speaker": "Rewards Guardian",
+              "text": "Well, we do stock a special book that you may be interested in, which provides a comprehensive guide to this training arena. It costs 200 coins. Would you like one?"
+            },
+            {
+              "speaker": "Player",
+              "text": "That sounds useful. Yes please."
+            },
+            {
+              "speaker": "Rewards Guardian",
+              "text": "Very good, that'll be 200 coins please!"
+            },
+            {
+              "speaker": "Rewards Guardian",
+              "text": "Thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I don't have enough money."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't want some dusty old book."
+            },
+            {
+              "speaker": "Rewards Guardian",
+              "text": "It's not old and it certainly isn't dusty, but suit yourself."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks, I already have one."
+            },
+            {
+              "speaker": "Rewards Guardian",
+              "text": "Let me know if you lose it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, bye!"
+            },
+            {
+              "speaker": "Rewards Guardian",
+              "text": "Use what you've learned, young one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If Entrance Guardian hasn't been spoken to",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Rewards Guardian",
+              "text": "Greetings. Have you spoken to my fellow Guardian downstairs?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nope."
+            },
+            {
+              "speaker": "Rewards Guardian",
+              "text": "Well, you need to talk to him first."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

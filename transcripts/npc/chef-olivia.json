@@ -1,0 +1,63 @@
+{
+  "ref": "chef-olivia",
+  "categoryRef": "npc",
+  "title": "Chef Olivia",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting The Depths of Despair",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "Sorry, I can't stop to talk."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing The Depths of Despair",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "Thank you for bringing Artur home safe."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing A Kingdom Divided",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Chef Olivia",
+                  "text": "Hello there. It's sad not having Artur around anymore, not to mention the awful business with his father. I hope he's coping okay with that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sure he'll be fine."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

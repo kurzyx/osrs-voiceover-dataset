@@ -1,0 +1,59 @@
+{
+  "ref": "achietties",
+  "categoryRef": "npc",
+  "title": "Achietties",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Achietties",
+              "text": "Greetings. Welcome to the Heroes' Guild."
+            },
+            {
+              "speaker": "Achietties",
+              "text": "Only the greatest heroes of this land may gain entrance to this guild."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm a hero - may I apply to join?"
+            },
+            {
+              "speaker": "Achietties",
+              "text": "You're a hero? I've never heard of YOU. You are required to possess at least 55 quest points to file an application."
+            },
+            {
+              "speaker": "Achietties",
+              "text": "Additionally you must have completed the Shield of Arrav, Lost City, Merlin's Crystal and Dragon Slayer I quests."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good for the foremost heroes of the land."
+            },
+            {
+              "speaker": "Achietties",
+              "text": "Yes. Yes it is."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Heroes' Quest",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Achietties",
+              "text": "Greetings. Welcome to the Heroes' Guild."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

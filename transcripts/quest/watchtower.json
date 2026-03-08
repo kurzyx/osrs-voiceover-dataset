@@ -1,0 +1,2598 @@
+{
+  "ref": "watchtower",
+  "categoryRef": "quest",
+  "title": "Watchtower",
+  "sections": [
+    {
+      "title": "Getting started",
+      "sections": [
+        {
+          "title": "Speaking to a tower guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. What are you doing here?"
+                },
+                {
+                  "speaker": "Tower guard",
+                  "text": "We are the tower guards – our business is our own!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to climb the ladder",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tower guard",
+                  "text": "You can't go up there. That's private, that is."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking to a wizard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What's going on here?"
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "You'll have to speak with the Watchtower Wizard about that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking to the Watchtower Wizard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Who are you? Are you one of the new guards?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I'm an adventurer."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Well what are you doing here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Looking for adventures - what else?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Oh my, oh my! What does it all matter in the end, anyway?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the matter?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Oh dear, oh dear. Darn and drat!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "We try hard to keep this town protected."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "But how can we do that when the Watchtower isn't working?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean it isn't working?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "The Watchtower here works by the power of magic. An ancient spell designed to ward off ogres that has been in place here for many moons."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "The exact knowledge of the spell is lost to us now, but the essence of the spell has been infused into four powering crystals that keep the tower protected from the hordes in the Feldips."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So how come the spell doesn't work?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "The crystals! The crystals have been taken!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Taken?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Stolen!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stolen?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Yes, yes! Do I have to repeat myself?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I be of help?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Help? Oh wonderful, dear traveller!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Yes I could do with an extra pair of eyes here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "???"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "There must be some evidence of what has happened here. Perhaps you could assist me in searching for clues?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I would be happy to."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Try searching the surrounding area. If you find anything unusual, bring it here. Try the bushes - I've read enough adventure stories to know that clues get caught in bushes all the time."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "I will tell the guards to let you past - that way, you can just use the ladder to get in and out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not interested."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "That's typical, nowadays. It's left to us wizards to do all the work."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not interested in your rantings."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Hmph! Suit yourself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You wizards are always complaining."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Complaining? Complaining!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "What folks these days don't realise is that if it weren't for us wizards, this entire world would be overrun with every creature you could possibly imagine. And some you couldn't even conceive of!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Searching for evidence",
+      "sections": [
+        {
+          "title": "Speaking to a wizard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've got some questions about the search for evidence."
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "You'll have to speak with the Watchtower Wizard about that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Watchtower Wizard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Hello again. Did you find anything of interest?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, sorry, nothing yet."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Oh dear, oh dear, there must be something, somewhere..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have this [robe/dagger/armour/eyepatch]..."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Let me see..."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "No, sorry, this is not evidence. You need to keep searching, I'm afraid."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have a look at these..."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Interesting, very interesting."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Long nails...grey in colour...well chewed..."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Of course! They belong to a skavid!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A skavid?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "A servant race to the ogres: grey, depressed-looking creatures, always losing nails, teeth and hair!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "They inhabit the caves in the Feldip Hills."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "They normally keep to themselves, though. It's unusual for them to venture from their caves."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you suggest I do?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "It's no good searching the caves. Well, not yet, anyway."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why not?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "They are deep and complex. The only way you will navigate the caves is to have a map or something."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "It may be that the ogres have one..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And how do you know that?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Well... I don't."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what do I do?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "You need to be fearless and gain entrance to Gu'Tanoth, the city of the ogres, then find out how to navigate the caves."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That sounds scary..."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Ogres are nasty creatures, yes. Only a strong warrior, and a clever one at that, can get the better of them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do I need to do to get into the city?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "You'll need some way to make the guards let you in."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "You could start by checking out the ogre settlements around here. Tribal ogres often dislike their neighbours... In the meantime, I'll throw those fingernails out for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I won't bother, then."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Won't bother? Won't bother!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Perhaps this quest is too hard for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Shall I search the caves?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "It's no good searching the caves. Well, not yet, anyway."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why not?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "They are deep and complex. The only way you will navigate the caves is to have a map or something."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "It may be that the ogres have one..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And how do you know that?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Well... I don't."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the bushes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Aha! A robe. This could be a clue..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here's some armour; it could be evidence..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Aha, a dagger! I wonder if this is evidence..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've found an eye patch; I had better show this to the Watchtower Wizard."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's this? Disgusting! Some fingernails. They may be a clue though... I'd better take them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have already searched this place."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmmm, nothing here."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Ogre investigations",
+      "sections": [
+        {
+          "title": "Talking to a wizard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've got some questions regarding the tribal ogres."
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "You'll have to speak with the Watchtower Wizard about that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Watchtower Wizard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am having difficulty with the tribes."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Talk to them face to face and don't show any fear. Make sure you are rested and well fed, and fight the good fight!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have everything under control."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Good, good! I will expect the crystals back shortly then..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have lost something the ogres gave to me."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Oh, deary me! Well, there's nothing I can do about it. You will have to go back to them, I'm afraid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Toban",
+          "sections": [
+            {
+              "title": "Speaking to Toban again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Toban",
+                      "text": "Hahaha! Small t'ing returns. Did you bring the dragon bone?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I don't have what you want."
+                    },
+                    {
+                      "speaker": "Toban",
+                      "text": "Then you shall get nothing from me!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "When I say I will get something, I get it!"
+                    },
+                    {
+                      "speaker": "Toban",
+                      "text": "Hahaha! Small t'ing has done it. Toban is glad - take this..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Speaking to Toban after giving him dragon bones",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Toban",
+                      "text": "The small t'ing returns; what do you want now?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I seek another task."
+                    },
+                    {
+                      "speaker": "Toban",
+                      "text": "Have you arrived for dinner? Hahaha! Be gone, small t'ing!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I can't find the relic part you gave me."
+                    },
+                    {
+                      "speaker": "Toban",
+                      "text": "Small t'ing, you lie to me! I always says that small t'ings are big trouble."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Looting Toban's chest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I think I need a key of some sort."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Toban",
+                  "text": "What do you want, small t'ing?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I seek entrance to the city of ogres."
+                },
+                {
+                  "speaker": "Toban",
+                  "text": "Hahaha! You'll never get in there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll find a way, trust me."
+                },
+                {
+                  "speaker": "Toban",
+                  "text": "Bold words for a t'ing so small."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I could do something for you..."
+                },
+                {
+                  "speaker": "Toban",
+                  "text": "Hahaha! This creature t'inks it can help me! I would eat you now, but for your puny size."
+                },
+                {
+                  "speaker": "Toban",
+                  "text": "Prove to me your might: bring me the bones of an adult dragon to chew on, and I'll eat them, not you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Die, creature!"
+                },
+                {
+                  "speaker": "Toban",
+                  "text": "Hahaha! It t'inks it's a match for Toban, does it?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Og",
+          "sections": [
+            {
+              "title": "Speaking to Og again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Og",
+                      "text": "Where my gold from dat dirty Toban?"
+                    },
+                    {
+                      "speaker": "Og",
+                      "text": "Well, well, the little t'ing has got it! Take dis to show little t'ing is a friend to da ogres. Hahahahaha!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have your gold."
+                    },
+                    {
+                      "speaker": "Og",
+                      "text": "No you don't! If you want to impress me, get da gold I asked for!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I haven't got it yet."
+                    },
+                    {
+                      "speaker": "Og",
+                      "text": "Don't come back until you have it, unless you wanna be on tonight's menu!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have lost the key!"
+                    },
+                    {
+                      "speaker": "Og",
+                      "text": "Stoopid! Take another and don't lose it!"
+                    },
+                    {
+                      "speaker": "Og",
+                      "text": "Oh yeah? What's dat den?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh yeah, I've got it right here."
+                    },
+                    {
+                      "speaker": "Og",
+                      "text": "Stoopid!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have lost the key!"
+                    },
+                    {
+                      "speaker": "Og",
+                      "text": "Are you trying to trick me? I bet you got it stored somewhere. Humans always do that."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Speaking to Og after giving him Toban's gold",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Og",
+                      "text": "It's the little t'ing again."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you have any other tasks for me?"
+                    },
+                    {
+                      "speaker": "Og",
+                      "text": "No, I have no more tasks for you, now go away."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have lost the relic part you gave me."
+                    },
+                    {
+                      "speaker": "Og",
+                      "text": "Are you blind? I can see you got it even from here!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have lost the relic part you gave me."
+                    },
+                    {
+                      "speaker": "Og",
+                      "text": "Grrr, why do I bother? It's a good job I got another part."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have lost the relic part you gave me."
+                    },
+                    {
+                      "speaker": "Og",
+                      "text": "Are you trying to trick me? I bet you got it stored somewhere. Humans always do that."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Og",
+                  "text": "Why you here, little t'ing?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I seek entrance to the city of ogres."
+                },
+                {
+                  "speaker": "Og",
+                  "text": "You got no business there!"
+                },
+                {
+                  "speaker": "Og",
+                  "text": "Just a minute... Maybe if you did somet'ing for me, I might help you get in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can I do to help an ogre?"
+                },
+                {
+                  "speaker": "Og",
+                  "text": "South-east of here der is more ogres - the name of the chieftain is Toban. He stole gold from me and I want it back!"
+                },
+                {
+                  "speaker": "Og",
+                  "text": "Here is a key to the chest it's in. If you bring it here, I may reward you..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have come to kill you!"
+                },
+                {
+                  "speaker": "Og",
+                  "text": "Kill me, eh? You shall be crushed. Guards!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Grew",
+          "sections": [
+            {
+              "title": "Speaking to Grew again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Grew",
+                      "text": "The morsel is back. Does it have our tooth for us?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Err, I don't have it."
+                    },
+                    {
+                      "speaker": "Grew",
+                      "text": "Morsel, you dare to return without the tooth! Either you are stoopid, or wants to be eaten!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have it."
+                    },
+                    {
+                      "speaker": "Grew",
+                      "text": "That'll annoy Gorad lots! Heheheheh! Here's a token of my gratitude: some old gem I stole from Gorad, and an old part of a statue."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Facing Gorad",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I've come to knock your teeth out!"
+                    },
+                    {
+                      "speaker": "Gorad",
+                      "text": "You shut your face! I smack you till you dead and sorry!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Speaking to Grew after giving him Gorad's tooth",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Grew",
+                      "text": "What are you doing here, morsel?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Can I do anything else for you?"
+                    },
+                    {
+                      "speaker": "Grew",
+                      "text": "I have nothing left for you but the cooking pot!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've lost the relic part you gave me."
+                    },
+                    {
+                      "speaker": "Grew",
+                      "text": "You lie to me, morsel!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've lost the relic part you gave me."
+                    },
+                    {
+                      "speaker": "Grew",
+                      "text": "Stupid morsel, I have another. Take it and go now before I lose my temper."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've lost the relic part you gave me."
+                    },
+                    {
+                      "speaker": "Grew",
+                      "text": "You probably got it stored somewhere, morsel! Humans do that a lot."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've lost the crystal you gave me."
+                    },
+                    {
+                      "speaker": "Grew",
+                      "text": "How dare you lie to me morsel! I will grind you up for my bread!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've lost the crystal you gave me."
+                    },
+                    {
+                      "speaker": "Grew",
+                      "text": "I suppose you want another? I suppose just this once I could give you my copy..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've lost the crystal you gave me."
+                    },
+                    {
+                      "speaker": "Grew",
+                      "text": "You probably got it stored somewhere, morsel! Humans do that a lot."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grew",
+                  "text": "What do you want, little morsel? You would look good on my plate!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to enter the city of ogres."
+                },
+                {
+                  "speaker": "Grew",
+                  "text": "Hah! I should eat you instead!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't eat me; I can help you."
+                },
+                {
+                  "speaker": "Grew",
+                  "text": "What can a morsel like you do for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am a mighty adventurer, slayer of monsters and user of magic powers."
+                },
+                {
+                  "speaker": "Grew",
+                  "text": "Well, well, perhaps the morsel can help after all..."
+                },
+                {
+                  "speaker": "Grew",
+                  "text": "If you t'ink you're tough, find Gorad, my enemy to the south-east, and knock one of his teeth out! Heheheheh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You will have to kill me first."
+                },
+                {
+                  "speaker": "Grew",
+                  "text": "That's not tricky - guards!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Assembling the relic",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "An ogre called Og gave me this..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "An ogre called Grew gave me this..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "An ogre called Toban gave me this..."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Ah, it's part of an old ogre statue. I'll take that off you - it might come in handy if I can fix it up."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Ah, it's more of that old ogre statue. I'll take this bit too."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "It looks like you've brought me all the pieces of the relic. It is as I thought - a statue symbolising an ogre warrior of old."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Well, if you ever want to make friends with an ogre, this is the item to have! Now I'll try to assemble it..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a wizard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've got some questions about the ogre city."
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "You'll have to speak with the Watchtower Wizard about that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I had a feeling you might say that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Watchtower Wizard again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Ah, the warrior returns. Have you found a way into Gu'Tanoth yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can't get past the guards."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Well, ogres dislike others apart from their own kind. What you need is some form of proof of friendship, something to trick them into believing you're their friend."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Which shouldn't be too hard, considering their intelligence."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have lost the relic you gave me."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Have you gone mad? I can see you have it with you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have lost the relic you gave me."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "What? Lost the relic? How careless! It's a good job I copied its design, then! You can take this copy instead - it's just as good."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have lost the relic you gave me."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "I imagine you've stored it somewhere. Go and see where you might have put it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will find my way in, no problem."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Yes, I'm sure you will... Good luck!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Entering Gu'Tanoth",
+      "sections": [
+        {
+          "title": "City guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Stop, creature! Only ogres and their friends allowed in this city. Show me a sign of companionship, like a lost relic or somefing, and you may pass."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Until then, back to whence you came!"
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Well, what proof of friendship did you bring?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a relic!"
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "It's got the statue of Dalgroth. Welcome to Gu'Tanoth, friend of the ogres."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the wizards after gaining access to the city",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've made it into the ogre city!"
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "You'll have to speak with the Watchtower Wizard about that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's like talking to a broken record."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Watchtower Wizard after gaining access to the city",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "How are you doing with the ogres?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have gained entry to the city!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Already? Excellent!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I still can't navigate the skavid caves."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "You need a map of some kind... I bet one of the ogres has one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay thanks, I'll go and find out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ogre guard",
+          "sections": [
+            {
+              "title": "Talking to the ogre guard again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Um... is there anything in my backpack that you'd want?"
+                    },
+                    {
+                      "speaker": "Ogre guard",
+                      "text": "You didn't bring anything! Shove off!"
+                    },
+                    {
+                      "speaker": "Ogre guard",
+                      "text": "Stop, creature! Oh it's you. Well, what have you got for us, then?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How about this?"
+                    },
+                    {
+                      "speaker": "Ogre guard",
+                      "text": "Well, well, look at this. My favourite: rock cake! Okay, we will let it through."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Oi! Where do you think you are going? You are for the cooking pot!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I am a friend to ogres..."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Prove it to us with a gift. Get us something from the market."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Like what?"
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Surprise us..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not if I can help it."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "You can help by being tonight's dinner, or you can go away. Now, which shall it be?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, okay, I'm going."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Back to whence you came!"
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Grrrrr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the southern ogre guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ogre guard",
+                  "text": "What do you want, small thing? Leave us alone!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Crossing the bridge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ogre guard",
+                  "text": "Oi! Little thing. If you want to cross here, you must pay me 20 gold pieces first!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You want me to give you 20 gold pieces to let me jump off a bridge?"
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "That's what I said, like it or lump it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll pay it."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "A wise choice, little thing."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "And where is your money? Grrrr! Do you want to get hurt or something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll pay it."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "A wise choice, little thing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Phew! I just made it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Forget it, I'm not paying."
+                },
+                {
+                  "speaker": "Ogre guard",
+                  "text": "In that case you're not crossing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Seeking passage",
+          "sections": [
+            {
+              "title": "Talking to the city guard again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "City guard",
+                      "text": "Hur, hur, hur... I see you haven't worked it out yet. Keep trying, imp."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Can I hear the riddle again?"
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "I want you to bring me an item: I will give you all the letters of this item, you work out what it is..."
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "My first is in days, but not in years, My second is in evil, and also in tears, My third is in all, but not in none, My fourth is in hot, but not in sun."
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "My fifth is in heaven, and also in hate, My sixth is in fearing, but not in fate, My seventh is in plush, but not in place."
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "My eighth is in nine, but not in eight, My last is in earth, and also in great."
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "My whole is an object, that magic will make. It brings wrack and ruin to all in its wake... Now how long, I wonder, will this riddle take?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll be back!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using the wrong item on the guard",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "City guard",
+                      "text": "That is not what I want, imp!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using the death rune on the guard",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I worked it out!"
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "Hur, hur. The imp has done it! This is what you be needing..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to him after having given him the rune",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "City guard",
+                      "text": "What is it?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you have any other riddles for me?"
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "Yes, what looks good on a plate with salad?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I don't know..."
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "You! Now go, and bother me no more.)"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "A nice pizza?"
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "Grr! Think you are a comedian, eh? Get lost!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have lost the map you gave me."
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "What's the point? Take this one and go away!"
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "You imps always store things in places and forget. Go look for it."
+                    },
+                    {
+                      "speaker": "City guard",
+                      "text": "Are you blind? What is that you are carrying?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh, that map..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "City guard",
+                  "text": "Grrrr, what business you got here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am on an errand."
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "So what you want with me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am an ogre killer come to destroy you!"
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "I would like to see you try!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I seek passage into the skavid caves."
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "Is that so... You humour me small t'ing. Answer this riddle and I will help you..."
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "I want you to bring me an item: I will give you all the letters of this item, you work out what it is..."
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "My first is in days, but not in years, My second is in evil, and also in tears, My third is in all, but not in none, My fourth is in hot, but not in sun."
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "My fifth is in heaven, and also in hate, My sixth is in fearing, but not in fate, My seventh is in plush, but not in place."
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "My eighth is in nine, but not in eight, My last is in earth, and also in great."
+                },
+                {
+                  "speaker": "City guard",
+                  "text": "My whole is an object, that magic will make. It brings wrack and ruin to all in its wake... Now how long, I wonder, will this riddle take?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Crossing back across the bridge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'm glad that was easier on the way back!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Skavid search",
+      "sections": [
+        {
+          "title": "Talking to the wizards after getting the skavid map",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've got some questions about the skavid caves."
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "Oh, really? I'm quite an expert on skavids."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wonderful!"
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "Only joking!"
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "You'll have to speak with the Watchtower Wizard about that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, okay."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Watchtower Wizard after getting the skavid map",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "How is the quest going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have worked out the guard's puzzle."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "My, my. A wordsmith as well as a hero."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am still trying to navigate the skavid caves."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Take some illumination with you or else it will be dark."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am trying to get into the shamans' cave."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Yes, it will be well guarded. Hmmm, let me see..."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Ah yes, I gather some ogres are allergic to certain herbs. Now what was it? It had white berries and blue leaves...."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Cave nightshade, that's it!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "You should try looking through some of the caves."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "And don't forget to look out for the dragons!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The WHAT?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Dragons."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Didn't you know that the ogres keep blue dragons as pets and for magical ingredients?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Well, regardless, I'm sure a bold, brave adventurer such as yourself won't have any problems."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It is going well."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "That's good to hear. We are much closer to fixing the tower now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering the caves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Scared skavid",
+          "sections": [
+            {
+              "title": "Talking to the scared skavid again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Scared skavid",
+                      "text": "Master, how are you doing learning our language?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I am studying the speech of your kind..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Scared skavid",
+                  "text": "Tanath cur, tanath cur!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "???"
+                },
+                {
+                  "speaker": "Scared skavid",
+                  "text": "Don't hurt me, don't hurt me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stop moaning, creature. I know about you skavids - you serve those monsters, the ogres."
+                },
+                {
+                  "speaker": "Scared skavid",
+                  "text": "Please don't touch me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You have something that belongs to me..."
+                },
+                {
+                  "speaker": "Scared skavid",
+                  "text": "I don't have anything; please believe me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Somehow, I find your words hard to believe."
+                },
+                {
+                  "speaker": "Scared skavid",
+                  "text": "I'm begging your kindness; I don't have it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't believe you, hand it over!"
+                },
+                {
+                  "speaker": "Scared skavid",
+                  "text": "Ahhhhh, help!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh great, I'm not getting anywhere."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, okay, I'm not going to hurt you."
+                },
+                {
+                  "speaker": "Scared skavid",
+                  "text": "Thank you, kind [sir/madam]."
+                },
+                {
+                  "speaker": "Scared skavid",
+                  "text": "I'll tells you where that things you wants is. The mad skavids have it in their cave in the city."
+                },
+                {
+                  "speaker": "Scared skavid",
+                  "text": "You will have to learn skavid, otherwise they will not talks to you. Here, I'll tell you what you need to know..."
+                },
+                {
+                  "speaker": "Ogre shaman",
+                  "text": "You shut your mouth! Don't tell them anything!"
+                },
+                {
+                  "speaker": "Scared skavid",
+                  "text": "Tanath cur, tanath cur!"
+                },
+                {
+                  "speaker": "Scared skavid",
+                  "text": "I cannot help you, but the others can. Let me tells you the most common skavid words: Ar, nod, gor, ig and cur. Those will gets you started."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Learning skavid",
+          "sections": [
+            {
+              "title": "Skavid 1",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Skavid",
+                      "text": "Bidith tanath..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Cur."
+                    },
+                    {
+                      "speaker": "Skavid",
+                      "text": "Cur, cur tanath!"
+                    },
+                    {
+                      "speaker": "Skavid",
+                      "text": "Cur tanath!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Ar."
+                    },
+                    {
+                      "speaker": "Skavid",
+                      "text": "???"
+                    },
+                    {
+                      "speaker": "Skavid",
+                      "text": "Bidith tanath..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Skavid 2",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Skavid",
+                      "text": "Cur bidith..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Ig."
+                    },
+                    {
+                      "speaker": "Skavid",
+                      "text": "Ig! Bidith ig!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Skavid 3",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Skavid",
+                      "text": "Tanath gor..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Nod."
+                    },
+                    {
+                      "speaker": "Skavid",
+                      "text": "Nod, gor nod!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to the scared skavid after learning skavid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Scared skavid",
+                  "text": "Master, my kinsmen tell me you have learned skavid. You should speak to the mad ones in their cave."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The mad skavid",
+          "sections": [
+            {
+              "title": "Talking to the mad skavid again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Mad skavid",
+                      "text": "What, you gots the crystal..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "But I've lost it!"
+                    },
+                    {
+                      "speaker": "Mad skavid",
+                      "text": "Alright, take this one then..."
+                    },
+                    {
+                      "speaker": "Mad skavid",
+                      "text": "You stored it somewhere maybe. Go away!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh, okay then."
+                    },
+                    {
+                      "speaker": "Mad skavid",
+                      "text": "You be on your way, then."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mad skavid",
+                  "text": "Gor nod..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tanath."
+                },
+                {
+                  "speaker": "Mad skavid",
+                  "text": "Hehe! So you speak a little skavid, eh? I'll give you a prize for that!"
+                },
+                {
+                  "speaker": "Mad skavid",
+                  "text": "The others are with the shamans in the enclave - you'll never get them back. They hid one in the sacred rock! Nothing can touch it now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the wizards after learning to navigate the skavid caves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have gained access to the skavid caves."
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "You'll have to speak with the Watchtower Wizard about that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "'You'll have to speak with the Watchtower Wizard about that.'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd get more help out of a-"
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "What was that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Watchtower Wizard after learning to navigate the skavid caves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Hello again. How do you fare?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It goes well. I can now navigate the skavid caves."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "That is good news. Let me know if you find anything of interest."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I had a crystal, but I lost it!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Oh no. Well, you had better go back there, then!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am now ready for the shamans."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Remember all I told you. You must distract the guard somehow. Cave nightshade is what you are looking for - try searching the skavid caves for it."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "This herb is very poisonous, however, so handle it with care. Also, be on your guard in that cave. Who knows what monsters may be in that awful place..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "And don't forget to look out for the dragons!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The WHAT?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Dragons."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Didn't you know that the ogres keep blue dragons as pets and for magical ingredients"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Well, regardless, I'm sure a bold, brave adventurer such as yourself won't have any problems."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Entering the Enclave",
+      "sections": [
+        {
+          "title": "Attempting to enter the Ogre Enclave before distracting the guards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Enclave guard",
+                  "text": "No you don't!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to an enclave guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Enclave guard",
+                  "text": "What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to go in there."
+                },
+                {
+                  "speaker": "Enclave guard",
+                  "text": "Oh you do, do you? How about 'no'?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to rid the world of ogres."
+                },
+                {
+                  "speaker": "Enclave guard",
+                  "text": "You dare mock me, creature!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using cave nightshade on an enclave guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Enclave guard",
+                  "text": "What is this? Arrrrgh! I cannot stand this plant! Argh, it burns! It burns!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Inside the enclave",
+          "sections": [
+            {
+              "title": "Talking to an ogre chieftain",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ogre chieftain",
+                      "text": "Grrr! Go away from me, vermin!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to an ogre shaman",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ogre shaman",
+                      "text": "Grr! How dare you talk to us. We will destroy you!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ogre shaman",
+                  "text": "Hur, hut, hur. Stoopid dragon!"
+                },
+                {
+                  "speaker": "Ogre shaman",
+                  "text": "Take dis!"
+                },
+                {
+                  "speaker": "Ogre shaman",
+                  "text": "Hur, hur, hur, hur!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the wizards after discovering the shamans are invincible",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "The shamans are too powerful for me to attack!"
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "You'll have to speak with the Watchtower Wizard about that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Watchtower Wizard after discovering the shamans are invincible",
+          "sections": [
+            {
+              "title": "Talking to the Watchtower Wizard again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Watchtower Wizard",
+                      "text": "Any more news?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Can you tell me again what I need for the potion?"
+                    },
+                    {
+                      "speaker": "Watchtower Wizard",
+                      "text": "Yes indeed, let me see, what was it again..."
+                    },
+                    {
+                      "speaker": "Watchtower Wizard",
+                      "text": "You will need a guam leaf. That goes into the mix first."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What is the next ingredient?"
+                    },
+                    {
+                      "speaker": "Watchtower Wizard",
+                      "text": "You need some jangerberries."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have some of those."
+                    },
+                    {
+                      "speaker": "Watchtower Wizard",
+                      "text": "Wonderful!"
+                    },
+                    {
+                      "speaker": "Watchtower Wizard",
+                      "text": "You will need to add those after the guam leaf has gone in, but before the final ingredient."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What is the final ingredient?"
+                    },
+                    {
+                      "speaker": "Watchtower Wizard",
+                      "text": "The final ingredient is ground bat bones."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have some bat bones; how can I grind them?"
+                    },
+                    {
+                      "speaker": "Watchtower Wizard",
+                      "text": "A pestle and mortar will more than do the trick."
+                    },
+                    {
+                      "speaker": "Watchtower Wizard",
+                      "text": "When you have mixed the potion correctly, then I can empower the potion with magic and the ogre shamans can be destroyed."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No, I'm still working on it."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to the wizards after learning the potion recipe",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Any chance of advice about this potion?"
+                    },
+                    {
+                      "speaker": "Wizard",
+                      "text": "Nope. Try the Watchtower Wizard."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have found the cave of ogre shaman, but I cannot touch them!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "That is because of their magical powers. We must fight them with their own methods; do not speak to them! I suggest a potion..."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Collect a guam leaf, add jangerberries, then mix in some ground bat bones. You must return it to me before you use it, so that I can empower it with my magic."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Be very careful how you mix it as it is extremely volatile. Mixing ingredients of this type in the wrong order can cause explosions!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "I hope you've been brushing up Herblore and Magic? I must warn you, only experienced magicians can use the potion. It is too dangerous in the hands of the unskilled."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Watchtower Wizard after making the potion",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Any more news?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have made the potion."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "That's great news; let me infuse it with magic..."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Here it is - a dangerous substance. I must remind you that this potion can only be used if your Magic level is high enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How high is high enough?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Well, if you can cast Bones to Bananas, or any spells beyond that, you should be alright."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Killing the ogre shamans",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "That's one destroyed..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's the second one gone..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There goes the fourth..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's five! Only one more left now..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mining the Rock of Dalgroth",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Prospecting the Rock of Dalgroth after mining it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to mine the Rock of Dalgroth again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I already have this crystal. There is no benefit to getting another."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning to the Watchtower Wizard after killing the shamans without mining the rock",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Hello again. Did the potion work?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Indeed it did! I wiped out those ogre shamans!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I had another crystal but I lost it."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Oh, really? If you got it from someone, maybe they'll have found it again. Otherwise, go and search the place where you got it in the first place."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am looking for another crystal."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "I am sure the cave holds the final crystal. Look for the source of the shamans' power."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I will go and have a look."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have found another crystal!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Good, hand it over to me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Reviving the Watchtower",
+      "sections": [
+        {
+          "title": "Talking to a wizard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Any chance of a hand?"
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "Well, you could ask the Watchtower Wizard for one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Watchtower Wizard with all the crystals",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Hello again. Did the potion work?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Indeed it did! I wiped out those ogre shamans!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Magnificent! At last you've brought all the crystals."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Now the shield generator can be activated and, once again, Yanille will be safe from the threat of the ogres."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Put the crystals on the pillars there and throw the lever to activate the system."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Watchtower Wizard again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "The system is not activated yet. Throw the switch to start it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a wizard before activating the generator",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What should I do now?"
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "You will need to speak to the Watchtower Wizard."
+                },
+                {
+                  "speaker": "Wizard",
+                  "text": "Seriously, he's the one in charge here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pulling the lever before placing the crystals",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Placing a crystal on the wrong pillar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Activating the shield generator",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Marvellous! It works! The town will now be safe. Take these coins as a token of my gratitude. Also, let me improve your Magic level."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "I've given you a special scroll too - it's a new spell. Read the scroll and you will be able to teleport yourself here."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Post-quest",
+      "sections": [
+        {
+          "title": "Talking to the Watchtower Wizard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Greetings, friend. I trust all is well with you? Yanille is safe at last!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any more quests for me?"
+                },
+                {
+                  "speaker": "Watchtower wizard",
+                  "text": "More quests? No, indeed, adventurer. You have done us a great service, already."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I lost the scroll you gave me."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Never mind, have another..."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Ho, ho, ho! A comedian to the finish. There it is, in your backpack!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's okay."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "We are always in your debt; do come and visit us again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a wizard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wizard",
+                  "text": "All's well that ends well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reading the spell scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

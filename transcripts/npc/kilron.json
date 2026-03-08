@@ -1,0 +1,57 @@
+{
+  "ref": "kilron",
+  "categoryRef": "npc",
+  "title": "Kilron",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Plague City",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Kilron",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How are you?"
+                },
+                {
+                  "speaker": "Kilron",
+                  "text": "Busy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Song of the Elves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Kilron",
+                  "text": "Hello friend."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

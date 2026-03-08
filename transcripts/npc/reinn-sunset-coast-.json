@@ -1,0 +1,69 @@
+{
+  "ref": "reinn-sunset-coast-",
+  "categoryRef": "npc",
+  "title": "Reinn (Sunset Coast)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing The Fremennik Trials",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Reinn",
+                  "text": "Good day, traveller."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And to you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing The Fremennik Trials",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Reinn",
+                  "text": "Good to see you, [Fremennik name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there. You're a long way from home."
+                },
+                {
+                  "speaker": "Reinn",
+                  "text": "Well what sort of Fremennik are you if you don't travel! Besides, we heard this was the land to visit for breaking skulls and spilling blood!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is it?"
+                },
+                {
+                  "speaker": "Reinn",
+                  "text": "Of course! Have you not visited the Colosseum? You won't regret it if you do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... I might have to check it out."
+                },
+                {
+                  "speaker": "Reinn",
+                  "text": "Ha! As if you didn't know! We've heard about your exploits in the Colosseum! Maybe you'll see us next time you're there!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

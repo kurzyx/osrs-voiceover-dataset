@@ -1,0 +1,49 @@
+{
+  "ref": "guard-courthouse-",
+  "categoryRef": "npc",
+  "title": "Guard (courthouse)",
+  "sections": [
+    {
+      "title": "Outside the courthouse",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guard",
+              "text": "Welcome to the Seers' Village courthouse. Court is not in session today, so you're not allowed downstairs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Inside the courthouse",
+      "sections": [
+        {
+          "title": "Trying to go down the stairs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Guard",
+              "text": "The Seers' Village courthouse. We give all criminals a fair trial, by a jury of their peers. Or whoever we can round up from the pub."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

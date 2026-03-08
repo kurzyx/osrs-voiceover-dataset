@@ -1,0 +1,47 @@
+{
+  "ref": "pentyn",
+  "categoryRef": "npc",
+  "title": "Pentyn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After completion of the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Are you feeling better now?"
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "Yes, thank you."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "The food you gave me healed my wounds, and it also reminded me of my family; that helped me to remember who I was."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "I'm afraid that I'm trapped here, but I still remember something of this floor of the temple."
+                },
+                {
+                  "speaker": "Pentyn",
+                  "text": "If you need any hints about the rooms nearby, I can give you some help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's okay, I don't need any help."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

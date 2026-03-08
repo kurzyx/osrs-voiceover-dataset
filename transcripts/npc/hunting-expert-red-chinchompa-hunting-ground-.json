@@ -1,0 +1,56 @@
+{
+  "ref": "hunting-expert-red-chinchompa-hunting-ground-",
+  "categoryRef": "npc",
+  "title": "Hunting expert (Red chinchompa hunting ground)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Attempting to enter the Red chinchompa hunting ground without having the requirements",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hunting expert",
+                  "text": "Sorry, but only those who've completed the hard set of the Western Provinces tasks may enter my private hunting ground."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What is this cave here for?"
+            },
+            {
+              "speaker": "Hunting expert",
+              "text": "Ah, a few of the most hunted creatures around here have been captured and secured in this cave to allow the most esteemed hunters to catch them with ease."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I use the cave?"
+            },
+            {
+              "speaker": "Hunting expert",
+              "text": "Yes, you can. Head inside to hunt in peace."
+            },
+            {
+              "speaker": "Hunting expert",
+              "text": "Unfortunately not. Only those who have completed the hard tier of the Western Provinces achievement diary may enter."
+            },
+            {
+              "speaker": "Hunting expert",
+              "text": "Come back when you have and I shall allow you entry."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "ref": "trogen-konungarde",
+  "categoryRef": "npc",
+  "title": "Trogen Konungarde",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Trogen Konungarde",
+              "text": "Ho, [Fremennik name]! The brave warrior returns!"
+            },
+            {
+              "speaker": "Player",
+              "text": "It was a hard-fought battle, but we Fremennik prevailed!"
+            },
+            {
+              "speaker": "Trogen Konungarde",
+              "text": "I expect we'll be hearing songs about the 'Slayer of the Troll King' for many years to come."
+            },
+            {
+              "speaker": "Player",
+              "text": "It would be an honour to be remembered in such a way! Thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

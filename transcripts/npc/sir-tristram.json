@@ -1,0 +1,99 @@
+{
+  "ref": "sir-tristram",
+  "categoryRef": "npc",
+  "title": "Sir Tristram",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Tristram",
+                  "text": "Hail Arthur, King of the Britons!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um... Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm looking for adventure! More specifically, some sort of quest."
+                },
+                {
+                  "speaker": "Sir Tristram",
+                  "text": "...Then hail Arthur, King of Britons, like I just said."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh. Ok."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I thought you just had a weird way of saying hello is all."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Merlin's Crystal",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Tristram",
+                  "text": "Hail Arthur, King of the Britons!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um... Hello."
+                },
+                {
+                  "speaker": "Sir Tristram",
+                  "text": "Thanks for freeing Merlin."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No problem. It was easy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing King's Ransom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Tristram",
+                  "text": "Hail Arthur, King of the Britons!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um... Hello."
+                },
+                {
+                  "speaker": "Sir Tristram",
+                  "text": "You are indeed a mighty knight. I hope your adventuring goes well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

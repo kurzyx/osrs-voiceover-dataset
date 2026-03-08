@@ -1,0 +1,53 @@
+{
+  "ref": "herquin",
+  "categoryRef": "npc",
+  "title": "Herquin",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Do you wish to trade?"
+            },
+            {
+              "speaker": "Herquin",
+              "text": "Why yes, this a jewel shop after all."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry I don't want to talk to you actually."
+            },
+            {
+              "speaker": "Herquin",
+              "text": "Huh! Charming!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Herquin",
+                  "text": "You've done it! Have this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

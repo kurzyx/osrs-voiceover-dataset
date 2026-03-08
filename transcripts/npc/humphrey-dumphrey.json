@@ -1,0 +1,85 @@
+{
+  "ref": "humphrey-dumphrey",
+  "categoryRef": "npc",
+  "title": "Humphrey Dumphrey",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before picking up the egg",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Want to go on an adventure?"
+                },
+                {
+                  "speaker": "Egg",
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interact option on the egg in the inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Egg",
+                  "text": "..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You think so?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was thinking the same thing!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, absolutely!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah, me too..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know about that one."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Battling another pet in the arena in the Menagerie",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Egg",
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

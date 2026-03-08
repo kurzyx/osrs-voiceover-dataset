@@ -1,0 +1,129 @@
+{
+  "ref": "cyreg-paddlehorn",
+  "categoryRef": "npc",
+  "title": "Cyreg Paddlehorn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completion of In Search of the Myreque",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cyreg Paddlehorn",
+                  "text": "Hello there friend. I'm afraid all boat rides are out of service due to the high ghast activity in Mort Myre."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to use his boat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cyreg Paddlehorn",
+                  "text": "Hey, hands off my boat!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completion of In Search of the Myreque",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help in finding the Myreque."
+                },
+                {
+                  "speaker": "Cyreg Paddlehorn",
+                  "text": "Well, I'd like to say that you're welcome. But I heard that you led Vanstrom straight to their hideout. I feel so guilty."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm, yeah, I know how you feel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completion of Sins of the Father",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help in finding the Myreque."
+                },
+                {
+                  "speaker": "Cyreg Paddlehorn",
+                  "text": "Well, I'd like to say that you're welcome. But what does it matter now? The Drakans killed the whole lot of them."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "When boarding the Swamp Boaty",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cyreg Paddlehorn",
+              "text": "I'll have to charge you 10 gold to cover the loan of the boat. Is that okay?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes. I'll pay the ten gold."
+            },
+            {
+              "speaker": "Cyreg Paddlehorn",
+              "text": "Sorry, but you don't have that much. No money, no boat!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No. I won't use the boat."
+            },
+            {
+              "speaker": "Player",
+              "text": "How about you let me use the boat for free?"
+            },
+            {
+              "speaker": "Cyreg Paddlehorn",
+              "text": "Hmm, use the boat for free... Very well, that sounds fair enough to me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When quick-boarding the Swamp Boaty",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cyreg Paddlehorn",
+              "text": "Sorry my friend. You don't seem to have the funds for the trip. It will cost you 10 gold."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

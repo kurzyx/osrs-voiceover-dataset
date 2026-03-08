@@ -1,0 +1,101 @@
+{
+  "ref": "elnes",
+  "categoryRef": "npc",
+  "title": "Elnes",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing The Forsaken Tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elnes",
+                  "text": "Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Elnes",
+                  "text": "Minecart rides are 20 coins."
+                },
+                {
+                  "speaker": "Elnes",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing The Forsaken Tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elnes",
+                  "text": "Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Elnes",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unlimited ride fee refund",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elnes",
+                  "text": "As a loyal customer of the Lovakengj Minecart Network, you're entitled to this."
+                },
+                {
+                  "speaker": "Elnes",
+                  "text": "Now, can I help you today?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to travel to Hosidius South while already there",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elnes",
+                  "text": "You're already here, human."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

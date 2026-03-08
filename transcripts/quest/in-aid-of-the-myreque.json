@@ -1,0 +1,2405 @@
+{
+  "ref": "in-aid-of-the-myreque",
+  "categoryRef": "quest",
+  "title": "In Aid of the Myreque",
+  "sections": [
+    {
+      "title": "The Myreque's job offer",
+      "sections": [
+        {
+          "title": "Veliaf Hurtz",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "You're back. Any luck in Canifis?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I went back to the place where I first met Vanstrom. He was gone though."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "I feared as much. Worry not though. The day will come when we get our revenge on him and the rest of his kind."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Anyway, now that you're back, there was something I was hoping you'd help us with."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you need?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Now that our base of operations is no longer safe, we're going to need to relocate before the vyrewatch descend on us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Seems like a wise move. What part do I play?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "To the south of Mort'ton there's an old town known as Burgh de Rott. The place was abandoned but I hear some escapees from Meiyerditch have made their home there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And you want me to scout the place out?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Exactly. Head down to Burgh de Rott and see if you can find a suitable place for our new hideout. While you're there, do what you can to forge a good relationship with the townspeople."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll get it done."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Be sure to take a weapon of silver with you. You'll find it of great use if vampyres attack. Good luck to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry. I'm not interested."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Very well. You know where we are if you change your mind."
+                }
+              ]
+            },
+            {
+              "lines": [
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well met, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do I need to do again?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Head to Burgh de Rott and see if the town has a suitable location for our new hideout. While you're there, do what you can to forge a good relationship with the townspeople."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "You'll find the town just south of Mort'ton. Good luck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Radigad Ponfit",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Radigad Ponfit",
+                  "text": "Hello. I hear you're doing some important work for Veliaf. You'd best get to it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Polmafi Ferdygris",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, how's it going?"
+                },
+                {
+                  "speaker": "Polmafi Ferdygris",
+                  "text": "Not so good. It's great to see you're helping us out though."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ivan Strom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ivan Strom",
+                  "text": "Is something new and exciting happening?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe. Veliaf has asked me to do some work for him. Hopefully it will benefit you all."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Entering Burgh De Rott",
+      "sections": [
+        {
+          "title": "Attempting to open the gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Florin",
+                  "text": "Get out of it! You're not having our food or our blood!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Florin",
+                  "text": "Get out of it! You ain't comming in here to get our blood or our food!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What on earth makes you think I want your food or your blood?"
+                },
+                {
+                  "speaker": "Florin",
+                  "text": "Hey! Don't try to sweet talk me. I know you want something! But we got nothing! Nothing!"
+                },
+                {
+                  "speaker": "Florin",
+                  "text": "What blood we've got, we're keeping for ourselves! You can tell that stinking Vanstrom to go suck a cow's udder!"
+                },
+                {
+                  "speaker": "Florin",
+                  "text": "And as for food, why we've barely got enough to feed ourselves. So you ain't having none!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Florin",
+                  "text": "This is our town! We live here. It's called Burgh de Rott, and you ain't coming in!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where did you all come from?"
+                },
+                {
+                  "speaker": "Florin",
+                  "text": "We escaped from the vampyres. They had us trapped in Meiyerditch to drink our blood! Yuck!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's Meiyerditch?"
+                },
+                {
+                  "speaker": "Florin",
+                  "text": "As if you don't know! It's that dark city to the east where humans are kept like animals to feed those greedy evil vampyres!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds like an awful place! Let me in and I'll help you!"
+                },
+                {
+                  "speaker": "Florin",
+                  "text": "Yeah, okay then eh! No way! You can't trick me like that!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why would I want your blood?"
+                },
+                {
+                  "speaker": "Florin",
+                  "text": "Your probably one of them stinking vampyres in disguise! You ain't coming in!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't want your blood!"
+                },
+                {
+                  "speaker": "Florin",
+                  "text": "We don't care. You probably want our food then, so you ain't coming in!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why would I want your food?"
+                },
+                {
+                  "speaker": "Florin",
+                  "text": "You probably want to eat it all and we ain't gonna let you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I don't want to eat your food. I'm plenty healthy enough!"
+                },
+                {
+                  "speaker": "Florin",
+                  "text": "Well, that's as maybe, but yous probably wants to drink ours blood! And you aint having it and you aint coming in!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, goodbye."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Depositing food in the chest",
+          "sections": [
+            {
+              "title": "When searching the chest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "When using food on the chest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Florin",
+                      "text": "Blimey, did you see that? [He/She] put some food in the chest for us! [He/She]'s probably not after anything!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Speaking to Florin after using food on the chest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Florin",
+                      "text": "Hey, what did you put in that chest? Is it something tasty, like a nice cooked snail? Or perhaps a well matured piece of cheese with some fresh bread? Ohhh, I bet it's dead tasty..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Speaking to citizens",
+          "sections": [
+            {
+              "title": "Child Citizen",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Child Citizen",
+                      "text": "Sorry. I shouldn't talk to strangers."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Marius",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Citizen",
+                  "text": "Hey there. How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not so bad."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How come you have no food?"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Well obviously we just don't seem to get out to the shops like we used to!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How come you have no food?"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "We can only stay in the village and there's precious little food in here, just rats to live on! Not very appetising."
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "There's also nowhere to store any food around here, the town is incredibly run down."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How come you have no food?"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "We dare not leave the town for fear that the vampyres might spot us and force us to pay a blood tithe."
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "We're all very weak and would most likely die if they took more blood from us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "This is our town! We's live here. It's called Burgh de Rott. It aint much to look at, but it's our home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you do here?"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "My name's [citizen name]. I do a bit of this, a bit of that. Just try to survive really, there's nothing much else we can do."
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Oh, my name's [citizen name]. I just help out around here, you know, looking for food and so on."
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Not that it makes much difference but my name's [citizen name]. Like all the other survivors here, I just try to make do and get through each day at a time."
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Oh hi. I'm [citizen name]. I hunt rats mostly. Speaking of which, this rat tastes awful, but it's the only food we have!"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Huh? I'm [citizen name]. Ravaging after food is what I mostly do. Ocasionally I'll happen across a rat, and that's a good day, just like today!"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Oh, hello. [Citizen name] is the name and I help to keep the village clear of rat infestations. Clearly I love my work, as I bring it home with me... On a stick!"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "I'm [citizen name]. I'm just trying to stay warm."
+                },
+                {
+                  "speaker": "Elisabeta",
+                  "text": "I'm Elisabeta, the village leader."
+                },
+                {
+                  "speaker": "Teodor",
+                  "text": "I'm Teodor. I'm a farmer. Not that there's much to grow here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you do here?"
+                },
+                {
+                  "speaker": "Aurel",
+                  "text": "I'm Aurel, the village store owner."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you open the shop for me please?"
+                },
+                {
+                  "speaker": "Aurel",
+                  "text": "I'm sorry my friend, but I cannot open a store which has no stock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you do here?"
+                },
+                {
+                  "speaker": "Cornelius",
+                  "text": "I'm Cornelius. I don't really do anything here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you do here?"
+                },
+                {
+                  "speaker": "Gabriela",
+                  "text": "I'm Gabriela. I'm looking after my husband who isn't feeling too well!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are there any 'out of the way' places here?"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "How do you mean, 'out of the way'?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Somewhere where myself and a couple of friends could hold up for a while without attracting any vampyre attention?"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Ah, right, I know what you mean. Hmm, let's think now..."
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Well, there's the inn. You could look there I suppose. The cellar would have been useful, but the trapdoor down to it is covered with rubble from a broken wall."
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "The cellar itself is probably filled with rubble as well. But you may be able to do something with it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That could work. Thanks."
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Listen, if you do decide to join us here, we'll expect you to contribute. You know, help to fix things up a bit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cleaning the inn",
+          "sections": [
+            {
+              "title": "Clearing rubble",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Dropping the buckets of rubble",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Spealing to citizens while clearing the inn",
+          "sections": [
+            {
+              "title": "Speaking to citizens after clearing the inn",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hey there, I'm finished with my project at the inn."
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "Oh, that's good to know."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What do you think of your town?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "It's barely a town. I mean, not exactly a breeding ground for high society is it?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "At least we can hide from the vampyres here though. Hopefully we can start to get things up and running soon. You know, some of the trappings of normal life."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'd like to help fix up the town."
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "Oh, that's very kind of you!"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "Perhaps you'd consider fixing up the general store. Go and have a chat with Aurel if you want more details."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hmm, sounds interesting."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay, thanks."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Citizen",
+                  "text": "Hey there. So you're looking to clear out the cellar at the inn? How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not so bad, but it's a lot of hard work to be honest."
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Oh well, I'm sure you can manage."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you do here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fixing the general store",
+          "sections": [
+            {
+              "title": "Aurel",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hey there, I'm finished with my project at the inn."
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Oh, that's good to know."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hello!"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Yeah, what can I do ya for?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Hi there. You've done a good job on my store! It's starting to look great!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yeah, but I've only fixed the roof and the walls."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hello, I wonder if I could ask a few questions?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Sure, go ahead."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What do you do here?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "I'm Aurel, the village store owner."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Can you open the shop for me please?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "I'm sorry my friend, but I cannot open a store which has no stock."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What do you think of your town?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "It's barely a town. I mean, not exactly a breeding ground for high society is it?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "At least we can hide from the vampyres here though. Hopefully we can start to get things up and running soon. You know, some of the trappings of normal life."
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "It's looking better since you fixed my store, that's for sure. It would be good to get some stock in as well though."
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Just some basic commodities, nothing too fancy like."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How did everyone come to be here?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "We managed to escape from Meiyerditch where we were being farmed as food for the vampyres."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Meiyerditch?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "That's right. It's part of the Sanguinesti region to the east of here."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'd like to help fix up the town."
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Oh, that's very kind of you!"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Perhaps you would consider helping to fix up my general store. It certainly could do with sorting out."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What needs fixing?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Please can you fix the roof, then the walls. Once that's done, come and have a chat with me regarding the stores stock."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'll take a look."
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Yes I know. You said you'd help fix up my general store!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh! Right, did I? Where was I?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Well, I'm not sure. Could you take a look at the roof and then look at the walls. Once you've done that come and have a chat with me."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What should I do now?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "I thought you were fixing up my general store? First fix the roof, then the walls. After that, come and have a chat with me."
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Well you could stock the store for us. We'd really start looking like a town then."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What stock do you need?"
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "I need 3 tinderboxes, 10 snails of any type/raw mackerel and 10 bronze axes."
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "There you go. You can put them in that."
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "You need to collect 10 bronze axes, 10 [snails of any type/raw mackerel] and 3 tinderboxes."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay, thanks."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Filling the crate with food",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Fixing the roof",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Fixing the wall",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Speaking to citizens while fixing the general store",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello, I wonder if I could ask a few questions?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "Sure, go ahead."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What do you think of your town?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "It's barely a town. I mean, not exactly a breeding ground for high society is it?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "At least we can hide from the vampyres here though. Hopefully we can start to get things up and running soon. You know, some of the trappings of normal life."
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "It's coming together now. The store is looking nicer now that it's been fixed up a bit. It would be better with some stock in it though."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How did everyone come to be here?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "We managed to escape from Meiyerditch where we were being farmed as food for the vampyres."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Meiyerditch?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "That's right. It's part of the Sanguinesti region to the east of here."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'd like to help fix up the town."
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "Oh, that's very kind of you!"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "Perhaps you'd consider fixing up the general store. Go and have a chat with Aurel if you want more details."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hmm, sounds interesting."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What should I do now?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "I thought you were helping Aurel stock his store?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay, thanks."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Handing in store stock",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Aurel",
+                      "text": "Wow, that's fantastic. Well done! You're doing a great job."
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Hey, you've done such a great job for me. Would you consider helping us fix up the bank as well?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I can probably look into it."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Fixing the bank",
+          "sections": [
+            {
+              "title": "Fixing the bank booth",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Fixing the bank wall",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Speaking to citizens while fixing the bank",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "Hey it's you! You're doing a great job with the town! It's really getting a lot better!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm happy to help!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What do you think of your town?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "It's a lot better now that we have a general store, you're doing a great job! What a hero!"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "Oh, I think it's going great. We're all so pleased with the work you're doing, but there's still lots left to do."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What should I do now?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "It would be good if you could fix the bank up. I'd suggest starting with the bank booth first."
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "You need to fix up the bank. If the booth is done then you should move onto the wall."
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "Well, the bank is all fixed now, but it isn't going to serve people all on its own. You'll have to recruit someone!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Recruiting Cornelius",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "What should I do now?"
+                    },
+                    {
+                      "speaker": "Cornelius",
+                      "text": "Well, the bank is all fixed now, but it isn't going to serve people all on its own. You'll have to recruit someone!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you fancy the job?"
+                    },
+                    {
+                      "speaker": "Cornelius",
+                      "text": "Me? Why, I guess I could... Yes, in fact, I'm sure I could!"
+                    },
+                    {
+                      "speaker": "Cornelius",
+                      "text": "I'd best go and get changed now..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Fixing the furnace",
+          "sections": [
+            {
+              "title": "Fixing the hole in the furnace",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Refuelling the furnace",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Lighting the furnace",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Speaking to citizens while fixing the furnace",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Citizen",
+                      "text": "Hello there. Thank you so much for all of your work so far. We all really appreciate it."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks."
+                    },
+                    {
+                      "speaker": "Cornelius",
+                      "text": "I'm Cornelius. I run the bank now."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What do you think of your town?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "Oh it's brilliant, but we could really do with somewhere to melt down the local ores. Maybe you could fix up the furnace?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why does everyone stay in this town?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "It's safer here than anywhere else in Morytania. I guess we could try and escape across the Salve but those horrible ghasts in Mort Myre would probably just eat us alive!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What should I do now?"
+                    },
+                    {
+                      "speaker": "Citizen",
+                      "text": "You've already done quite a lot and we're all super grateful. That said, I overheard someone saying how great it would be if the old furnace were up and working again."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay, thanks."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "At Castle Drakan",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Vanstrom Klause",
+              "text": "Gadderanks."
+            },
+            {
+              "speaker": "Gadderanks",
+              "text": "My lord... We've finished our latest round of tithing. I'm afraid we haven't been able to collect the desired amount."
+            },
+            {
+              "speaker": "Vanstrom Klause",
+              "text": "I saw your wife today, Gadderanks. She's well."
+            },
+            {
+              "speaker": "Vanstrom Klause",
+              "text": "I hope she stays that way."
+            },
+            {
+              "speaker": "Gadderanks",
+              "text": "My lord Vanstrom, there are precious few human settlements left worth collecting tithes from."
+            },
+            {
+              "speaker": "Gadderanks",
+              "text": "Mort'ton is just a dead town, full of afflicted. Lord Malak was so ill when he drank of them last time."
+            },
+            {
+              "speaker": "Gadderanks",
+              "text": "Canifis is delivering more than expected but that still isn't sufficient."
+            },
+            {
+              "speaker": "Gadderanks",
+              "text": "Please, where should I get the remainder from?"
+            },
+            {
+              "speaker": "Vanstrom Klause",
+              "text": "I couldn't care less for your problems Gadderanks. Just do the job you've been appointed to do."
+            },
+            {
+              "speaker": "Vanstrom Klause",
+              "text": "Wait... Do you smell that? Smoke. It's coming from Burgh de Rott."
+            },
+            {
+              "speaker": "Gadderanks",
+              "text": "But Burgh de Rott is abandoned."
+            },
+            {
+              "speaker": "Vanstrom Klause",
+              "text": "No. Burgh de Rott was abandoned. That is clearly no longer the case."
+            },
+            {
+              "speaker": "Vanstrom Klause",
+              "text": "It seems you have a fresh appointment, Gadderanks. I hope there will be no more delay."
+            },
+            {
+              "speaker": "Gabriela",
+              "text": "It's Gadderanks! He's found us!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gadderanks arrives at Burgh de Rott",
+      "sections": [
+        {
+          "title": "Speaking to citizens after fixing the furnace",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aurel",
+                  "text": "Well done big shot! The smoke from the furnace attracted Gadderanks and his juvinates!"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Well done big shot! The smoke from the furnace attracted Gadderanks and his juvinates. They've set up a blood tithing station in the general store!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who's Gadderanks?"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "He's some human lackie for the vampyres. His job is to collect blood tithes from all the villages around here. He goes around with his juvinate bodyguards because he's too weak to defend himself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's a juvinate?"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "A form of vampyre. They're stronger than juveniles but not as bad as a full-blown vyre. Still, no one that I've seen has ever gotten the better of one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What should I do now?"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "If I were you, I'd get out of town. Now that Gadderanks is here, I doubt many people will stay around!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe I can stop him."
+                },
+                {
+                  "speaker": "Aurel",
+                  "text": "Ha! In your dreams. He's right here if you want to give it a go. It's your funeral though!"
+                },
+                {
+                  "speaker": "Citizen",
+                  "text": "Ha! In your dreams. He's set up in the general store if you want to give it a go. It's your funeral though!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, sorry."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "At the general store",
+          "sections": [
+            {
+              "title": "Gadderanks",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "What's going on here?"
+                    },
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "Oh happy days! It's so good we found all these specimens here! If it hadn't been for some good soul lighting that furnace, we'd have never come down here!"
+                    },
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "Now I should be able to make my blood tithe quota... especially after you pay your tithe. You look like an incredibly fit specimen!"
+                    },
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "I bet you could pay twice as much as the others before passing out!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I don't have any intentions of paying a blood tithe!"
+                    },
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "Ha! We'll see about that!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Vampyre Juvinate",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "What's going on here?"
+                    },
+                    {
+                      "speaker": "Vampyre Juvinate",
+                      "text": "We're getting some delicious blood tithes from these sacks of food. Yum!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Wiskit",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "What's going on here?"
+                    },
+                    {
+                      "speaker": "Wiskit",
+                      "text": "They're draining my blood, that's what they're doing!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After speaking to all three",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "I've had enough of you poking your nose in here! If you think you can stop us, go ahead!"
+                    },
+                    {
+                      "speaker": "Veliaf Hurtz",
+                      "text": "Fear not my friend! I will come to your aid!"
+                    },
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "*cough*"
+                    },
+                    {
+                      "speaker": "Veliaf",
+                      "text": "Huh, it looks like Gadderanks is still alive. Perhaps he's ready to give us some information before he meets his maker."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You don't look too well, Gadderanks. Against my better judgement, I feel sorry for you."
+                    },
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "You... You do?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes, I do. I understand that you wanted to feel strong, but you took the wrong side."
+                    },
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "But... you don't understand. I just didn't want my family... I wanted to keep them safe."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You need to take a second and think of them then. Think of why you did this in the first place. All of that will count for nothing if you don't help us!"
+                    },
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "Then... will you do me a favour? Please, try to save them. Please! I beg you!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "You have my word. If we find them, we'll take care of them."
+                    },
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "Thank you. I have some information which may help you..."
+                    },
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "They fear some things. Silver dust and garlic to name a couple. Also outlawed are *cough* -ralander and *cough* -ders eggs. The potion which you make with them is also forbidden."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Take it easy Gadderanks. Let's see if we can sort you out."
+                    },
+                    {
+                      "speaker": "Gadderanks",
+                      "text": "It's too late for me *cough*. Though with what I've told you *cough*, perhaps you can find a way to *cough* bring light to Morytania."
+                    },
+                    {
+                      "speaker": "Aurel",
+                      "text": "Hey there! Gadderanks dropped this warhammer, I guess it belongs to you now!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Veliaf",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Phew! Thanks for your help Veliaf. It sure was good of you to turn up."
+                    },
+                    {
+                      "speaker": "Veliaf",
+                      "text": "Don't mention it. Have you had any luck with finding us a new hideout?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have. The cellar of the inn here should work perfectly."
+                    },
+                    {
+                      "speaker": "Veliaf",
+                      "text": "Excellent! Now, I must return to the Hollows. Please, meet me there so we can arrange getting everyone down here safely."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sure."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "At the Myreque Hideout",
+      "sections": [
+        {
+          "title": "Veliaf",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well met. Do you need something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do I need to do now?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "First, let Polmafi and Radigad know that it's time for us to depart. After you've done that, please could you escort Ivan to Paterdomus."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Once you're there, Drezel might be able to help you with this Ivandis business."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Please could you escort Ivan to Paterdomus. Once you're there, Drezel might be able to help you with this Ivandis business."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you make of what Gadderanks said?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "It could be a load of rubbish, but it may be worth looking into. I recognise at least two of the items he mentioned as ingredients for a potion."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "The mention of garlic and silver is interesting though. We know vampyres are weak to both. The way he talked though suggests they could be used in a potion as well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How would I test that?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "A good question my friend, but I have no answer for you. Perhaps you could experiment?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why does Ivan need to go to Paterdomus?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "He'll be safer there under the eye of Drezel. Drezel can help him further his spiritual skills so that when he is older and wiser, he can rejoin the fight."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me more about Ivandis."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Long ago, the Seven Priestly Warriors drove the vampyre forces out of Misthalin and blessed the Salve so that they'd never be able to return."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Now, the priests of Saradomin would have you believe that all seven are buried beneath Paterdomus. However, I have heard rumour that one of the warriors, Ivandis Seergaze, is actually buried elsewhere."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So where is he buried instead?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "He supposedly led countless charges into Morytania and ultimately perished somewhere within these lands. If that is the case, his followers would likely have buried him near the place he died."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "The reason this is important is because it is said that Ivandis wielded a weapon of great power against the vampyres. If he died in Morytania, this weapon may have been buried with him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd best be off."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ivan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ivan Strom",
+                  "text": "Hey there. I hear you're going to be taking me to the temple."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's right. I just need to speak with Polmafi and Radigad and then we'll head off."
+                }
+              ]
+            },
+            {
+              "lines": [
+                {
+                  "speaker": "Ivan Strom",
+                  "text": "Hmmm, it seems that you have a follower. I think it may get lost on this journey if it's left to wander on its own. Let's leave when your follower is safe."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Polmafi",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey. Veliaf says it's time to head down to the new hideout in Burgh de Rott. Could you let Radigad know as well? I'm taking Ivan to Paterdomus."
+                },
+                {
+                  "speaker": "Polmafi Ferdygris",
+                  "text": "Okay. Thanks for letting me know. I'll tell Radigad."
+                },
+                {
+                  "speaker": "Polmafi Ferdygris",
+                  "text": "Don't worry, I'm just getting my stuff together before leaving. Good luck with your trip to the temple."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Radigad",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey. Veliaf says it's time to head down to the new hideout in Burgh de Rott. Could you let Polmafi know as well? I'm taking Ivan to Paterdomus."
+                },
+                {
+                  "speaker": "Radigad Ponfit",
+                  "text": "Okay. Thanks for letting me know. I'll tell Polmafi."
+                },
+                {
+                  "speaker": "Radigad Ponfit",
+                  "text": "Don't worry, I'm just getting my stuff together before leaving. Good luck with your trip to the temple."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Veliaf Hurtz",
+              "text": "Well met, friend. Glad you made it back in one piece."
+            },
+            {
+              "speaker": "Player",
+              "text": "Likewise. So, what happens now?"
+            },
+            {
+              "speaker": "Veliaf Hurtz",
+              "text": "Do you know of Drezel?"
+            },
+            {
+              "speaker": "Player",
+              "text": "The priest at Paterdomus? Yes, I've helped him out before."
+            },
+            {
+              "speaker": "Veliaf Hurtz",
+              "text": "Ah, excellent. Well Drezel is an old friend and he's agreed to do us a favour. Ivan is too young and inexperienced to be out here with us. He also aspires to be a priest himself."
+            },
+            {
+              "speaker": "Veliaf Hurtz",
+              "text": "Drezel has agreed to take him in and train him. Once he is older and wiser, he can rejoin our fight as a spiritual advisor."
+            },
+            {
+              "speaker": "Veliaf Hurtz",
+              "text": "Myself, Polmafi and Radigad will soon be heading down to Burgh de Rott. While we do so, I'd appreciate it if you could escort Ivan to Paterdomus."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sure I can manage that."
+            },
+            {
+              "speaker": "Veliaf Hurtz",
+              "text": "Thank you. There's something else I could use your help with as well."
+            },
+            {
+              "speaker": "Veliaf Hurtz",
+              "text": "I'm sure you've noticed by now that our weapons have limited use against the vampyres. Even weapons made of silver only go so far. If we're to have any hope of beating their kind, we'll need to address this problem."
+            },
+            {
+              "speaker": "Veliaf Hurtz",
+              "text": "If you've met Drezel, then I've no doubt that he's told you the tale of the Seven Priestly Warriors who blessed the Salve and saved Misthalin."
+            },
+            {
+              "speaker": "Player",
+              "text": "He has indeed."
+            },
+            {
+              "speaker": "Veliaf Hurtz",
+              "text": "Well I have heard rumour that one of these warriors, a man called Ivandis Seergaze, used a weapon of great power against the vampyres. I have also heard that he isn't actually buried at Paterdomus with the others."
+            },
+            {
+              "speaker": "Player",
+              "text": "I see. And you'd like me to look into this?"
+            },
+            {
+              "speaker": "Veliaf Hurtz",
+              "text": "If you could, my friend, you would have my gratitude. Drezel will likely know more, though I find he isn't always forthcoming where rumours are involved."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll see what I can dig up."
+            },
+            {
+              "speaker": "Veliaf Hurtz",
+              "text": "Before you go, do you mind telling Polmafi and Radigad that it's time for us to depart."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Escorting Ivan to Paterdomus",
+      "sections": [
+        {
+          "title": "Speaking to Ivan during an encounter",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ivan Strom",
+                  "text": "Let's get of this place... I'm scared!"
+                },
+                {
+                  "speaker": "Ivan Strom",
+                  "text": "Did those vampyres say they wanted to 'eat' me?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When Ivan eats food",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using food on Ivan during an encounter",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ivan Strom",
+                  "text": "Food is the very last thing on my mind right now... let's get out of here!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If Ivan takes too much damage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ivan Strom",
+                  "text": "I'm getting badly beaten up here, I'm going to die here if I stay...see you back at the old base."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Escaping from the vampyres",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After finishing the encounter",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ivan Strom",
+                  "text": "Many thanks for bringing me safely to the temple. I'm going to rush on ahead as I'm eager to get out of these muddy clothes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not a problem. I need to chat to Drezel about some things. I'll see you later."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ivan before he leaves after finishing the encounter",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ivan Strom",
+                  "text": "Excuse me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ivan Strom",
+              "text": "Thanks for the helmet! That's great! It's going to help a lot! I'm going to wear it under my normal clothes."
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "Thanks for the chainbody! That's great! It's going to help a lot! I'm going to wear it under my normal clothes."
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "Thanks for the steel legs! That's great! It's going to help a lot! I'm going to wear them under my normal clothes."
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "Thanks for the kind offer of some armour, but I can only wear a steel medium helm, steel chainbody and steel platelegs."
+            },
+            {
+              "speaker": "Player",
+              "text": "You might find this sickle helpful on our travels."
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "Many thanks friend, I shall endeavour to wield it as bravely as Veliaf and yourself!"
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "Ohh delicious, some food! I'll keep that for the trip. I could carry another [number] bits of food."
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "Ohh delicious, some food! I'll keep that for the trip. I'm totally stocked up with food now, thanks!"
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "Thanks for the kind offer of food, but my favourites are either cooked snails, salmon, slimy eel or stew!"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "speaker": "Ivan Strom",
+              "text": "Hey there. I hear you're going to be taking me to the temple."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's right. We should get going soon."
+            },
+            {
+              "speaker": "Ivan Strom",
+              "text": "Very well. I'm ready, lead the way."
+            },
+            {
+              "speaker": "Vamp Juvinate",
+              "text": "There's that tasty morsel Ivan! Time for some food..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Asking Drezel about Ivandis",
+      "sections": [
+        {
+          "title": "Talking to Drezel afterwards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Thanks very much for your help. I really appreciate it."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "I just hope that all our sacrifices are worth it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the library",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Drezel",
+              "text": "Greetings again adventurer. How go your travels in Morytania? Is it as evil as I have heard?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Well done for bringing Ivan to the temple, [player name]. He will be much safer here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, it seems to be more dangerous in Morytania doesn't it?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Indeed it does my friend. But thanks to you and the Myreque, we have at least the hope of finding salvation in this dark and oppressive land."
+            },
+            {
+              "speaker": "Player",
+              "text": "Veliaf told me about Ivandis."
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Hmmm, how can I say this diplomatically. Veliaf is a good leader, but perhaps he shouldn't be voicing ideas about religious history."
+            },
+            {
+              "speaker": "Player",
+              "text": "But you don't even know what he said about Ivandis."
+            },
+            {
+              "speaker": "Drezel",
+              "text": "I assume he's made suggestions that Ivandis isn't actually buried in this temple? If he has made such a claim, it's not something I'm prepared to talk about."
+            },
+            {
+              "speaker": "Player",
+              "text": "So, you're sure that Ivandis is buried here then?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "If you don't mind me saying, that is a bit of a redundant question. All of the Seven Priestly Warriors are buried here, including Ivandis."
+            },
+            {
+              "speaker": "Player",
+              "text": "So where did this rumour that he's buried elsewhere come from then?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Rumours come from all kinds of places. They are rarely true. I am sorry to be so blunt, but I'm offended that you challenge me on this."
+            },
+            {
+              "speaker": "Player",
+              "text": "What proof do you have that Ivandis is buried here?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Servants of Saradomin are not concerned with triffling matters such as proof. We have our faith, and our faith guides us."
+            },
+            {
+              "speaker": "Player",
+              "text": "So you don't actually know for sure that he is buried here?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Please, do not challenge me on matters of faith."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you know about the history of this temple?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "I know that it is built on the site where the Seven Priestly Warriors defended Misthalin against the evil vampyres. I also know that their sanctified and holy remains rest peacefully beneath us."
+            },
+            {
+              "speaker": "Player",
+              "text": "Have you checked that then? Have you seen their remains with your own eyes?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Why would I need to? You'd have me dig up their blessed remains? For what?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Is there somewhere that I might get more information on Ivandis?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "What little information there is, is probably already known to you."
+            },
+            {
+              "speaker": "Player",
+              "text": "So you have no further information on him that could possibly help me? Anything you know might be of use in freeing the poor people of Morytania."
+            },
+            {
+              "speaker": "Drezel",
+              "text": "I have told you all I know. That is as much as I, or anyone, can do."
+            },
+            {
+              "speaker": "Player",
+              "text": "Will you let me check Ivandis' tomb?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Absolutely not! What a disgrace that you should even ask! He rests pure and undisturbed beneath this hallowed earth!"
+            },
+            {
+              "speaker": "Player",
+              "text": "We need to consider every possible thing which could help us!"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "I don't see how that can help you! And if you continue in this vein, it will certainly hinder you for you shall not have my support!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are you so resistant to talking about history?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "I am not resistant at all, my friend. I would happily talk history with you for as long as you desire. You do not wish to speak of history though, just rumours."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think you're holding something back! We really need all the help we can get!"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "I understand that my friend, but digging up the remains of saintly heroes will not aid us in any way!"
+            },
+            {
+              "speaker": "Player",
+              "text": "The lives of those pitiful few left in Morytania could rest on this!"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "And you know I would do anything to help those people."
+            },
+            {
+              "speaker": "Player",
+              "text": "I know. So please, help me as much as you can."
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Very well, but there is only so much I can do. Remember that I am still a priest of Saradomin."
+            },
+            {
+              "speaker": "Drezel",
+              "text": "I know not if it will help, but please take this key. It will allow you access to a secret library here in the mausoleum. In there you may find what you're looking for, but I pray you never reveal this to me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you, Drezel."
+            },
+            {
+              "speaker": "Player",
+              "text": "Very well then. Morytania is lost to ignorance."
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Not ignorance my friend. There are ways to save Morytania from the vampyres. This is not one of them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rod of Ivandis",
+      "sections": [
+        {
+          "title": "Talking to Polmafi Ferdygris at the new hideout",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Polmafi Ferdygris",
+                  "text": "Hey there. It's great of you to do all this work for Veliaf. I've heard him say some good things about you. Keep up the good work and I'm sure you'll be invited to become a full member of the Myreque!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Radigad Ponfit at the new hideout",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Radigad Ponfit",
+                  "text": "Thanks for doing such good work on the new hideout. Of course, we've tidied up a bit as you can see."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Veliaf before finding the tomb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Thanks for getting Ivan to Paterdomus safely. Let me know if you have any luck finding information on Ivandis."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've found a library under Paterdomus."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well that can only be good news. I imagine it will contain all sorts of useful information. Do let me know if you find anything in there of note."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know where Ivandis' tomb could be?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well if I knew where it was, I'd be there now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well yeah, but maybe you have a rough idea."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "I suspect he is buried somewhere in Morytania. He supposedly led countless charges into these lands and ultimately perished while doing so."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "As for where in Morytania, I can't imagine he'd have made it too far from Paterdomus."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you know about Ivandis?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Ivandis Seergaze was one of the Seven Priestly Warriors. Along with the other six, he managed to hold back the vampyres when they attempted to invade Misthalin."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "The seven of them were also responsible for blessing the Salve, preventing the vampyres from ever crossing."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "It is said that Ivandis wielded a great weapon against the vampyres. One that could render them immobile for a short time."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "There are also stories that credit him with the restoring of something called 'Guthix balance'."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Guthix? Interesting."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Indeed. As the god of balance, it is said that Guthix will always try to ensure that both Saradomin and Zamorak do not gain an upper hand against the other."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Now, why a Saradominist warrior-priest is connected to him, I couldn't say."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After finding the tomb, but before making the rod",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well met. How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I've found Ivandis' tomb."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "That's great news! Hopefully you can find something of use in there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There's just a coffin from what I can tell. There's some sort of rod fused to the top of it though."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "A rod you say? This sounds like it could be the weapon we seek."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suspect it is. I don't think there's any way to remove it though."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "I hope you are wrong about that. If we cannot break the mould of our historical defeats, we will never be able to stop Drakan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Making a mold of Ivandis",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well met. How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I've found Ivandis' tomb."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "That's great news! Hopefully you can find something of use in there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, there's a coffin with some sort of rod fused to the top of it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't think the rod can be removed. However, I made a clay mould of it so I might be able to make a new one."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Excellent work. Let me know how it goes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know which metal I should use to make the rod?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "I do not, I'm afraid. You mentioned that the original rod is still in Ivandis' tomb though. I'm sure studying it will give you a clue as to how it was made."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "If that doesn't work, you might be able to learn something at Paterdomus."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know what the rod does?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "I believe this rod is the weapon that Ivandis used against the vampyres. The stories say that he used to render them immobile for a short time. You might be able to learn more at Paterdomus."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The not-so-holy rod",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well met. How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have brought you the Rod of Ivandis!"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Hmm, well it certainly looks very authentic. But there doesn't seem to be any enchantment on it, either mortal or devine. Perhaps there is a step of the process you have not completed yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where would I find out about the process for completing the rod?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "If the truth is anywhere, I bet it's at Paterdomus."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a silvthrill rod on Veliaf",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Here you go. I've managed to recreate the Rod of Ivandis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Enchanting the silvthrill rod",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Inspecting the half-holy rod",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Giving the half-holy rod to Veliaf",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well met. How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have brought you the Rod of Ivandis!"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Hmm, well it certainly looks very authentic, and I can see it's been enchanted. But there doesn't seem to be any divine blessing on the item. Perhaps there is a step of the process you have not completed yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where would I find out about the process for completing the rod?"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "If the truth is anywhere, I bet it's at Paterdomus."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a rod on the well without a rope",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Dipping an unholy rod in Salve",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Dipping an enchanted rod in Salve",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Creating the Rod of Ivandis",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Veliaf whilst wielding the rod of Ivandis",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well met. How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have brought you the Rod of Ivandis!"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Very impressive. Good work."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Hmmm, I can't take it off your hands while you're still using it. If you want to offer it to me, you'll need to unequip it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bringing the Rod of Ivandis to Veliaf",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well met. How's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have brought you the Rod of Ivandis!"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Very impressive. Good work."
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "I... I don't believe it! You've really done it!"
+                },
+                {
+                  "speaker": "Veliaf Hurtz",
+                  "text": "Well [player name], you have certainly excelled yourself in this task. I believe you may soon be true Myreque material."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

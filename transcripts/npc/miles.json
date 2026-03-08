@@ -1,0 +1,87 @@
+{
+  "ref": "miles",
+  "categoryRef": "npc",
+  "title": "Miles",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Miles",
+              "text": "Thank you, I hope you like your present. I must be leaving now though."
+            },
+            {
+              "speaker": "Miles",
+              "text": "Sorry, that's just not the right answer!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player is in a zone where the random event isn't allowed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Miles",
+              "text": "I must be leaving now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If Miles is looking for another player",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Miles",
+              "text": "Sorry, but I'm trying to talk to [other player's display name], but [he/she] seems to be ignoring me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Miles",
+              "text": "Greetings [player name], I need your help."
+            },
+            {
+              "speaker": "Miles",
+              "text": "Talk to me, [player name]!"
+            },
+            {
+              "speaker": "Miles",
+              "text": "Hello, [player name], are you there?"
+            },
+            {
+              "speaker": "Miles",
+              "text": "I'd like to talk to you, [player name]!"
+            },
+            {
+              "speaker": "Miles",
+              "text": "ehem... Hello [player name], please talk to me!"
+            },
+            {
+              "speaker": "Miles",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

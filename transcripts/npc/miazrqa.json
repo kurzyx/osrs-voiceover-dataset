@@ -1,0 +1,91 @@
+{
+  "ref": "miazrqa",
+  "categoryRef": "npc",
+  "title": "Miazrqa",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before talking to Rupert the Beard and before Grim Tales",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Miazrqa",
+                  "text": "Oh, hello there. I'm afraid I don't have time to talk right now. I'm rather busy. Come back some other time please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, sorry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After talking to Rupert the Beard and before Grim Tales",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Miazrqa",
+                  "text": "Oh, hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you?"
+                },
+                {
+                  "speaker": "Miazrqa",
+                  "text": "Who am I? Why, how impertinent! I am a princess and I will be spoken to like one. Now be off with you. I have no time for scruffy adventurers like yourself!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I notice there is a dwarf up in the tower there. Why is he up there?"
+                },
+                {
+                  "speaker": "Miazrqa",
+                  "text": "I do believe that is none of your business, young scallyrumpit! Now kindly leave."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh...ok. Never mind then!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completion of Grim Tales",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Miazrqa",
+                  "text": "Thanks again for finding my pendant. I felt so lost without it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're welcome. Goodbye."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

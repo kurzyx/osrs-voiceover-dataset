@@ -1,0 +1,94 @@
+{
+  "ref": "butler-jarvis",
+  "categoryRef": "npc",
+  "title": "Butler Jarvis",
+  "sections": [
+    {
+      "title": "Before completing The Depths of Despair",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Butler Jarvis",
+              "text": "Good day [sir/madam]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "During The Depths of Despair",
+      "sections": [
+        {
+          "title": "After talking to Chef Olivia",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Butler Jarvis",
+                  "text": "Good day [sir/madam]. I hope your quest is going well."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Butler Jarvis",
+              "text": "Good day [sir/madam]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello. I'm helping Lord Hosidius find his missing son. I was wondering if you could help me."
+            },
+            {
+              "speaker": "Butler Jarvis",
+              "text": "I'm afraid I know not where Artur has gone. I do not speak to him much. He keeps himself to himself."
+            },
+            {
+              "speaker": "Butler Jarvis",
+              "text": "However, I've noticed him speaking to Olivia before. Maybe she can help."
+            },
+            {
+              "speaker": "Player",
+              "text": "Great, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing The Depths of Despair",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Butler Jarvis",
+              "text": "Good day [sir/madam]. On behalf of the Hosidius family, I thank you for bringing Artur home."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing A Kingdom Divided",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Butler Jarvis",
+              "text": "Good day [sir/madam]. I'm afraid I can't stop to talk. The new Lord Hosidius has plenty of work for me."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

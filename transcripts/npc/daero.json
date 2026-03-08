@@ -1,0 +1,100 @@
+{
+  "ref": "daero",
+  "categoryRef": "npc",
+  "title": "Daero",
+  "sections": [
+    {
+      "title": "Standard Dialogue",
+      "sections": [
+        {
+          "title": "Before completion of Monkey Madness I",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After completion of Monkey Madness I",
+          "sections": [
+            {
+              "title": "Gnome Stronghold",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Good day, High Tree Guardian."
+                    },
+                    {
+                      "speaker": "Daero",
+                      "text": "Hello there. I hear your mission is complete."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "News travels quickly on this tree. I expect you also know that I am to be enrolled in the Royal Guard training programme."
+                    },
+                    {
+                      "speaker": "Daero",
+                      "text": "Indeed I do."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How long does it take?"
+                    },
+                    {
+                      "speaker": "Daero",
+                      "text": "For you, it should hardly take any time at all."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Then let us begin."
+                    },
+                    {
+                      "speaker": "Daero",
+                      "text": "Enthusiasm. I like that. We will first begin with a series of exercises designed to increase your strength and stamina."
+                    },
+                    {
+                      "speaker": "Daero",
+                      "text": "We then will follow these up by improving your attack and defence techniques."
+                    },
+                    {
+                      "speaker": "Daero",
+                      "text": "You will improve your strength, stamina, attack and defence, but you may choose what you want to focus on."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I need to return to Crash Island."
+                    },
+                    {
+                      "speaker": "Daero",
+                      "text": "You know the routine..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Secret Hangar",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Daero",
+                      "text": "Speak to Waydar when you are ready to leave."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "ref": "swamp-toad",
+  "categoryRef": "npc",
+  "title": "Swamp Toad",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When idle",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Swamp toad",
+                  "text": "Ribbit"
+                },
+                {
+                  "speaker": "Swamp toad",
+                  "text": "Croak"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When inflating a toad with ogre bellows",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Come here toady!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When inflating a toad while carrying three toads",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Swamp toad",
+                  "text": "Ribbitt!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When attempting to inflate a toad with empty bellows",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Come here toady!"
+                },
+                {
+                  "speaker": "Swamp toad",
+                  "text": "Hissss...."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When releasing one or more bloated toads",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Free the fatsy toady!"
+                },
+                {
+                  "speaker": "Swamp toad",
+                  "text": "Ribbet!"
+                },
+                {
+                  "speaker": "Swamp toad",
+                  "text": "Croak!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

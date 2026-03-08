@@ -1,0 +1,53 @@
+{
+  "ref": "usi",
+  "categoryRef": "npc",
+  "title": "Usi",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Spirits of the Elid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day to you."
+                },
+                {
+                  "speaker": "Usi",
+                  "text": "It's not that good, it's a bit warm."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Spirits of the Elid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Usi",
+                  "text": "The curse has been removed. Word around the town is that you were the one who helped remove it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes that is correct. The spirits of the Elid cursed the town for throwing away a statue to Elidinis. I got it back"
+                },
+                {
+                  "speaker": "Usi",
+                  "text": "Well we thank you. You're pretty much a local hero now."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

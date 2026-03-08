@@ -1,0 +1,49 @@
+{
+  "ref": "gardener",
+  "categoryRef": "npc",
+  "title": "Gardener",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Gardener",
+              "text": "Oi'm busy. If tha' wants owt, tha' can go find Wyson. He's ta boss 'round here. And KEEP YER TRAMPIN' FEET ORFF MA' FLOWERS!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Right..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue during Pirate's Treasure",
+      "sections": [
+        {
+          "title": "When digging up the casket in the Falador Park",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gardener",
+                  "text": "First moles, now this! Take this, vandal!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

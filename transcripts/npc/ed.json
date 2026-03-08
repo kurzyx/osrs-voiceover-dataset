@@ -1,0 +1,189 @@
+{
+  "ref": "ed",
+  "categoryRef": "npc",
+  "title": "Ed",
+  "sections": [
+    {
+      "title": "Unmarked Grave",
+      "sections": [
+        {
+          "title": "If the player is wearing the helm of raedwald",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ed",
+                  "text": "That helmet! Where did you get it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found it."
+                },
+                {
+                  "speaker": "Ed",
+                  "text": "Where?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can't tell you that. It would ruin the fun. You'll have to work it out for yourself."
+                },
+                {
+                  "speaker": "Ed",
+                  "text": "Arhhh!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mynydd",
+          "sections": [
+            {
+              "title": "If the player is wearing the ornate helm",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ed",
+                      "text": "That helmet! Where did you get it?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I found it."
+                    },
+                    {
+                      "speaker": "Ed",
+                      "text": "Agh, not again!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Ed",
+                  "text": "Hello again friend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing all the way over here?"
+                },
+                {
+                  "speaker": "Ed",
+                  "text": "I'm looking for a helmet. I know it's buried somewhere."
+                },
+                {
+                  "speaker": "Ed",
+                  "text": "I gave up on the last one. Who cares about that one, anyway?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I guess..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's a nice set of armour."
+                },
+                {
+                  "speaker": "Ed",
+                  "text": "So much nicer than the garb I had before, right?"
+                },
+                {
+                  "speaker": "Ed",
+                  "text": "I just wish I had the helmet to go with it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey your hair is on fire!"
+                },
+                {
+                  "speaker": "Ed",
+                  "text": "Get out of it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye."
+                },
+                {
+                  "speaker": "Ed",
+                  "text": "See you later."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Ed",
+              "text": "Hello friend."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you doing here?"
+            },
+            {
+              "speaker": "Ed",
+              "text": "I'm looking for a helmet. I know it's buried somewhere."
+            },
+            {
+              "speaker": "Player",
+              "text": "And you think that somewhere is here?"
+            },
+            {
+              "speaker": "Ed",
+              "text": "I don't know. I've tried everywhere else so it might be."
+            },
+            {
+              "speaker": "Player",
+              "text": "Maybe you're missing something important."
+            },
+            {
+              "speaker": "Ed",
+              "text": "Maybe you're right. I just don't know anymore."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's a nice outfit."
+            },
+            {
+              "speaker": "Ed",
+              "text": "Thank you. I just wish I had the helmet to go with it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hey your hair is on fire!"
+            },
+            {
+              "speaker": "Ed",
+              "text": "Get out of it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            },
+            {
+              "speaker": "Ed",
+              "text": "See you later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

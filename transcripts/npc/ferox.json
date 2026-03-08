@@ -1,0 +1,231 @@
+{
+  "ref": "ferox",
+  "categoryRef": "npc",
+  "title": "Ferox",
+  "sections": [
+    {
+      "title": "If the player has never paid Ferox to switch their respawn point",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ferox",
+              "text": "Welcome wanderer."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Ferox",
+              "text": "You're surrounded by a relic of a long lost kingdom."
+            },
+            {
+              "speaker": "Player",
+              "text": "What happened here?"
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Oh, I couldn't really tell you that."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "This place has sat in ruin for an age, slowly destroyed by the harsh climate of the Wilderness."
+            },
+            {
+              "speaker": "Player",
+              "text": "If it's a ruin, what's the point in being here?"
+            },
+            {
+              "speaker": "Ferox",
+              "text": "I search for knowledge. I want to know what happened to this part of the world."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Whilst looking for answers, I slowly turned this broken town into a safe haven for travellers. Welcome to Ferox Enclave."
+            },
+            {
+              "speaker": "Player",
+              "text": "Quite a dangerous place for a town, don't you think?"
+            },
+            {
+              "speaker": "Ferox",
+              "text": "It is, but that's why it's needed! Look around, you can see how many others share my opinion."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "You'll find yourself quite safe inside my enclave - the protective barriers should keep any troublemakers out."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "I will warn you though, if you've had Teleblock cast upon you, I will not allow you back into the Enclave. You'd be a danger to the others gathered here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks for the information! I'll take a look around."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Tread carefully my friend."
+            },
+            {
+              "speaker": "Player",
+              "text": "What can you do for me?"
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Well, if you'd like, I can make it so you respawn in our Enclave. It'll put you right in the heart of all the chaos that surrounds us."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me more."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "This is how it'll work: When you die, you'll respawn right here in Ferox Enclave, just outside the pub we've set up. You will lose your items as normal of course."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "I won't be able to do anything if you die somewhere like Castle Wars or the Emir's Arena; they have their own magic to keep you safe."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "It'll cost you though! Transporting you here is no easy task. 5 million coins should do it, that'd be a one time fee of course."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't have that much money on me."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Understandable, you'd have to be a brave [man/woman] to be carrying that much gold out here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, switch my respawn to Ferox Enclave."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Thank you, you'll respawn in the Enclave from here on out."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not interested."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Can't say I blame you, this wouldn't be my choice either."
+            },
+            {
+              "speaker": "Player",
+              "text": "That doesn't interest me."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Come find me if you change your mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Never mind, I'm just looking around."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "So be it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player has paid Ferox to switch their respawn point before",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ferox",
+              "text": "Welcome wanderer."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I talk to you about my respawn location?"
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Would you like to respawn back in Ferox Enclave again?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Please switch my respawn back to the Enclave."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "The Wilderness takes a toll on a [man's/woman's] soul. Are you sure you can handle it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, switch my respawn to the Enclave."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Fair enough, it has been done."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, maybe another time."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Understandable."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I don't want to respawn in the Enclave."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Understandable."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "How are you finding our sanctuary?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Please switch my respawn back to Lumbridge."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Can't say I blame you, the Wilderness starts to wear down the soul after a while."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "But are you sure? Come and see me if you want to respawn in our Enclave again; I won't need any more money from you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, switch my respawn to Lumbridge."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Done."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'll keep the Enclave respawn."
+            },
+            {
+              "speaker": "Ferox",
+              "text": "Fine."
+            },
+            {
+              "speaker": "Player",
+              "text": "It's working for me so far, thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

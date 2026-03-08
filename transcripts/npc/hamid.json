@@ -1,0 +1,123 @@
+{
+  "ref": "hamid",
+  "categoryRef": "npc",
+  "title": "Hamid",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Attempting to open the curtain near him on a designated world",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hamid",
+                  "text": "I'm sorry, I'm under orders from the guards to not let you leave right now."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi!"
+            },
+            {
+              "speaker": "Hamid",
+              "text": "Hello traveller. How can I be of assistance?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you heal me?"
+            },
+            {
+              "speaker": "Hamid",
+              "text": "You'd be better off speaking to one of the nurses."
+            },
+            {
+              "speaker": "Hamid",
+              "text": "They are so... nice... afterall!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's a Monk doing in a place such as this?"
+            },
+            {
+              "speaker": "Hamid",
+              "text": "Well don't tell anyone but I came here because of the nurses!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Really?"
+            },
+            {
+              "speaker": "Hamid",
+              "text": "It beats being stuck in the monastery!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Which monastery do you come from?"
+            },
+            {
+              "speaker": "Hamid",
+              "text": "I belong to the monastery north of Falador."
+            },
+            {
+              "speaker": "Player",
+              "text": "You're a long way from home?"
+            },
+            {
+              "speaker": "Hamid",
+              "text": "Yeh. I miss the guys."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "When holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hamid",
+                      "text": "I'm afraid that the puzzle is wrong."
+                    },
+                    {
+                      "speaker": "Hamid",
+                      "text": "Excellent! Good work!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hamid",
+                  "text": "Hello! Please complete this for me!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "ref": "brother-omad",
+  "categoryRef": "npc",
+  "title": "Brother Omad",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Pre-quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there, What's wrong?"
+                },
+                {
+                  "speaker": "Brother Omad",
+                  "text": "*yawn*...oh, hello...*yawn* I'm sorry! I'm just so tired! I haven't slept in a week!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why can't you sleep, what's wrong?"
+                },
+                {
+                  "speaker": "Brother Omad",
+                  "text": "It's brother Androe's son! With his constant: Waaaaaah! Waaaaaaaaah! Androe said it's natural, but it's so annoying!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose that's what kids do."
+                },
+                {
+                  "speaker": "Brother Omad",
+                  "text": "He was fine, up until last week! Thieves broke in! They stole his favourite sleeping blanket!"
+                },
+                {
+                  "speaker": "Brother Omad",
+                  "text": "Now he won't rest until it's returned... ...and that means neither can I!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I help at all?"
+                },
+                {
+                  "speaker": "Brother Omad",
+                  "text": "Please do. We won't be able to help you as we are peaceful men but we would be grateful for your help!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where are they?"
+                },
+                {
+                  "speaker": "Brother Omad",
+                  "text": "They hide in a secret cave in the forest. It's hidden under a ring of stones. Please, bring back the blanket!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry to hear that! I hope you find his blanket."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry! I'm too busy to hear your problems!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Post-quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brother Omad",
+                  "text": "Dum dee do la la! *hiccup* That was some party!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "While holding the challenge scroll",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Brother Omad",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Brother Omad",
+                      "text": "How can that be? Go check again!"
+                    },
+                    {
+                      "speaker": "Brother Omad",
+                      "text": "Spot on!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brother Omad",
+                  "text": "Ah! Here you go!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Brother Omad",
+                  "text": "I need you to answer this for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

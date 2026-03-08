@@ -1,0 +1,47 @@
+{
+  "ref": "dreven",
+  "categoryRef": "npc",
+  "title": "Dreven",
+  "sections": [
+    {
+      "title": "Members",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I'll come back another time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Free-to-play",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Would you look after my crops for me?"
+            },
+            {
+              "speaker": "Dreven",
+              "text": "Not right now, no."
+            },
+            {
+              "speaker": "Player",
+              "text": "Would you look after my crops for me?"
+            },
+            {
+              "speaker": "Dreven",
+              "text": "Not right now, no."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

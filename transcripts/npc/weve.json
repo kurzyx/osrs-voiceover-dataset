@@ -1,0 +1,79 @@
+{
+  "ref": "weve",
+  "categoryRef": "npc",
+  "title": "Weve",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, what's a little boy like you doing down here?"
+            },
+            {
+              "speaker": "Weve",
+              "text": "I ain't no little boy. Me dad, Steve, said I was big enough to take care of these 'ere wyverns, as the pal- palint-palintililiolog- those blokes from the museum are too scared of them."
+            },
+            {
+              "speaker": "Weve",
+              "text": "Yeah, whatever. I know how to look after myself, my entire family are slayer guardians or something like that."
+            },
+            {
+              "speaker": "Weve",
+              "text": "To guard the wyverns of course."
+            },
+            {
+              "speaker": "Player",
+              "text": "Guard them? From what?"
+            },
+            {
+              "speaker": "Weve",
+              "text": "From people like you who just want to kill 'em."
+            },
+            {
+              "speaker": "Player",
+              "text": "But... that's what they're for?"
+            },
+            {
+              "speaker": "Weve",
+              "text": "They have lives too. They were created for a purpose. But whatever, you can only kill these ones if the Slayer Masters say you can."
+            },
+            {
+              "speaker": "Weve",
+              "text": "I'm Weve, son of Steve."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's... an interesting name."
+            },
+            {
+              "speaker": "Weve",
+              "text": "Well, it's kinda a family tradition you might say. Plus I'm good at looking after wyverns and fast enough to weave between their legs and not get hurt."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, bye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When attempting to kill monsters that aren't an assigned slayer task",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Weve",
+              "text": "Hey! Leave them alone! My dad Steve will beat you up unless a Slayer Master has given you special permission."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

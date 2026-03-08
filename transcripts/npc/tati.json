@@ -1,0 +1,249 @@
+{
+  "ref": "tati",
+  "categoryRef": "npc",
+  "title": "Tati",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tati",
+              "text": "What'you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you-"
+            },
+            {
+              "speaker": "Tati",
+              "text": "What? Speak up, I can't hear you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Uhm... I'm just looking for some pickaxes! Do you have any?"
+            },
+            {
+              "speaker": "Tati",
+              "text": "Do I have any pickaxes? Do I? Of course I do, this is a pickaxe shop, isn't it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you-"
+            },
+            {
+              "speaker": "Tati",
+              "text": "What? Stop mumbling!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I want a quest!"
+            },
+            {
+              "speaker": "Tati",
+              "text": "I don't have any lousy quests... I've got someone who's helping me already!"
+            },
+            {
+              "speaker": "Tati",
+              "text": "Well, I say helping... he takes his merry time to do his chores, my son does."
+            },
+            {
+              "speaker": "Player",
+              "text": "Then perhaps I can help in some way?"
+            },
+            {
+              "speaker": "Tati",
+              "text": "Pfft, I doubt it... maybe when my son fouls up again, but not now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing really."
+            },
+            {
+              "speaker": "Tati",
+              "text": "Then clear off!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keldagrim tasks",
+      "sections": [
+        {
+          "title": "Getting a metal bar or ore item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tati",
+                  "text": "My no good son must be down the pub again, drinking away all our money instead of getting one simple item from the market for me."
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "Now, I have another errand. Perhaps you will be more useful?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it about?"
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "I'm in need of some raw supplies. Get me [2-3] [item] and be quick about it! I need them within the next [X] minutes!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm, [2-3] [item] in [X] minutes, that sounds about alright."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't work for rude people."
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "You're just as bad as my son, or worse!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him before acquiring the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tati",
+                  "text": "Where're my [X] [item]? My son could've gotten them faster!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've had enough of this wild goose chase."
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "Why you useless little human! I should thrown you in the Kelda! With a lump of granite attached to your feet!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ha, who are you calling little here?"
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "Get out!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still trying to collect them."
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "Try a little harder! I don't have all day you know!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Getting a pickaxe request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tati",
+                  "text": "My no good son must be down the pub again, drinking away all our money instead of getting one simple item from the market for me."
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "Now, I have another errand. Perhaps you will be more useful?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it about?"
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "I need a couple of iron pickaxes, I'm always short on the darned things. But hurry up! I will need them before [15/20/25] minutes are up."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm, [3/4/5] iron pickaxes in [15/20/25] minutes, that sounds about alright."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after failing to bring the request in time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tati",
+                  "text": "You're as bad as my soon! Clear off before I beat you with this stick!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oops."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bringing him the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've collected all [X] [item] for you!"
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "Give 'em to me quick before I change my mind about rewarding you!"
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "Do you want me to pay you for these or can I get away with teaching you how to mine properly?"
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "Do you want me to pay you in gold or would you prefer me to teach you a bit about how you can mine more efficiently?"
+                },
+                {
+                  "speaker": "Tati",
+                  "text": "Do you want me to pay you in gold or would you like me to show you some smithing tricks?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like the gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please teach me that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Show me the gold!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Enlighten me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

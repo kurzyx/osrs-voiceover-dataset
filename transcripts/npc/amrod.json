@@ -1,0 +1,45 @@
+{
+  "ref": "amrod",
+  "categoryRef": "npc",
+  "title": "Amrod",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Amrod",
+              "text": "Adventurer."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do?"
+            },
+            {
+              "speaker": "Amrod",
+              "text": "I'm a trader of sorts, but only to those who don't ask too many questions."
+            },
+            {
+              "speaker": "Player",
+              "text": "Interesting, what do you offer?"
+            },
+            {
+              "speaker": "Amrod",
+              "text": "I can give you crystal shards in return for crystal seeds."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll pass, maybe another time."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

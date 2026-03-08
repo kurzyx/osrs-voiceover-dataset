@@ -1,0 +1,67 @@
+{
+  "ref": "queen-ellamaria",
+  "categoryRef": "npc",
+  "title": "Queen Ellamaria",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Raking the patches before starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Queen Ellamaria",
+                  "text": "Hey - what are you doing with that patch, peasant?!? One demands that you speak to one's self immediately!!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to climb the trellis before the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Queen Ellamaria",
+                  "text": "I shall not allow you to climb my trellis, peasant. Only providing your assistance to my project might cause me to reconsider."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Garden of Tranquillity",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I use this garden for my own farming?"
+                },
+                {
+                  "speaker": "Queen Ellamaria",
+                  "text": "What, you want to dig up the plants that took one so long to grow? Don't be ridiculous, you silly little fool."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "All right then, sorry I asked."
+                },
+                {
+                  "speaker": "Queen Ellamaria",
+                  "text": "Impertinent peasant! Oh, if you promise to leave one alone then feel free to pick fruit from the White Tree. One is told that they are a great natural energy restorative."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

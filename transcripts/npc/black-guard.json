@@ -1,0 +1,53 @@
+{
+  "ref": "black-guard",
+  "categoryRef": "npc",
+  "title": "Black Guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Black Guard",
+              "text": "Obey the law!"
+            },
+            {
+              "speaker": "Black Guard",
+              "text": "Stay out of trouble!"
+            },
+            {
+              "speaker": "Black Guard",
+              "text": "Out of the way, human!"
+            },
+            {
+              "speaker": "Black Guard",
+              "text": "I'm keeping an eye on you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Catching players attempting to steal from stalls in Keldagrim",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Black Guard",
+                  "text": "You! Human! Hands off!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

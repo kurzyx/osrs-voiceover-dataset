@@ -1,0 +1,126 @@
+{
+  "ref": "guildmaster-lars",
+  "categoryRef": "npc",
+  "title": "Guildmaster Lars",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guildmaster Lars",
+              "text": "Welcome to the woodcutting guild. How may I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about the guild."
+            },
+            {
+              "speaker": "Guildmaster Lars",
+              "text": "I founded the woodcutting guild when I retired from the Shayzien military. I spotted the ancient redwood trees in the hills many years ago from the Shayzien camp, and decided to construct the guild around them."
+            },
+            {
+              "speaker": "Guildmaster Lars",
+              "text": "You can find them to the West, just follow the path."
+            },
+            {
+              "speaker": "Guildmaster Lars",
+              "text": "However, if you're skilled in combat, or simply afraid of heights, the ent cavern may be more suited for you. The ents dwell deep beneath the ancient redwoods, and can be accessed through the cave to the North-West."
+            },
+            {
+              "speaker": "Guildmaster Lars",
+              "text": "Is there anything else I can help you with?"
+            },
+            {
+              "speaker": "Player",
+              "text": "That's all, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about yourself."
+            },
+            {
+              "speaker": "Guildmaster Lars",
+              "text": "My name is Lars, and I am the founder of the woodcutting guild. I originally grew up in a Shayzien camp, and was raised on the battlefield."
+            },
+            {
+              "speaker": "Guildmaster Lars",
+              "text": "As I grew older, I found peace in Hosidius, and the joys of skilled labour. I turned in my battleaxe for a hatchet, and set up a guild for those also talented in the skill of woodcutting."
+            },
+            {
+              "speaker": "Guildmaster Lars",
+              "text": "Is there anything else I can help you with?"
+            },
+            {
+              "speaker": "Player",
+              "text": "That's all, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm just passing by."
+            },
+            {
+              "speaker": "Guildmaster Lars",
+              "text": "Sure, let me know if there's anything I can do for you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [
+            {
+              "title": "If Inventory is full",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Guildmaster Lars",
+                      "text": "Please make yourself some space, I have something for you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "While holding the light/puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Guildmaster Lars",
+                      "text": "That doesn't look solved to me."
+                    },
+                    {
+                      "speaker": "Guildmaster Lars",
+                      "text": "Well done [player name]. Here you go."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guildmaster Lars",
+                  "text": "Here, solve this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,1425 @@
+{
+  "ref": "eadgars-ruse",
+  "categoryRef": "quest",
+  "title": "Eadgar's Ruse",
+  "sections": [
+    {
+      "title": "Getting started",
+      "sections": [
+        {
+          "title": "Talking to Sanfew",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sanfew",
+                  "text": "What can I do for you young 'un?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you any more work for me, to help reclaim the circle?"
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Not just yet, young 'un."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "'m afraid you are not yet learned enough in the art of Herblore to be able to help me, adventurer..."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Ah, you've come just in time. I need a certain herb for the next part of the purification ritual..."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "It used to be quite common, but nowadays only the trolls know where to find it. They use it in their cooking, you see. It's a very prized ingredient."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And what exactly do you want me to do?"
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Journey to the north into the land of the trolls, and find the secret of the herb the trolls call 'goutweed'."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "My friend Eadgar lives in the area, and he may be able to help you. Bring some goutweed back and I will teach you something useful."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll do it."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Thank you, adventurer!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Oh well. No doubt some other adventurer will eventually come who can help me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I don't need to speak to you."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Well, we all make mistakes sometimes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sanfew after starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sanfew",
+                  "text": "What can I do for you young 'un?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What was I meant to be doing again?"
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "I've told you already."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Journey to the north into the land of the trolls, and find the secret of the herb the trolls call goutweed."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "My friend Eadgar lives in the area, and he may be able to help you. Bring some goutweed back and I will teach you something useful."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll get on with it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the laundry basket",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Tegid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So, you're doing laundry, eh?"
+                },
+                {
+                  "speaker": "Tegid",
+                  "text": "Yes. What is it to you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nice day for it."
+                },
+                {
+                  "speaker": "Tegid",
+                  "text": "I suppose it is."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the rack",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finding Eadgar",
+      "sections": [
+        {
+          "title": "Taking to Eadgar before talking to Burntmeat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi!"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Welcome to Mad Eadgar's! Happiness in a bowl!"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Would you care to sample our delicious home cooking?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to find some goutweed. Sanfew said you might be able to help."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Sanfew, you say? Ah, haven't seen him in a while..."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Goutweed is used as an ingredient in troll cooking. You should ask one of their cooks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why do you live so close to the trolls? Isn't it dangerous?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Well, I suppose I do keep getting captured by the trolls and thrown in prison...But they always release me in the end, I'm far too old and skinny for their tastes."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "In any case, this is my home, and I'm not leaving it. And this area has the tastiest goats!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you have to offer?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "The chef's recommendation for today is mountain goat stew. I'll give some stew in exchange for logs for my fire. They're hard to come by around here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like some mountain goat stew, please."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Here you go! Enjoy!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, Eadgar."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Your loss!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taking to Eadgar again before talking to Burntmeat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Burntmeat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Er, hi."
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Hmm? What human do in troll kitchen? Burntmeat tired of cooking goats. Human look tasty."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, you don't want to eat me! I'm a tough, hardened adventurer, not tender or tasty at all!"
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Hmm. Burntmeat think you probably right. What human doing here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm on a quest to find some goutweed."
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Bwahahaha! Burntmeat not give his greatest cooking secret away so easily."
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "But Burntmeat also has quest for human!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Really? What is it?"
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Bring back a tasty human for Burntmeat's stew. If you find tasty human, Burntmeat will give you good reward."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right. I'll just...go fetch that for you then. Bye!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Burntmeat again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Did you find tasty human?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Erm, not yet, but I'm working on it..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taking to Eadgar after talking to Burntmeat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eadgar",
+                  "text": "Oh, it's you. Have you talked to the troll cook yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to find some goutweed. Sanfew said you might be able to help."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Sanfew, you say? Ah, haven't seen him in a while..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I talked to the troll cook but he wouldn't tell me anything, and now he wants me to find him some tasty human for his stew."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Oh dear, that's no good. You can't just go hand over a human to those trolls..."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Aha! I have a plan!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Really?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Yes! It's bound to work. First of all, I will need a parrot!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A PARROT? Where am I going to find one of those?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "At the zoo, where else?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taking to Eadgar again before getting a parrot",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eadgar",
+                  "text": "Oh, it's you. Have you got me a parrot yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I haven't been able to find one yet."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Well, go see if the zoo have one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where's the zoo?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "It's in Ardougne, south west of here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll be right back."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll be right back."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Visiting Ardougne",
+      "sections": [
+        {
+          "title": "Using pineapple chunks on vodka before talking to Parroty Pete",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Parroty Pete",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Parroty Pete",
+                  "text": "Good day, good day. Come to admire the new parrot aviary have we?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's very nice."
+                },
+                {
+                  "speaker": "Parroty Pete",
+                  "text": "Isn't it just?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "When did you add it?"
+                },
+                {
+                  "speaker": "Parroty Pete",
+                  "text": "Just recently. It would have been sooner, but some wretch thought it would be amusing to replace their drinking water with vodka. The vet had to nurse them back to health for weeks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you feed them?"
+                },
+                {
+                  "speaker": "Parroty Pete",
+                  "text": "Well, fruit and grain mostly. I try to give them a balanced diet, but their favourite treat is pineapple chunks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using vodka on the aviary hatch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "They won't drink it straight from the bottle..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using pineapple chunks on the aviary hatch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I need some way to slow it down..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using alco-chunks on the hatch",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hah! Got you now!"
+                },
+                {
+                  "speaker": "Parrot",
+                  "text": "Sqwaawk...*hic*"
+                },
+                {
+                  "speaker": "Parroty Pete",
+                  "text": "Hey! What are you doing with that parrot?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing."
+                },
+                {
+                  "speaker": "Parroty Pete",
+                  "text": "It looks drunk! You should NEVER feed alcohol to a parrot!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, good thing I found it! I'll just take it to the vet for you, shall I?"
+                },
+                {
+                  "speaker": "Parroty Pete",
+                  "text": "Oh, thank you! We're ever so busy here at the Zoo."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Preparing the fake man",
+      "sections": [
+        {
+          "title": "Talking to Eadgar while holding the parrot",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eadgar",
+                  "text": "Oh, it's you. Have you got me a parrot yet?"
+                },
+                {
+                  "speaker": "Parrot",
+                  "text": "Raaawk! Polly wanna cracker!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here it is! Now are you going to explain your plan?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Yes, yes, of course. It's quite ingenious really!"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "What we need is something that looks like a human, sounds like a human, smells like a human and tastes like a human."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How are we going to make it look like a human?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "We'll just make a scarecrow. We'll need logs, and 10 sheaves of wheat for stuffing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How are we going to make it sound like a human?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "That's what the parrot's for, of course."
+                },
+                {
+                  "speaker": "Parrot",
+                  "text": "Who's a pretty boy then?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Although the trolls might get suspicious if it doesn't say what they expect a human to say..."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "You should hide it for a while somewhere it can pick up some more appropriate catchphrases."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How are we going to make it smell like a human?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Well, we'll need to dress it up anyway; if we use dirty clothes it'll smell human to the trolls."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "I'm a man of few clothes myself, so you might want to ask old Sanfew about that one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And how are we going to make it taste like a human?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "That's easy, we'll just stuff it with a few chickens. Everything tastes like chicken! Five raw chickens should be enough."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "That's the plan. Anything else I can do for you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eadgar before preparing the fake man",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What should I do with this parrot?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "I told you, put it somewhere it'll learn to say the sort of thing the trolls will expect it to say."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "This is likely to be screaming. There's bound to be a good spot somewhere in the troll prison."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How are we going to make it look like a human?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "We'll just make a scarecrow. We'll need logs, and 10 sheaves of wheat for stuffing."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How are we going to make it sound like a human?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "That's what the parrot's for, of course."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "You should hide it for a while somewhere it can pick up some more appropriate catchphrases."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How are we going to make it smell like a human?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Well, we'll need to dress it up anyway; if we use dirty clothes it'll smell human to the trolls."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "I'm a man of few clothes myself, so you might want to ask old Sanfew about that one."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And how are we going to make it taste like a human?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "That's easy, we'll just stuff it with a few chickens. Everything tastes like chicken! Five raw chickens should be enough."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using drunk parrot on rack",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Search rack after putting parrot under it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Parrot",
+                  "text": "Polly wanna cracker!"
+                },
+                {
+                  "speaker": "Parrot",
+                  "text": "Pieces of eight! Pieces of eight!"
+                },
+                {
+                  "speaker": "Parrot",
+                  "text": "Who's a pretty boy then?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't think it's done yet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eadgar after putting the parrot under the rack",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I hid the parrot under the rack in the troll prison."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Good work. How about those other items?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have [no/the] logs, [no/one/two/three/four/five] [chicken/chickens], [no/one/two/three/four/five/six/seven/eight/nine/ten] [bundle/bundles] of grain and [no/the] dirty clothes."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "You now need [no/the] logs, [no/one/two/three/four/five] [chicken/chickens], [no/one/two/three/four/five/six/seven/eight/nine/ten] [bundle/bundles] of grain and [no/the] dirty clothes."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Obtaining the robes",
+      "sections": [
+        {
+          "title": "Talking to Sanfew about the robes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sanfew",
+                  "text": "What can I do for you young 'un?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Eadgar says he needs some dirty clothes for his plan, and he said you might be able to help."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Now why would he need that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's a long story."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Never mind then... I think Tegid is doing his laundry outside. You could ask him if you can borrow one of his dirty robes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Tegid about the robes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So, you're doing laundry, eh?"
+                },
+                {
+                  "speaker": "Tegid",
+                  "text": "Yes. What is it to you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nice day for it."
+                },
+                {
+                  "speaker": "Tegid",
+                  "text": "I suppose it is."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You wouldn't be able to spare any of those dirty robes by any chance? It's a matter of the utmost importance."
+                },
+                {
+                  "speaker": "Tegid",
+                  "text": "What? No! These are my robes!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sure Sanfew won't be happy when I tell him it's your fault he can't perform the purification ritual."
+                },
+                {
+                  "speaker": "Tegid",
+                  "text": "What? Oh well, if it's a matter of that much importance, I suppose you can borrow one..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You'll give me those robes right now...or I'm going to cut down trees until you do."
+                },
+                {
+                  "speaker": "Tegid",
+                  "text": "You wouldn't dare!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course I would. They're just trees."
+                },
+                {
+                  "speaker": "Tegid",
+                  "text": "You monster! Take the robes and leave this place!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Returning to Eadgar with supplies",
+      "sections": [
+        {
+          "title": "Talking to Eadgar with the supplies",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eadgar",
+                  "text": "How are you getting on?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have [no/the] logs, [no/one/two/three/four/five] [chicken/chickens], [no/one/two/three/four/five/six/seven/eight/nine/ten] [bundle/bundles] of grain and [no/the] dirty clothes."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "That's everything!"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Good, good, everything is almost finished."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Of course, we can't just give him the dummy and expect to get anything useful out of him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "No, of course not. We need to make sure he'll tell you what you need to know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And how do we do that?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "I happen to know that the trolls are susceptible to a certain kind of plant that grows around this mountain. I call it Troll Thistle. If properly prepared, it can be made into a sort of Troll truth potion."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you prepare it?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "You'll have to dry it in a fire, then grind it and mix it into a potion with Ranarr weed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll be back with that soon."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eadgar after learning to make troll potion",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How do I make the troll truth potion again?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Troll Thistle grows around this mountain. If properly prepared, it can be made into a sort of Troll truth potion."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you prepare it?"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "You'll have to dry it in a fire, then grind it and mix it into a potion with Ranarr weed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll be back with that soon."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Picking a troll thistle",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using troll thistle on ranarr potion",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using any item on Eadgar's fire",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'd better not mess around with Eadgar's stew!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using troll thistle on a fire",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using dried thistle on ranarr potion",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using dried thistle on pestle and mortar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using ground thistle on ranarr potion",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eadgar with the troll potion",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've got the troll truth potion."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Excellent, thank you. Now just go fetch that poor parrot back, it's probably had enough by now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Taking the parrot from under the rack",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Parrot",
+                  "text": "Ah, hello Sir. Could you please free me? I seem to have ... OW! What are you doing? That's my spleen!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think it's probably heard enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the educated parrot on the rack",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using alco-chunks on the aviary hatch after losing the educated parrot",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "The parrott flew off, I wonder where it went? Silly thing prefered Eadgar to me!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eadgar after taking the parrot out from the rack",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eadgar",
+                  "text": "Oh, it's you. You didn't lose your parrot did you? One flew over here and I managed to capture it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "..."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "That's what I thought."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Just give me a moment...there we go! Can you tell this isn't a bona fide human being? I sure can't!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've brought the parrot."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Hand it here...there we go! Can you tell this isn't a bona fide human being? I sure can't!"
+                },
+                {
+                  "speaker": "Fake man",
+                  "text": "What am I doing here? Ow! Where's the rest of the Guard? Agh! I won't tell you anything!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eadgar after getting the fake man",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eadgar",
+                  "text": "Have you given the fake man to the troll cook yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Go on then, give it to the cook!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No. I lost it."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "You bumbling imbecile!"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Never mind, here's one I prepared earlier."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Burntmeat while holding the fake man",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Did you find tasty human? Burntmeat smell something good."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes! Look!"
+                },
+                {
+                  "speaker": "Fake man",
+                  "text": "Heeeeeeelp!"
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Ah, dat look like nice tasty human."
+                },
+                {
+                  "speaker": "Fake man",
+                  "text": "Aaaargh! Somebody save me!"
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Yep, sound like human too. Burntmeat put it in stew. Good work, human. Burntmeat give precious reward."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This is burnt meat."
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "It first thing I ever try to cook! Very precious to Burntmeat."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you... and how's the stew?"
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Slurp, mmm... Human stew cheer Burntmeat up!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, where can I get some goutweed?"
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Hah! Trolls pick it all until none left, many years ago. Only remaining stock in storeroom."
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "It well guarded, and Burntmeat hide key in fake bottom of kitchen drawer. Nobody find it there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's some well-guarded secret alright. I'll just be off on my way now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll be going now."
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Bye, bye."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Burntmeat after giving him the fake man",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How's the stew?"
+                },
+                {
+                  "speaker": "Burntmeat",
+                  "text": "Slurp, mmm... Human stew cheer Burntmeat up!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Getting the goutweed",
+      "sections": [
+        {
+          "title": "Searching the storeroom drawers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using the key on the storeroom door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Being caught by a goutweed guard troll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the goutweed crate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Hm?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eadgar after getting access to the storeroom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eadgar",
+                  "text": "Well? Did the plan work?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes! I can get into the storeroom now."
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Glad to hear it!"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Anything else I can do for you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sanfew after getting goutweed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sanfew",
+                  "text": "What can I do for you young 'un?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have some goutweed!"
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Excellent! I will be able to complete the next part of the ritual now. I will teach you a new spell and give you some of my knowledge in Herblore as a token of thanks."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "If you ever come across more goutweed, bring it to me; I don't need any more for the ritual, but it's still quite difficult for me to get. I'll exchange it for some other herbs."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Post-quest",
+      "sections": [
+        {
+          "title": "Talking to Eadgar after finishing the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi!"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Welcome to Mad Eadgar's! Serving all day, every day!"
+                },
+                {
+                  "speaker": "Eadgar",
+                  "text": "Would you care to sample our delicious home cooking?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sanfew after finishing the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sanfew",
+                  "text": "What can I do for you young 'un?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have some more goutweed for you."
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Ah, good. Here are some herbs in exchange."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you any more work for me to help reclaim the stone circle?"
+                },
+                {
+                  "speaker": "Sanfew",
+                  "text": "Well, not right now I don't think young 'un. In fact, I need to make some more preparations myself for the ritual. Rest assured, if I need any more help I will ask you again."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

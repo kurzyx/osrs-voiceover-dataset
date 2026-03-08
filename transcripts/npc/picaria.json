@@ -1,0 +1,45 @@
+{
+  "ref": "picaria",
+  "categoryRef": "npc",
+  "title": "Picaria",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Picaria",
+              "text": "Hey there. Here to do some fishing? It's a great place for it. Or are you looking to buy some fishing supplies?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's see what you're selling."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you get many customers out here?"
+            },
+            {
+              "speaker": "Picaria",
+              "text": "Not so much out here, but I sell plenty of fish to merchants in the capital. If you buy any fish there, there's a good chance it came from me."
+            },
+            {
+              "speaker": "Picaria",
+              "text": "So anyway, looking to buy some fishing supplies?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Just passing through."
+            },
+            {
+              "speaker": "Picaria",
+              "text": "Fair enough."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

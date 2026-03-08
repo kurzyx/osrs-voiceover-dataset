@@ -1,0 +1,62 @@
+{
+  "ref": "tower-mage",
+  "categoryRef": "npc",
+  "title": "Tower Mage",
+  "sections": [
+    {
+      "title": "Before The Ascent of Arceuus",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tower Mage",
+              "text": "The Tower of Magic is off limits. Lord Arceuus does not wish his experiments to be disturbed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Ascent of Arceuus",
+      "sections": [
+        {
+          "title": "Inside the tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tower Mage",
+                  "text": "I can't talk I'm afraid. I need to time this experiment."
+                },
+                {
+                  "speaker": "Tower Mage",
+                  "text": "Please be careful near the apparatus."
+                },
+                {
+                  "speaker": "Tower Mage",
+                  "text": "Hmmm... Maybe eye of newt will work..."
+                },
+                {
+                  "speaker": "Tower Mage",
+                  "text": "It's going to be interesting to see the results of this test."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tower Mage",
+              "text": "You have been granted permission to enter the Tower of Magic. Move along."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

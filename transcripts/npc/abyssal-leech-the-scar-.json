@@ -1,0 +1,30 @@
+{
+  "ref": "abyssal-leech-the-scar-",
+  "categoryRef": "npc",
+  "title": "Abyssal leech (The Scar)",
+  "sections": [
+    {
+      "title": "Feeding the leech an item",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "[current leech name]",
+              "text": "*noms [item name]*"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to feed the leech an item that is destroyed on death",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "ref": "mac",
+  "categoryRef": "npc",
+  "title": "Mac",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player does not have a max cape in their bank or inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you?"
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Mac. What's it to you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Only trying to be friendly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you have in your sack?"
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "None of yer bis'ness."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How rude! I was only being curious."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "S'me cape."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your cape?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What does your cape do?"
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "All the things other skillcapes do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me what they are?"
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Fine... Ajjat gave me unlimited teleports to his Warrior's guild and Kamfreena lets me fight her Cyclopes without needing those annoying tokens."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Melee combat tutor added a ring of life function and the armour salesman at the Ranging guild added a magnet and undead chicken thing."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Brother Jered attached a holy wrench and Wizard Sinina enchanted the cape so I can change me spellbook."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Aubury attached all of the runecrafting tiaras, an estate agent sold me some teleports and one of the nurses at the Emir's Arena made it give me faster hitpoints."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Agility Arena guy with a Parrot pet made it lighter for me and Kaqemeex convinced the Nardah herbalist to make potions for me if I wear it and he attached a pestle and mortar, toos."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Martin Thwait made the cape better for being sneaky and the Master Crafter added a teleport to his guild before Hickton attached some grapples and a crossbow."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Duradel convinced all Slayer masters to give me a chance at repeating an assignment and the Hunting Expert added some useful teleports, too."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "A dwarf gave it a chance to give me extra ores and another dwarf made it give more experience when making gold bars and the Master Chef stopped it from burning any food."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Ignatius Vulcan added a torch for lighting up caves and the Woodcutting tutor made it easier to find bird's nests and Martin the Master Farmer made it yield more herbs."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "So yeah all of that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I have it?"
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Nah. Not got space."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Mebe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sure I could make it worth your while."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "How much?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How about [amount of coins in inventory] gold?"
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "S'not enuff."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How about 2376000 gold?"
+                },
+                {
+                  "speaker": "Wise Old Man",
+                  "text": "Hello?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Huh, who's there?"
+                },
+                {
+                  "speaker": "Wise Old Man",
+                  "text": "It's Dionysius here. I'm using my magic to communicate to you. Don't worry."
+                },
+                {
+                  "speaker": "Man",
+                  "text": "What are you doing in my head?"
+                },
+                {
+                  "speaker": "Wise Old Man",
+                  "text": "I just wanted to say congratulations [player name]. I've been watching you in your adventures - very well done."
+                },
+                {
+                  "speaker": "Hans",
+                  "text": "Oh very well done [player name]. Taken you a while, but I knew you could do it."
+                },
+                {
+                  "speaker": "Gielinor Guide",
+                  "text": "Ahhh [player name], I knew you had potential when I first met you. My compliments on reaching the pinnacle of your achievements."
+                },
+                {
+                  "speaker": "Bob the Cat",
+                  "text": "Meow!"
+                },
+                {
+                  "speaker": "Bob the Cat",
+                  "text": "Oh most excellently done old chap!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why do you keep it in a sack?"
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Get it dirty."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why are you so dirty?"
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Bath XP waste."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Bye."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has a max cape in their inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Yip. Show me the goods. I pay 80%."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Nah. Need more space."
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "Yip. No cost. What cape do you want a hood for?"
+                },
+                {
+                  "speaker": "Mac",
+                  "text": "You don't have that cape. Choose another."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using items on Mac",
+      "sections": [
+        {
+          "title": "Using any max hood variant on Mac",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mac",
+                  "text": "Show cape."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using any max cape variant on Mac",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using any other item on Mac",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mac",
+                  "text": "That's XP waste."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

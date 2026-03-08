@@ -1,0 +1,76 @@
+{
+  "ref": "alfonse-the-waiter",
+  "categoryRef": "npc",
+  "title": "Alfonse the waiter",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Trying to enter the kitchen",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Alfonse the waiter",
+                  "text": "Hey! You can't go through there! That's private property!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Alfonse the waiter",
+              "text": "Welcome to the Shrimp and Parrot. Would you like to order, madam?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where do you get your Karambwan from?"
+            },
+            {
+              "speaker": "Alfonse the waiter",
+              "text": "We buy directly off Lubufu, a local fisherman. He seems to have a monopoly over Karambwan sale."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where can I find Lubufu?"
+            },
+            {
+              "speaker": "Alfonse the waiter",
+              "text": "He is usually working just to the south of the town."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "How does he manage a monopoly?"
+            },
+            {
+              "speaker": "Alfonse the waiter",
+              "text": "Simple - nobody else knows how to catch Karambwan. It is a closely guarded secret."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

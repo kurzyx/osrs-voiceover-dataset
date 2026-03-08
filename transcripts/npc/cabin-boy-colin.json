@@ -1,0 +1,71 @@
+{
+  "ref": "cabin-boy-colin",
+  "categoryRef": "npc",
+  "title": "Cabin Boy Colin",
+  "sections": [
+    {
+      "title": "Before The Corsair Curse",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cabin Boy Colin",
+              "text": "Urgh..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Corsair Curse",
+      "sections": [
+        {
+          "title": "Rimmington",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cabin Boy Colin",
+                  "text": "Hello again. Coming back to Corsair Cove?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not just now, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Corsair Cove",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cabin Boy Colin",
+                  "text": "The Captain's letting me command his boat now I'm fully recovered. Did you want to leave?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please take me back to Rimmington."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll talk to you later."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

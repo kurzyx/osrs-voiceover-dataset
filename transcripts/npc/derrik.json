@@ -1,0 +1,65 @@
+{
+  "ref": "derrik",
+  "categoryRef": "npc",
+  "title": "Derrik",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Derrik",
+                  "text": "Good day, [Sir/Madam/ ]. Can I help you with anything?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I use your anvil?"
+                },
+                {
+                  "speaker": "Derrik",
+                  "text": "You may."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Derrik",
+                  "text": "Good day, Your Highness. Can I help you with anything?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I use your anvil?"
+                },
+                {
+                  "speaker": "Derrik",
+                  "text": "Of course, Your Royal Highness."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing, thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

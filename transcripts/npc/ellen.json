@@ -1,0 +1,59 @@
+{
+  "ref": "ellen",
+  "categoryRef": "npc",
+  "title": "Ellen",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ellen",
+              "text": "Hello. Interested in honing your skills?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Ellen",
+              "text": "That's all the training I can give you. I hope you find it useful."
+            },
+            {
+              "speaker": "Ellen",
+              "text": "I'll be here if you change your mind."
+            },
+            {
+              "speaker": "Ellen",
+              "text": "I'll be here if you change your mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Ellen",
+              "text": "I'll be here if you change your mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After claiming experience rewards",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ellen",
+              "text": "Hello again. I'm afraid I've given you all the training I can."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

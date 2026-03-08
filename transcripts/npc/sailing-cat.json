@@ -1,0 +1,41 @@
+{
+  "ref": "sailing-cat",
+  "categoryRef": "npc",
+  "title": "Sailing cat",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without a catspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sailing cat",
+                  "text": "Meow!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "While wearing a catspeak amulet, or after completion of Dragon Slayer II",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sailing cat",
+                  "text": "Wow, I'm really at sea!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

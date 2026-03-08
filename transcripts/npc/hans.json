@@ -1,0 +1,135 @@
+{
+  "ref": "hans",
+  "categoryRef": "npc",
+  "title": "Hans",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Contacting through NPC Contact's Random option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hiya."
+                },
+                {
+                  "speaker": "Hans",
+                  "text": "Oooh! Who are you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm a brave knight! I am coming to kill anyone in the vicinity of Lumbridge Castle!"
+                },
+                {
+                  "speaker": "Hans",
+                  "text": "Aaaaargh! Run away, run away!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hehe. Fool!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hans",
+              "text": "Hello. What are you doing here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm looking for whoever is in charge of this place."
+            },
+            {
+              "speaker": "Hans",
+              "text": "Who, the Duke? He's in his study, on the first floor."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have come to kill everyone in this castle!"
+            },
+            {
+              "speaker": "Hans",
+              "text": "Help! Help!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't know. I'm lost. Where am I?"
+            },
+            {
+              "speaker": "Hans",
+              "text": "You are in Lumbridge Castle, in the Kingdom of Misthalin. Across the river, the road leads north to Varrock, and to the west lies Draynor Village."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you tell me how long I've been here?"
+            },
+            {
+              "speaker": "Hans",
+              "text": "Ahh, I see all the newcomers arriving in Lumbridge, fresh-faced and eager for adventure. I remember you..."
+            },
+            {
+              "speaker": "Hans",
+              "text": "You've spent [amount] days, [amount] hours, [amount] minutes in the world since you arrived [amount] days ago."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Beginner",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hans",
+                  "text": "Well done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Hard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hans",
+                  "text": "Well done, here you go."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

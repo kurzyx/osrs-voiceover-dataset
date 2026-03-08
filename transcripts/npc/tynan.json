@@ -1,0 +1,53 @@
+{
+  "ref": "tynan",
+  "categoryRef": "npc",
+  "title": "Tynan",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tynan",
+              "text": "If you're looking for fishing supplies, you've come to the right place."
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's see what you've got for sale."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll be on my way."
+            },
+            {
+              "speaker": "Tynan",
+              "text": "See you around."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tynan",
+                  "text": "You've come to the right place! Here you go."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

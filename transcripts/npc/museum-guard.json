@@ -1,0 +1,216 @@
+{
+  "ref": "museum-guard",
+  "categoryRef": "npc",
+  "title": "Museum guard",
+  "sections": [
+    {
+      "title": "Standard free-to-play dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guard",
+              "text": "Sorry, you can't come in here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dig Site gate",
+      "sections": [
+        {
+          "title": "Without 153 kudos",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Museum guard",
+                  "text": "Hello there! Sorry, I can't stop to talk. I'm guarding this workman's gate. I'm afraid you can't come through here - you'll need to find another way around."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the gate without 153 kudos",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Museum guard",
+                  "text": "Hello there! Sorry, I can't stop to talk. I'm guarding this workman's gate. I'm afraid you can't come through here - you'll need to find another way around."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Walking up to the gate without 153 kudos",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "With 153 Kudos",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Museum guard",
+                  "text": "Hello there! Sorry, I can't stop to talk. I'm guarding this workman's gate. As a friend of the museum, you may pass through as you wish."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Museum gate",
+      "sections": [
+        {
+          "title": "Dialogue before completing The Dig Site",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Museum guard",
+                  "text": "You're not permitted in this area."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "First dialogue after login with The Dig Site completed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Welcome! Would you like to go into the Dig Site archaeology cleaning area?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I'll take a look around out here."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Museum doors",
+      "sections": [
+        {
+          "title": "Dialogue before completing The Dig Site",
+          "sections": [
+            {
+              "title": "Attempting to open the door",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Guard",
+                      "text": "Sorry, you can't come in here unless you've completed the Dig Site quest."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Museum guard",
+                  "text": "Hello there. Come to see the new museum?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, how do I get in?"
+                },
+                {
+                  "speaker": "Museum guard",
+                  "text": "Well, the main entrance is 'round the front. Just head west then north slightly, you can't miss it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What about these doors?"
+                },
+                {
+                  "speaker": "Museum guard",
+                  "text": "They're for the workmen bringing finds from the Dig Site; sorry, but you can't go through."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dialogue after completing The Dig Site",
+          "sections": [
+            {
+              "title": "Attempting to open the door while a workman has it open",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Guard",
+                      "text": "Hold up there, workman coming through! You'll have to wait a moment; don't want to fall into that wheelbarrow!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Museum guard",
+                  "text": "Hello there. Come to see the new museum?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, how do I get in?"
+                },
+                {
+                  "speaker": "Museum guard",
+                  "text": "Well, the main entrance is 'round the front. Just head west then north slightly, you can't miss it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What about these doors?"
+                },
+                {
+                  "speaker": "Museum guard",
+                  "text": "They're primarily for the workmen bringing finds from the Dig Site, but you can go through if you want."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

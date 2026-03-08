@@ -1,0 +1,59 @@
+{
+  "ref": "khazard-launderer",
+  "categoryRef": "npc",
+  "title": "Khazard Launderer",
+  "sections": [
+    {
+      "title": "Standard dialogue before While Guthix Sleeps",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Khazard Launderer",
+              "text": "Hello there. What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do here?"
+            },
+            {
+              "speaker": "Khazard Launderer",
+              "text": "I mainly take in washing and make sure it's good and clean for my customers. Times are tough though. Not everyone can afford such a service and it's affecting my takings."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you find that very fulfilling?"
+            },
+            {
+              "speaker": "Khazard Launderer",
+              "text": "Well it can be a bit monotonous and the pay isn't good, but I set myself some goals and deliver my washing clean. My customers rarely complain, so I guess I must be doing something right."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after While Guthix Sleeps",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Khazard Launderer",
+              "text": "Hello again. Do you need anything?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm good, thanks."
+            },
+            {
+              "speaker": "Khazard Launderer",
+              "text": "Well in that case, all the best."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

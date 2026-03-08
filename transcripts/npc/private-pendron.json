@@ -1,0 +1,33 @@
+{
+  "ref": "private-pendron",
+  "categoryRef": "npc",
+  "title": "Private Pendron",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi there."
+            },
+            {
+              "speaker": "Private Pendron",
+              "text": "Don't suppose you've seen a battleaxe around here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "A battleaxe? Nope, afraid not."
+            },
+            {
+              "speaker": "Private Pendron",
+              "text": "The captain is going to kill me if he finds out I've lost my weapon."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

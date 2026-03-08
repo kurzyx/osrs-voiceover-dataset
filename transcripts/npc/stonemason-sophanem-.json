@@ -1,0 +1,91 @@
+{
+  "ref": "stonemason-sophanem-",
+  "categoryRef": "npc",
+  "title": "Stonemason (Sophanem)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Stonemason",
+              "text": "Hello. What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not sure. Do you have anything for sale?"
+            },
+            {
+              "speaker": "Stonemason",
+              "text": "I'm afraid not. All the recent chaos has caused a lot of supply issues. It will be a long time before things are properly back to normal."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, that's a shame. Never mind then."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": ": Are you one of the returned citizens?"
+            },
+            {
+              "speaker": "Stone mason",
+              "text": ": Why, yes. You must be the adventurer who Maisa talked to us about?"
+            },
+            {
+              "speaker": "Player",
+              "text": ": That would be me. Now, can you help me?"
+            },
+            {
+              "speaker": "Stone mason",
+              "text": ": Probably not; I'm a stone mason and have little to offer an adventurer."
+            },
+            {
+              "speaker": "Player",
+              "text": ": You know what would be brilliant?"
+            },
+            {
+              "speaker": "Stone mason",
+              "text": ": I don't know."
+            },
+            {
+              "speaker": "Player",
+              "text": ": Could you make some granite armour or alter granite armour to better fit me?"
+            },
+            {
+              "speaker": "Stone mason",
+              "text": ": I'm afraid I can't do that, sorry. In the blazing desert sun, granite armour isn't very popular so I haven't had any experience of working with it."
+            },
+            {
+              "speaker": "Stone mason",
+              "text": ": Once the place is a bit less chaotic, however, I will try to think of ways you adventurers can help. Who knows what I'll come up with."
+            },
+            {
+              "speaker": "Player",
+              "text": ": Should I come back soon, then?"
+            },
+            {
+              "speaker": "Stone mason",
+              "text": ": I wouldn't hold my breath. I'm thinking it will be months before I have work for you rather than a few days."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

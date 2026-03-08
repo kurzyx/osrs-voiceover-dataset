@@ -1,0 +1,105 @@
+{
+  "ref": "cart-camel",
+  "categoryRef": "npc",
+  "title": "Cart Camel",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without a Camulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Mmm... looks like that camel would make a nice kebab."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That camel looks vicious, it'll probably eat me if I go too near!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wonder if I can catch something from that camel?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With a Camulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Mmm... looks like that camel would make a nice kebab."
+                },
+                {
+                  "speaker": "Camel",
+                  "text": "You and whose army mate? You and whose army?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oooh, sorry, didn't realise you could hear me?"
+                },
+                {
+                  "speaker": "Camel",
+                  "text": "Well I can, so watch what you say in future."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Righto!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That camel looks vicious, it'll probably eat me if I go too near!"
+                },
+                {
+                  "speaker": "Camel",
+                  "text": "Well, I have to say, I am pretty peckish, but thankfully, I don't eat humans... often."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oooh, sorry, didn't realise you could hear me?"
+                },
+                {
+                  "speaker": "Camel",
+                  "text": "Well I can, so watch what you say in future."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Righto!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wonder if I can catch something from that camel?"
+                },
+                {
+                  "speaker": "Camel",
+                  "text": "You'll catch a stiff kick if you talk about me like that again!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oooh, sorry, didn't realise you could hear me?"
+                },
+                {
+                  "speaker": "Camel",
+                  "text": "Well I can, so watch what you say in future."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Righto!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

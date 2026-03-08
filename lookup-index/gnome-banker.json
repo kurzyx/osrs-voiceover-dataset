@@ -1,0 +1,31 @@
+{
+  "ref": "gnome-banker",
+  "speaker": {
+    "ref": "gnome-banker",
+    "name": "Gnome banker"
+  },
+  "speakerVariations": [],
+  "hashes": [
+    "05fbdfc78c742c4850a17bc752dae78ef01188098bfd7d280d7c0d171092d7db",
+    "5267bfd03f1f4f25a0d866dda19c9a816b05ae620d64f56cd8872ae0e06df1f2",
+    "8711590acfec471a9f59192dadfd8029dfad5df761988c41e4929470e4bc4240",
+    "d315478274b173d13cadb74f820bc21cfc11dee918cc4a7592e4a650c2940691",
+    "2a4ad04a3cd1df8edbce448c564e080e67b0df6aceb534247b9e74fa55422e13",
+    "781a0067d1995aab06ce84a10c586ea4e76e06d04fd031310354978a2a61afa2"
+  ],
+  "hashesWithUnresolvedText": {
+    "5267bfd03f1f4f25a0d866dda19c9a816b05ae620d64f56cd8872ae0e06df1f2": {
+      "text": "I can sell you up to [number] additional bank slots in sets of 40. How many are you interested in buying?",
+      "placeholders": [
+        "[number]"
+      ]
+    },
+    "8711590acfec471a9f59192dadfd8029dfad5df761988c41e4929470e4bc4240": {
+      "text": "Buying [number] additional bank slots will cost [number] coins. Be warned, this purchase is not reversible. Are you happy to proceed?",
+      "placeholders": [
+        "[number]",
+        "[number]"
+      ]
+    }
+  }
+}

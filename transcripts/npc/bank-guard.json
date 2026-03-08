@@ -1,0 +1,299 @@
+{
+  "ref": "bank-guard",
+  "categoryRef": "npc",
+  "title": "Bank guard",
+  "sections": [
+    {
+      "title": "Standard dialogue after watching the recording",
+      "sections": [
+        {
+          "title": "Before knowing about the bank robbery",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bank guard",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello. Can I deposit my stuff here?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "No. I'm a security guard, not a bank clerk."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That wall doesn't look very good."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "No, it doesn't."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you going to tell me what happened?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "I could do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, go on!"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Someone smashed the wall when they were robbing the bank."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Someone's robbed the bank?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But... was anyone hurt? Did they get anything valuable?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Yes, but we were able to get more staff and mend the wall easily enough."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "The Bank has already replaced all the stolen items that belonged to customers."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, good... but the bank staff got hurt?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Yes, but the new ones are just as good."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're not very nice, are you?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "No-one's expecting me to be nice."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anyway... So, someone's robbed the bank?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know who did it?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "We are fairly sure we know who the robber was. The security recording was damaged in the attack, but it still shows his face clearly enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You've got a security recording?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Yes. Our insurers insisted that we install a magical scrying orb."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I see the recording?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "I suppose so. But it's quite long."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's ok, show me the recording."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Alright... The bank's magical playback device will feed the recorded images into your mind. Just shut your eyes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, maybe another day."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Ok."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So who was the robber?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "I can't disclose that information."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, I'll stop bothering you now."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Good day, [sir/ma'am]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I don't want anything."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Ok."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Before watching the recording",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bank guard",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any idea who robbed the bank yet?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "We are fairly sure we know who the robber was. The security recording was damaged in the attack, but it still shows his face clearly enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You've got a security recording?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Yes. Our insurers insisted that we install a magical scrying orb."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After watching the recording",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bank guard",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The robber in the recording looked familiar."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Oh, you recognised him too?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, and I can tell you where he lives."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Thanks, but we already know where to find our suspect."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, and he's admitted that he did the robbery!"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "The amount of evidence against him makes that almost unnecessary."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So are you going to have him arrested?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "We're certainly keeping an eye on him. I'm afraid I can't give you any more details about the case."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I see that recording again, please?"
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "I'd like you to pay me 50 gp first."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not carrying that much."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Oh well, maybe another day."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "As a bank employee, I suppose I could take the money directly from your bank account."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, you can take 50 gp from my bank account."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, maybe another day."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Ok."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, here's 50 gp."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, maybe another day."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Ok."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I don't want anything."
+                },
+                {
+                  "speaker": "Bank guard",
+                  "text": "Ok."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

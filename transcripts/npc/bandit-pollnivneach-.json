@@ -1,0 +1,47 @@
+{
+  "ref": "bandit-pollnivneach-",
+  "categoryRef": "npc",
+  "title": "Bandit (Pollnivneach)",
+  "sections": [
+    {
+      "title": "Before any quest progression",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Bandit",
+              "text": "What do you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing really, I'm new to town and wanted to get to know the locals."
+            },
+            {
+              "speaker": "Bandit",
+              "text": "I'm too busy for chitchat. Come back if you have some business to discuss with us."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After killing the Bandit Champion during The Feud quest",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bandit",
+              "text": "You dog! You killed our champion and for that you will die!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "ref": "wilough",
+  "categoryRef": "npc",
+  "title": "Wilough",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello youngster!"
+            },
+            {
+              "speaker": "Wilough",
+              "text": "[I/We] don't talk to strange old people."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hey who you calling old?! And strange?!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after paying him",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello again."
+            },
+            {
+              "speaker": "Wilough",
+              "text": "You think you're tough do you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Pardon?"
+            },
+            {
+              "speaker": "Wilough",
+              "text": "I can beat anyone up!"
+            },
+            {
+              "speaker": "Shilop",
+              "text": "He can you know!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Really?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "While holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Wilough",
+                      "text": "Sorry but you haven't solved the puzzle yet."
+                    },
+                    {
+                      "speaker": "Wilough",
+                      "text": "Thanks [mister/miss]!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wilough",
+                  "text": "My brother reckons I can't solve this puzzle. I can't have him laughing at me! Do me a favour and solve it for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

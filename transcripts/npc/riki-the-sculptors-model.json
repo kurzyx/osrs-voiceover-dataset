@@ -1,0 +1,59 @@
+{
+  "ref": "riki-the-sculptors-model",
+  "categoryRef": "npc",
+  "title": "Riki the sculptor's model",
+  "sections": [
+    {
+      "title": "After arriving to Keldagrim",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there, what are you doing here?"
+            },
+            {
+              "speaker": "Riki the sculptor's model",
+              "text": "I... am the sculptor's associate."
+            },
+            {
+              "speaker": "Player",
+              "text": "His associate? What does that mean?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you going to say anything meaningful at all?"
+            },
+            {
+              "speaker": "Riki the sculptor's model",
+              "text": "I...-"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, apparantly not."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after The Giant Dwarf",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I'm glad I don't have to talk to you anymore!"
+            },
+            {
+              "speaker": "Riki the sculptor's model",
+              "text": "Hrm."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

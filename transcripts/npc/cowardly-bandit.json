@@ -1,0 +1,59 @@
+{
+  "ref": "cowardly-bandit",
+  "categoryRef": "npc",
+  "title": "Cowardly Bandit",
+  "sections": [
+    {
+      "title": "Before The Feud",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Cowardly Bandit",
+              "text": "What do you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing really, I'm new to town and wanted to get to know the locals."
+            },
+            {
+              "speaker": "Cowardly Bandit",
+              "text": "I'm too busy for chitchat. Come back if you have some business to discuss with us."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Feud",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cowardly Bandit",
+              "text": "You dog! You killed our champion and for that I hope you die a slow and painful death."
+            },
+            {
+              "speaker": "Player",
+              "text": "What was that? Are you looking for a fight?"
+            },
+            {
+              "speaker": "Cowardly Bandit",
+              "text": "Me? No, no, I was just, er, complimenting your, that is - don't kill me, please!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I wouldn't waste my time."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "ref": "gardener-ghost",
+  "categoryRef": "npc",
+  "title": "Gardener Ghost",
+  "sections": [
+    {
+      "title": "Before Creature of Fenkenstrain",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Gardener Ghost",
+              "text": "Oi'm the 'eadless gardener, mate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Creature of Fenkenstrain",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "How are you?"
+            },
+            {
+              "speaker": "Gardener Ghost",
+              "text": "Same as ever, mate, just getting' on with it regardless."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good for you...err...mate."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

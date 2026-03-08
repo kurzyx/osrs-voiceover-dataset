@@ -1,0 +1,194 @@
+{
+  "ref": "robin",
+  "categoryRef": "npc",
+  "title": "Robin",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Ghosts Ahoy",
+          "sections": [
+            {
+              "title": "With a clean bedsheet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I've brought you a clean bedsheet, Robin."
+                    },
+                    {
+                      "speaker": "Robin",
+                      "text": "Well it's about time. Run along now, I need some Robin time."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "It's nice to see another human face around here."
+                },
+                {
+                  "speaker": "Robin",
+                  "text": "Leave me be, peasant - I am relaxing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, that's nice!"
+                },
+                {
+                  "speaker": "Robin",
+                  "text": "Do you know who I am?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I haven't had the privilege."
+                },
+                {
+                  "speaker": "Robin",
+                  "text": "I, peasant, am Robin, Master Bowman. I am very famous you know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, Robin, Master Bowman, I see."
+                },
+                {
+                  "speaker": "Robin",
+                  "text": "So have you heard of me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No."
+                },
+                {
+                  "speaker": "Robin",
+                  "text": "Would you do me a favour? I appear to have run out of bed linen. Can you run along to the innkeeper and get me a clean bedsheet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anything for a famous person such as yourself."
+                },
+                {
+                  "speaker": "Robin",
+                  "text": "Now that sounds more like it. Run along now, get me my sheet."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Go and get it yourself."
+                },
+                {
+                  "speaker": "Robin",
+                  "text": "Oh charming. You just can't get the staff these days."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Ghosts Ahoy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So, still here then?"
+                },
+                {
+                  "speaker": "Robin",
+                  "text": "Do you want another game of Runedraw?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the right-click Claim-slime option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Robin",
+                  "text": "Sorry, my orders are that I can only give slime to those who have completed the Morytania medium, hard or elite diaries."
+                },
+                {
+                  "speaker": "Robin",
+                  "text": "There's a diary master in Canifis, go and speak to her."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I have these bones converted into bonemeal with the promised amount of slime, please?"
+                },
+                {
+                  "speaker": "Robin",
+                  "text": "You do not have enough space for both bonemeal and slime. Come back to me when you have space."
+                },
+                {
+                  "speaker": "Robin",
+                  "text": "You do not have any bones for me to convert for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [
+            {
+              "title": "If the player does have the toxic blowpipe equipped",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Robin",
+                      "text": "As THE Master Bowman, I am quite impressed by your equipment, but it's not the sort I'd recommend myself. Try more conventional forms of accuracy enhancement."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "If the player does not have the toxic blowpipe equipped",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Robin",
+                      "text": "Here you go."
+                    },
+                    {
+                      "speaker": "Robin",
+                      "text": "As THE Master Bowman, I am most impressed by your equipment, peasant."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

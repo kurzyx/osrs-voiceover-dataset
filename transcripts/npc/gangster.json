@@ -1,0 +1,61 @@
+{
+  "ref": "gangster",
+  "categoryRef": "npc",
+  "title": "Gangster",
+  "sections": [
+    {
+      "title": "Overhead Dialogue",
+      "sections": [
+        {
+          "title": "When given a command by a gang boss",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gangster",
+                  "text": "Got it, boss."
+                },
+                {
+                  "speaker": "Gangster",
+                  "text": "Okay, boss."
+                },
+                {
+                  "speaker": "Gangster",
+                  "text": "Sure thing, boss."
+                },
+                {
+                  "speaker": "Gangster",
+                  "text": "We're on it, boss."
+                },
+                {
+                  "speaker": "Gangster",
+                  "text": "Yes, boss."
+                },
+                {
+                  "speaker": "Gangster",
+                  "text": "You're the boss."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When departing from a gang meeting",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gangster",
+                  "text": "To crime!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

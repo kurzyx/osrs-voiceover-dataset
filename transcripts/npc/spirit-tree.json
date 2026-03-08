@@ -1,0 +1,133 @@
+{
+  "ref": "spirit-tree",
+  "categoryRef": "npc",
+  "title": "Spirit tree",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Gnome Stronghold and Tree Gnome Village",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Spirit tree",
+                  "text": "You friend of gnome people, you friend of mine. Would you like me to take you somewhere?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, old tree."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I go?"
+                },
+                {
+                  "speaker": "Spirit tree",
+                  "text": "You can travel to the trees which are related to me."
+                },
+                {
+                  "speaker": "Spirit tree",
+                  "text": "You're already here."
+                },
+                {
+                  "speaker": "Spirit tree",
+                  "text": "Travel to that area is restricted."
+                },
+                {
+                  "speaker": "Spirit Tree",
+                  "text": "You cannot travel to that land at this time."
+                },
+                {
+                  "speaker": "Spirit tree",
+                  "text": "None of my brethren are in your house."
+                },
+                {
+                  "speaker": "Spirit tree",
+                  "text": "None of my brethren are at that location."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Other locations",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Spirit tree",
+                  "text": "Hello gnome friend. Where would you like to go?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "All locations",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails (Tree Gnome Village tree)",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "When spoken to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Spirit tree",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Spirit tree",
+                      "text": "How can that be? Go check again!"
+                    },
+                    {
+                      "speaker": "Spirit tree",
+                      "text": "I am most impressed!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Spirit tree",
+                  "text": "Ah! A challenge for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Spirit tree",
+                  "text": "I need to test your mental strength before you can proceed."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

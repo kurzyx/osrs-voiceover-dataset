@@ -1,0 +1,39 @@
+{
+  "ref": "tower-guard",
+  "categoryRef": "npc",
+  "title": "Tower guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello. What are you doing here?"
+            },
+            {
+              "speaker": "Tower guard",
+              "text": "We are the tower guards - our business is our own!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to climb the ladder before starting Watchtower",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tower guard",
+              "text": "You can't go up there. That's private, that is."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

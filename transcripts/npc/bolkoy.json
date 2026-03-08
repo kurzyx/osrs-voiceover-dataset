@@ -1,0 +1,134 @@
+{
+  "ref": "bolkoy",
+  "categoryRef": "npc",
+  "title": "Bolkoy",
+  "sections": [
+    {
+      "title": "Before Tree Gnome Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Bolkoy",
+              "text": "Hello stranger, new to these parts?"
+            },
+            {
+              "speaker": "Bolkoy",
+              "text": "I'm Bolkoy by the way. I'm the village shopkeeper. Would you like to buy something?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What have you got?"
+            },
+            {
+              "speaker": "Bolkoy",
+              "text": "Take a look."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            },
+            {
+              "speaker": "Bolkoy",
+              "text": "Ok, maybe later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Tree Gnome Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Bolkoy",
+              "text": "Welcome, welcome. It's good to see you again. The village is much safer now you have returned the orbs."
+            },
+            {
+              "speaker": "Bolkoy",
+              "text": "By the way, I'm the village shop keeper. Would you like to buy something?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What have you got?"
+            },
+            {
+              "speaker": "Bolkoy",
+              "text": "Take a look."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            },
+            {
+              "speaker": "Bolkoy",
+              "text": "Ok, maybe later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "Talking to him again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Bolkoy",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Bolkoy",
+                      "text": "What's the matter with you? Can't you count? Try harder!"
+                    },
+                    {
+                      "speaker": "Bolkoy",
+                      "text": "Lucky for you, that's the right answer!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bolkoy",
+                  "text": "Hello! I take it you're here about the trail?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, do you have a challenge for me?"
+                },
+                {
+                  "speaker": "Bolkoy",
+                  "text": "Yes, right here!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

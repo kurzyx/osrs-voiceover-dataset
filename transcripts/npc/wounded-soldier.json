@@ -1,0 +1,159 @@
+{
+  "ref": "wounded-soldier",
+  "categoryRef": "npc",
+  "title": "Wounded soldier",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wounded soldier",
+              "text": "Got a medpack? I feel terrible."
+            },
+            {
+              "speaker": "Player",
+              "text": "What happened to you?"
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "Lizardman bite. There's always a fever after you've been bitten by one of those. I'm sure they don't clean their teeth."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I haven't got one."
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "Try looking in the storage tents outside."
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "Thanks for the medpack. I'm feeling a lot better now."
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "While you're here, you could help the war effort by fetching medpacks for my sick comrades. There'll be some in the storage tents outside."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll bear that in mind."
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "Gimme a medpack - I need my strength back."
+            },
+            {
+              "speaker": "Player",
+              "text": "What happened to you?"
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "What happened to me is nothing compared to what's gonna happen to the filthy lizardman who did it. When I'm out of here, I'm gonna find him and fix him good."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I haven't got one."
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "Try looking in the storage tents outside."
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "Cheers. When I get back on my feet, there's gonna be one sorry lizardman out there."
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "Those lizardmen gotta die! Ya hear me? I want them all dead! All of 'em!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll bear that in mind."
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "Those ruffians hit me pretty hard. Have you got a medpack?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What happened to you?"
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "Gangsters. I was on patrol in the docklands, but those Piscarilius scumbags lured me into an alley and hit me with a stick."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I haven't got one."
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "Try looking in the storage tents outside."
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "Thanks. Hopefully I'll be back on patrol again soon."
+            },
+            {
+              "speaker": "Wounded soldier",
+              "text": "We'll never keep on top of the crime in this kingdom at this rate. Maybe you could help deal with some gangsters while you're in Kourend."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll bear that in mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using medpacks on a recovered soldier",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wounded soldier",
+              "text": "I'm alright now. Try another soldier."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Approximately ten seconds after being given a medpack",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wounded soldier",
+                  "text": "Oh dearie me..."
+                },
+                {
+                  "speaker": "Wounded soldier",
+                  "text": "Ooo-er..."
+                },
+                {
+                  "speaker": "Wounded soldier",
+                  "text": "Relapse over here!"
+                },
+                {
+                  "speaker": "Wounded soldier",
+                  "text": "Medic!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "ref": "fire-wizard",
+  "categoryRef": "npc",
+  "title": "Fire wizard",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacked by a fire-based spell",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fire wizard",
+                  "text": "Gratias tibi ago!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

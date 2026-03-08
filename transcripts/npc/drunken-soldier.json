@@ -1,0 +1,108 @@
+{
+  "ref": "drunken-soldier",
+  "categoryRef": "npc",
+  "title": "Drunken soldier",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Drunken soldier",
+              "text": "'Ow yer doin', pal?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Just passing through, thanks. Are you feeling okay?"
+            },
+            {
+              "speaker": "Drunken soldier",
+              "text": "N... Never been better!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Just making sure... You seem a little unsturdy on your feet there."
+            },
+            {
+              "speaker": "Drunken soldier",
+              "text": "I like you, mate. We've really c-*hic*-connected. You're like a brother to me."
+            },
+            {
+              "speaker": "Drunken soldier",
+              "text": "You see any of those lizards 'round here, you give me a shout. I'll show 'em. Smash 'em."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm going to go now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When spoken to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Drunken soldier",
+                      "text": "Pleash give me your answer!"
+                    },
+                    {
+                      "speaker": "Drunken soldier",
+                      "text": "Nope, not correct!"
+                    },
+                    {
+                      "speaker": "Drunken soldier",
+                      "text": "Correct!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Drunken soldier",
+                  "text": "Ah! *hic* Here you go mate!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Drunken soldier",
+                  "text": "I can't make sense *hic* of this, can you?"
+                },
+                {
+                  "speaker": "Drunken soldier",
+                  "text": "Ah! *hic* Here you go mate!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Drunken soldier",
+                  "text": "I can't make sense *hic* of this, can you?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "ref": "zealot",
+  "categoryRef": "npc",
+  "title": "Zealot",
+  "sections": [
+    {
+      "title": "Attempting to pickpocket before Haunted Mine",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "After Haunted Mine",
+      "sections": [
+        {
+          "title": "Attempting to pickpocket the zealot after giving him the key back",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I've done it, I've managed to recreate the salve amulet that you spoke of."
+            },
+            {
+              "speaker": "Zealot",
+              "text": "That hardly seems likely. There is no way you could have made it to the bottom of the mines without the key which is in my possession."
+            },
+            {
+              "speaker": "Player",
+              "text": "I, er... found another way down."
+            },
+            {
+              "speaker": "Zealot",
+              "text": "Mock me not, this is a serious task I am undertaking. I don't have the time for your halfwitted attempt at humour."
+            },
+            {
+              "speaker": "Player",
+              "text": "Correction, the key that was in your possession."
+            },
+            {
+              "speaker": "Zealot",
+              "text": "My key, where is it? You stole it?"
+            },
+            {
+              "speaker": "Zealot",
+              "text": "Return that key to me now!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, I've finished with it now anyway."
+            },
+            {
+              "speaker": "Zealot",
+              "text": "Good, maybe all is not lost, despite your apparent lack of common sense."
+            },
+            {
+              "speaker": "Player",
+              "text": "Er... you're welcome?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, maybe I'll just keep hold of it for now."
+            },
+            {
+              "speaker": "Zealot",
+              "text": "Meddling fool, there are bigger things at stake here than you and your petty thieving intellect can understand."
+            },
+            {
+              "speaker": "Player",
+              "text": "Fine, don't believe me."
+            },
+            {
+              "speaker": "Zealot",
+              "text": "Then it is fortunate for us that Saradomin has guided you. Success certainly doesn't seem likely to have stemmed from rational behaviour on your part."
+            },
+            {
+              "speaker": "Player",
+              "text": "You still haven't forgiven me for borrowing your key have you?"
+            },
+            {
+              "speaker": "Zealot",
+              "text": "Borrowed!? You stole it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Er, maybe I'd better be going now."
+            },
+            {
+              "speaker": "Player",
+              "text": "What powers does the salve amulet have?"
+            },
+            {
+              "speaker": "Zealot",
+              "text": "From what I have heard they would be put to best use in the slaying of the evil undead, the zombies and skeletons that walk this land."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks for the tip."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

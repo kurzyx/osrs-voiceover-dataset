@@ -1,0 +1,158 @@
+{
+  "ref": "cart-conductor-dwarven-mine-",
+  "categoryRef": "npc",
+  "title": "Cart conductor (Dwarven Mine)",
+  "sections": [
+    {
+      "title": "Members dialogue",
+      "sections": [
+        {
+          "title": "Tickets option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, sir, but I don't believe you can hold the ticket."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tickets option (Ring of charos(a) equipped)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "I'm an employee of Keldagrim Carts. I make sure the carts in this area run on time and that people pay their fares."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where can you take me?"
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "I don't think I'm allowed to take you into the city of Keldagrim, human. Perhaps when you find another way into the city and talk to someone of importance there you will be allowed to."
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "This track leads right up to Keldagrim. Only stop."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to buy a ticket."
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "One ticket to Keldagrim, that's 150 coins then."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry, I've run out of money."
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "I'm sorry, sir, but I don't believe you can hold the ticket."
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "Thanks for your custom!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks, I changed my mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry, I've run out of money."
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "I'm sorry, sir, but I don't believe you can hold the ticket."
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "This is only 75 coins, I can't let you have a ticket for that."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, don't worry. I'll pay you another 75 coins for the next ticket I buy, alright?"
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "Well... I suppose so."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have to go."
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "Just remember, wherever you go, you go there faster through Keldagrim Carts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Free-to-play dialogue",
+      "sections": [
+        {
+          "title": "Tickets option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I can't sell any more tickets right now, I'm afraid."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Where can you take me?"
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "I can't take you anywhere at the moment."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to buy a ticket."
+            },
+            {
+              "speaker": "Cart conductor",
+              "text": "I can't sell any more tickets right now, I'm afraid."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

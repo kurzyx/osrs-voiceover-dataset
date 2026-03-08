@@ -1,0 +1,41 @@
+{
+  "ref": "horace",
+  "categoryRef": "npc",
+  "title": "Horace",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Horace",
+              "text": "Hello, I'm Horace. Welcome to my shop. Would you like to buy or sell something?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Horace",
+              "text": "Hello my friend, my name is Horace! You're in the city of Hosidius. Most everyone round here tends the farms. Without us, Kourend would have no crops at all."
+            },
+            {
+              "speaker": "Horace",
+              "text": "So, do you need to buy or sell something today?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, let's trade."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm fine."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

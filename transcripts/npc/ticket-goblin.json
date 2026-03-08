@@ -1,0 +1,29 @@
+{
+  "ref": "ticket-goblin",
+  "categoryRef": "npc",
+  "title": "Ticket goblin",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can I buy a ticket?"
+            },
+            {
+              "speaker": "Ticket goblin",
+              "text": "You don't need to buy a ticket! You're [player name]! Without you, this train wouldn't exist!"
+            },
+            {
+              "speaker": "Ticket goblin",
+              "text": "Just board the train and wait for it to travel to Keldagrim."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

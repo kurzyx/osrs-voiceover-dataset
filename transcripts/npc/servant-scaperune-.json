@@ -1,0 +1,159 @@
+{
+  "ref": "servant-scaperune-",
+  "categoryRef": "npc",
+  "title": "Servant (ScapeRune)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before putting Evil Bob to sleep",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I need help, I've been kidnapped by an evil cat!"
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "Meow! Errr... I c-c-c-can't help you... He'll kill us all!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Now you listen to me! He's just a little cat! There must be something I can do!"
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "F-f-f-fish... give him the f-f-f-fish he likes and he might f- f-f-fall asleep."
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "Look... over t-t-there! That fishing spot c-c-contains the f-f-f-fish he likes."
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "F-f-f-fish... give him the f-f-f-fish he likes and he might f- f-f-fall asleep."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After putting Evil Bob to sleep",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Evil Bob has fallen asleep, come quickly!"
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "Come? Come where?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Away from this place! To Gielinor!"
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "You go, [player name], I don't belong there... I belong here, in ScapeRune. This is the only place I can ever go..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I love you!"
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "Our love can never be, sweet [player name]."
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "Go now! Go, and don't look back!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, alright then, I'll be off! See you around!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Male Servant (historical)",
+      "sections": [
+        {
+          "title": "Before putting Evil Bob to sleep",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Servant",
+                  "text": "Meow!!!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? Why are you meowing?"
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "I mean... L-l-l-leave me alone!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I just want to talk to you, that's all."
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "No, he's insane! He'll kill us all! Like he killed the others!"
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "Meow!!!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After putting Evil Bob to sleep",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Evil Bob is sleeping! You can escape!"
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "Escape? Escape where?"
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "No, Evil Bob will track us down eventually and when he does..."
+                },
+                {
+                  "speaker": "Servant",
+                  "text": "No, I dare not leave this place."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Suit yourself then."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

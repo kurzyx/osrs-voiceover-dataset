@@ -1,0 +1,57 @@
+{
+  "ref": "tinsay",
+  "categoryRef": "npc",
+  "title": "Tinsay",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing Tai Bwo Wannai Trio",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tinsay",
+                  "text": "Braaar! Jogres!"
+                },
+                {
+                  "speaker": "Tinsay",
+                  "text": "mmm ... Jogre bones ..."
+                },
+                {
+                  "speaker": "Tinsay",
+                  "text": "Leave me alone! Can't you see I'm a mad priest?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Tai Bwo Wannai Trio",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, Tinsay."
+                },
+                {
+                  "speaker": "Tinsay",
+                  "text": "Why hello there! What are you doing back here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just passing through."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

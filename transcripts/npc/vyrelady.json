@@ -1,0 +1,57 @@
+{
+  "ref": "vyrelady",
+  "categoryRef": "npc",
+  "title": "Vyrelady",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vyrelady",
+                  "text": "I do enjoy a day out at the Theatre."
+                },
+                {
+                  "speaker": "Vyrelady",
+                  "text": "Will you be entering the Theatre? It will be fun to watch you die."
+                },
+                {
+                  "speaker": "Vyrelady",
+                  "text": "Get lost!"
+                },
+                {
+                  "speaker": "Vyrelady",
+                  "text": "Leave me alone food sack!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vyrelady",
+                  "text": "I do enjoy a day out at the Theatre."
+                },
+                {
+                  "speaker": "Vyrelady",
+                  "text": "Come to see this show? I bet it's going to be a good one."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

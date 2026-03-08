@@ -1,0 +1,48 @@
+{
+  "ref": "ghost-sailor",
+  "categoryRef": "npc",
+  "title": "Ghost sailor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without a ghostspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ghost sailor",
+                  "text": "Woooo wooo wooooo woooo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi there. Why do you still bother having ships here? I mean - you're dead, what use are they to you?"
+            },
+            {
+              "speaker": "Ghost sailor",
+              "text": "We keep ships because we still need trade in Phasmatys. Every trader that comes to Phasmatys is made to worship the Ectofuntus, so that the Ectopower doesn't run out."
+            },
+            {
+              "speaker": "Player",
+              "text": "So, without traders to worship in the Temple you're history, right?"
+            },
+            {
+              "speaker": "Ghost sailor",
+              "text": "Aye, matey."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

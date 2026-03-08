@@ -1,0 +1,44 @@
+{
+  "ref": "lofu",
+  "categoryRef": "npc",
+  "title": "Lofu",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Undisguised with monkeyspeak",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lofu",
+                  "text": "You're one of those humans that everybody has been talking about! The Marimbo Guard will kill you on the spot!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lofu",
+              "text": "Get out of my way, you fool! Can't you see I'm busy?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry..."
+            },
+            {
+              "speaker": "Lofu",
+              "text": "Monkeys these days... you'll be acting like one of those awful Gnomes next..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

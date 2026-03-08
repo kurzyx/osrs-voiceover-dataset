@@ -1,0 +1,53 @@
+{
+  "ref": "archeio",
+  "categoryRef": "npc",
+  "title": "Archeio",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Archeio",
+              "text": "Hello. Would you like to visit the Library Historical Archive? We've recently opened the archive to visitors."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Archeio",
+              "text": "I am Archeio, guardian of the Library Historical Archive. I grant both visitors and staff access to the archive."
+            },
+            {
+              "speaker": "Archeio",
+              "text": "Would you like me to teleport you there now?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me more about this archive."
+            },
+            {
+              "speaker": "Archeio",
+              "text": "The Library Historical Archive stores our most ancient and precious texts. You can find out much more about Great Kourend and our key historical events there."
+            },
+            {
+              "speaker": "Archeio",
+              "text": "Would you like me to teleport you there now?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

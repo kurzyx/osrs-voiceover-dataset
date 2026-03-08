@@ -1,0 +1,47 @@
+{
+  "ref": "bernald",
+  "categoryRef": "npc",
+  "title": "Bernald",
+  "sections": [
+    {
+      "title": "Before Garden of Tranquillity",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bernald",
+              "text": "Do you know anything about grapevine diseases?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm afraid I don't."
+            },
+            {
+              "speaker": "Bernald",
+              "text": "Oh that's a shame. I hope I find someone soon, otherwise I could lose all this year's crops."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "How are your grapes coming along?"
+            },
+            {
+              "speaker": "Bernald",
+              "text": "Marvellously, thanks to your help, [player name]!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

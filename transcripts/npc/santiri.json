@@ -1,0 +1,189 @@
+{
+  "ref": "santiri",
+  "categoryRef": "npc",
+  "title": "Santiri",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Santiri",
+              "text": "Welcome, human, to the Quality Weapons Shop! Can I interest you in a purchase?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'm looking for some weapons."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keldagrim tasks",
+      "sections": [
+        {
+          "title": "Getting a weapon item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Santiri",
+                  "text": "Good day to you, human. I have a little task for you, are you interested?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the task?"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Oh, it's nothing too major. But I need [3/4/5] [item] in the next [15/20/25] minutes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure, got it. That's [3/4/5] [item] in the next [15/20/25] minutes, I'll get right on it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I'm a little busy."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "No problem, I'll find someone else to do it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Getting a bar or ore item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Santiri",
+                  "text": "Good day to you, human. I have a little task for you, are you interested?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the task?"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Well, I'm running a bit low on raw supplies. Can you get me [X] [item]? Within [X] minutes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure, got it. That's [X] [item] in the next [X] minutes, I'll get right on it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him before acquiring the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Santiri",
+                  "text": "Did you get me 5 iron pickaxes yet, perchance?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I've given up on that."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "That's very unfortunate to hear. I suppose I will need to find someone else now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I'm still looking for them."
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Keep it up, I'm sure you'll succeed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after failing to bring the request in time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Santiri",
+                  "text": "You're too late, I'm afraid, the [X] minutes are up. I got someone else to get me [X] [item]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah, uhm, sorry about that..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bringing him the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Look, I've got you your [X] [item]!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "That's wonderful, thanks a lot [player name]!"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Do you want me to pay you in gold or do you wish me teach you how to attack with these?"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Do you want me to pay you in gold or would you prefer me to teach you a bit about how you can mine more efficiently?"
+                },
+                {
+                  "speaker": "Santiri",
+                  "text": "Do you want me to pay you in gold or would you like me to show you some smithing tricks?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like the gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please teach me that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Show me the gold!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Enlighten me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

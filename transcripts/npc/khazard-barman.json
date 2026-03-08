@@ -1,0 +1,57 @@
+{
+  "ref": "khazard-barman",
+  "categoryRef": "npc",
+  "title": "Khazard Barman",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Khazard Barman",
+              "text": "Hi, what can I get you? We have a range of quality brews."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll have a beer please."
+            },
+            {
+              "speaker": "Khazard Barman",
+              "text": "That'll be two coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, I don't have enough money with me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, I don't have enough room for one."
+            },
+            {
+              "speaker": "Player",
+              "text": "Got any news?"
+            },
+            {
+              "speaker": "Khazard Barman",
+              "text": "Not really, but if you want to see some action, keep an eye on the arena. I've seen some grand battles in my time. Ogres, goblins and even dragons have fought there."
+            },
+            {
+              "speaker": "Khazard Barman",
+              "text": "Now, can I get you something?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm good, thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

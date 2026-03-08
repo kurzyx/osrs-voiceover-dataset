@@ -1,0 +1,33 @@
+{
+  "ref": "shop-keeper-port-khazard-",
+  "categoryRef": "npc",
+  "title": "Shop keeper (Port Khazard)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shop keeper",
+              "text": "Can I help you at all?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please. What are you selling?"
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "Take a look."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

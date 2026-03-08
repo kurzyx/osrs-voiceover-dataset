@@ -1,0 +1,316 @@
+{
+  "ref": "druidic-ritual",
+  "categoryRef": "quest",
+  "title": "Druidic Ritual",
+  "sections": [
+    {
+      "title": "Starting the quest",
+      "sections": [
+        {
+          "title": "Talking to Kaqemeex again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Kaqemeex",
+                  "text": "Hello again, adventurer. You will need to speak to my fellow druid Sanfew in the village south of here to continue in your quest."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "What brings you to our holy monument?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "We are the druids of Guthix. We worship our god at our famous stone circles. You will find them located throughout these lands."
+            },
+            {
+              "speaker": "Player",
+              "text": "What about the stone circle full of dark wizards?"
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "That used to be OUR stone circle. Unfortunately, many many years ago, dark wizards cast a wicked spell upon it so that they could corrupt its power for their own evil ends."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "When they cursed the rocks for their rituals they made them useless to us and our magics. We require a brave adventurer to go on a quest for us to help purify the circle of Varrock."
+            },
+            {
+              "speaker": "Player",
+              "text": "So what's so good about Guthix?"
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Guthix is the oldest and most powerful god in Gielinor. His existence is vital to this world. He is the god of balance, and nature; he is also a very part of this world."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "He exists in the trees, and the flowers, the water and the rocks. He is everywhere. His purpose is to ensure balance in everything in this world, and as such we worship him."
+            },
+            {
+              "speaker": "Player",
+              "text": "He sounds kind of boring..."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Some day when your mind achieves enlightenment you will see the true beauty of his power."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well, I'll be on my way now."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Goodbye adventurer. I feel we shall meet again."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm in search of a quest."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Hmm. I think I may have a worthwhile quest for you actually. I don't know if you are familiar with the stone circle south of Varrock or not, but..."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "That used to be OUR stone circle. Unfortunately, many many years ago, dark wizards cast a wicked spell upon it so that they could corrupt its power for their own evil ends."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "When they cursed the rocks for their rituals they made them useless to us and our magics. We require a brave adventurer to go on a quest for us to help purify the circle of Varrock."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, I will try and help."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Excellent. Go to the village south of this place and speak to my fellow druid, Sanfew, who is working on the purification ritual. He knows what is required to complete it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Will do."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, that doesn't sound very interesting."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "I will not try and change your mind adventurer. Some day when you have matured you may reconsider your position. We will wait until then."
+            },
+            {
+              "speaker": "Player",
+              "text": "Did you build this?"
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "What, personally? No, of course I didn't. However, our forefathers did. The first Druids of Guthix built many stone circles across these lands over eight hundred years ago."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Unfortunately we only know of two remaining, and of those only one is usable by us anymore."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Sanfew",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sanfew",
+              "text": "What can I do for you young 'un?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I've been sent to assist you with the ritual to purify the Varrockian stone circle."
+            },
+            {
+              "speaker": "Sanfew",
+              "text": "Well, what I'm struggling with right now is the meats needed for the potion to honour Guthix. I need the raw meat of four different animals for it, but not just any old meats will do."
+            },
+            {
+              "speaker": "Sanfew",
+              "text": "Each meat has to be dipped individually into the Cauldron of Thunder for it to work correctly."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where can I find this cauldron?"
+            },
+            {
+              "speaker": "Sanfew",
+              "text": "It is located somewhere in the mysterious underground halls which are located somewhere in the woods just South of here. They are too dangerous for me to go myself however."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, I'll do that then."
+            },
+            {
+              "speaker": "Sanfew",
+              "text": "Well thank you very much!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually I don't need to speak to you."
+            },
+            {
+              "speaker": "Sanfew",
+              "text": "Well, we all make mistakes sometimes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gathering the ingredients",
+      "sections": [
+        {
+          "title": "Dipping meats in the cauldron",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sanfew",
+              "text": "Did you bring me the required ingredients for the potion?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, not yet..."
+            },
+            {
+              "speaker": "Sanfew",
+              "text": "Well, let me know when you do young 'un."
+            },
+            {
+              "speaker": "Player",
+              "text": "What was I meant to be doing again?"
+            },
+            {
+              "speaker": "Sanfew",
+              "text": "Trouble with your memory eh young 'un? I need the raw meats of four different animals that have been dipped into the Cauldron of Thunder so I can make my potion to honour Guthix."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ooooh yeah, I remember."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll get on with it."
+            },
+            {
+              "speaker": "Sanfew",
+              "text": "Good, good."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I have all four now!"
+            },
+            {
+              "speaker": "Sanfew",
+              "text": "Thank you so much adventurer! These meats will allow our potion to honour Guthix to be completed, and bring one step closer to reclaiming our stone circle!"
+            },
+            {
+              "speaker": "Sanfew",
+              "text": "Now go and talk to Kaqemeex and he will introduce you to the wonderful world of herblore and potion making!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Finishing up",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "I have word from Sanfew that you have been very helpful in assisting him with his preparations for the purification ritual. As promised I will now teach you the ancient arts of Herblore."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Herblore is the skill of working with herbs and other ingredients, to make useful potions and poison."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "First you will need a vial, which can be found or made with the crafting skill."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Then you must gather the herbs needed to make the potion you want."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "You must fill your vial with water and add the ingredients you need. There are normally 2 ingredients to each type of potion."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Bear in mind, you must first clean each herb before you can use it."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "You may also have to grind some ingredients before you can use them. You will need a pestle and mortar in order to do this."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Herbs can be found on the ground, and are also dropped by some monsters when you kill them."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Let's try an example Attack potion: The first ingredient is Guam leaf; the next is Eye of Newt."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Mix these in your water-filled vial, and you will produce an Attack potion. Drink this potion to increase your Attack level."
+            },
+            {
+              "speaker": "Kaqemeex",
+              "text": "Different potions also require different Herblore levels before you can make them."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "ref": "professor-gracklebone",
+  "categoryRef": "npc",
+  "title": "Professor Gracklebone",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "While finding a book for them",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Professor Gracklebone",
+                  "text": "Have you found my book, human? '[book name]'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, sorry."
+                },
+                {
+                  "speaker": "Professor Gracklebone",
+                  "text": "If you do, I bet the Arceuus citizens will be grateful for you helping their customers. They must know their Librarian's useless."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "While finding a book for someone else",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Professor Gracklebone",
+                  "text": "Aren't you helping someone else at the moment? Don't let me interrupt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Turning in the book",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Professor Gracklebone",
+                  "text": "Thanks, human. You can have this other book that I don't want."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to them after giving them the book",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Professor Gracklebone",
+                  "text": "Thanks for finding my book. I'm learning such a lot here."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Professor Gracklebone",
+              "text": "Hey, human, can you do me a favour? That Librarian won't help me find a book."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, what book do you want?"
+            },
+            {
+              "speaker": "Professor Gracklebone",
+              "text": "I'm looking for: '[book name]'"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll see what I can do."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Professor Gracklebone",
+              "text": "I'm from the Stronghold. Mostly I teach magic, and stuff like that. Anyway, I heard they'd got magic here unlike anything I'd ever seen, so I came to learn what I could."
+            },
+            {
+              "speaker": "Professor Gracklebone",
+              "text": "It'd really help with my learning if you'd find my book for me. Will you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, sorry."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

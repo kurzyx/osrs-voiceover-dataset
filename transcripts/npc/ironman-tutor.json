@@ -1,0 +1,415 @@
+{
+  "ref": "ironman-tutor",
+  "categoryRef": "npc",
+  "title": "Ironman tutor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "First time dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "Hello, [player name]. I'm [Paul/Adam], the Iron[man/woman] tutor. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Iron[men/women]."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "When you play as an Iron[man/woman], you do everything for yourself. You don't trade with other players, or take their items, or accept their help."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "As an Iron[man/woman], you choose to have these restrictions imposed on you, so everyone knows you're doing it properly."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "If you think you have what it takes, you can choose to become a Hardcore Iron[man/woman]."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "In addition to the standard restrictions, Hardcore Iron[men/women] only have one life. In the event of a dangerous death, your Hardcore Iron[men/women] status will be downgraded to that of a standard Iron[man/woman], and your"
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "stats will be frozen on the Hardcore Iron [Man/Woman] hiscores."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "If you have some friends, you could stand alone... Together, as Group Ironmen. Group Ironmen have the same restrictions as regular Iron[men/women] except you can trade your items with each other!"
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "If you are a daring bunch, you could even try Hardcore Group Ironmen. With Hardcore Group Ironmen you have a set number of lives, when they reach zero, you will become regular Group Ironmen."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "If you ever decided to invite experienced players to your group, you would become Unranked Group Ironmen, which are no longer shown on the Group Ironman hiscores."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "For the ultimate challenge, you can choose to become an Ultimate Iron[man/woman], a game mode inspired by the player IronNoBank."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "In addition to the standard restrictions, Ultimate Iron[men/women] are blocked from using the bank, and they drop all their items when they die."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "While you're on Tutorial Island, you can switch freely between being a standard Iron[man/woman], an Ultimate Iron[man/woman], a Hardcore Iron[man/woman], a Group Ironman, a Hardcore Group Ironman or a regular character."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "Once you've left this island, you'll be able to find my colleague Adam in Lumbridge, but he'll only let you switch your restrictions downwards, not upwards."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "So he will let Hardcore Iron[men/women] or Ultimate Iron[men/women] downgrade to standard Iron[men/women], and he'll let all types of Iron[man/woman] become normal players."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to change my Iron[man/woman] mode."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "Make sure you've got your Iron[man/woman] settings all sorted before you leave Tutorial Island. Some things can't be changed later."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dialogue with Iron[man/woman] status",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey there [Paul/Adam]."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "Hail, Iron[man/woman]! What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Iron[men/women]."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "When you play as an Iron[man/woman], you do everything for yourself. You don't trade with other players, or take their items, or accept their help."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "As an Iron[man/woman], you choose to have these restrictions imposed on you, so everyone knows you're doing it properly."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "If you think you have what it takes, you can choose to become a Hardcore Iron[man/woman]."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "In addition to the standard restrictions, Hardcore Iron[man/woman] only have one life. In the event of a dangerous death, your Hardcore Iron[man/woman] status will be downgraded to that of a standard Iron[man/woman], and your"
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "stats will be frozen on the Hardcore Iron[man/woman] hiscores."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "For the ultimate challenge, you can choose to become an Ultimate Iron[man/woman], a game mode inspired by the player IronNoBank."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "In addition to the standard restrictions, Ultimate Iron[man/woman] are blocked from using the bank, and they drop all their items when they die."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "While you're on Tutorial Island, you can switch freely between being a standard Iron[man/woman], an Ultimate Iron[man/woman], a Hardcore Iron[man/woman] or a normal player."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "Once you've left this island, you'll be able to find my colleague Adam in Lumbridge, but he'll only let you switch your restrictions downwards, not upwards."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "So he will let Hardcore Iron[man/woman] or Ultimate Iron[man/woman] downgrade to standard Iron[man/woman], and he'll let all types of Iron[man/woman] become normal players."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "You're a standard Iron[man/woman]. You can downgrade yourself to a normal player if you like."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to change my Iron[man/woman] mode."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "Make sure you've got your Iron[man/woman] settings all sorted before you leave Tutorial Island. Some things can't be changed later."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to review my Iron[man/woman] mode."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you any armour for me, please?"
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "There you go. Wear it with pride."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dialogue without Iron[man/woman] status",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "Hello, [player name]. I'm the Iron[man/woman] tutor. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Iron[men/women]."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "When you play as an Iron[man/woman], you do everything for yourself. You don't trade with other players, or take their items, or accept their help."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "As an Iron[man/woman], you choose to have these restrictions imposed on you, so everyone knows you're doing it properly."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "If you think you have what it takes, you can choose to become a Hardcore Iron[man/woman]."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "In addition to the standard restrictions, Hardcore Iron[men/women] only have one life. In the event of a dangerous death, your Hardcore Iron[men/women] status will be downgraded to that of a standard Iron[man/woman], and your"
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "stats will be frozen on the Hardcore Iron[man/woman] hiscores."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "If you have some friends, you could stand alone... Together, as Group Ironmen. Group Ironmen have the same restrictions as regular Iron[men/women] except you can trade your items with each other!"
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "If you are a daring bunch, you could even try Hardcore Group Ironmen. With Hardcore Group Ironmen you have a set number of lives, when they reach zero, you will become regular Group Ironmen."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "If you ever decided to invite experienced players to your group, you would become Unranked Group Ironmen, which are no longer shown on the Group Ironman hiscores."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "For the ultimate challenge, you can choose to become an Ultimate Iron[man/woman], a game mode inspired by the player IronNoBank."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "In addition to the standard restrictions, Ultimate Iron[men/women] are blocked from using the bank, and they drop all their items when they die."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "While you're on Tutorial Island, you can switch freely between being a standard Iron[man/woman], an Ultimate Iron[man/woman], a Hardcore Iron[man/woman] or a normal player."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "Once you've left this island, you'll be able to find my colleague Adam in Lumbridge, but he'll only let you switch your restrictions downwards, not upwards."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "So he will let Hardcore Iron[men/women] or Ultimate Iron[men/women] downgrade to standard Iron[men/women], and he'll let all types of Iron[man/woman] become normal players."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "You can choose to become an Iron[man/woman] while you're on Tutorial Island. Although you can't do that on this account, you might like to bear it in mind for the future."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to change my Iron[man/woman] mode."
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "Make sure you've got your Iron[man/woman] settings all sorted before you leave Tutorial Island. Some things can't be changed later."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to review my Iron[man/woman] mode."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you any armour for me, please?"
+                },
+                {
+                  "speaker": "Ironman tutor",
+                  "text": "You're not an Iron[man/woman]. This armour is only for them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Deadman mode dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ironman tutor",
+              "text": "Sorry, Iron Man mode isn't available on Deadman worlds."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Trailblazer League dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ironman tutor",
+              "text": "Hello there, [player name]. Everyone taking part in the Leagues II - Trailblazer is under Iron [Men/Women] restrictions once they leave Tutorial Island."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fresh Start Worlds dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I'd like to change my Iron Man mode."
+            },
+            {
+              "speaker": "Iron Man tutor",
+              "text": "If you're interested in the Fresh Start Worlds, you should know that you can't be an Iron Man on those."
+            },
+            {
+              "speaker": "Player",
+              "text": "What are Fresh Start Worlds?"
+            },
+            {
+              "speaker": "Iron Man tutor",
+              "text": "Fresh Start Worlds are worlds that have a fresh economy to build and fresh hiscores to chase."
+            },
+            {
+              "speaker": "Iron Man tutor",
+              "text": "They're a way to experience Old School RuneScape as if it were new, today!"
+            },
+            {
+              "speaker": "Iron Man tutor",
+              "text": "They will last for 6 months, after which your account will be transfered to the main game and you can carry on playing as normal there."
+            },
+            {
+              "speaker": "Iron Man tutor",
+              "text": "There is a World First system, which are achievements only obtainable once on all worlds, so you can race against others for these!"
+            },
+            {
+              "speaker": "Iron Man tutor",
+              "text": "If a global race is a bit too much, then there is also an Achievement Point system. You can compete against your friends to get the most points."
+            },
+            {
+              "speaker": "Iron Man tutor",
+              "text": "Other than that, it's the same Old School experience you know and love, with all the same content as the main game."
+            },
+            {
+              "speaker": "Iron Man tutor",
+              "text": "Do you still wish to proceed with selecting an Iron Man mode?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'm not interested in Fresh Start Worlds."
+            },
+            {
+              "speaker": "Iron Man tutor",
+              "text": "That's okay. If you change your mind you can find out more about Fresh Start Worlds by speaking to the Magic Instructor, assuming you're not an ironman."
+            },
+            {
+              "speaker": "Iron Man tutor",
+              "text": "You'll have to remove any ironman status first by speaking to me."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, Fresh Start Worlds sound like my sort of thing!"
+            },
+            {
+              "speaker": "Iron Man tutor",
+              "text": "Lovely! You can talk to the Magic Instructor to find out more about Fresh Start Worlds."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ironman tutor",
+              "text": "Ah! Here you go!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What?"
+            },
+            {
+              "speaker": "Ironman tutor",
+              "text": "I need you to help me with this."
+            },
+            {
+              "speaker": "Ironman tutor",
+              "text": "Please give me your answer!"
+            },
+            {
+              "speaker": "Ironman tutor",
+              "text": "Correct - I despise snakes!"
+            },
+            {
+              "speaker": "Ironman tutor",
+              "text": "Nope, not correct!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

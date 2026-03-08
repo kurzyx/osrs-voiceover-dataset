@@ -1,0 +1,165 @@
+{
+  "ref": "jimmy-warriors-guild-",
+  "categoryRef": "npc",
+  "title": "Jimmy (Warriors' Guild)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Jimmy",
+              "text": "'Ello there."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about this room?"
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "Well... s'like thish..."
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "Thish here'sh a shtore room right?"
+            },
+            {
+              "speaker": "Player",
+              "text": "A store room you mean?"
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "That'sh what I shaid! *HIC* A shtore room.... Now technic'ly shpeaking, I should be outshide guarding it..."
+            },
+            {
+              "speaker": "Player",
+              "text": "But you just nipped in to have a quick drink?"
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "Yep... and to practish."
+            },
+            {
+              "speaker": "Player",
+              "text": "Practish? I mean.. practise what?"
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "Keg balancin. I'm the besht."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me how to balance kegs?"
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "Yer very very shtrange. But.... you pick the keg up, and balance it on yer head, then you pick another keg up and put that on top. S'really very eashy."
+            },
+            {
+              "speaker": "Player",
+              "text": "Eashy?"
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "Yesh. Eashy."
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "But you couldn't ever balansh ash many ash meee!"
+            },
+            {
+              "speaker": "Player",
+              "text": "That sounds like a challenge, I'll show you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "May I claim my tokens please?"
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "Wha'? You ain't earnt any mate!"
+            },
+            {
+              "speaker": "Player",
+              "text": "May I claim my tokens please?"
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "Well... err.. ish not offishal or anyfin... but I got the ledger of tokensh 'ere. I'll jus' err.. write it in!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Won't they know?"
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "Nah... hic.... I'm a wizsh at copyin' signaturesh! Jus' ashk an offishal mem'er of shtaff like Shloane fer yer tokensh."
+            },
+            {
+              "speaker": "Player",
+              "text": "Bye!"
+            },
+            {
+              "speaker": "Jimmy",
+              "text": "Shure you wouldn't like an ickle drinkie fore yer go?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks, got things to do, people to see, tokens to earn..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue when the player is balancing kegs",
+      "sections": [
+        {
+          "title": "When balancing 1-3 kegs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jimmy",
+                  "text": "Ya got no chance o' beatin' me [player name]!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When balancing 4-5 kegs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jimmy",
+                  "text": "No one's stronger than me, 'speshly not [player name]!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the kegs fall after balancing 5 or more",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jimmy",
+                  "text": "Wow! That'sh bery impr....imp...impresh.... good [player name]! Equalsh my record!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

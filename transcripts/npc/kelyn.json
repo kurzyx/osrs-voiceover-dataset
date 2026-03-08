@@ -1,0 +1,105 @@
+{
+  "ref": "kelyn",
+  "categoryRef": "npc",
+  "title": "Kelyn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Lletya",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Kelyn",
+                  "text": "Huh... Oh sorry, you made me jump. I was miles away, day dreaming."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "About what may I ask?"
+                },
+                {
+                  "speaker": "Kelyn",
+                  "text": "I was thinking about the crystal spires of Prifddinas."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It must be beautiful, I've only seen the city walls."
+                },
+                {
+                  "speaker": "Kelyn",
+                  "text": "I have never seen it, all I know are the stories. I hope that changes one day."
+                },
+                {
+                  "speaker": "Kelyn",
+                  "text": "I have never seen it, all I know are the stories. I hope that once this war is over, I'll finally be able to."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prifddinas",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lady Kelyn Ithell",
+                  "text": "Hey there [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey there. How is it being the new Lady Ithell?"
+                },
+                {
+                  "speaker": "Lady Kelyn Ithell",
+                  "text": "It's a daunting job, but I have the knowledge of my predecessor to help me."
+                },
+                {
+                  "speaker": "Lady Kelyn Ithell",
+                  "text": "It's still crazy how fast it all happened. One moment I was a daydreaming elf, who'd never even seen Prifddinas. Now I'm responsible for an entire elf clan."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well don't worry, I'm sure you're doing great."
+                },
+                {
+                  "speaker": "Lady Kelyn Ithell",
+                  "text": "Thank you [player name]."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Failed pickpocket attempt in Lletya",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kelyn",
+                  "text": "What do you think you're doing?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

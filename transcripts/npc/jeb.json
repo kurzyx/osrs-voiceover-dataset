@@ -1,0 +1,93 @@
+{
+  "ref": "jeb",
+  "categoryRef": "npc",
+  "title": "Jeb",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Witchaven",
+          "sections": [
+            {
+              "title": "Before the events of The Slug Menace",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Jeb",
+                      "text": "Hello there."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After the completion of The Slug Menace",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I understand you can take me to the Fishing Platform."
+                    },
+                    {
+                      "speaker": "Jeb",
+                      "text": "Yes, we can do that."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Will you take me please?"
+                    },
+                    {
+                      "speaker": "Jeb",
+                      "text": "Board the boat and we shall depart."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Fishing Platform",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, Jeb."
+                },
+                {
+                  "speaker": "Jeb",
+                  "text": "Business here is complete. Do you wish to return to the dry land?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I'm going to stay a while."
+                },
+                {
+                  "speaker": "Jeb",
+                  "text": "Then stay if that is your wish."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, let's go back."
+                },
+                {
+                  "speaker": "Jeb",
+                  "text": "Then board the rowing boat."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

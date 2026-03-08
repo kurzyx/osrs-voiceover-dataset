@@ -1,0 +1,101 @@
+{
+  "ref": "vanligga-gastfrihet",
+  "categoryRef": "npc",
+  "title": "Vanligga Gastfrihet",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "During the dwarves' visit in The Fremennik Isles",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. What's happening in town at the moment?"
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "These dwarves have arrived from Keldagrim - the Chancellor has asked me to look after them, but they are eating all of our food and drinking all of our booze."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are the dwarves doing here?"
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "They are organising some sort of trade agreement. I don't know what they are trading."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing The Fremennik Isles",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, Vanligga!"
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "Oh, hello [Fremennik name]. Always good to see a friend."
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "Hmmm, I suppose I can trust you, since you have done me a favour in the past. Can you keep a secret?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "Well as you probably already know, all yak meat and yak products are banned on this island - orders of the King..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That King has some very strange attitudes."
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "Well, I have a contact on the other island. Are you interested in obtaining some produce?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "Well, any time you need black market yak produce, you know where to come."
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "Wanna buy some yak?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                },
+                {
+                  "speaker": "Vanligga Gastfrihet",
+                  "text": "Well, any time you need black market yak produce, you know where to come."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

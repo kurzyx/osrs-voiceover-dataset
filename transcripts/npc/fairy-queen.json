@@ -1,0 +1,96 @@
+{
+  "ref": "fairy-queen",
+  "categoryRef": "npc",
+  "title": "Fairy Queen",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting Fairytale I - Growing Pains",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How do crops and such survive down here? Surely they need a bit of sunlight?"
+                },
+                {
+                  "speaker": "Fairy Queen",
+                  "text": "Clearly you come from a plane dependent on sunlight. Down here, the plants grow in the aura of faerie."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's so good about this place?"
+                },
+                {
+                  "speaker": "Fairy Queen",
+                  "text": "Zanaris is a meeting point of cultures. Those from many worlds converge here to exchange knowledge and goods."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After finishing Fairytale II - Cure a Queen",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Have you managed to work out a plan yet?"
+                },
+                {
+                  "speaker": "Fairy Queen",
+                  "text": "Not yet, [player name], but it looks like we'll need to ask you for your help again, I'm afraid. I'll be able to tell you more once we have finished making our battle plans."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "While holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Fairy Queen",
+                      "text": "Sorry but you haven't solved the puzzle yet."
+                    },
+                    {
+                      "speaker": "Fairy Queen",
+                      "text": "Thanks [player name]!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fairy Queen",
+                  "text": "Please solve this for me. I have other things to be thinking about."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

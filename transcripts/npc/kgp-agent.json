@@ -1,0 +1,104 @@
+{
+  "ref": "kgp-agent",
+  "categoryRef": "npc",
+  "title": "KGP Agent",
+  "sections": [
+    {
+      "title": "Contacting through NPC Contacts Random option",
+      "sections": [
+        {
+          "title": "Dialogue 1",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Anyone there?"
+                },
+                {
+                  "speaker": "KGP Agent",
+                  "text": "INTRUDER! Red alert! Batten down the hatches! DIVE, DIVE, DIVE!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err, maybe I'll call back later."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Dialogue 2",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "KGP Agent",
+                  "text": "The fish cannot ride the gravy train."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry?"
+                },
+                {
+                  "speaker": "KGP Agent",
+                  "text": "The cyclops cannot see his inner walrus?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is this code?"
+                },
+                {
+                  "speaker": "KGP Agent",
+                  "text": "Waddle into a sunset of flaking mackerel?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm going now."
+                },
+                {
+                  "speaker": "KGP Agent",
+                  "text": "The sardine is leaving the tin?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Cold War",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Removing the clockwork suit at the base under the Iceberg",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "KGP Agent",
+              "text": "There's been a breach! Red alert!"
+            },
+            {
+              "speaker": "KGP Agent",
+              "text": "Phew, that was a close call."
+            },
+            {
+              "speaker": "Player",
+              "text": "Urrrrgh!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

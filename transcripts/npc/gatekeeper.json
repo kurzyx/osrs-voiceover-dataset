@@ -1,0 +1,213 @@
+{
+  "ref": "gatekeeper",
+  "categoryRef": "npc",
+  "title": "Gatekeeper",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What happened to the old man who used to be the doorman?"
+            },
+            {
+              "speaker": "Gatekeeper",
+              "text": "You mean my father? He went into retirement, I've taken over the family business instead."
+            },
+            {
+              "speaker": "Player",
+              "text": "Your father! But you don't look anything like him!"
+            },
+            {
+              "speaker": "Gatekeeper",
+              "text": "No, fortunately for me I inherited my good looks from my mother."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to open the Magic door",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gatekeeper",
+              "text": "Sorry, we cannot allow you to bring those sacks into the market for security reason."
+            },
+            {
+              "speaker": "Gatekeeper",
+              "text": "You may not pass through this door without paying the trading tax."
+            },
+            {
+              "speaker": "Player",
+              "text": "So how much is the tax?"
+            },
+            {
+              "speaker": "Gatekeeper",
+              "text": "The cost is one diamond."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay..."
+            },
+            {
+              "speaker": "Player",
+              "text": "...but..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I haven't brought my diamonds with me."
+            },
+            {
+              "speaker": "Gatekeeper",
+              "text": "No tax, no entry."
+            },
+            {
+              "speaker": "Player",
+              "text": "A diamond? Are you crazy?"
+            },
+            {
+              "speaker": "Gatekeeper",
+              "text": "Not at all. Those are the rules."
+            },
+            {
+              "speaker": "Player",
+              "text": "I haven't brought my diamonds with me."
+            },
+            {
+              "speaker": "Gatekeeper",
+              "text": "No tax, no entry."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do with all the diamonds you get?"
+            },
+            {
+              "speaker": "Gatekeeper",
+              "text": "Ever heard of fairylights? Well how do you think we make 'em? First we collect a pile of gems and then we get a spider to spin 'em into a long web, we light the jewels by imbuing each one with a little bit of magic."
+            },
+            {
+              "speaker": "Player",
+              "text": "So you're telling me fairylights are made out of gems?"
+            },
+            {
+              "speaker": "Gatekeeper",
+              "text": "That's right, how else could we make 'em twinkle so beautifully?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using Nuff's certificate on a gatekeeper next to Zanaris market",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Do you know what these strange marks mean?"
+            },
+            {
+              "speaker": "Gatekeeper",
+              "text": "That you've been doodelling? If you don't mind I have a job to do, please stop distracting me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you know what these strange marks mean?"
+            },
+            {
+              "speaker": "Gatekeeper",
+              "text": "No I don't and I'm trying to work here. Please stop distracting me!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gatekeeper near the entrance to the Tangleroot's lair",
+      "sections": [
+        {
+          "title": "During Fairytale I",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing all the way over here? Shouldn't you be at the market door?"
+                },
+                {
+                  "speaker": "Gatekeeper",
+                  "text": "Yes, that's my usual spot, but the Godfather said I should be here, so here I am."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Fairytale I",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gatekeeper",
+                  "text": "Hello, did you just come from the market gates? Are my brothers doing their job well? I do worry that they'll start letting people into the market for free without me being there to supervise them!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the shady grove without Magic Secateurs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gate Keeper",
+                  "text": "I'm afraid nobody is allowed in there, orders from the boss."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the grove after obtaining Magic secateurs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gate Keeper",
+                  "text": "I've received orders to let you through if you want. Good luck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the grove after defeating Tanglefoot",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gate Keeper",
+                  "text": "Be careful in there, there are still some of those baby Tanglefootii around."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

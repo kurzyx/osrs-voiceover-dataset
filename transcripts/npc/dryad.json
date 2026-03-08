@@ -1,0 +1,77 @@
+{
+  "ref": "dryad",
+  "categoryRef": "npc",
+  "title": "Dryad",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Completing the event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, what's going on?"
+            },
+            {
+              "speaker": "Dryad",
+              "text": "Greetings, I am trying to rejuvenate the forests with a ritual. Would you like to help?"
+            },
+            {
+              "speaker": "Dryad",
+              "text": "Oh, well, if you change your mind, just ask."
+            },
+            {
+              "speaker": "Dryad",
+              "text": "If you could help block the odd ritual circles by standing on them, I will be able to power up the ritual."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Dryad",
+              "text": "No ritual steps were completed."
+            },
+            {
+              "speaker": "Dryad",
+              "text": "Under one-quarter of the ritual steps have been completed."
+            },
+            {
+              "speaker": "Dryad",
+              "text": "Over one-quarter of the ritual steps have been completed."
+            },
+            {
+              "speaker": "Dryad",
+              "text": "Over half the ritual steps have been completed."
+            },
+            {
+              "speaker": "Dryad",
+              "text": "Over three-quarters of the ritual steps were completed. Well done!"
+            },
+            {
+              "speaker": "Dryad",
+              "text": "You all completed every ritual step, amazing!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

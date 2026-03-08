@@ -1,0 +1,182 @@
+{
+  "ref": "mysterious-old-man",
+  "categoryRef": "npc",
+  "title": "Mysterious Old Man",
+  "sections": [
+    {
+      "title": "Standard dialogue - Mime Show version",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "Hey, [player name], would you like to come and perform in a mime show?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeah, I'd love to do a mime show."
+            },
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "You need to copy the mime's performance, then you'll be returned to where you were."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I'm busy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue - Maze version",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "Hey, [player name], would you like to come and solve a maze for me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, I like exploring mazes."
+            },
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "Reach the maze centre as fast as possible. The faster you are, the better your reward."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I'm busy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue - Hand out item version",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "Ah, so you are there. I hoped you would talk to me, I get so lonely. Here, have a present! I must be going now though."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the event is not yours",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "Sorry, I'm trying to speak to someone else, but [he/she/they] seems to be ignoring me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player completed the event or is in a zone where the random event isn't allowed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "Goodbye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Random event overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "[player name]!"
+            },
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "Hello? [player name]?"
+            },
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "Talk to me, [player name]!"
+            },
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "[player name]? Are you there?"
+            },
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "I'd like to talk to you, [player name]!"
+            },
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Crack the Clue II",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "I'm sorry, but you are no use to me."
+            },
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "Here, take this. But tell no one I was here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Crack the Clue III",
+      "sections": [
+        {
+          "title": "Entering the bank vault",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Old Man",
+                  "text": "Well done! It's time to take your reward!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mysterious Old Man",
+              "text": "Well done! I have new information to share with you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

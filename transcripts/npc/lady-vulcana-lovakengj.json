@@ -1,0 +1,173 @@
+{
+  "ref": "lady-vulcana-lovakengj",
+  "categoryRef": "npc",
+  "title": "Lady Vulcana Lovakengj",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before The Forsaken Tower",
+          "sections": [
+            {
+              "title": "If the player does not have the requirements to start The Forsaken Tower",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Councillor Unkar",
+                      "text": "...and he says that it's of the greatest urgency."
+                    },
+                    {
+                      "speaker": "Lady Vulcana Lovakengj",
+                      "text": "Greatest urgency? I don't like urgency. This is quite simply not on."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hiya!"
+                    },
+                    {
+                      "speaker": "Lady Vulcana Lovakengj",
+                      "text": "Who is this human, Councillor Unkar? What are they doing here?"
+                    },
+                    {
+                      "speaker": "Councillor Unkar",
+                      "text": "I'm afraid I don't know."
+                    },
+                    {
+                      "speaker": "Lady Vulcana Lovakengj",
+                      "text": "Oh. Could you make them go away?"
+                    },
+                    {
+                      "speaker": "Councillor Unkar",
+                      "text": "Sorry human. We're currently engaging in important official business. You'll need to come back another time."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "After The Forsaken Tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "Oh look, it's the human. Hello human."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about yourself."
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "Myself? Oh."
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "Well I'm Vulcana Lovakengj, the head of Lovakengj House. I rule the city of Lovakengj."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Cool."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anything else?"
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "Oh... No I don't think so."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Huh, fair enough."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Lovakengj."
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "Lovakengj?"
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "Yes! I know a lot about Lovakengj!"
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "Lovakengj is a city of dwarves. It's the only non-human city in Kourend."
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "Lovakengj is very important you know. The resources mined here are used throughout the kingdom. Weapons, armour, tools, buildings..."
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "All sorts of things come out of Lovakengj."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about your plans."
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "My plans? Hmm let me see now..."
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "Ah, I know. I'll have a sherry."
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "Jorra! Bring me a sherry."
+                },
+                {
+                  "speaker": "Jorra",
+                  "text": "Yes Lady Lovakengj."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye."
+                },
+                {
+                  "speaker": "Lady Vulcana Lovakengj",
+                  "text": "Goodbye human."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "If the player lost the memoir page before using it on the memoir",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lady Vulcana Lovakengj",
+              "text": "Oh look, it's the human. Hello human."
+            },
+            {
+              "speaker": "Lady Vulcana Lovakengj",
+              "text": "Apparently you need a reward or something? Here you go."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

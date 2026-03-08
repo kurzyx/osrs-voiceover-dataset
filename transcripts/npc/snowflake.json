@@ -1,0 +1,126 @@
+{
+  "ref": "snowflake",
+  "categoryRef": "npc",
+  "title": "Snowflake",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Snowflake",
+              "text": "Thank you for getting our herb patches to work. Now Boulder can grow goutweed for my people, and they are very happy."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I have another copy of that book?"
+            },
+            {
+              "speaker": "Snowflake",
+              "text": "Yes, I have another copy for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "How are you two doing?"
+            },
+            {
+              "speaker": "My Arm",
+              "text": "Snowflake an' My Arm very happy. Maybe new herbie patch not da only place where new life gonna be growin' soon!"
+            },
+            {
+              "speaker": "Snowflake",
+              "text": "Let's not get ahead of ourselves, dear! But the town is thriving; my people are much happier now they are no longer terrified of Father."
+            },
+            {
+              "speaker": "My Arm",
+              "text": "Dem trolls likin' da goutweed too!"
+            },
+            {
+              "speaker": "Player",
+              "text": "That's nice."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you note my basalt for me?"
+            },
+            {
+              "speaker": "Snowflake",
+              "text": "You aren't carrying any basalt."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll be off."
+            },
+            {
+              "speaker": "Snowflake",
+              "text": "You will always be welcome back."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When using basalt on her",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "When using goat dung on her",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [
+            {
+              "title": "Talking again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "My Arm",
+                      "text": "That doesn't look solved to me."
+                    },
+                    {
+                      "speaker": "My Arm",
+                      "text": "Well done [player name]. Here you go."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "My Arm",
+                  "text": "Here, solve this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

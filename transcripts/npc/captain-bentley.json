@@ -1,0 +1,69 @@
+{
+  "ref": "captain-bentley",
+  "categoryRef": "npc",
+  "title": "Captain Bentley",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Pirates' Cove",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can we head to Lunar Isle?"
+                },
+                {
+                  "speaker": "Captain Bentley",
+                  "text": "Sure matey!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lunar Isle",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi."
+                },
+                {
+                  "speaker": "Captain Bentley",
+                  "text": "And you're wanting what now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you take me back to Rellekka please?"
+                },
+                {
+                  "speaker": "Captain Bentley",
+                  "text": "I'll take you as far as Pirates' Cove. You'll have to find the rest of the way back yourself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So we're here?"
+                },
+                {
+                  "speaker": "Captain Bentley",
+                  "text": "Yep. You're free to explore the island. Be careful though, the Moon Clan are very powerful, it wouldn't be wise to wrong them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, I'll keep that seal of passage close."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

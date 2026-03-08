@@ -1,0 +1,71 @@
+{
+  "ref": "tonali-warrior",
+  "categoryRef": "npc",
+  "title": "Tonali Warrior",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tonali Warrior",
+              "text": "Nilsal, traveller. You walk on holy ground. Please ensure you are respectful."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Entering the Crypt of Tonali",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tonali Warrior",
+              "text": "I'm sorry, traveller, but access into the Crypt of Tonali is restricted. You may not enter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Defending the Crypt of Tonali during the The Final Dawn",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tonali Warrior",
+              "text": "Nilsal, adventurer. Good work in dealing with those cultist!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing The Final Dawn",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Tonali Warrior",
+              "text": "Nilsal, adventurer. I hope you are doing well?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Very well, thank you."
+            },
+            {
+              "speaker": "Tonali Warrior",
+              "text": "Glad to hear it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

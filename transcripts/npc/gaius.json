@@ -1,0 +1,49 @@
+{
+  "ref": "gaius",
+  "categoryRef": "npc",
+  "title": "Gaius",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gaius",
+              "text": "Welcome to my two-handed sword shop."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, but not today."
+            },
+            {
+              "speaker": "Gaius",
+              "text": "Very well, but do please call again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gaius",
+                  "text": "Here you go."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

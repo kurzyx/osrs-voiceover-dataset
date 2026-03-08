@@ -1,0 +1,74 @@
+{
+  "ref": "bob",
+  "categoryRef": "npc",
+  "title": "Bob",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Right click \"Repair\" option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bob",
+                  "text": "You don't have anything I can repair."
+                },
+                {
+                  "speaker": "Bob",
+                  "text": "There you go, happy doing business with you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Left click \"Use\" item on Bob",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bob",
+                  "text": "Sorry friend, but I can't do anything with that."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Give me a quest!"
+            },
+            {
+              "speaker": "Bob",
+              "text": "Get yer own!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Have you anything to sell?"
+            },
+            {
+              "speaker": "Bob",
+              "text": "Yes! I buy and sell axes! Take your pick (or axe)!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you repair my items for me?"
+            },
+            {
+              "speaker": "Bob",
+              "text": "Of course I'll repair it, though the materials may cost you. Just hand me the item and I'll have a look."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

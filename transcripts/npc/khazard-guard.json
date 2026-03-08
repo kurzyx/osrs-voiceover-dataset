@@ -1,0 +1,108 @@
+{
+  "ref": "khazard-guard",
+  "categoryRef": "npc",
+  "title": "Khazard Guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "While wearing Khazard Armour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "There should be some good fights today."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "I think I'll head to the bar on my next break."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Keep an eye out for anything suspicious."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "Don't bother me while I'm on duty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to prison guards without disguise",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Khazard Guard",
+                  "text": "What are you doing here? Leave at once!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Khazard Guard",
+              "text": "I don't know you, stranger. Get off our land."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After completing Fight Arena",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Khazard Guard",
+              "text": "You! You're the one who killed Bouncer."
+            },
+            {
+              "speaker": "Khazard Guard",
+              "text": "Die you monster!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

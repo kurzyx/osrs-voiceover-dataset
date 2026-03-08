@@ -1,0 +1,3924 @@
+{
+  "ref": "throne-of-miscellania",
+  "categoryRef": "quest",
+  "title": "Throne of Miscellania",
+  "sections": [
+    {
+      "title": "Pre-quest",
+      "sections": [
+        {
+          "title": "Talking to Queen Sigrid before the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er...Hello, Your Majesty."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Have you come for a particular reason? I am a busy Queen, you know. I had to attend the opening of a new orphanage this morning."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I..."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "And this afternoon I shall be receiving the Embassador of Karamja and accompanying him on his week-long tour of Etceteria."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, I..."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Then this evening we shall be putting on a grand ball! All of the kingdom's nobility will be present!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If I m..."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Oh, who am I kidding...nothing ever happens here. I always wanted to be a princess when I was a girl. If I'd been told it would be like this, I wouldn't have bothered."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty!"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Yes? Did you want something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...actually, no."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Guard at door to throne room",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Halt! Who goes there?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "My name is [Fremennik name], will you not let me through?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "I'm afraid the King won't give an audience to anyone except a worthy hero."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "If you become a member of the Heroes' Guild, he will definitely grant you an audience."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am a member of the Heroes' Guild; does that not show my worth?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Then you may pass."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Guard at the throne room after entering once",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "[Welcome back, Sir/Welcome back, Madam/Welcome back, ]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand before the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[Good day, sir/Good day, madam/Good day]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid before the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[Good day, sir/Good day, madam/Good day]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Advisor Ghrim before the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[Greetings, Sir/Greetings, Madam/Greetings]."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "The King needs someone to take over the rule of the Kingdom. If I were you, I should consider the position."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Getting started",
+      "sections": [
+        {
+          "title": "Talking to King Vargas",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "King Vargas",
+                  "text": "Who are you? Who seeks audience with the King of this fair land of Miscellania?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am known in these lands as [Fremennik name], Your Majesty. I come in search of a quest."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Ah, it pleases me to see such enthusiasm!"
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "I was once an adventurer such as yourself; even while fulfilling my duties as King of Miscellania, I would roam the lands in search of adventure, and strike down mighty foes with a single blow!"
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Unfortunately, I was a little too daring, and attempted to brave the icelands, where I finally met my match."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "I survived, barely, but I was cursed for the rest of my life to stay in this form. Which leaves me incapable of performing my duties as ruler."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "This is why I am looking for an exceptional soul to be regent of this fair kingdom of Miscellania."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If I may be so bold, Your Majesty, I think Miscellania would rest in capable hands with me."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Hahaha! You are bold, [Fremennik name], but then I have yet to see a good ruler who was not."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "You will first have to demonstrate your worth. You are a good warrior, that I do not doubt; however ruling also requires a good grasp of diplomacy."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "We have been at war with neighbouring Etceteria for hundreds of years; however, I think both of us have rather lost our appetite for hostilities."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Now may be an opportune time to make amends. If you manage to negotiate peace with them, then you will truly have shown your skill as a diplomat."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Then do not stray far, Your Majesty, for I shall soon return."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Wait! There is one more matter to discuss... a mere formality, of course."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "By Miscellanious tradition, one may not become regent of the kingdom unless in the trust of the royal family."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "This includes that of the future king or queen. It is yet too early for me to decide which of my children should inherit the throne."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Until then, gaining the trust of one of them should suffice. Who knows? Your choice might help me make a decision later."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "So tell me! Which of my children will you attempt to gain the trust of?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I would like to choose Prince Brand."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And you say this is a mere formality, Your Majesty?"
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "I am sure you can form a good working relationship with him. You can ask Ghrim for advice; that's what he's here for, after all."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I would like to choose Princess Astrid."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And you say this is a mere formality, Your Majesty?"
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "I am sure you can form a good working relationship with her. You can ask Ghrim for advice; that's what he's here for, after all."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid I must decline, Your Majesty. The call of adventure is too strong for me to accept a sedentary life."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "I can assure you that I managed to heed that same call, and ruling this land was no hindrance to me. However, I understand your decision. Fare thee well!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to King Vargas again after starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "How are you getting on, [Fremennik name]? Have you talked to Queen Sigrid of Etceteria?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, Your Majesty."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to earn Prince Brand's approval instead."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "As you wish. Good luck!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I changed my mind."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "As you wish. I will keep this conversation between us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to earn Princess Astrid's approval instead."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to King Vargas after starting to gain approval",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "How are you getting on, [Fremennik name]? Have you talked to Queen Sigrid of Etceteria?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, Your Majesty."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to earn Prince Brand's approval instead."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Is that so? I can let them both know, but you may find that the Prince has taken the news rather coldly. A broken trust is difficult to mend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to earn Princess Astrid's approval instead."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Is that so? I can let them both know, but you may find that the Princess has taken the news rather coldly. A broken trust is difficult to mend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Advisor Ghrim after starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[Greetings, Sir/Greetings, Madam/Greetings]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What am I meant to be doing again?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[Negotiating peace with Etceteria, Sir/Negotiating peace with Etceteria, Madam/Negotiating peace with Etceteria]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I make peace with Etceteria?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "You should go talk to Queen Sigrid of Etceteria."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How am I supposed to gain the trust of the Prince?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "I think you may find that talking to him would be a good way to start."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "A ring may be an appropriate gift to formalise your friendship"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How am I supposed to gain the trust of the Princess?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "I think you may find that talking to her would be a good way to start."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there anything else you can tell me?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "What would you like to know, [Sir/Madam/ ]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can you tell me about the King?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "King Vargas was once a brave and noble adventurer, well-loved by his subjects. Unfortunately, he was cursed while seeking a quest in the icelands to the north, and is now unable to reign."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can you tell me about the Prince?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Prince Brand has always dreamed of becoming a famous bard; unfortunately, his musical and literary skills are somewhat lacking."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "He has no interest in ruling the kingdom, and seems to spend his time daydreaming or composing quite awful poems, and sagas of totally mundane events."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "He is rather vain, if you'll pardon my saying so; he will greatly appreciate any compliments on his poetry. He also has quite a sweet tooth."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can you tell me about the Princess?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Princess Astrid thinks she'd be perfectly capable of ruling the kingdom, but her father doesn't trust her enough by herself."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Especially since she devotes herself to the - as the King sees it - cowardly skill of archery rather than the noble skill of melee combat..."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "She is fond of jewellery, and of course she collects bows. She is also quite the conversationalist."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Many have tried to capture her attention, but she has yet to be impressed by any of them."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Many have tried to capture her attention, but you are the first to succeed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can you tell me about Queen Sigrid?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Queen Sigrid is quite envious of King Vargas, since he has the larger kingdom."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "The King and she have never seen eye-to-eye, but I think if you approach her you may find her quite reasonable."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Gaining the approval of Prince Brand",
+      "sections": [
+        {
+          "title": "Talking to Princess Astrid while gaining the approval of Prince Brand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[Good day, sir/Good day, madam/Good day]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving items to Princess Astrid while gaining the approval of Prince Brand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[No thank you, sir/No thank you, madam/No thank you]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using emotes toward Princess Astrid while gaining the approval of Prince Brand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[What's wrong, sir/What's wrong, madam/What's wrong]?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[If you want to cheer someone on, sir/If you want to cheer someone on, madam/If you want to cheer someone on], I suggest you find my brother."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm staying right here."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "What's so funny, [Sir/Madam]?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Hmph!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[You dance well, sir/You dance well, madam/You dance well]?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[Sorry, sir/Sorry, madam/Sorry], but I'm not interested."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[If you want to applaud someone, sir/If you want to applaud someone, madam/If you want to applaud someone,] I suggest you find my brother."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving a ring to Prince Brand too early",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I couldn't possibly accept this."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[Good day, sir/Good day, madam/Good day]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day, Your Royal Highness."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "As I'm sure you are aware, your father the King is seeking someone to rule the Kingdom in his stead. I have put myself forward, but in order for me to become ruler..."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "...you have to earn my approval?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, Your Royal Highness."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Ahahahaha!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Come now, what interest would I have in a crass adventurer like yourself? What would you know of the poetry that flows through my veins like an avalanche through a peaceful mountain village?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think you may find I know good poetry when I see it, Your Royal Highness..."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "This may be the case. I am willing to give you a chance; if you impress me enough, I will consider trusting you as our regent."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand after beginning the approval process",
+          "sections": [
+            {
+              "title": "Random dialogue options",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Beards? Dangerous, flammable and make you look mad!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Care to sign my petition for pet frogs?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Cattle prod? Weapon of choice I reckon."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Don't threaten me with a dead fish!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "He is clearly 1 cup short of a full service."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm a little teapot, short and stout..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm rubber you're glue.........!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Lies!!! It's all lies!!!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Look over there! A King Black Dragon!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Lumbridge? No, I wouldn't be seen dead there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Nah, that Kalphite was weedier than your garden."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Selling ring of poverty 30 mil!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sneaky sneaky stick da chompy."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What level do you need to cook cats?"
+                    },
+                    {
+                      "speaker": "Prince Brand",
+                      "text": "...What?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I composed a poem, would you like to hear it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course, I'd love to."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I got up This morning, And had an egg For breakfast"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And then what happened?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "No, that's the whole poem."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh. I see."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Be still, my heart."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I'm glad you liked it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That doesn't even rhyme!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Quiet! What would you know about poetry?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am surprised you do not have hordes of admirers vying to be your significant other, Your Highness."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[And why do you think that might be, sir/And why do you think that might be, madam/And why do you think that might be]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No-one's ever heard of you."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[I am insulted, sir/I am insulted, madam/I am insulted]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They don't understand your poetry as I do."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[Mmm, a very good answer, sir/Mmm, a very good answer, madam/Mmm, a very good answer]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They're all already married."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Hm, no, I don't think that's the right reason."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, you practice the harp? I see you have one over there."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Yes; I play the lyre and the harp, and compose songs, poems and sagas to move you, to delight you and entertain you! Sadly, my father does not think much of the art. What do you think?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You should listen to your father."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I'm sorry you feel that way."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You will be the greatest bard!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I'm so glad you agree!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're an awful bard."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[I am insulted, sir/I am insulted, madam/I am insulted]!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand after finishing the first set of dialogues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[Good day, sir/Good day, madam/Good day]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving flowers to Prince Brand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Are these for me? Really?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course, Your Royal Highness."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Thank you! They're lovely!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I was just showing you."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Oh, all right."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving a second bouquet of flowers to Prince Brand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You've already given me some, but thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using emotes toward Prince Brand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[What's wrong, sir/What's wrong, madam/What's wrong]?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Thank you. It's nice to be appreciated."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I'm staying right here."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[What's so funny, sir/What's so funny, madam/What's so funny]?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You are silly!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[You dance well, sir/You dance well, madam/You dance well]."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[Let's not get ahead of ourselves now, sir/Let's not get ahead of ourselves now, madam/Let's not get ahead of ourselves now]!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand after gaining sufficient approval",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[You have perhaps more poetry in your soul than I first thought, sir/You have perhaps more poetry in your soul than I first thought, madam/You have perhaps more poetry in your soul than I first thought]..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm flattered to hear you say so, Your Royal Highness."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Oh, but I realise you have not yet told me your name!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "My name is [Fremennik name], Your Highness."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[Then I shall I call you [Fremennik name], sir/Then I shall I call you [Fremennik name], madam/Then I shall I call you [Fremennik name]], and you shall call me Prince."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Very well, Prince."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using emotes toward Prince Brand after formal introduction",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "What's wrong, [Fremennik name]?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Thank you. It's nice to be appreciated."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I'm staying right here."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "What's so funny, [Fremennik name]?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You are silly!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You dance well, [Fremennik name]."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Let's not get ahead of ourselves now, [Fremennik name]!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Thank you, [Fremennik name]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand again after formal introduction",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So, why did you decide to become a bard?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Poetry and music have always fascinated me. I am drawn to them like a moth to an overenthusiastic mage who has set himself on fire."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How poetic."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Why thank you. Sometimes I amaze even myself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's a strange metaphor..."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "It is a simile, but what do you know of poetry?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait, are you the moth or the mage?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "The moth!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I composed a saga, would you like to hear it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know if I have time for a whole saga..."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Don't worry, it's quite short. Here we go!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Once upon a time there was a Prince, And Brand was his name, He always had a song in his heart, And a rhyme in his head,"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "And he became the world's greatest bard, And delighted one and all, With his songs and sagas, And Brand was his name!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How inspiring!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Thank you! I thought I would compose something for future generations, to tell them my story."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think my ears are bleeding."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "If you don't appreciate my singing, you are free to leave!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's not a saga!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "It's a short one, I'll admit..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What would you do if you became ruler of Miscellania?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Oh, I would never concern myself with such trivial matters as those involved in ruling a Kingdom. My interests lie solely in the arts."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A much nobler pursuit, to be sure."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I am glad you agree."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If only you were any good at them..."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I am insulted, [Fremennik name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're just afraid of responsibility."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Perhaps you are right..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand after finishing the second set of dialogues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Good day, [Fremennik name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day, my Prince."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using irrelevant items on Prince Brand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "No thank you, [Fremennik name]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving cake, chocolate cake, or 1/3 or 2/3 cake to Prince Brand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Is this for me? Really?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course, Prince."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Thank you! It's lovely!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I was just showing you."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Oh, all right."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving a second piece of cake to Prince Brand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You've already given me one, but thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand after giving him cake",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I must admit I am growing quite fond of you, [Fremennik name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could it be, my Prince, that you would consider trusting a crass adventurer such as myself to run your kingdom?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Not quite yet, my good friend; let us just say, the future is a maze of inescapable decisions, and you are one possible answer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using irrelevant items on Prince Brand after asking about running the kingdom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "No thank you, dear."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand after asking about running the kingdom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I wrote a song about you. Would you like to hear it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd love to!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Your hair is like a waterfall Or perhaps a bramble bush Your eyes are like an ocean on which I want to sail the ship of our connection!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Eyes...ship...sail...what?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Was it really that hard to understand?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That was awful!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Fine! See if I write you any more songs!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That was lovely. I'm touched!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I'm glad you liked it, my dear."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Tell me, have you ever composed any poems yourself?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wouldn't presume to have the skill..."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You're right, it takes great skill and inspiration to be a great poet such as myself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not really, but it can't be that hard."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You don't seem to understand poetry at all..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There once was a man from Varrock..."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Don't lower the art of poetry with such bawdy rhymes!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you think of your sister?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "We don't always see eye-to-eye, but she understands my art better than our father."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm glad to hear it."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Of course, she couldn't understand as well as you do, my dear."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What art is that?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Music and poetry. Surely you haven't forgotten already?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You should listen to your father."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I'm sorry you think so."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand after finishing the third set of dialogues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Hello, dear"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello, my Prince."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using emotes toward Prince Brand after the third set of dialogues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "What's wrong, dear?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Thank you. It's nice to be appreciated."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I'm staying right here."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "What's so funny, dear?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You are silly!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You dance well, dear."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You flatter me, my dear."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Thank you, dear."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving a ring to Prince Brand after blowing a kiss",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Is this for me? Really?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, a gift fit for my prince!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Prince Brand, will you marry me?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "My heart is an open book to you, my dear, and all the pages say yes... ''Yes''!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "We'll have to put off the actual ceremony until we can find a priest, but you can tell my father I have agreed to marry you."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "What a beautiful gift! I think you'd make a great Thane running our realm. Can you inform my father that you have earned my trust?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand after he takes the ring",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "How fares the kingdom?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "All is well, my Prince"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Prince Brand, will you marry me?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Oh, my dear, you've made me the happiest person alive."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is that a yes?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Yes! We'll have to put off the actual ceremony until we can find a priest, but you can tell my father I have agreed to marry you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, my dear, I was just showing you."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Oh, all right."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving a second ring to Prince Brand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You've already given me one, remember?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand after agreeing to marry",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "How are you doing, dear? Have you convinced my father yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, my dear."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm having second thoughts about the wedding. This marriage would change things, with an increase in responsibilities and duties you were keen to avoid."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "While I want to support the kingdom, I don't want that to end up impacting your life negatively. Maybe it's too soon to make this kind of decision."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You're right, I am not interested in more responsibilities. I would have less time for poetry! Is that your final decision?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I think it's for the best."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Well, I think you'll make a great Thane for our kingdom."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe not. It is hard, for I am so very fond of you. Let's leave it as it is for now and see what the future holds."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Agreed."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Gaining the approval of Princess Astrid",
+      "sections": [
+        {
+          "title": "Talking to Prince Brand while gaining the approval of Princess Astrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[Good day, sir/Good day, madam/Good day]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving items to Prince Brand while gaining the approval of Princess Astrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[No thank you, sir/No thank you, madam/No thank you]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using emotes toward Prince Brand while gaining the approval of Princess Astrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[What's wrong, sir/What's wrong, madam/What's wrong]?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[Thank you, sir/Thank you, madam/Thank you]."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I'm staying right here."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[What's so funny, sir/What's so funny, madam/What's so funny]?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Hmph!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[You dance well, sir/You dance well, madam/You dance well]."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[Sorry, sir/Sorry, madam/Sorry], but I'm not interested."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving a ring to Princess Astrid too early",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I couldn't possibly accept this."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[Good day, sir/Good day, madam/Good day]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day, Your Royal Highness."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "As I'm sure you are aware, your father the King is seeking someone to rule the Kingdom in his stead. I have put myself forward, but in order for me to become ruler..."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "...you have to earn my approval?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, Your Royal Highness."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "You realise, I hope, that many have tried to impress me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I take it you are not especially inspired by any of them?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "That is true. However, I am willing to give you a chance; if you impress me enough, I will consider trusting you as our regent."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid after beginning the approval process",
+          "sections": [
+            {
+              "title": "Random dialogue options",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Beards? Dangerous, flammable and make you look mad!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Care to sign my petition for pet frogs?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Cattle prod? Weapon of choice I reckon."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Don't threaten me with a dead fish!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "He is clearly 1 cup short of a full service."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm a little teapot, short and stout..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm rubber you're glue.........!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Lies!!! It's all lies!!!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Look over there! A King Black Dragon!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Lumbridge? No, I wouldn't be seen dead there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Nah, that Kalphite was weedier than your garden."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Selling ring of poverty 30 mil!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sneaky sneaky stick da chompy."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What level do you need to cook cats?"
+                    },
+                    {
+                      "speaker": "Princess Astrid",
+                      "text": "...What?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So, you practice archery? I see you have a bow mounted on your wall."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Yes; my father thinks it is a cowardly art, but I find there is just as much courage, and more skill, involved in going into combat with just a bow and quiver. What do you think?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Archers are all cowards!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[I am insulted, sir/I am insulted, madam/I am insulted]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Archery is a noble art!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm so glad you agree!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You should listen to your father."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm sorry you feel that way."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, tell me about all these other admirers you have."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "They never cease to bother me. They swarm around me like flies, all hoping to win my heart."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Perhaps I should use them for target practice!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know why they bother..."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I don't know why YOU bother."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You monster!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I was only joking."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hahahaha!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can hold them still for you if you like."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "How do you know I wouldn't hit you as well?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have confidence in your skills, Your Royal Highness."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you think of Advisor Ghrim?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "He's a bit scary sometimes, but he's always so nice to me! When I was young, I called him Uncle Ghrim."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think he's far too grumpy."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm sure he'd lighten up if you were nicer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He's been very helpful."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Yes, my father made a wise decision when he chose him to be his advisor."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No wonder you turned out like this..."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[I'm insulted, sir/I'm insulted, madam/I'm insulted]!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving flowers to Princess Astrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Are these for me? Really?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course, Your Royal Highness."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Thank you! They're lovely!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I was just showing you."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Oh, all right."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving a second boquet of flowers to Princess Astrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "You've already given me some, but thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using emotes toward Princess Astrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[What's wrong, sir/What's wrong, madam/What's wrong]?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[If you want to cheer someone on, sir/If you want to cheer someone on, madam/If you want to cheer someone on], I suggest you find my brother."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm staying right here."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[What's so funny, sir/What's so funny, madam/What's so funny]?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "You are silly!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Impressive. I like someone who knows how to dance."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[Let's not get ahead of ourselves now, sir/Let's not get ahead of ourselves now, madam/Let's not get ahead of ourselves now]!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[If you want to applaud someone, sir/If you want to applaud someone, madam/If you want to applaud someone], I suggest you find my brother."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid after gaining sufficient approval",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[You are perhaps a more interesting person than I first took you for, sir/You are perhaps a more interesting person than I first took you for, madam/You are perhaps a more interesting person than I first took you for]..."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Oh, but I realise you have not yet told me your name!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "My name is [Fremennik name], Your Highness."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "[Then may I call you [Fremennik name], sir/Then may I call you [Fremennik name], madam/Then may I call you [Fremennik name]]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If I may call you Astrid, Your Royal Highness."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "You may call me 'Princess'."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Very well, Princess."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using emotes toward Princess Astrid after formal introduction",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "What's wrong, [Fremennik name]?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "If you want to cheer someone on, [Fremennik name], I suggest you find my brother."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm staying right here."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "What's so funny, [Fremennik name]?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "You are silly!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Impressive. I like someone who knows how to dance."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Let's not get ahead of ourselves now, [Fremennik name]!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "If you want to applaud someone, [Fremennik name], I suggest you find my brother."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid again after formal introduction",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What would you do if you ruled this Kingdom?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Very little. It's not as if there's much to it... I might try to set up trade with other islands."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's not very enterprising."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Fine. You try to do better!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That sounds like a good idea."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Thank you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What a silly idea! As if anyone would be interested!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Watch it, or you won't get the chance to do better."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what's the history of these islands?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Well, nothing very exciting ever happened until my father declared war on Etceteria..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why did he do that?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Queen Sigrid of Etceteria insulted him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hahahaha!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "It's not that funny."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well excuse me, Princess!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He probably deserved it."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm insulted, [Fremennik name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened next?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "He realised that neither of us have an army."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So why are you so interested in archery?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm not sure. Even when I was little, archery always fascinated me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm quite fond of it myself."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "It's good to know someone who shares my interests."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You should stick to knitting."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'll knit you a lovely jumper, shall I? It'll keep you warm when I have you exiled to the icelands."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You should try swordfighting instead."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "That's not really the kind of thing I'm interested in."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid after finishing the second set of dialogues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Good day, [Fremennik name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day, Princess."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using irrelevant items on Princess Astrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "No thank you, [Fremennik name]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving a bow to Princess Astrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Is this for me? Really?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course, Princess."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Thank you! It's lovely!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I was just showing you."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Oh, all right."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving a second bow to Princess Astrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "You've already given me one, but thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid after giving her the bow",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I must admit I am growing quite fond of you, [Fremennik name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "My, could it be that I have succeeded where so many before me have failed, and finally earned the trust of the Princess?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Not yet, my dear; let us just say you have made it onto the shortlist."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using irrelevant items on Princess Astrid after asking about running the kingdom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "No thank you, dear."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid after asking about running the kingdom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "So, my dear, what do you think of Miscellania?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's a lovely little country."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm glad you like it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's boring."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Then perhaps you shouldn't be thinking of becoming its ruler."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I've seen better..."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm quite fond of it myself..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you think of your brother?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "We don't always get along, but I'm sure he's a nice guy at heart."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And what a great bard he makes!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Haha! Oh yes, quite the bard, he is."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have heard better drains!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "You don't sound like a nightingale yourself!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I really don't like him."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "That's not a nice thing to say."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you go out into battle often?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Not often, no. I sometimes go hunting..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And you call yourself an archer?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I take what chance for practice I can get."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hunting the mighty rabbits outside the castle? Slaying the foul fowl that terrorises the town?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "That's not funny."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose you don't have much opportunity to."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Exactly! Perhaps you could take me with you sometime, dear."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using emotes toward Princess Astrid after asking about running the kingdom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "What's wrong, dear?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "If you want to cheer someone on, dear, I suggest you find my brother."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm staying right here."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "What's so funny, dear?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "You are silly!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Impressive. I like someone who knows how to dance."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "*giggle* My, aren't you the charmer?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "That's very sweet, darling."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "If you want to applaud someone, dear, I suggest you find my brother."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid after finishing the third set of dialogues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Hello, dear."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello, darling."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving a ring to Princess Astrid after finishing the third set of dialogues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Is this for me? Really?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, a gift fit for my Princess!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Princess Astrid, will you marry me?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Oh, my dear, I thought you'd never ask! Of course I'll marry you!"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "We'll have to put off the actual ceremony until we can find a priest, but you can tell my father I have agreed to marry you."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "What a beautiful gift! I think you'd make a great Thane running our realm. Can you inform my father that you have earned my trust?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, my darling, I was just showing you."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Oh, all right."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid after she takes the ring",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "How fares the kingdom?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "All is well, Princess."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Princess Astrid, will you marry me?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Oh, my dear, you've made me the happiest person alive."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is that a yes?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Yes! We'll have to put off the actual ceremony until we can find a priest, but you can tell my father I have agreed to marry you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving a second ring to Princess Astrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "You've already given me one, remember?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid after agreeing to marry",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "How are you doing, darling? Have you convinced my father yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, my darling."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm having second thoughts about the wedding. This marriage would change things, with an increase in responsibilities and duties that would overshadow the activities you like."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "While I want to support you and the kingdom, I don't want that to end up impacting your life negatively. Maybe it's too soon to make this kind of decision."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "My darling, that is very thoughtful of you and you make a convincing point. Are you... absolutely sure?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I think it's for the best."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I think you'll make a great Thane for our kingdom."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe not. It it hard, for I am so very fond of you. Let's leave it as it is for now and see what the future holds."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Agreed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid after swapping to gain her approval",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "How fares the kingdom?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "All is well, Princess."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Princess Astrid, will you marry me?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After gaining trust or agreeing to marry",
+      "sections": [
+        {
+          "title": "Talking to King Vargas after gaining trust of the heir",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "How are you getting on, [Fremennik name]? Have you talked to Queen Sigrid of Etceteria?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, Your Majesty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Changing heirs dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I think Princess Astrid would make the best heir."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Is that your honest opinion after having spent time with my son? The Prince might receive the news rather coldly. A broken trust is difficult to mend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "As you wish. I will pay heed to your recommendation."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I changed my mind."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "As you wish. I will keep this conversation between us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think Prince Brand would make the best heir."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Is that your honest opinion after having spent time with my daughter? The Princess might receive the news rather coldly. A broken trust is difficult to mend."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Negotiating the peace deal with Queen Sigrid",
+      "sections": [
+        {
+          "title": "Talking to Queen Sigrid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er...Hello, Your Majesty."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Have you come for a particular reason? I am a busy Queen, you know. I had to attend the opening of a new orphanage this morning."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I..."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "And this afternoon I shall be receiving the Embassador of Karamja and accompanying him on his week-long tour of Etceteria."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, I..."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Then this evening we shall be putting on a grand ball! All of the kingdom's nobility will be present!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If I m..."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Oh, who am I kidding...nothing ever happens here. I always wanted to be a princess when I was a girl. If I'd been told it would be like this, I wouldn't have bothered."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty!"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Yes? Did you want something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have been sent by King Vargas to negotiate a treaty of peace between your two great nations."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Great nations? Don't make me laugh. Still, peace sounds like a nice idea. He will, of course, have to recognise Etceteria officially as a sovereign nation."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This isn't already the case?"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "I'm afraid not. Last time we met I called him a pompous old fool for thinking he was still worth anything as an adventurer."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "He promptly declared war, claiming the land of Etceteria belonged to Miscellania."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "When he realised neither of us had an army, he was ever so angry!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened then?"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "He set off for the icelands to prove me wrong and, well, I expect you saw what happened to him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I shall go ask him to officially recognise Etceteria."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Queen Sigrid again after being asked to talk to King Vargas",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Hello. Have you talked to Vargas yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, Your Majesty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to King Vargas after Queen Sigrid asks for him to recognize Etceteria",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "How are you getting on, [Fremennik name]? Have you talked to Queen Sigrid of Etceteria?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have, Your Majesty. She says she will agree to peace as long as Miscellania recognises Etceteria as a sovereign nation."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Hmph! You can tell her I'll officially recognise her country as soon as she changes the Etceterian national anthem."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why is that, Your Majesty?"
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "It's insulting! The title alone, \"You're Stupid, We're the Best\", should be enough to give you an idea!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sure I can convince her there are better anthems."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to King Vargas again after he asks Sigrid to change the anthem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "How are you getting on, [Fremennik name]? Have you convinced Sigrid yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, Your Majesty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Queen Sigrid after King Vargas asks to change the anthem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Hello. Have you talked to Vargas yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have, Your Majesty. He says he will recognise the country when you change your anthem."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "What? But it's a great anthem, I composed it myself! Listen!"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "\"You're stupid, we're the best, Etceteria beats the rest! and Queen Sigrid is very pretty, King Vargas is a fool, hey, nonny-nonny!\""
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid he insisted, Your Majesty."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Well, it can't be helped I suppose..."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "You'll have to find a bard to write a new one though. And there isn't a bard to be had for love nor money in Etceteria."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll see what I can do, Your Majesty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Queen Sigrid again after she asks for a new anthem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Hello. Have you found a new anthem yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, Your Majesty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Advisor Ghrim after Sigrid asks for a new anthem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[Greetings, Sir/Greetings, Madam/Greetings]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I make peace with Etceteria?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "You should find someone to compose a new anthem for Etceteria."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand to ask for a new anthem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I need someone to compose a new anthem for Etceteria."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You've come to the right bard! I'll write one for you immediately!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You can take your time, really..."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "No problem, I'm already done! Here, listen!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "'Etceteria, Etceteria, Oh what a great country it is, Etceteria, Etceteria, So I wrote a song about it.'"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "'It's somewhere in the sea, And it looks very nice, If it weren't for your ancestors, It wouldn't be there at all,'"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "'And when things aren't going too well, We sing this lovely song, And then we'll all feel so much better, It won't take very long.'"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Here's a copy, you can keep it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...that's lovely, thanks."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[Don't mention it, dear/Don't mention it, sir/Don't mention it, madam/Don't mention it]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand after losing the anthem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I lost my copy of the *ahem* theme you composed..."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Fear not! I made many, many more!"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Here's a copy, you can keep it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...that's lovely, thanks."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "[Don't mention it, dear/Don't mention it, sir/Don't mention it, madam/Don't mention it]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Queen Sigrid after getting the awful anthem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Hello. Have you found a new anthem yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, Your Majesty, but I'm afraid it isn't very good."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Let's see now..."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "'Etceteria, Etceteria, Oh what a great country it is, Etceteria, Etceteria, So I wrote a song about it.'"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "'It's somewhere in the sea, And it looks very nice, If it weren't for your ancestors, It wouldn't be there at all,'"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "'And when things aren't going too well, We sing this lovely song, And then we'll all feel so much better, It won't take very long.'"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Oh dear, no, this simply won't do. Find a better one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Advisor Ghrim with the awful anthem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[Greetings, sir/Greetings, madam/Greetings]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I got Prince Brand to compose a new Etceterian anthem for me, but it's awful!"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Oh dear. Well, that is only to be expected. May I see it, please?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here you go."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Hmm, yes...allow me to make a few adjustments."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[There you go, sir/There you go, madam/There you go]. Are there any other matters in which I may be of assistance?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I make peace with Etceteria?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "You should get another copy of the anthem."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Advisor Ghrim with the good anthem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[Greetings, sir/Greetings, madam/Greetings]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I make peace with Etceteria?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "You should show the anthem to Queen Sigrid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Advisor Ghrim after losing the good anthem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[Greetings, sir/Greetings, madam/Greetings]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I lost the corrected anthem you gave me."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Do you have another copy of the prince's anthem for me to correct?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, here it is."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Hmm, yes...allow me to make a few adjustments."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[There you go, sir/There you go, madam/There you go]. Are there any other matters in which I may be of assistance?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid I don't have one."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "If you bring me another, I can correct it. Are there any other matters in which I may be of assistance?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I make peace with Etceteria?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "You should get another copy of the anthem."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Queen Sigrid with the good anthem",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Hello. Have you found a new anthem yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, Your Majesty."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Let's see now..."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "'Etceteria, Etceteria, Of our country we are proud! Etceteria, Etceteria, Let all sing its name out loud!'"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "'Rising high above the water, The jewel of the North! Our mothers and our fathers, To build this land came forth!'"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "'And in the times of darkness, Sing praises of our land! And in our hearts we can be sure, Our victory is at hand!'"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Why, this is quite good! I'm surprised!"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Here is a treaty declaring what we've mutually agreed to. I've already signed, so all it needs is King Vargas' signature and it'll be official."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Queen Sigrid after getting the treaty",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Hello. Has Vargas signed the treaty yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, Your Majesty."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Hello. Has Vargas signed the treaty yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid I lost it, Your Majesty."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "How silly of you. I'll make you another."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Advisor Ghrim after getting the treaty",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[Greetings, sir/Greetings, madam/Greetings]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I make peace with Etceteria?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "You should show the treaty to the King."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to King Vargas after getting the treaty",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have here a treaty awaiting your signature."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "I doubt I will be able to hold an ordinary pen well enough to sign the treaty. You will have to find a pen large enough for me to hold."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to King Vargas after he asks for a pen",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "How are you getting on, [Fremennik name]? Have you found me a pen yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, Your Majesty."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Advisor Ghrim after King Vargas asks for a pen",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[Greetings, sir/Greetings, madam/Greetings]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I make peace with Etceteria?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "You should find a way to make the nib and body for a very large pen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Derrik after King Vargas asks for a pen",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Derrik",
+                  "text": "Good day, [Sir/Madam/ ]. Can I help you with anything?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a slightly strange request..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The King needs to sign a treaty, but is unable to because he lacks a pen large enough for him to hold. Could you make me a nib of the right size?"
+                },
+                {
+                  "speaker": "Derrik",
+                  "text": "Hm... I may be able to manage that. What sort of size?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "About the size of a helm should do it."
+                },
+                {
+                  "speaker": "Derrik",
+                  "text": "All right, but I'll need an iron bar to make it from."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have one with me."
+                },
+                {
+                  "speaker": "Derrik",
+                  "text": "Well, come back when you have one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have one here."
+                },
+                {
+                  "speaker": "Derrik",
+                  "text": "Good. Just a minute..."
+                },
+                {
+                  "speaker": "Derrik",
+                  "text": "Here you go! One giant pen nib!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using the giant nib on logs",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to King Vargas after getting the giant pen",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "How are you getting on, [Fremennik name]? Have you found me a pen yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here it is, Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Excellent! And now, with a flourish, I sign the end of the rivalry between our two proud kingdoms!"
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Now, how's it going with my [son/daughter], will they accept you as regent?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "[He/She] will, your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Excellent, excellent."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to King Vargas after he signs the treaty",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "King Vargas",
+                  "text": "Ghrim tells me that the population is not yet very supportive of the idea of having you as ruler. You should try to gain their support."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Gaining public support",
+      "sections": [
+        {
+          "title": "Talking to Advisor Ghrim about becoming regent",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[Greetings, sir/Greetings, madam/Greetings]."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "I should tell you right away that killing the people of this Kingdom will not make you popular with anyone."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What am I meant to be doing again?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "[Gaining the support of the population, sir/Gaining the support of the population, madam/Gaining the support of the population]."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Currently, [number]% of the population supports you."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "This is enough for you to become Regent; I should talk to King Vargas if I were you."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "You will need 75 % of the population in your support in order to become Regent."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I gain the support of the population?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "King Vargas would often go and help out his subjects in their daily tasks, when he was still able to do so, and they loved him dearly for it."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Currently, [number]% of the population supports you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to King Vargas after gaining enough support",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Ghrim tells me that the population would be glad to have you as a ruler."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "I see no reason to delay your regency any further. Ghrim, please proceed with the ceremony."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Yes, Your Majesty, I will proceed at once. Ahem..."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "We are gathered here today to witness the rise of a new hero to the regency of the Kingdom of Miscellania, to continue the work of our great King Vargas who is unfortunately now no longer able to rule."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "By the powers invested in me by the Miscellaneous Constitution, I declare thee, [Fremennik name], to be the new Regent of this fair kingdom."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "May you bring success and prosperity to Miscellania and to all of its people."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...is that all?"
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "That is all. I wish you luck as Regent. Speak to Ghrim if you require assistance."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Post-quest",
+      "sections": [
+        {
+          "title": "Talking to King Vargas after the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty."
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "That fool Sigrid! What does she think she's doing?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me, your Majesty?"
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "Ah, [Fremennik name]. I apologise, but I'm rather busy at the moment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's going on, your Majesty?"
+                },
+                {
+                  "speaker": "King Vargas",
+                  "text": "I'm busy, [Fremennik name]. You'd better talk to Ghrim."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid when Prince Brand is the heir",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Good day, [Fremennik name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day, Princess Astrid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand when he is the heir and not married",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "How fares the kingdom?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "All is well, my Prince"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Prince Brand, will you marry me?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Oh, my [darling/dear], you've made me the happiest person alive."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is that a yes?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Yes! We'll have to put off the actual ceremony until we can find a priest, but you can tell my father I have agreed to marry you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand when married to him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Have you found a priest for our marriage yet?"
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I'm afraid not, dear. I don't think there is one to be had on these islands for love nor money..."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Do not fear, though; I shall call for you as soon as one is found."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm having second thoughts about the wedding. This marriage would change things, with an increase in responsibilities and duties you were keen to avoid."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "While I want to support the kingdom, I don't want that to end up impacting your life negatively. Maybe it's too soon to make this kind of decision."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "You're right, I am not interested in more responsibilities. I would have less time for poetry! Is that your final decision?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I think it's for the best."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "I think you'll make a great Thane for our kingdom."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe not. It it hard, for I am so very fond of you. Let's leave it as it is for now and see what the future holds."
+                },
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Agreed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Prince Brand when Princess Astrid is the heir",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Prince Brand",
+                  "text": "Good day, [Fremennik name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day, Prince Brand."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid when she is the heir and not married",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "How fares the kingdom?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "All is well, Princess."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Princess Astrid, will you marry me?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Oh, my darling, you've made me the happiest person alive."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is that a yes?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Yes! We'll have to put off the actual ceremony until we can find a priest, but you can tell my father I have agreed to marry you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Princess Astrid when married to her",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Have you found a priest for our marriage yet?"
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I'm afraid not, darling. I don't think there is one to be had on these islands for love nor money..."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Do not fear, though; I shall call for you as soon as one is found."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm having second thoughts about the wedding. This marriage would change things, with an increase in responsibilities and duties that would overshadow the activities you like."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "While I want to support you and the kingdom, I don't want that to end up impacting your life negatively. Maybe it's too soon to make this kind of decision."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "My darling, that is very thoughtful of you and you make a convincing point. Are you... absolutely sure?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I think it's for the best."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "I think you'll make a great Thane for our kingdom."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe not. It it hard, for I am so very fond of you. Let's leave it as it is for now and see what the future holds."
+                },
+                {
+                  "speaker": "Princess Astrid",
+                  "text": "Agreed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Advisor Ghrim after the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Greetings, Your Royal Highness."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Greetings, Thane [Fremennik name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How is the Kingdom faring?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Your subjects are worried about the possibility of war, but they are still happy to work for you."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Your current approval rating is 75%. I'm afraid your subjects have not yet collected anything."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "This is how your subjects are distributing their effort."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Has anything been happening in the kingdom recently?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I manage the kingdom?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Your loyal subjects work hard to collect resources for you. Every day they bring what they have collected to the castle. The resources which they collect are coal from the rocks to the north, maple logs from the trees"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "to the east, herbs from the garden just outside the castle, and tuna and swordfish fished at the port to the south. They are paid from the money in the coffers; each day, one-tenth of the money in the coffers is"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "distributed to them. A maximum of 50k is paid to your subjects and the coffers can store up to 5 million gp. Another thing which affects the amounts of resources collected is your approval rating. The more your"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "subjects love you, the more they will be motivated to work hard. King Vargas would often go and help out his subjects in their daily tasks, when he was still able to do so, and they loved him dearly for it. Finally, you"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "can choose how much of their efforts your subjects devote to each resource; of course, the harder they work at collecting one, the less time they have to spend collecting the others."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Have you got a copy of my book? It explains everything in more detail."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I don't..."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Here, you can have this one, I have plenty spare."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What am I meant to be doing again?"
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Dealing with all the little troubles that come up from time to time, Thane [Fremennik name]."
+                },
+                {
+                  "speaker": "Advisor Ghrim",
+                  "text": "Such as the predicament we are now in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Has anything been happening in the kingdom recently?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Queen Sigrid after the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Your Majesty..."
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Vargas, you irritating fool. 'Warmongering harpy', indeed!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry?"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "Oh, I apologise. I was merely thinking out loud."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How is your kingdom faring?"
+                },
+                {
+                  "speaker": "Queen Sigrid",
+                  "text": "It could be better. Now, if you don't mind, I'm rather busy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Very well, your Majesty."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

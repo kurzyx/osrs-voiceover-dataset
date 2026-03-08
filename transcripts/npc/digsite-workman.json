@@ -1,0 +1,276 @@
+{
+  "ref": "digsite-workman",
+  "categoryRef": "npc",
+  "title": "Digsite workman",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Trying to search the specimen tray without a specimen jar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Oi! What are you doing?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am on an errand."
+                },
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Oh yeah? And whose errand is that then? Where is your specimen jar?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh I don't have one."
+                },
+                {
+                  "speaker": "Digsite workman",
+                  "text": "And you reckon you have been sent on an errand - without a specimen jar? Sorry, I can't let you do that!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am searching this tray."
+                },
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Oh you are, are you? Well where's your specimen jar?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah... I don't have one."
+                },
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Well how can you handle the specimens without it? As you should know, specimens are to be kept in specimen jars to keep them safe and preserved. Next time bring it along!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to use the western winch before getting permission",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Sorry; this area is private. The only way you'll get to use these is by impressing the archaeological expert up at the centre."
+                },
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Find something worthwhile and he might let you use the winches. Until then, get lost!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Digging with a spade in soil",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Oi! What do you think you're doing? There's fragile specimens around here!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a specimen brush on soil",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Use your brush on specimens to clean them, not the dirt!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a trowel on soil in a level 1 site without wearing leather gloves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Hey, where are your leather gloves?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err... I haven't got any."
+                },
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Well get some and put them on first!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a trowel on soil in a level 1 site while wearing leather gloves but not leather boots",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Oi! No boots! No leather boots: no digging!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a trowel on soil in a level 2 site",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Sorry, you must use a rock pick to dig at a level 2 site."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a trowel on the specimen tray",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Digsite workman",
+                  "text": "Excuse me! No digging in the specimen trays please."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a rock pick on a level 1 or 3 site",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Digsite workman",
+                  "text": "No, no; rock picks should only be used to dig at a level 2 site."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Digsite workman",
+              "text": "Good day; what can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do here?"
+            },
+            {
+              "speaker": "Digsite workman",
+              "text": "I am involved in various stages of the dig, from the initial investigation to the installation of the mine shafts."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, okay, thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not sure..."
+            },
+            {
+              "speaker": "Digsite workman",
+              "text": "Well, let me know when you are."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I dig around here?"
+            },
+            {
+              "speaker": "Digsite workman",
+              "text": "You can only use a site you have the appropriate exam level for."
+            },
+            {
+              "speaker": "Player",
+              "text": "Appropriate exam level?"
+            },
+            {
+              "speaker": "Digsite workman",
+              "text": "Yes, only persons with the correct Earth Sciences certificate can dig here. A level 1 certificate will let you dig in a level 1 site and so on."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, yes; I understand."
+            },
+            {
+              "speaker": "Player",
+              "text": "I am already skilled in digging."
+            },
+            {
+              "speaker": "Digsite workman",
+              "text": "Well that's nice for you. You can't dig around here without a certificate though."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Dig Site",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Digsite workman",
+              "text": "Ah, it's the great archaeologist! Congratulations on your discovery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Getting caught when thieving",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Digsite workman",
+              "text": "What do you think you're doing?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

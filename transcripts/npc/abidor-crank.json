@@ -1,0 +1,70 @@
+{
+  "ref": "abidor-crank",
+  "categoryRef": "npc",
+  "title": "Abidor Crank",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking to Abidor again after getting blessed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there..."
+                },
+                {
+                  "speaker": "Abidor Crank",
+                  "text": "Ohhh, hello again... sorry my friend, but I have to get going."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there..."
+            },
+            {
+              "speaker": "Abidor Crank",
+              "text": "Ahhh, hello there my friend. You look like you could do with some assistance."
+            },
+            {
+              "speaker": "Player",
+              "text": "We do?"
+            },
+            {
+              "speaker": "Abidor Crank",
+              "text": "Yes, of course... Here, prepare yourselves!"
+            },
+            {
+              "speaker": "Abidor Crank",
+              "text": "There you go... Right, I must be off now. Good luck with your travels."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kicking the player out of Morytania",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Abidor Crank",
+              "text": "Well, this is no good at all! You'll never survive in Morytania, you'll have to go back."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "hieve",
+  "categoryRef": "npc",
+  "title": "Hieve",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hieve",
+              "text": "Hey, down there! What is it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Why are you here?"
+            },
+            {
+              "speaker": "Hieve",
+              "text": "For the dragons, of course! I've always wanted to slay dragons. I've found they're a bit tough, though, even with all this kit I've got, but I'll slay them one day."
+            },
+            {
+              "speaker": "Hieve",
+              "text": "My little cousin is a Slayer Master, lucky girl. But one day I'll be a mighty dragon-slayer, and they'll give me a job like that too."
+            },
+            {
+              "speaker": "Hieve",
+              "text": "My little brother became a Slayer Master recently. That job should have been mine - he's just a little brat! But one day I'll be a mighty dragon-slayer, and they'll give me a job like that too."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I kill the dragons in here?"
+            },
+            {
+              "speaker": "Hieve",
+              "text": "Yes, certainly, since you've been assigned to do so."
+            },
+            {
+              "speaker": "Hieve",
+              "text": "No, you haven't got an assignment to slay these dragons. Go and train somewhere else."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll be off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When attempting to kill monsters that aren't part of a player's slayer task",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hieve",
+              "text": "I'm sure that's not what you're meant to be slaying."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

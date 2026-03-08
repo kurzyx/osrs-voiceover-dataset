@@ -1,0 +1,118 @@
+{
+  "ref": "surok-magis",
+  "categoryRef": "npc",
+  "title": "Surok Magis",
+  "sections": [
+    {
+      "title": "First time dialogue",
+      "sections": [
+        {
+          "title": "Subsequent dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ummm..."
+                },
+                {
+                  "speaker": "Surok Magis",
+                  "text": "Oh, it's you again! Well, what is it this time?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any jobs or quests that I could do for you?"
+                },
+                {
+                  "speaker": "Surok Magis",
+                  "text": "Hah! There are plenty of things I need done, but something tells me you're not quite ready for them right now. Come back another time!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Excuse me..."
+            },
+            {
+              "speaker": "Surok Magis",
+              "text": "What do you want? ...Oh, wait. I know! You're probably just like all the others, aren't you? After some fancy spell or potion from me, I bet!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What? No! At least, I don't think so. What sort of spells do you have?"
+            },
+            {
+              "speaker": "Surok Magis",
+              "text": "Hah! I knew it! I expect you want my Aphro-Dizzy-Yak spell! Want someone to fall madly in love with you, eh?"
+            },
+            {
+              "speaker": "Player",
+              "text": "That spell sounds very interesting, but I didn't mean to disturb you!"
+            },
+            {
+              "speaker": "Surok Magis",
+              "text": "Well, I see that you do have some manners. I'm glad to see that you use them."
+            },
+            {
+              "speaker": "Surok Magis",
+              "text": "Now, if it's all the same, I am very busy at the moment. Unless you want something specific, please come back another time."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, of course. Goodbye!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Free-to-play",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Surok Magis",
+              "text": "Can't you see I'm very busy here? Be off with you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh. Sorry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on Surok Magis",
+      "sections": [
+        {
+          "title": "Any item",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Surok Magis",
+                  "text": "No thanks, I don't need that."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

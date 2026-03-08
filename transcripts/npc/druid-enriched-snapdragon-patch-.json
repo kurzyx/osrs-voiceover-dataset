@@ -1,0 +1,123 @@
+{
+  "ref": "druid-enriched-snapdragon-patch-",
+  "categoryRef": "npc",
+  "title": "Druid (enriched snapdragon patch)",
+  "sections": [
+    {
+      "title": "During While Guthix Sleeps",
+      "sections": [
+        {
+          "title": "Before planting the enriched snapdragon seed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Druid",
+                  "text": "Good day to you. I've prepared this patch for you to plant the enriched snapdragon in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After planting",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Druid",
+                  "text": "Good day to you. The enriched snapdragon is growing well. It should be ready soon."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After recruiting more heroes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Druid",
+                  "text": "Good day to you. The enriched snapdragon is fully grown and ready for you to harvest."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After picking the herb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Druid",
+                  "text": "Good day to you. You should take that enriched snapdragon to Thaerisk."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, will do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After losing the herb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Druid",
+                  "text": "Good day to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I lost the enriched snapdragon I harvested."
+                },
+                {
+                  "speaker": "Druid",
+                  "text": "Not to worry. There was some left over after you were done."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

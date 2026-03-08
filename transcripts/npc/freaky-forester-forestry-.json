@@ -1,0 +1,68 @@
+{
+  "ref": "freaky-forester-forestry-",
+  "categoryRef": "npc",
+  "title": "Freaky Forester (Forestry)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "When giving the forester an egg",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have an egg for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, what's going on?"
+            },
+            {
+              "speaker": "Freaky Forester",
+              "text": "Hey, [player name], can you help me with some pheasants?"
+            },
+            {
+              "speaker": "Freaky Forester",
+              "text": "Collect the eggs from the uninhabited nests and bring them to me, and I'll reward you."
+            },
+            {
+              "speaker": "Freaky Forester",
+              "text": "Well, come back if you change your mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When the Pheasant Control event is almost over",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Freaky Forester",
+                  "text": "These pheasants will be finding new nesting grounds soon."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

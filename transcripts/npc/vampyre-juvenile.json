@@ -1,0 +1,141 @@
+{
+  "ref": "vampyre-juvenile",
+  "categoryRef": "npc",
+  "title": "Vampyre Juvenile",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Outside Ver Sinhaza",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "What's your problem, food sack? Better move on before I perforate you real good!"
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "Leave me alone. I'm busy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "In Darkmeyer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "You're not meant to be here human! Time to die!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing?"
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "Minding my own business. You should do the same."
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "..."
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "..."
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "Did you want something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nope."
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "Then why don't you get lost?"
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing."
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "Go away then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey there."
+                },
+                {
+                  "speaker": "Vampyre Juvenile",
+                  "text": "I'm not interested in making small talk."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Suit yourself."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After applying Guthix balance",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Vampyre Juvenile",
+              "text": "Graahhhhhhh!"
+            },
+            {
+              "speaker": "Feral Vampyre",
+              "text": "Rarrrghhhh!"
+            },
+            {
+              "speaker": "Human",
+              "text": "Thanks so much for saving me from being a vampyre. Here, take this certificate, I'm sorry but it's all I can offer as a reward."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When reduced below 25% hitpoints",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Vampyre Juvenile",
+              "text": "Ha, ha, ha, time to disappear and rejuvenate!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

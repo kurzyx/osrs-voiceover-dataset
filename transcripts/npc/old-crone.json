@@ -1,0 +1,108 @@
+{
+  "ref": "old-crone",
+  "categoryRef": "npc",
+  "title": "Old crone",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before any quests",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, old woman."
+                },
+                {
+                  "speaker": "Old crone",
+                  "text": "I'm over 100 years old, you know."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Animal Magnetism and Ghosts Ahoy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'm here about Necrovarus."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good news - the enchantment worked!"
+                },
+                {
+                  "speaker": "Old crone",
+                  "text": "So Necrovarus has let the ghosts go free.... You have achieved many wonderful things, my young friend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm here about the farmers east of here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there, just dropping in to thank you again. It all went perfectly. Alice and her husband can communicate again."
+                },
+                {
+                  "speaker": "Old crone",
+                  "text": "I can't help but shed a tear about my own family. My sisters are so vile, I refuse to talk to them these days."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry to hear that."
+                },
+                {
+                  "speaker": "Old crone",
+                  "text": "Never mind; we've reunited a happy family of farmers; that's enough for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Elite",
+          "sections": [
+            {
+              "title": "When given the correct answer",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Old crone",
+                      "text": "Well done."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Old crone",
+                  "text": "Answer this, please."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "ref": "beverly",
+  "categoryRef": "npc",
+  "title": "Beverly",
+  "sections": [
+    {
+      "title": "2019 Christmas Event",
+      "sections": [
+        {
+          "title": "At the start of the event",
+          "sections": [
+            {
+              "title": "Attempting to speak to Beverly before continuing with the event",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Beverly",
+                      "text": "Where are our Gingerbread Gnomes!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm working on it, I'm working on it."
+                    },
+                    {
+                      "speaker": "Beverly",
+                      "text": "Hurry up!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Overhead dialogue",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Beverly",
+                      "text": "You've ruined Christmas!"
+                    },
+                    {
+                      "speaker": "Beverly",
+                      "text": "Give us the Gnomes!"
+                    },
+                    {
+                      "speaker": "Beverly",
+                      "text": "Where are our Gingerbread Gnomes!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey kid, what's all the shouting about?"
+                },
+                {
+                  "speaker": "Beverly",
+                  "text": "Christmas is ruined!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Again? What's happened this time?"
+                },
+                {
+                  "speaker": "Beverly",
+                  "text": "The man in the shop won't give us our Gingerbread Gnomes, he's keeping them for himself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That doesn't sound right, are you sure that's really what he's doing?"
+                },
+                {
+                  "speaker": "Beverly",
+                  "text": "Of course he is, why else won't he give us any?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Something seems off, maybe I should go talk to Santa to find out what's happened."
+                },
+                {
+                  "speaker": "Beverly",
+                  "text": "Do whatever you want, I want my Gingerbread Gnomes!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After freeing the bakers",
+          "sections": [
+            {
+              "title": "Overhead dialogue",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Beverly",
+                      "text": "Christmas is Saved!"
+                    },
+                    {
+                      "speaker": "Beverly",
+                      "text": "Give us the Gnomes!"
+                    },
+                    {
+                      "speaker": "Beverly",
+                      "text": "Hurry up with the delivery!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Why are you still here? I saved Christmas, you can go home."
+                },
+                {
+                  "speaker": "Child",
+                  "text": "We still have to wait for the delivery to come in, dummy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll leave you to it then."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

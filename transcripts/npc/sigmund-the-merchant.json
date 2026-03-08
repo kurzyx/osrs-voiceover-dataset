@@ -1,0 +1,59 @@
+{
+  "ref": "sigmund-the-merchant",
+  "categoryRef": "npc",
+  "title": "Sigmund The Merchant",
+  "sections": [
+    {
+      "title": "Before the Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hiya."
+            },
+            {
+              "speaker": "Sigmund the Merchant",
+              "text": "Hello outerlander. By the laws of our tribe, I am afraid I may not speak to you without the express permission of the chieftain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After the Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there!"
+            },
+            {
+              "speaker": "Sigmund The Merchant",
+              "text": "Greetings again [brother/sister] [Fremennik name]! What can I do for you this day?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I see your wares?"
+            },
+            {
+              "speaker": "Sigmund The Merchant",
+              "text": "Certainly, [Fremennik name]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing thanks."
+            },
+            {
+              "speaker": "Sigmund The Merchant",
+              "text": "Well, feel free to stop by anytime that you wish [Fremennik name]. You are always welcome here!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

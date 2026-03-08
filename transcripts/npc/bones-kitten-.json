@@ -1,0 +1,49 @@
+{
+  "ref": "bones-kitten-",
+  "categoryRef": "npc",
+  "title": "Bones (kitten)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has a catspeak amulet or has done Dragon Slayer II",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Who's a cute little kitty?"
+                },
+                {
+                  "speaker": "Bones",
+                  "text": "Jimmy doesn't like me talking to strangers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player doesn't have a catspeak amulet or has not done Dragon Slayer II",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Who's a cute little kitty?"
+                },
+                {
+                  "speaker": "Bones",
+                  "text": "Miaow!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

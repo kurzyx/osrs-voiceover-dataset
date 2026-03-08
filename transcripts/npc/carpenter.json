@@ -1,0 +1,112 @@
+{
+  "ref": "carpenter",
+  "categoryRef": "npc",
+  "title": "Carpenter",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Standard dialogue after finishing Icthlarin's Little Helper",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey there. How're you holding up?"
+            },
+            {
+              "speaker": "Carpenter",
+              "text": "Not too bad. Still, I hope we can get rid of these spots soon."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after finishing Contact!",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey there. How're you holding up?"
+            },
+            {
+              "speaker": "Carpenter",
+              "text": "Not too bad. Still, I hope we can get rid of these spots soon."
+            },
+            {
+              "speaker": "Carpenter",
+              "text": "The embalmer has been importing a soothing balm from a merchant called Ali M. It's meant to stop the itching."
+            },
+            {
+              "speaker": "Player",
+              "text": "Does it work?"
+            },
+            {
+              "speaker": "Carpenter",
+              "text": "Not even remotely, but it sure does keep the flies away."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after finishing Beneath Cursed Sands",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey there. How're you holding up?"
+            },
+            {
+              "speaker": "Carpenter",
+              "text": "Much better now that we've finally got rid of those spots."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's great to hear! All the best."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using a potion on him",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Carpenter",
+              "text": "What are you doing?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I thought this acne potion might help ease your spots."
+            },
+            {
+              "speaker": "Carpenter",
+              "text": "What? You intolerable, insufferable idiot. That won't work! I would say get out of my sight but that's not far enough away!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I was just trying to help."
+            },
+            {
+              "speaker": "Carpenter",
+              "text": "Clear off before I give you something to feel sorry about!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "ref": "mama",
+  "categoryRef": "npc",
+  "title": "Mama",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without Book o' piracy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Mama",
+                  "text": "Arr? Be ye wantin' te go on account with our gang o' fillibusters?"
+                },
+                {
+                  "speaker": "Mama",
+                  "text": "The powder monkey be takin' a caulk after gettin' rowdy on bumboo, so there be plenty of room for ye."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Riiiiight..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll just be over here if you need me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With Book o' piracy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mama",
+                  "text": "Hello stranger, you come for a drink?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What sort of drinks do you have?"
+                },
+                {
+                  "speaker": "Mama",
+                  "text": "We got some cold beers, some warm stews and some 'rum'."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not, Captain Braindeath's 'rum'?"
+                },
+                {
+                  "speaker": "Mama",
+                  "text": "Yes! There was some sorta problem at the brewery, but they got it all sorted out now."
+                },
+                {
+                  "speaker": "Mama",
+                  "text": "You wanna buy something?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

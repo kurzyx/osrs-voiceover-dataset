@@ -1,0 +1,109 @@
+{
+  "ref": "sacrifice",
+  "categoryRef": "npc",
+  "title": "Sacrifice",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking to him before offering yourself as a sacrifice",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sacrifice",
+                  "text": "I am the chosen one. Soon I shall meet Zulrah face-to- face, and my sacrifice shall fulfil the sacred contract that protects our tribe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't you care that you're going to die?"
+                },
+                {
+                  "speaker": "Sacrifice",
+                  "text": "In death, the nutrients of my lowly body shall nourish the mighty Zulrah. I shall become one with my god."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go and confront Zulrah myself?"
+                },
+                {
+                  "speaker": "Sacrifice",
+                  "text": "The High Priestess has chosen me. I don't know how she decides these things, but perhaps you should ask her."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm off."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sacrifice",
+              "text": "The High Priestess says you're to be the sacrifice instead of me. I was so looking forward to meeting Zulrah."
+            },
+            {
+              "speaker": "Player",
+              "text": "Don't you understand that I've saved your life?"
+            },
+            {
+              "speaker": "Sacrifice",
+              "text": "In death, the nutrients of my lowly body were destined to nourish the mighty Zulrah. I would have become one with my god."
+            },
+            {
+              "speaker": "Sacrifice",
+              "text": "Still, it is nice to live a little longer. Thank you for what you have done."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry."
+            },
+            {
+              "speaker": "Sacrifice",
+              "text": "While I am saddened that my destiny has not been fulfilled, it is nice to live a little longer. Thank you for what you have done."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Talking again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sacrifice",
+                  "text": "That doesn't look solved to me."
+                },
+                {
+                  "speaker": "Sacrifice",
+                  "text": "Well done [player name]. Here you go."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sacrifice",
+              "text": "Here, solve this."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

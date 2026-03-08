@@ -1,0 +1,126 @@
+{
+  "ref": "mandrith",
+  "categoryRef": "npc",
+  "title": "Mandrith",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Who are you and what is this place?"
+            },
+            {
+              "speaker": "Mandrith",
+              "text": "My name is Mandrith."
+            },
+            {
+              "speaker": "Mandrith",
+              "text": "I collect valuable resources and pawn off access to them to foolish adventurers, like yourself."
+            },
+            {
+              "speaker": "Mandrith",
+              "text": "You should take a look inside my arena. There's an abundance of valuable resources inside."
+            },
+            {
+              "speaker": "Player",
+              "text": "And I can take whatever I want?"
+            },
+            {
+              "speaker": "Mandrith",
+              "text": "It's all yours. All I ask is you pay the upfront fee."
+            },
+            {
+              "speaker": "Player",
+              "text": "Will others be able to kill me inside?"
+            },
+            {
+              "speaker": "Mandrith",
+              "text": "Yes. These walls will only hold them back for so long."
+            },
+            {
+              "speaker": "Player",
+              "text": "You'll stop them though, right?"
+            },
+            {
+              "speaker": "Mandrith",
+              "text": "Haha! For the right price, I won't deny any one access to my arena. Even if their intention is to kill you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Right..."
+            },
+            {
+              "speaker": "Mandrith",
+              "text": "My arena holds many treasures that I've acquired at great expense, adventurer. Their bounty can come at a price."
+            },
+            {
+              "speaker": "Mandrith",
+              "text": "One day, adventurer, I will boast ownership of a much larger, much more dangerous arena than this. Take advantage of this offer while it lasts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Elite",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mandrith",
+                  "text": "Answer this, please."
+                },
+                {
+                  "speaker": "Mandrith",
+                  "text": "Well done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Master",
+          "sections": [
+            {
+              "title": "Talking again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Mandrith",
+                      "text": "That doesn't look solved to me."
+                    },
+                    {
+                      "speaker": "Mandrith",
+                      "text": "Well done [player name]. Here you go."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mandrith",
+                  "text": "Here, solve this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

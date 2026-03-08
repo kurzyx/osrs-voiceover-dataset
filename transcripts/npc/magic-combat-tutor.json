@@ -1,0 +1,508 @@
+{
+  "ref": "magic-combat-tutor",
+  "categoryRef": "npc",
+  "title": "Magic combat tutor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Unknown condition",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you teach me the basics please?"
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "Why certainly! You already know a little about creating runes I see."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "You can cast different spells according to what runes you have in your inventory. To begin, you'll need mind runes and air runes. These will allow you to cast Wind Strike like you did in the tutorial."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "Check the spellbook side-panel to see which spells you can cast. If you have the correct runes for a spell, it will light up."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "Nemarti, the Ranged Combat tutor and I both give out items every 30 minutes, however you must choose whether you want runes or ranged equipment. To claim runes, right-click on me and choose Claim, to claim"
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "ranged equipment right-click on the Ranged Combat tutor and select Claim."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "When you have a combat spell available, click on it once, then select your target. A good target would be a monster that is below your combat level."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "Try rats in the castle or, if you're feeling brave, the goblins to the west have been causing a nuisance of themselves."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unknown condition",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Teach me about making runes."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "I see that you've already found out about the Rune Essence mines from my friend Aubury in Varrock. So you need to turn that essence into runes, eh?"
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "As you're fairly new to runecrafting you should start with air runes and mind runes."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "You'll need a mind or air talisman before you can begin. This will enable you to find and use the ruins of the altars."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "I heard that goblins occasionally drop air talismans when they die - they must be stealing them from somewhere!"
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "Mind talismans can occasionally be found on imps, if you can kill such a fast-moving creature."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "When you have your talisman, right-click on it and select the Locate option. It will point you in the direction of the ruined altar."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "You'll need some Rune Essence with you before you go looking. When you find the ruined altar, use the talisman on it to be transported to a temple where you can craft your runes."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "Clicking on the temple's altar will imbue your rune essence with the altar's magical property."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Hello there adventurer, I am the Magic combat tutor. Would you like to learn about magic combat, or perhaps how to make runes?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about magic combat please."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "This is your spell book, this contains all the spells you can cast. To cast a spell, you will need to have the required magic level and have the right amount of the runes used to cast the spell."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "To check the level and runes required to cast a spell, hover your mouse cursor over the spell."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "If you have the right amount of runes and the magic level the spell will light up, meaning you will be able to cast it."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "When you have a combat spell available, click on it once, then select your target. A good target would be a monster that is below your combat level."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Try rats in the castle or, if you're feeling brave, the goblins to the west have been causing a nuisance of themselves."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Nemarti, the Ranged Combat tutor and I both give out items every 30 minutes, however you must choose whether you want runes or ranged equipment."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "To claim runes, right-click on me and choose Claim, to claim ranged equipment right-click on the Ranged Combat tutor and select Claim."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "If you need some more advice, you should talk to Adventurer Jon about Adventure paths. He may even have a handy starter kit you can use."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Is there anything else you would like to know?"
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Is there anything else you would like to know?"
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Of course [player name]! As a rule of thumb, if you cast the highest spell of which you're capable, you'll get the best experience possible."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Wearing metal armour and ranged armour can seriously impair your magical abilities. Make sure you wear some robes to maximise your capabilities."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Superheat Item and the Alchemy spells are good ways to level magic if you are not interested in the combat aspect of magic."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "There's always the Magic Training Arena. You can find it north of the Emir's Arena, north-east of Al Kharid. You will be able to earn some special rewards there by practicing your magic there."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "If you want a challenge, Kolodion, the master of battle magic, has set up an arena deep in the Wilderness. There you will have the chance to learn some extremely powerful spells."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "You should investigate the treasure in the desert, you may find great benefit to your magic."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Speak to the Archaeologist in the Bedabin Camp, south- west of the Shantay Pass. But be careful, this quest is not for the faint of heart and can be very dangerous."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "I see you already have access to the ancient magicks. Well done, these will aid you greatly."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "I see you have already met Kolodion, you should keep practicing those spells. Maybe you will be able to use them outside the arena after practicing them enough times."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Is there anything else you would like to know?"
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I make runes?"
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "There are a couple of things you will need to make runes, rune essence and a talisman to enter the temple ruins."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "To get rune essence you will need to gather them somehow. You should talk to the Duke of Lumbridge, he may be able to help you with that. Alternatively, other players may sell you the essence."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "As you're fairly new to runecrafting you should start with air runes and mind runes."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "You will need a talisman for the rune you would like to create. You can right-click on it and select the Locate option. This will tell you the rough location of the altar."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "When you find the ruined altar, use the talisman on it to be transported to a temple where you can craft your runes."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Clicking on the temple's altar will imbue your rune essence with the altar's magical property."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "If you want to save yourself an inventory space, you could always try binding the talisman to a tiara."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "To make one, take a tiara and talisman to the ruins and use the tiara on the temple altar. This will bind the talisman to your tiara."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Is there anything else you would like to know?"
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "I see you have some experience already in Runecrafting. Perhaps you should try crafting some runes which you can then use in magic."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Check the skill guide to see which runes you can craft."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "You will need a talisman for the rune you would like to create. You can right-click on it and select the Locate option. This will tell you the rough location of the altar."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "When you find the ruined altar, use the talisman on it to be transported to a temple where you can craft your runes."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Clicking on the temple's altar will imbue your rune essence with the altar's magical property."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "If you want to save yourself an inventory space, you could always try binding the talisman to a tiara."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "To make one, take a tiara and talisman to the ruins and use the tiara on the temple altar. This will bind the talisman to your tiara."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Is there anything else you would like to know?"
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "To get rune essence you will need to gather them in the essence mine. You can get to the mine by talking to Aubury who owns the runes shop in south east Varrock."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "As you're fairly new to runecrafting you should start with air runes and mind runes."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "I see you have some experience already in Runecrafting. Perhaps you should try crafting some runes which you can then use in magic."
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's discuss how my runes act when I pick them up."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "When you pick up runes from the ground, if you're carrying a rune pouch that contains matching runes, I can make the runes you've picked up go straight into the pouch, provided there's space."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Alternatively, you can let them go into your inventory like normal."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Certainly! Runes will go straight to your rune pouch when you pick them up, if it contains matching runes."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Certainly! Runes will go to your inventory when you pick them up, rather than going into a rune pouch."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Is there anything else I can do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Claim dialogue",
+      "sections": [
+        {
+          "title": "With at least one mind rune in the bank",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "You have some mind runes in your bank."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "You have some air runes in your bank."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "You already have some air runes."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "If you had enough space in your inventory I'd give you some air runes, come back when you do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With no mind runes in the bank and at least one in the inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "You already have some mind runes."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "You have some air runes in your bank."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "You already have some air runes."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "If you had enough space in your inventory I'd give you some air runes, come back when you do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With no mind runes in the bank or inventory but no inventory space",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "If you had enough space in your inventory I'd give you some mind runes, come back when you do."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "You have some air runes in your bank."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "You already have some air runes."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "If you had enough space in your inventory I'd give you some air runes, come back when you do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With no mind runes in the bank or inventory with an open inventory space",
+          "sections": [
+            {
+              "title": "If there is at least one air rune in the bank",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Magic combat tutor",
+                      "text": "You have some air runes in your bank."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "If there are no air runes in the bank but at least 1 in the player's inventory",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Magic combat tutor",
+                      "text": "You already have some air runes."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "With only one inventory space open for mind runes",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Magic combat tutor",
+                      "text": "If you had enough space in your inventory I'd give you some air runes, come back when you do."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "With no open inventory spaces and no mind or air runes in the bank or inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "If you had enough space in your inventory I'd give you some mind runes, come back when you do."
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "If you had enough space in your inventory I'd give you some air runes, come back when you do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "During the 30-minute cooldown",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "I work with the Ranged Combat tutor to give out consumable items that you may need for combat such as arrows and runes. However we have had some cheeky people try to take both!"
+                },
+                {
+                  "speaker": "Magic combat tutor",
+                  "text": "So, every half an hour, you may come back and claim either arrows OR runes, but not both. Come back in a while for runes, or simply make your own."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Deadman Mode",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Hello there adventurer, I am the Magic combat tutor. Would you like to learn about magic combat, or perhaps how to make runes?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have a starter pack?"
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Here you go. One starter pack. Enjoy."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could you stop me receiving a starter pack after respawn?"
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "Yes, I can help with that."
+            },
+            {
+              "speaker": "Magic combat tutor",
+              "text": "You'll no longer receive a starter pack after respawn. Talk to me again if you change your mind."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

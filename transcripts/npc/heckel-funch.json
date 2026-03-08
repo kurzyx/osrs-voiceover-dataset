@@ -1,0 +1,94 @@
+{
+  "ref": "heckel-funch",
+  "categoryRef": "npc",
+  "title": "Heckel Funch",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Heckel Funch",
+              "text": "Good day to you my friend, a beautiful one at that. Would you like some groceries? I have all sorts. Alcohol also, if you're partial to a drink."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            },
+            {
+              "speaker": "Heckel Funch",
+              "text": "Ahh well, all the best to you."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll have a look."
+            },
+            {
+              "speaker": "Heckel Funch",
+              "text": "There's a good human."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gnome Restaurant dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Heckel Funch",
+              "text": "Hey! Thanks a lot mate. You're a diamond."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "When holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Heckel Funch",
+                      "text": "No, that's wrong I'm afraid."
+                    },
+                    {
+                      "speaker": "Heckel Funch",
+                      "text": "Well done, human!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Heckel Funch",
+                  "text": "Please do puzzle for me human!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

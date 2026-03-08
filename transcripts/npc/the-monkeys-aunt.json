@@ -1,0 +1,58 @@
+{
+  "ref": "the-monkeys-aunt",
+  "categoryRef": "npc",
+  "title": "The Monkey's Aunt",
+  "sections": [
+    {
+      "title": "If the player is spotted without a disguise",
+      "sections": [
+        {
+          "title": "Attempting to talk to the aunt without a disguise",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "The Monkey's Aunt",
+                  "text": "Guards! Here's a human!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "The Monkey's Aunt",
+              "text": "How dare you come near my farmhouse! Guards! Guards! Remove this human!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "The Monkey's Aunt",
+              "text": "Hello! What's a monkey like you doing here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm just passing through actually."
+            },
+            {
+              "speaker": "The Monkey's Aunt",
+              "text": "Fair enough then."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

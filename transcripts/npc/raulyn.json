@@ -1,0 +1,127 @@
+{
+  "ref": "raulyn",
+  "categoryRef": "npc",
+  "title": "Raulyn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player does not have a ghostspeak amulet or Morytania Legs 2+ equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raulyn",
+                  "text": "Wooooo! Ooooooooooohh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm, I wonder if there's something I could use to communicate with him."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has a ghostspeak amulet or Morytania legs 2+ equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raulyn",
+                  "text": "Aaah! What are you doing down here!?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey, keep it down! I've come to slay the monsters down here."
+                },
+                {
+                  "speaker": "Raulyn",
+                  "text": "Oh, that's ok then. These vile creatures do make an awful racket."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You should hear it upstairs! Those Aberrant Spectres are just the worst."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you anyway?"
+                },
+                {
+                  "speaker": "Raulyn",
+                  "text": "I'm Raulyn. Once servant to the great Viggora who built this place centuries ago."
+                },
+                {
+                  "speaker": "Raulyn",
+                  "text": "This was, of course, before the building started to sink into the swamp..."
+                },
+                {
+                  "speaker": "Raulyn",
+                  "text": "Oh, and the darn Zamorakian mages. They didn't help matters. Always making a mess."
+                },
+                {
+                  "speaker": "Raulyn",
+                  "text": "I've been here ever since. You're the first person I've spoken to in over 200 years."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't you ever get lonely?"
+                },
+                {
+                  "speaker": "Raulyn",
+                  "text": "Sometimes, but it's not all that bad. I hope you stop by more often!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hopefully! I should be going now, speak to you later."
+                },
+                {
+                  "speaker": "Raulyn",
+                  "text": "Goodbye stranger."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "When attempting to kill monsters that aren't part of a player's slayer task",
+      "sections": [
+        {
+          "title": "If the player does not have a ghostspeak amulet or Morytania legs 2+ equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raulyn",
+                  "text": "wooooo ooo woo-woo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has a ghostspeak amulet or Morytania legs 2+ equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Raulyn",
+                  "text": "I don't think that's what you're meant to be slaying."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

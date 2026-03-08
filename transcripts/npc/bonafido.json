@@ -1,0 +1,82 @@
+{
+  "ref": "bonafido",
+  "categoryRef": "npc",
+  "title": "Bonafido",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Tower of Life",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi there."
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "A'up, mate, how's it gowin'?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not bad, thank you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you building here?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Nowt at moment. We're on strike!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're on strike? Whatever for?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Those strange alchemists are up ta somefin', best go ta one ov 'em."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, okay."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Tower of Life",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "You still hangin' around the tower?"
+                },
+                {
+                  "speaker": "Bonafido",
+                  "text": "Yeah, we need another job. But til then, we figured we may as well wait ta see what else would turns up."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Tower of Life",
+      "sections": [],
+      "dialogues": []
+    }
+  ]
+}

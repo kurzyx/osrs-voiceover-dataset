@@ -1,0 +1,45 @@
+{
+  "ref": "skraeling-etceteria-",
+  "categoryRef": "npc",
+  "title": "Skraeling (Etceteria)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Skraeling",
+              "text": "Good day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When failing to steal from a nearby stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Skraeling",
+                  "text": "Hey! Get your hands off there!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ref": "perry",
+  "categoryRef": "npc",
+  "title": "Perry",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Perry",
+              "text": "Hey, adventurer. Do you want to buy any axes?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Perry",
+              "text": "I'm Perry, and I sell axes here. Or sometimes I buy them, if someone's offering a good deal. Anyway, do you want to trade?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, let's trade."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm fine."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

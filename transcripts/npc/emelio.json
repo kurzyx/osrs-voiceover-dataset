@@ -1,0 +1,33 @@
+{
+  "ref": "emelio",
+  "categoryRef": "npc",
+  "title": "Emelio",
+  "sections": [
+    {
+      "title": "Standard dialogue after Meat and Greet",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Emelio",
+              "text": "Welcome back, friend. Can I interest you in a kebab?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Emelio",
+              "text": "Well, you know where to find me when you change your mind."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

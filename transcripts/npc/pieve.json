@@ -1,0 +1,63 @@
+{
+  "ref": "pieve",
+  "categoryRef": "npc",
+  "title": "Pieve",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Pieve",
+              "text": "Welcome to my private little wyvern area."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Pieve",
+              "text": "I'm Pieve. My big brother Steve made this training area, but he's gone off to be a Slayer Master to replace our cousin Nieve, so this area's mine now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why is this wyvern area private?"
+            },
+            {
+              "speaker": "Pieve",
+              "text": "My brother, Steve, carved the steps to get up here. He was jealous of our cousin, Nieve, because she'd got a huge training cave where she could boss people around. So he made this place."
+            },
+            {
+              "speaker": "Player",
+              "text": "So are you a Slayer Master?"
+            },
+            {
+              "speaker": "Pieve",
+              "text": "No, I'm not. My brother Steve is a Slayer Master. He took over the job from our cousin Nieve. All he has to do is tell people to kill stuff - he says it's easy!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, goodbye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When attempting to kill monsters that aren't part of a player's slayer task",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Pieve",
+              "text": "That's not your assigned Slayer target. Up here, I expect people to focus on their Slayer training."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

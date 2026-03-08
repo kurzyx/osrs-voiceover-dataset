@@ -1,0 +1,202 @@
+{
+  "ref": "abbot-langley",
+  "categoryRef": "npc",
+  "title": "Abbot Langley",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Interacting with the south-eastern ladder before joining the Edgeville Monastery order",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Abbot Langley",
+                  "text": "Only members of our order can go up there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well can I join your order?"
+                },
+                {
+                  "speaker": "Abbot Langley",
+                  "text": "No. I am sorry, but I feel you are not devout enough."
+                },
+                {
+                  "speaker": "Abbot Langley",
+                  "text": "Ok, I see you are someone suitable for our order. You may join."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, sorry."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Abbot Langley",
+              "text": "Greetings traveller."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you heal me? I'm injured."
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "Ok."
+            },
+            {
+              "speaker": "Player",
+              "text": "Isn't this place built a bit out of the way?"
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "We like it that way actually! We get disturbed less. We still get rather a large amount of travellers looking for sanctuary and healing here as it is!"
+            },
+            {
+              "speaker": "Player",
+              "text": "How do I get further into the monastery?"
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "I'm sorry but only members of our order are allowed in the second level of the monastery."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well can I join your order?"
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "No. I am sorry, but I feel you are not devout enough."
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "Ok, I see you are someone suitable for our order. You may join."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, sorry."
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "I might be able to... What did you have in mind?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you remove the sigils from my spirit shields?"
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "I think I shoud be able to manage that. However in doing so, I'm afraid I'll have to destroy the blessed shield itself. You'll only get the sigil back."
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "I can go ahead and break down all of the shields in your inventory now if you'd like?."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not right now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Claiming the Corrupted Helm",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Abbot Langley",
+              "text": "Ah, I was told to expect you, please take this as thanks!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Abbot Langley",
+                  "text": "Congratulations, traveller!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Master",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Abbot Langley",
+                  "text": "Hey, I have something for you but you don't have any space for it!"
+                },
+                {
+                  "speaker": "Abbot Langley",
+                  "text": "Here you go."
+                },
+                {
+                  "speaker": "Abbot Langley",
+                  "text": "I must say, I despise the equipment you have chosen to wear."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Delivering a letter from the Wise Old Man",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Abbot Langley",
+              "text": "Greetings traveller."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've got a message for you from your friend in Draynor Village."
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "Gosh, you are very kind to bring a message to my remote monastery!"
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "I'd give you a reward, but you don't seem to have any space for it. Come back when you do."
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "I grow a few herbs in my little cabbage patch; please take some as a sign of my gratitude."
+            },
+            {
+              "speaker": "Abbot Langley",
+              "text": "Allow me to bestow on you Saradomin's blessings..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

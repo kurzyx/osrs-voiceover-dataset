@@ -1,0 +1,213 @@
+{
+  "ref": "brian-orichard",
+  "categoryRef": "npc",
+  "title": "Brian O'Richard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before having access to the Rogues' Den minigame",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Hi there, looking for a challenge are you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes actually, what've you got?"
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Shame, I don't think I have anything for you. Train up your Thieving skill to at least 50 and I might be able to help you out."
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Shame, I don't think I have anything for you. Train up your Agility skill to at least 50 and I might be able to help you out."
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Aha, I have the perfect thing for you! See if you can get to the centre of my maze, the further you get the greater the rewards. There's even some special prizes if you make it right to the end."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok that sounds good!"
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Great! When you enter the maze, I'll give you a jewel - it'll allow you to get out of the maze at any time. However that's all you're allowed to take in with you, no cheating!"
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Oh one last thing, if you happen to see my harmonica I'd really like to have it back."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually I think I'll pass thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Ah welcome to my humble home, well actually it belongs to mummsie but she's getting on a bit so I look after the place for her."
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "So are you interested in a challenge?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After having access to the Rogues' Den minigame",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Hi again, what can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to try the maze again!"
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Certainly, when you enter the maze I'll give you another jewel. Good luck!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Entering the Maze",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Brian O'Richard",
+              "text": "And where do you think you're going? A little too eager I think. Come and talk to me before you go wandering around in there."
+            },
+            {
+              "speaker": "Brian O'Richard",
+              "text": "Tut tut tut, now you know you're not allowed to take anything except that jewel in with you."
+            },
+            {
+              "speaker": "Brian O'Richard",
+              "text": "Sorry but I can't allow you to take your follower in there, never know what trouble they might cause."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "While inside the maze",
+      "sections": [
+        {
+          "title": "Hit by the first pendulum",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Oh dear, you really didn't get very far did you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Getting caught by the rogue guards, hit by the moving spin-blade obstacles, or hit by any other less-dangerous obstacles except for the contortion bars",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Well you didn't do too badly, but you didn't make it nearly as far as others have."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with the wall safes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Amazing, you made it so far!"
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Wow you even managed to get the prize, well done!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Activating the Mystic jewel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Want to come out then? Giving up are you? You know there's no time limit here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes I'd like to leave!"
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Right you are then, out you come."
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Oh dear, you really didn't get very far did you?"
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Well you didn't do too badly, but you didn't make it nearly as far as others have."
+                },
+                {
+                  "speaker": "Brian O'Richard",
+                  "text": "Amazing, you made it so far!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No I'm fine thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

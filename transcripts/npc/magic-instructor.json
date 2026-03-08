@@ -1,0 +1,137 @@
+{
+  "ref": "magic-instructor",
+  "categoryRef": "npc",
+  "title": "Magic Instructor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Magic Instructor",
+              "text": "Good day, newcomer. My name is Terrova. I'm here to tell you about Magic. Let's start by opening your magic interface."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Before opening magic interface",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Magic Instructor",
+              "text": "All you have to do is open the magic interface by clicking on the flashing icon."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After opening magic interface",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Magic Instructor",
+              "text": "Currently you can only cast one offensive spell called Wind Strike. Let's try it out on one of those chickens."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Before casting wind strike",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Magic Instructor",
+              "text": "Sorry, I don't have any more runes just now. But I see you have plenty."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After casting wind strike",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Magic Instructor",
+              "text": "Well, you're all finished here now. I'll give you a reasonable number of runes when you leave."
+            },
+            {
+              "speaker": "Magic Instructor",
+              "text": "When you get to the mainland you will find yourself in the town of Lumbridge. If you want some ideas on where to go next, talk to my friend Adventurer Jon. You can't miss him; he's wearing light blue armour with"
+            },
+            {
+              "speaker": "Magic Instructor",
+              "text": "a huge sword. There are also many tutors willing to teach you about the many skills you could learn."
+            },
+            {
+              "speaker": "Magic Instructor",
+              "text": "Prepare yourself!"
+            },
+            {
+              "speaker": "Magic Instructor",
+              "text": "Were you planning to become an Iron[man/woman], by the way?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's an Iron[man/woman]?"
+            },
+            {
+              "speaker": "Magic Instructor",
+              "text": "If you're interested in that, you should go and ask the Iron[man/woman] tutor before you leave this island. He's standing outside my house."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, I'd better go and find him."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I do want to become an Iron[man/woman]."
+            },
+            {
+              "speaker": "Magic Instructor",
+              "text": "If you're interested in that, you should go and ask the Iron[man/woman] tutor before you leave this island. He's standing outside my house."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, I'd better go and find him."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I'm not planning to do that."
+            },
+            {
+              "speaker": "Magic Instructor",
+              "text": "When you get to the mainland you will find yourself in the town of Lumbridge. If you want some ideas on where to go next, talk to my friend the Lumbridge Guide. You can't miss him; he's holding a big staff with"
+            },
+            {
+              "speaker": "Magic Instructor",
+              "text": "a question mark on the end. He also has a white beard and carries a rucksack full of scrolls. There are also many tutors willing to teach you about the many skills you could learn."
+            },
+            {
+              "speaker": "Magic Instructor",
+              "text": "Prepare yourself!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

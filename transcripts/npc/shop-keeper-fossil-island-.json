@@ -1,0 +1,41 @@
+{
+  "ref": "shop-keeper-fossil-island-",
+  "categoryRef": "npc",
+  "title": "Shop keeper (Fossil Island)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello!"
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "Good day [lad/lass]. What can I do for you?"
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "Well, these folks digging up the island need some of your everyday things, so I offered to come along and offer my wares."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "You don't have space for that."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "Of course, you left it here and I kept it for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing for now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

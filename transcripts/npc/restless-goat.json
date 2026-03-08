@@ -1,0 +1,134 @@
+{
+  "ref": "restless-goat",
+  "categoryRef": "npc",
+  "title": "Restless Goat",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After inspecting the grave",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Restless Goat",
+                  "text": "Baaaaaaah! Baaaaah!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Aaah! It's a ghost goat!"
+                },
+                {
+                  "speaker": "Restless Goat",
+                  "text": "Baaaaaaah!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Aww, poor goat, I don't think it meant to scare me."
+                },
+                {
+                  "speaker": "Restless Goat",
+                  "text": "Baah?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If only I had a goat speak amulet..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm, one of your horns is missing..."
+                },
+                {
+                  "speaker": "Restless Goat",
+                  "text": "Baaah! Baaaaah!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It seems like it wants me to help recover its lost horn..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm, how am I going to find this goat's horn?"
+                },
+                {
+                  "speaker": "Restless Goat",
+                  "text": "Baaaaaah!!!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright then, I'll go have a look...that way..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When talked to again",
+          "sections": [
+            {
+              "title": "If the player does not have the broken goat horn",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hey goat, where did you baa where your horn was?"
+                    },
+                    {
+                      "speaker": "Restless Goat",
+                      "text": "Baaaaaaah!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Right, got it, thanks goat."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "If the player has the broken goat horn",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello my goat friend, I have brought you a gift."
+                    },
+                    {
+                      "speaker": "Restless Goat",
+                      "text": "Baaaah!"
+                    },
+                    {
+                      "speaker": "Restless Goat",
+                      "text": "Baaaah! Baaaaaaah! Baaaaaaaaaaaaaaaaaaaaaaaah!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I think this might be the right one."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Inspecting the grave again after putting the goat to rest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

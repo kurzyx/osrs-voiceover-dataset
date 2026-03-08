@@ -1,0 +1,935 @@
+{
+  "ref": "ramarno",
+  "categoryRef": "npc",
+  "title": "Ramarno",
+  "sections": [
+    {
+      "title": "Initial dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello again."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "Ah, [player name]. You made it."
+            },
+            {
+              "speaker": "Player",
+              "text": "So, tell me about this proposal of yours."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "Camdozaal is a shadow of what it once was. We Imcando Dwarves were the finest artisans in the world, but now I am all that remains. Today, you'll only find echoes of our once great city."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "But that which was once great can still be great again! We Imcando Dwarves know that better than most. There is hope for the future of Camdozaal. But I need help."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you need?"
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "We have a Sacred Forge. You will find none other like it in all the world. Some of the greatest weapons of legend started life here."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "The Forge could be the key to Camdozaal's future, but it's going out. If it does, I fear it will never be lit again. I can no longer gather the fuel it needs. But perhaps you can?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Fuel?"
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "Barronite. You'll only find it in these ruins. If you can gather some for me, I can use it to keep the Forge lit. In return, I'll let you take what you want from our Great Vault."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "I no longer have use for anything in the Vault. Besides, material possessions mean nothing compared to the fire of the Sacred Forge."
+            },
+            {
+              "speaker": "Player",
+              "text": "So I find barronite in the ruins and bring it to you? Doesn't sound too difficult. Where should I start?"
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "Anywhere you like. The ruins are filled with barronite, so anything you do here should yield some. If you need more information on specific things you can do, just let me know."
+            },
+            {
+              "speaker": "Player",
+              "text": "What happened to the other Imcando Dwarves?"
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "Ah... It's a tough tale to tell. Even though it's been many years since the last of my kin died out, the memory is still fresh."
+            },
+            {
+              "speaker": "Player",
+              "text": "You don't have to tell me if the memory hurts too much."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "No, I will. The legacy of my kin must live on."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "As you can see around you, Camdozaal was once a great city. Alive with the hum of activity. We dug deep into the mountain and reaped the rewards."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "Our methods would often differ from other dwarves. Whereas they just used traditional smithing techniques, we would combine them with magic as well."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "Alas, that was ultimately our undoing. We learned of a horde of barbarians pillaging across the land, hunting down and killing anyone who dared use magic."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "We underestimated them. We believed our weapons would be enough to keep us safe. We were wrong."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "The barbarians brought ruin upon Camdozaal. Most of my kind died as the city collapsed around them. Only a few of us survived until the end. Now, only I remain."
+            },
+            {
+              "speaker": "Player",
+              "text": "The world has changed a lot, Ramarno. Magic is practiced freely. Those barbarians failed to wipe it from Gielinor."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "I'm glad they didn't win, I suppose. But it doesn't change much for me. I am still the last Imcando Dwarf."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm sorry Ramarno. I will do my best to help ensure the legacy of your kin lives on."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "Thank you, [player name]. That gives me some hope. If you have any more questions, do not hesitate to ask."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll see you later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Subsequent dialogue",
+      "sections": [
+        {
+          "title": "If the player has met Thurgo as part of Knight's Sword",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Ah [player name]. I'm sure you have plenty of questions. I will do my best to answer them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can I do here?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "As you can see, Camdozaal isn't the city it once was. That said, there are still a few things around here that might interest you. There's the golem workshop, the barronite mine and the offering altar."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me more about the golem workshop."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "You'll find it to the east. It was once the forefront of our technological advances. Sadly, it was also one of the major factors that led to our doom."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What were you doing there?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Camdozaal was built upon the ruins of an older civilization. Little trace of them remained by the time we arrived. However, when building the city, ancient golems were discovered."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "These golems were very crude. They were mostly made from clay, of all things. We used our advanced Smithing knowledge to improve their form. Eventually, we were able to get them working again."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "We kept pushing with the golems. Many of them we imbued with magical energies. We started with mind and body energy, but eventually moved on to chaos as well."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Alas, the influence of chaos had grave results. We lost control of many. Those that became corrupt had to be locked away, but by then it was already too late."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "The barbarians had learnt of our experimentation, and were determined to destroy all traces of it."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Ironically, locking them away meant the golems were among the few things to survive the barbarians. If you fancy a bit of combat, you might want to go take a look."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "They're largely made of barronite now, so they're a good source of the stuff."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Their cores are also very interesting. Apparently, the dwarves of the golem workshop once used old cores to craft runes. Maybe you could do the same."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me more about the barronite mine."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "You'll find it to the north west. Unsurprisingly, it's the best place to find barronite in the city."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "At one time, our miners would work all through the day there to gather the barronite needed to power the Sacred Forge. That was a long time ago."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "If you're lucky, you might find other things while mining there. We were not the first to build a home beneath this mountain. Sometimes traces of an older civilization can be found."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What kind of traces?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "You might find some ancient relics encased within barronite. If you do, you can use the anvils here to crack open the deposits."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "The relics are of no interest to me. Maybe some of your race would find them interesting."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me more about the offering altar."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "You'll find it to the south west. It's not something that ever interested me, but most of my kind were followers of Saradomin - the god of order and wisdom."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Many of my kin would visit the altar to make offerings in his name."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "First, they'd catch fish from the nearby reservoir. Next, they'd ritually prepare them at tables by the altar. Finally, they'd use the altar to offer the fish."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "There's plenty of barronite to be found within the reservoir, so it might be worth checking out. Be warned though: worshipping gods never did my kind any good."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's talk about something else."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Very well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have something I'd like you to examine."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Well hand it over and I'll take a look."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened to the other Imcando Dwarves?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Ah... It's a tough tale to tell. Even though it's been many years since the last of my kin died out, the memory is still fresh."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You don't have to tell me if the memory hurts too much."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "No, I will. The legacy of my kin must live on."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "As you can see around you, Camdozaal was once a great city. Alive with the hum of activity. We dug deep into the mountain and reaped the rewards."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Our methods would often differ from other dwarves. Whereas they just used traditional smithing techniques, we would combine them with magic as well."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Alas, that was ultimately our undoing. We learned of a horde of barbarians pillaging across the land, hunting down and killing anyone who dared use magic."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "We underestimated them. We believed our weapons would be enough to keep us safe. We were wrong."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "The barbarians brought ruin upon Camdozaal. Most of my kind died as the city collapsed around them. Only a few of us survived until the end. Now, only I remain."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The world has changed a lot, Ramarno. Magic is practiced freely. Those barbarians failed to wipe it from Gielinor."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "I'm glad they didn't win, I suppose. But it doesn't change much for me. I am still the last Imcando Dwarf."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... that isn't completely true."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "While adventuring, I met another Imcando Dwarf called Thurgo."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "An Imcando Dwarf survived outside the city?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes. He looks to be doing quite well for himself. In fact, he seems to be a master of Smithing."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "I can't believe it. I hope to meet him one day. He must be a truly amazing smith to reach such heights."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well he's certainly an interesting dwarf."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Thank you, [player name]! You've given me hope that my kin can live on. If you need help with anything else, let me know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I use the Forge?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "I'm afraid not. The Sacred Forge is like none other in existence. Only an Imcando Dwarf could use it correctly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What makes it so special?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Truth be told, I don't fully know. It's far older than I am. It was supposedly built in the earliest days of the city."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "What I do know is that it's been imbued with powerful magic - some said that of the gods themselves. The Forge powers the entire city, or what's left of it at least."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "I've been doing my best to keep it lit over the years. It's not a job I'm capable of any more though. That's why I'm hoping you can help."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Bring me any barronite you find. In return, I can channel enough power from the Forge into the city or even open the Great Vault."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What will powering the city do?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "From what I can tell, my ancestors linked the Forge to the entire city."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "It truly is the heart of this place. From it, I can channel any barronite you have into empowering different aspects of the city."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What will that do?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "The Sacred Forge is a strange beast, but with its arcane power, you'll see an improvement to the various activities you can do in the city."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Would you like to take a look?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Very well. Anything else you'd like to talk about?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is the Great Vault?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "It's one of the many marvels of this city. We used it to store our greatest creations, along with our most interesting finds."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Of course, I have no use for those treasures myself. I'd happily give them up to keep the Sacred Forge alive."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Now be warned - I won't be able to channel much power into the Vault. I can't afford to waste too much barronite. You'll only have a limited amount of time in there."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Not only that, there's an automatic security system that activates if power to the Vault is lost. If that happens, you'll be removed. I imagine any treasures would be lost as well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How much barronite do you need to power it?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Hmm, for a minute, I suppose 750 barronite shards should do the trick."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "If you do go in, I'd suggest heading to the back first. That's where the most valuable things are kept."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Is there anything else you wanted to talk about?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll see you later."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never mind, I have no questions for now."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "I'll be here if you change your mind. Take care [player name]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has started Knight's Sword but not yet met Thurgo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Ah [player name]. I'm sure you have plenty of questions. I will do my best to answer them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you make me a knight's sword?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "A sword? Why do you need me to make you one?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was told to find a Imacando dwarf to make a sword for me."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "I'm afraid there's not much I can do to help you [player name]. My lack of vision means I can't work an anvil like I used to."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh... that's a shame."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "They were probably talking about someone else anyway. I don't think many surface dwellers remember the dwarves who lived in Camdozaal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, I'll see if I can find someone else to make one for me then."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using items on Ramarno",
+      "sections": [
+        {
+          "title": "Ancient relics",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I found this encased within some barronite."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Ah, that looks like one of the relics from the civilization that lived here before Camdozaal was built."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you want it?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "I have no use for it. Maybe one of your kind would find it interesting."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm. Maybe."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Barronite deposit",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I found one of these deposits while mining."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Ah, a barronite deposit. You can use the anvils here to crack it open. If you're lucky, it might have something inside."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Barronite shards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have some barronite shards."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "I could feed those shards into the Sacred Forge now, and keep their power for you to use later if you'd like?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can I use the power from the Forge for?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Well there's a few things we could do with that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Well just bring it back if you change your mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Barronite mace piece",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I found this bit of barronite."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "That looks like part of a weapon. Hmm, I might be able to make something out of it. You'll need to have all the right pieces... and 1,500 barronite shards or if you'd prefer, I can smelt it down for Barronite shards?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "You need a Barronite [piece] and 1500 barronite shards."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Come back with all the parts, and I'll happily knock something up for you."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "You have all the parts I need. Give me a second, and I'll fix it up for you."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "There you go, one Barronite Mace. Should come in handy when killing the golems around here."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Alright then, I can smelt that down for 100 Barronite shards."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "There you go. I can add those shards straight to the Forge as well if you'd like."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Go ahead, that'd be great."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "There you go, that's all done."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks I'll hold onto them."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "No problem, come back to me if you find anything else of interest."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thank you, I'll hold onto it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll hold onto it for now."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Well just bring it back if you change your mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Barronite mace",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What's this mace good for?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "I reckon you could give one of those golems a nasty whack with that thing."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "If you have no use for it, I could smelt it down for some Barronite shards?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Alright then, I can smelt that down for 500 Barronite shards."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "There you go. I can add those shards straight to the Forge as well if you'd like."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Go ahead, that'd be great."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "There you go, that's all done."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks I'll hold onto them."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "No problem, come back to me if you find anything else of interest."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thank you, I'll hold onto it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks I'll hold onto it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imcando hammer (broken)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I found this broken hammer within a barronite deposit."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Ah, the Imcando Hammer. A very useful tool for Smithing and Construction. I could repair it for 1,250 barronite shards if you like or if you'd prefer, I can smelt it down for Barronite shards?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "You need 1250 barronite shards."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Come back with the necessary items, and I'll happily repair the Imcando Hammer for you."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Give me a second, and I'll fix it up for you."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "All done! Here is your Imcando Hammer."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Alright then, I can smelt that down for 350 Barronite shards."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "There you go. I can add those shards straight to the Forge as well if you'd like."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Go ahead, that'd be great."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "There you go, that's all done."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks I'll hold onto them."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "No problem, come back to me if you find anything else of interest."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thank you, I'll hold onto it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Well just bring it back if you change your mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imcando hammer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ramarno",
+                  "text": "The Imcando Hammer, one of my favourite tools for Smithing and Construction."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "If you have no use for it, I could smelt it down for some Barronite shards?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Alright then, I can smelt that down for 500 Barronite shards."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "There you go. I can add those shards straight to the Forge as well if you'd like."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Go ahead, that'd be great."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "There you go, that's all done."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks I'll hold onto them."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "No problem, come back to me if you find anything else of interest."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thank you, I'll hold onto it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks I'll hold onto it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Redberry pie",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've brought you a redberry pie."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Imcando dwarves love redberry pies. I thought you'd like one too."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "Can't say I've ever had one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, well why don't you try it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, what did you think?"
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "This is delicious! Where did you find such a excellent cuisine!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I made it myself."
+                },
+                {
+                  "speaker": "Ramarno",
+                  "text": "You're an brilliant cook [player name]! Just don't bring me too many of these, I'm trying to watch my weight."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After Desert Treasure II - The Fallen Empire",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello again."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "Ah, [player name]. I'm sure you have plenty of questions. I will do my best to answer them."
+            },
+            {
+              "speaker": "Player",
+              "text": "I have something to tell you. It's about another dwarf."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "Another dwarf? An Imcando Dwarf?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes. I encountered someone I believed to be a dwarf, but it was a lie. It was a Mahjarrat in disguise as someone called Ketla."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "Ketla..."
+            },
+            {
+              "speaker": "Player",
+              "text": "You knew her?"
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "I did, long ago. Is she..."
+            },
+            {
+              "speaker": "Player",
+              "text": "She's gone, Ramarno. I'm so sorry."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "I see..."
+            },
+            {
+              "speaker": "Ramarno",
+              "text": "I'm sorry, [player name], but let us not speak of this further. To learn of the death of another of my kin is no surprise, but it pains me all the same. I would prefer to focus my thoughts elsewhere."
+            },
+            {
+              "speaker": "Player",
+              "text": "Of course."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

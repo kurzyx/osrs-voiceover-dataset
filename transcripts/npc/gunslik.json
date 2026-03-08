@@ -1,0 +1,205 @@
+{
+  "ref": "gunslik",
+  "categoryRef": "npc",
+  "title": "Gunslik",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Gunslik",
+              "text": "What can I interest you in? We have something of everything here!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh good!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Keldagrim tasks",
+      "sections": [
+        {
+          "title": "Getting a wacky item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gunslik",
+                  "text": "Hullo, [player name]. Interested in doing a little job for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds interesting, what can I do for you?"
+                },
+                {
+                  "speaker": "Gunslik",
+                  "text": "I've got a very specific task for you, for a very special customer. Can you get me [item] in the next [15-20] minutes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er, you want [item]?"
+                },
+                {
+                  "speaker": "Gunslik",
+                  "text": "For a very special customer, yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, then... I'll get you [item] in the next [15-20] minutes. I'm on it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not interested, no."
+                },
+                {
+                  "speaker": "Gunslik",
+                  "text": "I'm really sorry to hear that, I thought you were just the human for the job."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Getting any other item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gunslik",
+                  "text": "Hullo, [player name]. Interested in doing a little job for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds interesting, what can I do for you?"
+                },
+                {
+                  "speaker": "Gunslik",
+                  "text": "Let's see now... Can you get me [X] [item] in the next [X] minutes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, then... I'll get you [X] [item] in the next [X] minutes. I'm on it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him before acquiring the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gunslik",
+                  "text": "Did you get me [item], [player name]? I don't really have an awful lot of time anymore."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know and I don't care. I quit!"
+                },
+                {
+                  "speaker": "Gunslik",
+                  "text": "No need to be rude about it! Especially since you promised me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just give me a little bit more time."
+                },
+                {
+                  "speaker": "Gunslik",
+                  "text": "Sure, but please hurry up!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him after failing to bring the request in time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gunslik",
+                  "text": "[player name], you didn't get me my [item] within the [X] minutes I gave you. I'm disappointed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I just ran out of time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry about it, I've got your [item] right here."
+                },
+                {
+                  "speaker": "Gunslik",
+                  "text": "It's too late for that. What am I supposed to do with [item] now?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bringing him the item request",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Am I still on time? I've got you [X] [item]!"
+                },
+                {
+                  "speaker": "Gunslik",
+                  "text": "You certainly are! Thank you very much!"
+                },
+                {
+                  "speaker": "Gunslik",
+                  "text": "Do you want me to pay you in gold or would you prefer me to tell you about some crafting secrets?"
+                },
+                {
+                  "speaker": "Gunslik",
+                  "text": "Do you want me to pay you in gold or would you prefer me to teach you a bit about how you can mine more efficiently?"
+                },
+                {
+                  "speaker": "Gunslik",
+                  "text": "Do you want me to pay you in gold or would you like me to show you some smithing tricks?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like the gold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please teach me that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Show me the gold!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Enlighten me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

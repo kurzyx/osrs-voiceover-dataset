@@ -1,0 +1,92 @@
+{
+  "ref": "grimgnash",
+  "categoryRef": "npc",
+  "title": "Grimgnash",
+  "sections": [
+    {
+      "title": "Before Grim Tales",
+      "sections": [
+        {
+          "title": "Using an item on Grimgnash",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Look what I've got!"
+                },
+                {
+                  "speaker": "Grimgnash",
+                  "text": "Grargk! Grimgnash not care for stupid human things! Grimgnash hungry!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to take from the pile of feathers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grimgnash",
+                  "text": "Grahh! What human doing? Why human here? Grimgnash hungry!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh...er...sorry! I didn't mean to disturb you. I'll just be going now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to talk to Grimgnash from too far away",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Grimgnash",
+              "text": "What you want, little human? Grimgnash hungry. Want tasty morsel like you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Like me? Why? Who are you?"
+            },
+            {
+              "speaker": "Grimgnash",
+              "text": "I Grimgnash and I hungry! Perhaps I eat you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm really not that tasty. I think I should be going now. Goodbye."
+            },
+            {
+              "speaker": "Grimgnash",
+              "text": "Human lucky Grimgnash too tired to hunt for food. Stupid wolves keep Grimgnash awake with howling. Grimgnash can't sleep."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Grim Tales",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

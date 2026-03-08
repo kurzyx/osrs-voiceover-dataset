@@ -1,0 +1,1157 @@
+{
+  "ref": "heroes-quest",
+  "categoryRef": "quest",
+  "title": "Heroes' Quest",
+  "sections": [
+    {
+      "title": "The greatest heroes of the land",
+      "sections": [
+        {
+          "title": "Talking to Achietties or trying to enter the guild",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Achietties",
+                  "text": "Greetings. Welcome to the Heroes' Guild."
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "Only the greatest heroes of this land may gain entrance to this guild."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm a hero. May I apply to join?"
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "You're a hero? I've never heard of you."
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "Well, you seem to meet our initial requirements, so you may now begin the tasks to earn membership in the Heroes' Guild."
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "The three items required for entrance are: An Entranan Firebird feather, a Master Thieves' armband, and a cooked Lava Eel."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Any hints on getting the thieves armband?"
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "I'm sure you have the relevant contacts to find out about that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Any hints on getting the feather?"
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "Not really - other than Entranan firebirds tend to live on Entrana."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Any hints on getting the eel?"
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "Maybe go and find someone who knows a lot about fishing?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll start looking for all those things then."
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "Good luck with that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good for the foremost heroes of the land."
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "Yes. Yes it is."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Achietties or trying to enter the guild again without the three items",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Achietties",
+                  "text": "Greetings. Welcome to the Heroes' Guild."
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "How goes thy quest adventurer?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's tough. I've not done it yet."
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "Remember, the items you need to enter are:"
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "An Entranan Firebirds' feather, A Master Thieves armband, and a cooked Lava Eel."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Master Thieves' armband",
+      "sections": [
+        {
+          "title": "Phoenix Gang",
+          "sections": [
+            {
+              "title": "Talking to Straven",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "How would I go about getting a Master Thief armband?"
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Ooh... tricky stuff. Took me YEARS to get that rank."
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Well, what some of the more aspiring thieves in our gang are working on right now is to steal some very valuable candlesticks from Scarface Pete - the pirate leader on Karamja."
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "His security is excellent, and the target very valuable so that might be enough to get you the rank."
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Go talk to our man Alfonse, the waiter in the Shrimp and Parrot."
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Use the secret word 'gherkin' to show you're one of us."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Straven again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "What am I supposed to be doing again?"
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "You told me you wanted to get a Master thief's armband! Now pay attention."
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Some of the more aspiring thieves in our gang are working on right now is to steal some very valuable candlesticks from Scarface Pete - the pirate leader on Karamja."
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "His security is excellent, and the target very valuable so that might be enough to get you the rank."
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Go talk to our man Alfonse, the waiter in the Shrimp and Parrot."
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Use the secret word 'gherkin' to show you're one of us."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Trying to go into the kitchen early",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Alfonse the waiter",
+                      "text": "Hey! You can't go through there! That's private property!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Alfonse",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Alfonse the waiter",
+                      "text": "Welcome to the Shrimp and Parrot. Would you like to order, sir?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you sell Gherkins?"
+                    },
+                    {
+                      "speaker": "Alfonse the waiter",
+                      "text": "Hmmmm Gherkins eh? Ask Charlie the cook, round the back. He may have some 'gherkins' for you!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Charlie",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Charlie the cook",
+                      "text": "Hey! What are you doing back here?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm looking for a gherkin..."
+                    },
+                    {
+                      "speaker": "Charlie the cook",
+                      "text": "Aaaaaah... a fellow Phoenix! So, tell me compadre... what brings you to sunny Brimhaven?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sun, sand and the fresh sea air!"
+                    },
+                    {
+                      "speaker": "Charlie the cook",
+                      "text": "Well, can't say I blame you compadre. I used to be a city boy myself, but have to admit it's a lot nicer living here nowadays. Brimhaven's certainly good for it."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I want to steal Scarface Pete's candlesticks."
+                    },
+                    {
+                      "speaker": "Charlie the cook",
+                      "text": "Ah yes, of course. The candlesticks. Well, I have to be honest with you compadre, we haven't made much progress in that task ourselves so far. We can however offer"
+                    },
+                    {
+                      "speaker": "Charlie the cook",
+                      "text": "a little assistance. The setting up of this restaurant was the start of things; we have a secret door out the back of here that leads through the back of Mr Olbors' garden."
+                    },
+                    {
+                      "speaker": "Charlie the cook",
+                      "text": "Now, at the other side of Mr Olbors' garden, is an old side entrance to Scarface Pete's mansion. It seems to have been blocked off from the rest of the mansion some years ago"
+                    },
+                    {
+                      "speaker": "Charlie the cook",
+                      "text": "and we can't seem to find a way through. We're positive this is the key to entering the house undetected however, and I promise to let you know if we find anything there."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Mind if I check it out for myself?"
+                    },
+                    {
+                      "speaker": "Charlie the cook",
+                      "text": "Not at all! The more minds we have working on the problem, the quicker we get that loot!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm a fellow member of the Phoenix gang."
+                    },
+                    {
+                      "speaker": "Charlie the cook",
+                      "text": "Aaaaaah... a fellow Phoenix! So, tell me compadre... what brings you to sunny Brimhaven?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Just exploring..."
+                    },
+                    {
+                      "speaker": "Charlie the cook",
+                      "text": "Well get out! This kitchen isn't for exploring! It's a private establishment! It's out of bounds to customers!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Attempting to enter Scarface Pete's mansion from the front",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Garv",
+                      "text": "Oi! Where do you think you're going pal?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Garv",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Garv",
+                      "text": "Hello. What do you want?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Can I go in there?"
+                    },
+                    {
+                      "speaker": "Garv",
+                      "text": "No. In there is private."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I want for nothing!"
+                    },
+                    {
+                      "speaker": "Garv",
+                      "text": "You're one of a very lucky few then."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Trying to enter Grubor's house",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Grubor",
+                      "text": "Yes? What do you want?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Would you like your hedges trimming?"
+                    },
+                    {
+                      "speaker": "Grubor",
+                      "text": "Eh? Don't be daft! We don't even HAVE any hedges!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I want to come in."
+                    },
+                    {
+                      "speaker": "Grubor",
+                      "text": "No, go away."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you want to trade?"
+                    },
+                    {
+                      "speaker": "Grubor",
+                      "text": "No, I'm busy."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Attempting to enter Scarface Pete's mansion without using the key",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "This room isn't a lot of use on its own... Maybe I can get extra help from the inside somehow... I wonder if any of the other players have found a way in."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Attempting to hand in Pete's Candlestick if you've obtained it too early",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I have retrieved a candlestick!"
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Well, in all honesty, you didn't actually retrieve it yourself, did you? You don't qualify as a master thief unless you actually steal it yourself, you know..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Handing in Pete's Candlestick",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I have retrieved a candlestick!"
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Hmmm. Not bad, not bad. Let's see it, make sure it's genuine."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So is this enough to get me a Master Thief armband?"
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Hmm..."
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "I dunno..."
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Aww, go on then. I suppose I'm in a generous mood today."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Straven after the quest without having a Master Thief armband",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I'm afraid I've lost my Master Thief armband."
+                    },
+                    {
+                      "speaker": "Straven",
+                      "text": "Lucky for you I have a spare. Don't lose it again!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Black Arm Gang",
+          "sections": [
+            {
+              "title": "Katrine's request",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hey."
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "Hey."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Is there any way I can get the rank of master thief?"
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "Master thief? Ain't we the ambitious one!"
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "Well, you're gonna have to do something pretty amazing."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Anything you can suggest?"
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "Well, some of the MOST coveted prizes in thiefdom right now are in the pirate town of Brimhaven on Karamja."
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "The pirate leader Scarface Pete has a pair of extremely valuable candlesticks."
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "His security is VERY good."
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "We, of course, have gang members in a town like Brimhaven who may be able to help you."
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "Visit our hideout in the alleyway on Palm Street. To get in you will need to tell them the secret password 'four leafed clover'."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Grubor",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Grubor",
+                      "text": "Yes? What do you want?"
+                    },
+                    {
+                      "speaker": "Grubor",
+                      "text": "Eh? What are you on about? Go away!"
+                    },
+                    {
+                      "speaker": "Grubor",
+                      "text": "Oh, you're one of the gang are you? Ok, hold up a second, I'll just let you in through here."
+                    },
+                    {
+                      "speaker": "Grubor",
+                      "text": "Eh? What are you on about? Go away!"
+                    },
+                    {
+                      "speaker": "Grubor",
+                      "text": "Eh? What are you on about? Go away!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Grubor again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi."
+                    },
+                    {
+                      "speaker": "Grubor",
+                      "text": "Hi. I'm a little busy right now."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Trobert's plan",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Trobert",
+                      "text": "Hi. Welcome to our Brimhaven headquarters. I'm Trobert and I'm in charge here."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So can you help me get Scarface Pete's candlesticks?"
+                    },
+                    {
+                      "speaker": "Trobert",
+                      "text": "Well, we have made some progress there. We know that one of the only keys to Pete's treasure room is carried by Grip, the head guard, so we thought it might be good to get close to him somehow."
+                    },
+                    {
+                      "speaker": "Trobert",
+                      "text": "Grip was taking on a new deputy called Hartigen, an Asgarnian Black Knight who was deserting the Black Knight Fortress and seeking new employment here on Brimhaven."
+                    },
+                    {
+                      "speaker": "Trobert",
+                      "text": "We managed to waylay him on the journey here, and steal his I.D. papers. Now all we need is to find somebody willing to impersonate him and take the deputy role to get that key for us."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I volunteer to undertake that mission!"
+                    },
+                    {
+                      "speaker": "Trobert",
+                      "text": "Good good. Here's the I.D. papers. Take them and introduce yourself to the guards at Scarface Pete's mansion. We'll have that treasure in no time."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well, good luck then."
+                    },
+                    {
+                      "speaker": "Trobert",
+                      "text": "Someone will show up eventually."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Pleased to meet you."
+                    },
+                    {
+                      "speaker": "Trobert",
+                      "text": "Likewise."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking to Trobert again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Trobert",
+                      "text": "How's it going?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Fine, thanks."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have lost Hartigen's ID paper..."
+                    },
+                    {
+                      "speaker": "Trobert",
+                      "text": "Well that was careless of you wasn't it? Fortunately for you, he had a spare. Take this one, but please try to be more careful with this one."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I have lost Hartigen's ID papers..."
+                    },
+                    {
+                      "speaker": "Trobert",
+                      "text": "Well that was careless of you, wasn't it? Fortunately for you, he had a spare set. Take this one, but please try to be more careful with it."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Infiltration",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Garv",
+                      "text": "Oi! Where do you think you're going pal?"
+                    },
+                    {
+                      "speaker": "Garv",
+                      "text": "Hello. What do you want?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Hi. I'm Hartigen. I've come to work here."
+                    },
+                    {
+                      "speaker": "Garv",
+                      "text": "Hartigen the Black Knight? I don't think so. He doesn't dress like that."
+                    },
+                    {
+                      "speaker": "Garv",
+                      "text": "I assume you have your I.D. papers then?"
+                    },
+                    {
+                      "speaker": "Garv",
+                      "text": "You'd better come in then. Grip will want to talk to you."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Uh... yeeeeaaaaah.... about that.... I must have left them in my other suit of armour...."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Reporting in",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi there. I am Hartigen. reporting for duty as your new deputy sir!"
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "Ah good, at last. You took your time getting here! Now let me see..."
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "I'll get your hours and duty roster sorted out in a while. Oh, and do you have your I.D. papers with you? Internal security is almost as important as external security for a guard."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Right here sir!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So can I guard the treasure room please?"
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "Well, I might post you outside it sometimes. I prefer to be the only one allowed inside however."
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "There's some pretty valuable artefacts in there! Those keys stay ONLY with the head guard and Scarface Pete."
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "You'll have various guard related duties on various shifts. I'll assign specific duties as they are required as and when they become necessary. Just so you know, if anything happens to me"
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "you'll need to take over as head guard here. You'll find important keys to the treasure room and Pete's quarters inside my jacket - although I doubt anything bad's going to happen to"
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "me anytime soon!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Anything I can do now?"
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "Hmm. Well, you could find out what this key opens for me. Apparently it's for something in this building, but for the life of me I can't find what."
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "Can't think of anything right now."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well, I'd better sort my new room out."
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "Yeah, I'll give you time to settle in. Better get a good nights sleep, I expect you to report for duty at oh five hundred hours tomorrow on the dot!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh dear... I don't have that with me anymore.."
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "Well that's no good! Go get them immediately, then report back for duty."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "When trying to attack Grip",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I can't attack the head guard here! There are too many witnesses around to see me do it! I'd have the whole of Brimhaven after me! Besides, if he dies I want the promotion!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "When searching through his drinks cabinet",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Pirate Guard",
+                      "text": "I don't think Mr Grip will like you opening that. That's his private drinks cabinet."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "He won't notice me having a quick look."
+                    },
+                    {
+                      "speaker": "Grip",
+                      "text": "Stay out of my drinks cabinet!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Ok, I'll leave it."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Searching the chest with the candlesticks",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Attempting to hand in Pete's Candlestick if you've obtained it too early",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I have a candlestick now!"
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "Good for you."
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "I'll be giving a master thieves armband to the one who retrieved that. I know it wasn't you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Handing in Pete's Candlestick",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I have a candlestick now!"
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "Wow.... is... it REALLY it?"
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "This really is a FINE bit of thievery."
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "Us thieves have been trying to get hold of this one for a while!"
+                    },
+                    {
+                      "speaker": "Katrine",
+                      "text": "You wanted to be ranked as a master thief didn't you? Well, I guess this just about ranks as good enough!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Entrana firebird feather",
+      "sections": [
+        {
+          "title": "Talking to a monk on Entrana before getting ice gloves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Monk",
+                  "text": "Greetings traveller."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello, I am in search of an Entranan Firebird. Can you help me?"
+                },
+                {
+                  "speaker": "Monk",
+                  "text": "Oh ho! Another one! I don't think they exist, but you'd probably ask the head monk about it. If anyone would know, he would!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                },
+                {
+                  "speaker": "Monk",
+                  "text": "Anything else you wanted to know?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the High Priest on Entrana before getting ice gloves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "High Priest",
+                  "text": "Many greetings. Welcome to our fair island."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello, I am in search of an Entranan Firebird. Can you help me?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Well adventurer, I have heard that they exist on this island, but have not ever seen one myself."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "According to legend however, they are so hot that their merest touch can burn flesh."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Apparently long ago a great hero used a pair of magical gloves, stolen from the Queen of the Ice to cool the bird down enough to catch as a pet."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So where would I find this 'Queen of the Ice' then?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "I know not adventurer, it was just a myth I was told as a young boy. Perhaps somewhere icy?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Investigating the rockslide on White Wolf Mountain",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to pick up a fire feather without ice gloves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Ouch!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Cooked lava eel",
+      "sections": [
+        {
+          "title": "Talking to Gerrant",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gerrant",
+                  "text": "Welcome! You can buy fishing equipment at my store. We'll also buy anything you catch off you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to find out how to catch a lava eel."
+                },
+                {
+                  "speaker": "Gerrant",
+                  "text": "Lava eels eh? That's a tricky one that is, you'll need a lava-proof fishing line. The method for making this would be to take an ordinary fishing rod, and then cover it with the fire-proof Blamish Oil."
+                },
+                {
+                  "speaker": "Gerrant",
+                  "text": "You know... thinking about it... I may have a jar of Blamish Slime around here somewhere... Now where did I put it?"
+                },
+                {
+                  "speaker": "Gerrant",
+                  "text": "Aha! Here it is! Take this slime, mix it with some Harralander and water and you'll have the Blamish Oil you need for treating your fishing rod."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Gerrant again with blamish snail slime, blamish oil, or an oily fishing rod",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gerrant",
+                  "text": "Welcome! You can buy fishing equipment at my store. We'll also buy anything you catch off you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to find out how to catch a lava eel."
+                },
+                {
+                  "speaker": "Gerrant",
+                  "text": "You'll need a lava-proof fishing line. I'm sure I already gave you what you need for this - take an ordinary fishing rod, and then cover it with the fire-proof Blamish Oil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Making an oily fishing rod",
+          "sections": [
+            {
+              "title": "Mixing blamish oil",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Attempting to drink blamish oil",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "You know... I'd really rather not."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Applying blamish oil to a fishing rod",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Handing in the items",
+      "sections": [
+        {
+          "title": "Trying to hand in an uncooked lava eel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Achietties",
+                  "text": "Greetings. Welcome to the Heroes' Guild."
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "How goes thy quest adventurer?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a raw Lava Eel!"
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "That's nice. I require it to be cooked however."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh. Okay then."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking to Achietties",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Achietties",
+                  "text": "Greetings. Welcome to the Heroes' Guild."
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "How goes thy quest adventurer?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have all the required items."
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "I see that you have. Well done; Now, to complete the quest, and gain entry to the Heroes' Guild in your final task all that you have to do is..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "W-what? What do you mean? There's MORE???"
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "I'm sorry, I was just having a little fun with you. Just a little Heroes' Guild humour there. What I really meant was"
+                },
+                {
+                  "speaker": "Achietties",
+                  "text": "Congratulations! You have completed the Heroes' Guild entry requirements! You will find the door now open for you! Enter, Hero! And take this reward!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

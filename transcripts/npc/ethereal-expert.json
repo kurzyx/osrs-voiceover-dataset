@@ -1,0 +1,148 @@
+{
+  "ref": "ethereal-expert",
+  "categoryRef": "npc",
+  "title": "Ethereal Expert",
+  "sections": [
+    {
+      "title": "During Lunar Diplomacy",
+      "sections": [
+        {
+          "title": "If the player loses the race",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "You beat me."
+                },
+                {
+                  "speaker": "Ethereal Expert",
+                  "text": "Woo hoo! Ha ha! You can try again if you want, but you'll never beat me, I'm far too fast!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Eat my dust!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're right, I'm far too slow."
+                },
+                {
+                  "speaker": "Ethereal Expert",
+                  "text": "You give up too easily, but have it your way."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him again after losing and prior to starting a new race",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ethereal Expert",
+                  "text": "Oh, hello? Looks like you'll probably want to start again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player wins the race",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I won!"
+                },
+                {
+                  "speaker": "Ethereal Expert",
+                  "text": "Noooo! How could you beat me?"
+                },
+                {
+                  "speaker": "Ethereal Expert",
+                  "text": "Very well."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm just making the most of the abilities I worked hard to develop. That's all!"
+                },
+                {
+                  "speaker": "Ethereal Expert",
+                  "text": "True. A very important thing to remember! Now be gone!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "This looks like an interesting island."
+            },
+            {
+              "speaker": "Ethereal Expert",
+              "text": "Oh it is."
+            },
+            {
+              "speaker": "Ethereal Expert",
+              "text": "Fancy a race!?!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What? That's a bit sudden. What kind of race?"
+            },
+            {
+              "speaker": "Ethereal Expert",
+              "text": "I bet I can beat you to the other end of this island, I'll take the left route and you can take the right."
+            },
+            {
+              "speaker": "Player",
+              "text": "That doesn't seem fair - mine's all curvy and yours is straight."
+            },
+            {
+              "speaker": "Ethereal Expert",
+              "text": "Well, that's life I'm afraid, it's never as easy as you would like, you have to take the path that's dealt!"
+            },
+            {
+              "speaker": "Player",
+              "text": "If you insist."
+            },
+            {
+              "speaker": "Ethereal Expert",
+              "text": "You'll see, so how about it?"
+            },
+            {
+              "speaker": "Ethereal Expert",
+              "text": "On your marks!"
+            },
+            {
+              "speaker": "Ethereal Expert",
+              "text": "Get set!"
+            },
+            {
+              "speaker": "Ethereal Expert",
+              "text": "Go !!!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Ethereal Expert",
+              "text": "Have it your way."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "ref": "shopkeeper-quetzacalli-gorge-",
+  "categoryRef": "npc",
+  "title": "Shopkeeper (Quetzacalli Gorge)",
+  "sections": [
+    {
+      "title": "Standard Dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shopkeeper",
+              "text": "Hello there. Looking for some supplies?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "Very well."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "During The Heart of Darkness",
+      "sections": [
+        {
+          "title": "Talking to him again after getting directions to the Twilight Temple",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Shopkeeper",
+                  "text": "Hello there. Looking for some supplies?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "About the Emissaries..."
+                },
+                {
+                  "speaker": "Shopkeeper",
+                  "text": "I already told you to keep your voice down! Fetch your friend and then head east to the Twilight Temple. I will send word for them to expect you both."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great! Thanks!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shopkeeper",
+              "text": "Hello there. Looking for some supplies?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I hear you can offer help to those in need."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "Well I'm always happy to help those less fortunate than I, but you don't really look like you need that sort of thing."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not sure if I should be insulted by that, or flattered... But anyway, you misunderstand. I'm not looking for help myself. Instead I was hoping to do some helping alongside you."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "Thank you for the offer, but I'm not really looking for help right now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you sure? I do also quite like death."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "What are you on about?"
+            },
+            {
+              "speaker": "Player",
+              "text": "You know, end of the world, holy fire, final dawns, that sort of thing."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "Are you a fool? Keep your voice down!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Look, I'm not here to cause problems. I just want to help."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "You want to join the Emissaries?"
+            },
+            {
+              "speaker": "Player",
+              "text": "And a friend as well."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "You know there are tests you'd need to pass, right? Not everyone can be considered worthy."
+            },
+            {
+              "speaker": "Player",
+              "text": "Fine by me. I love tests!"
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "There is a penalty for failing them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, not quite as fun, but I'm still up for it."
+            },
+            {
+              "speaker": "Shopkeeper",
+              "text": "Well... if you're sure, fetch your friend and then head east to the Twilight Temple. I will send word for them to expect you both."
+            },
+            {
+              "speaker": "Player",
+              "text": "Lovely! Thanks!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

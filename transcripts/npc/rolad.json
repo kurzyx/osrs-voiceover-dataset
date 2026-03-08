@@ -1,0 +1,43 @@
+{
+  "ref": "rolad",
+  "categoryRef": "npc",
+  "title": "Rolad",
+  "sections": [
+    {
+      "title": "Before starting Between a Rock...",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Rolad",
+              "text": "Oh, hello... do I know you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ehm... well... my name is [player name], if that rings any bell?"
+            },
+            {
+              "speaker": "Rolad",
+              "text": "No, never heard of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Rolad",
+              "text": "Can you leave me alone please? I'm trying to study."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

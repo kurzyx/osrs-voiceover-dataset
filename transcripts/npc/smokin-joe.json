@@ -1,0 +1,811 @@
+{
+  "ref": "smokin-joe",
+  "categoryRef": "npc",
+  "title": "Smokin' Joe",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting Ratcatchers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "During Ratcatchers",
+          "sections": [
+            {
+              "title": "After helping Hooknosed Jack",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hi! What are you doing?"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Isn't it obvious?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No, not really."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Bluaaghhaha! Ahem. Sorry."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "I'm trying to smoke these pesky rats out. Ahem-hem-hem."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Are you alright?"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "I'll - ugh - I'll be fine, youngin'. My lungs just aren't up for ratcatchin' like they used to be."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Bluaaghhaha!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Ratcatching, you say?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I could help you. I'm young-ish and my lungs are doing fine so far."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "That's-"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Bluaaaghhaha!"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "-kind of you, youngin'."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What's up with your lungs anyway?"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Years of blowin' smoke into rat holes, youngin'."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh dear. Speaking of rats..."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "You offered to help me out."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "That's right! Me and my cat have been learning from the best of the best."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "The Sisters Grime, Jimmy Dazzler, Hooknosed Jack..."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Blimey, that's my old crew! How are they all?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Better now that I've helped them out, I think."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Now, how should I get rid of these rats?"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "That's sim-"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "bluaaghhaha..."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "simple. Take this pot, light the contents, and blow the smoke into the hole."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Er... this pot specifically?"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Aye, this pot. What's wrong with it?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "It's a bit... phlegmy..."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "You'd better make your own then. A-hem-hem."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Just take a simple pot and stick some ordinary garden weeds in it. Then light the pot and use it on a rat hole."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Great. I'll get to it."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Talking again before smoking out the rats",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Have you got that job done yet, youngin'?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No, not yet."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How's your cough?"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Aheeh - hoo."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Better with you helpin' me out, youngin'."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Say, when the job's done, how about I show you to the Rat Pits here in Keldagrim?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "That seems a fair deal. But I'd appreciate any pointers you could give me."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "An extra pair of eyes or set of claws can often come in handy."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Do you have any more straightforward hints?"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Bluaaaghhaha! Hurk-!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Never mind, I'll figure it out!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After smoking out the rats",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I got the rats."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Well good - ahem - good show."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "I'd better show you our rat pits here in Keldagrim."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Great stuff. Let's go."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "They're nice, but the ones they have in Port Sarim are even better."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "They have rat pits in Port Sarim?"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Oh yes! It's the best place to train your wily cat."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Wily cats?"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Well, I suppose there's no harm tellin' you."
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "A-hem!"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Look for 'The Face' in Port Sarim. She'll show you."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So where are the Keldagrim rat pits then?"
+                    },
+                    {
+                      "speaker": "Smokin' Joe",
+                      "text": "Down the stairs to the basement of the 'Laughing Miner'. Get yourself a drink, too, you've earned it."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "After completing Ratcatchers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I could find Phingspet and Grimesquit?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Ah, the sisters Grime, as strange a pair as you're ever likely to meet."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "You'll find them in the sewers of Varrock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I could find Jimmy Dazzler?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Ah, young Jimmy, he must be a made man by now."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "I remember when he was a lad..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you remember where to find him, too?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Hrmph! His old waterin' hole was the Flying Horse in Ardougne."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I could find Hooknosed Jack?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "That old brawler? Is he still knockin' about?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Well, your best bet would be somewhere on the east side of Varrock. It's rough around there though, be careful."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I could find 'The Face'?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "You'll find her in Port Sarim."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I could find Felkrash?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Ah, the boss herself. You'll probably find her in the Port Sarim rat pits."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about the pits?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Here take this, you might find it useful."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "What do you want to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any pointers for me and my cat?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "You should wear an Amulet of Catspeak. It will allow you to organise tactics with your cat."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What would be the best tactic to adopt then?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Well, that depends on your outlook, whether you're ready to risk your cat's life or not and how defensive or aggressive you want your cat to be."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will not risk my cat's life."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Well if that's the case then you're left with two choices."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "You can adopt an ultra defensive strategy, which increases your cat's hitpoints and defence but causes it to flee sooner."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Or you can adopt a less defensive strategy, which will allow your cat to stay in the pit for longer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a very defensive strategy"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In that case you should tell your cat: 'Just take care of yourself, cat.'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a less defensive strategy."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In that case you should tell your cat: 'Stay in for as long as you can.'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am willing to risk my cat, if it increases my chances of victory."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In that case you are left with two choices."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "You could go for all out attack which will boost your cat's attack and strength, but weaken it."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Or, go for a less aggressive stance, which will increase your cat's strength and attack to a lesser degree, but carries no defensive penalties."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a very aggressive strategy."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In that case you should tell your cat: 'Go berserk!'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a less aggressive strategy."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In that case you should tell your cat: 'No guts, no glory!'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What benefits does my cat get from training in the pits?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "It depends on what kind of cat you have."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In the Keldagrim pits, your cat will grow wiser by gaining more experience."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I can find the rat pits in Keldagrim?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Down the stairs into the basement of the 'Laughing Miner'. A grand waterin' hole it is. Just look for The Beast, you'll find it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "Before starting Ratcatchers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yo, shortstuff!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Ratcatchers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I could find Phingspet and Grimesquit?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Ah the sisters, as strange a pair as you're ever likely to meet."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "You're most likely to find them in the sewers of Varrock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I would find Jimmy Dazzler?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Ah young Jimmy, he must be a made man by now."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "I remember when ..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know where I would find him or not?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Hrmph! The entrance to the pits of Ardougne are in the back of the Flying Horse in Ardougne."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "I doubt he would be too far away from there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I could find Hooknosed Jack?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "That old brawler? Is he still knocking about?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Well your best bet would be somewhere on the rough side of Varrock, the east side if I remember correctly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I would find 'The Face'?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "What a tragedy, that girl."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Look for her in Port Sarim."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I would find Felkrash?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Ah, Queen Muck, you'll probably find her in the Port Sarim pits."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about the pits?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Here take this, you might find it useful"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Well what do you want to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any pointers for me and my cat?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "You should wear an amulet of catspeak. It will allow you to organise tactics with your cat."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What would be the best tactic to adopt then?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Well, that depends on your outlook, whether you're ready to risk your cat's life or not and how defensive or aggressive you want your cat to be."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will not risk my cat's life."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Well if that's the case then your are left with two choices."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "You can adopt an ultra defensive strategy, which increases your cat's hitpoints and defence, the drawback to this is that your cat will flee sooner."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Your other option is to adopt a less defensive strategy which will allow your cat to stay in the pit for longer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a very defensive strategy"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In that case you should tell your cat, 'Just take care of yourself cat.'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a less defensive strategy."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In that case you should tell your cat, 'Stay in for as long as you can.'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am willing to risk my cat, if it increases my chances of victory."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In that case you are left with two choices."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "You could go for all out attack which will boost your cat's attack and strength, but weaken it"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "or go for a less aggressive stance which will increase your cat's strength and attack to a lesser degree, but carries no defensive penalties."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a very aggressive strategy"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In that case you should tell your cat, 'Go berserk!'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a less aggressive strategy."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In that case you should tell this to your cat, 'No guts, no glory!'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What benefits does my cat get from training in the pits?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "It depends on what kind of cat you have."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "In the Keldagrim pits, your cat will grow wiser by gaining more experience."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me where I could find the rat pits in Keldagrim?"
+                },
+                {
+                  "speaker": "Smokin' Joe",
+                  "text": "Try the stairs into the basement of the 'Laughing Miner'. A grand watering hole it is. My cat should be standing next to it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

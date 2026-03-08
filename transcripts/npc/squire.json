@@ -1,0 +1,82 @@
+{
+  "ref": "squire",
+  "categoryRef": "npc",
+  "title": "Squire",
+  "sections": [
+    {
+      "title": "Standard dialogue after The Knight's Sword",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Squire",
+              "text": "Hello friend! Many thanks for all of your help! Vyvin never even realised it was a different sword, and I still have my job!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm glad the new sword worked out alright."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Squire",
+                  "text": "OK, here you go."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Squire",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Squire",
+                      "text": "No, try again."
+                    },
+                    {
+                      "speaker": "Squire",
+                      "text": "Correct!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Squire",
+                  "text": "I have a question for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

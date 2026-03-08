@@ -1,0 +1,55 @@
+{
+  "ref": "sailor",
+  "categoryRef": "npc",
+  "title": "Sailor",
+  "sections": [
+    {
+      "title": "Before the Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hiya."
+            },
+            {
+              "speaker": "Sailor",
+              "text": "Don't talk to me outerlander. I need to fix this longboat. Go talk to the chieftain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After the Fremennik Trials",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello. Can I get a ride on your ship?"
+            },
+            {
+              "speaker": "Sailor",
+              "text": "Hello again, [brother/sister] [Fremennik name]. If you're ready to jump aboard, we're all ready to set sail with the tide!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's go!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, no."
+            },
+            {
+              "speaker": "Sailor",
+              "text": "Okay. Suit yourself."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

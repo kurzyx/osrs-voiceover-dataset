@@ -1,0 +1,55 @@
+{
+  "ref": "kurt",
+  "categoryRef": "npc",
+  "title": "Kurt",
+  "sections": [
+    {
+      "title": "Before completing Sins of the Father",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Kurt",
+              "text": "Not infected are you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't think so."
+            },
+            {
+              "speaker": "Kurt",
+              "text": "You don't seem very sure. We don't want any infected near the children. Be off with you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Sins of the Father",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Kurt",
+              "text": "Whatever it is you're selling, we ain't interested!"
+            },
+            {
+              "speaker": "Player",
+              "text": "But I'm not..."
+            },
+            {
+              "speaker": "Kurt",
+              "text": "Did you not hear me? Clear off!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

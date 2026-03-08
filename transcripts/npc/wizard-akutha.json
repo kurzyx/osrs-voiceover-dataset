@@ -1,0 +1,63 @@
+{
+  "ref": "wizard-akutha",
+  "categoryRef": "npc",
+  "title": "Wizard Akutha",
+  "sections": [
+    {
+      "title": "Before completing Hand in the Sand",
+      "sections": [
+        {
+          "title": "Talk option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wizard Akutha",
+                  "text": "Who are you? Get out of here, I don't have anything for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trade option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wizard Akutha",
+                  "text": "I don't know if I can trust you with any of my supplies..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wizard Akutha",
+              "text": "Welcome to the Magic Guild Store. Would you like to buy some magic supplies?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

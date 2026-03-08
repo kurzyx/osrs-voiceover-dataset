@@ -1,0 +1,103 @@
+{
+  "ref": "seaman-morris",
+  "categoryRef": "npc",
+  "title": "Seaman Morris",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Seaman Morris",
+              "text": "Hello there. Looking to travel somewhere? We can take you to Port Sarim or Musa Point. It only costs 30 coins."
+            },
+            {
+              "speaker": "Seaman Morris",
+              "text": "Hello there. Do you want to travel somewhere? We can take you to Musa Point for 15 coins, or if you prefer, for 30 coins we can drop you off in Port Sarim."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Seaman Morris",
+              "text": "Where would you like to go?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to go to Port Sarim."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to go to Musa Point."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I don't want to go anywhere."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            },
+            {
+              "speaker": "Seaman Morris",
+              "text": "Fair enough."
+            },
+            {
+              "speaker": "Player",
+              "text": "Or I could pay you nothing at all..."
+            },
+            {
+              "speaker": "Seaman Morris",
+              "text": "Nothing at all, you say? Yes, why not. Where would you like to go?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to go to Port Sarim."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to go to Musa Point."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I don't want to go anywhere."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Seaman Morris",
+              "text": "Good day to you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you know where the ship to Kourend is?"
+            },
+            {
+              "speaker": "Seaman Morris",
+              "text": "Veos' ship? I think it's on the northern dock."
+            },
+            {
+              "speaker": "Player",
+              "text": "See you later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

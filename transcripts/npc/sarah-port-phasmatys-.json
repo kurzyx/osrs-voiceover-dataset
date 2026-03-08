@@ -1,0 +1,53 @@
+{
+  "ref": "sarah-port-phasmatys-",
+  "categoryRef": "npc",
+  "title": "Sarah (Port Phasmatys)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Ghosts Ahoy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sarah",
+                  "text": "What do you want, mortal?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not sure - what can you offer?"
+                },
+                {
+                  "speaker": "Sarah",
+                  "text": "Not much, I'm dead."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Ghosts Ahoy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sarah",
+                  "text": "You're the one who stopped Necrovarus. Our people are forever grateful to you, even if we don't always show it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

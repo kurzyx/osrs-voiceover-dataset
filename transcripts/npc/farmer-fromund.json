@@ -1,0 +1,119 @@
+{
+  "ref": "farmer-fromund",
+  "categoryRef": "npc",
+  "title": "Farmer Fromund",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Good day. What are you doing?"
+            },
+            {
+              "speaker": "Farmer Fromund",
+              "text": "I'm tending to these farming patches. They need a little more work before I can plant anything."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good luck with that."
+            },
+            {
+              "speaker": "Farmer Fromund",
+              "text": "Thank you, [Fremennik name]."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's wrong with the patches?"
+            },
+            {
+              "speaker": "Farmer Fromund",
+              "text": "The centre patch is full of weeds, and as soon as I clear them they grow back. The south patch is always far too dry. And the soil in the north patch is terrible; it needs a good dose of compost."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Check-Approval",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can you tell me how the kingdom approves of me?"
+            },
+            {
+              "speaker": "Farmer Fromund",
+              "text": "[amount]% of people approve of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Check-Approval before completing Royal Trouble",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can you tell me how the kingdom approves of me?"
+            },
+            {
+              "speaker": "Farmer Fromund",
+              "text": "Kingdom? Etceteria is ruled by a Queen and we don't approve of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to rake the weeds, watering the plants, or applying compost to one of his patches with 100% approval",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Farmer Fromund",
+              "text": "Don't trouble yourself further, Your Highness, you've already done so much!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to rake the weeds, watering the plants, or applying compost to one of his patches before completing Royal Trouble",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Farmer Fromund",
+              "text": "Hey! This is the Queen's farm. You'll need her approval to make use of it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the storerooms are full",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Farmer Fromund",
+              "text": "The storerooms are full, your Highness. You should talk to Advisor Ghrim to collect what we've gathered for you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

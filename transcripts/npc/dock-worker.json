@@ -1,0 +1,63 @@
+{
+  "ref": "dock-worker",
+  "categoryRef": "npc",
+  "title": "Dock worker",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Dock worker",
+              "text": "We could always do with an extra pair of hands on the dock. See Frankie, the fresh fish trader, if you're looking for work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When working on a broken fishing crane",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dock worker",
+                  "text": "We can fix this faster if we work together!"
+                },
+                {
+                  "speaker": "Dock worker",
+                  "text": "Blasted thing's broken again!"
+                },
+                {
+                  "speaker": "Dock worker",
+                  "text": "Can I get some assistance over here?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When a fishing crane has been successfully repaired",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dock worker",
+                  "text": "Great work, this crane should be good for a while!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "ref": "recipe-for-disaster-defeating-the-culinaromancer",
+  "categoryRef": "quest",
+  "title": "Recipe for Disaster/Defeating the Culinaromancer",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "Talking to Aris again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi."
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "Adventurer, you must hurry! You have freed the members of the secret council, but we must ensure that the Culinaromancer is defeated once and for all!"
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "Follow him into the portal and make sure he never leaves again!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Cook",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So... You don't happen to remember what I did after the Culinaromancer escaped into that magic portal thingy do you?"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Of course I do! It was amazing!"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "You jumped in right behind him and fought him to the death!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "...Oh yeah, that's right. And it was a really easy fight wasn't it...?"
+                },
+                {
+                  "speaker": "Cook",
+                  "text": "Oh no! You told me it was really hard, and that you had to defeat a string of monsters without any prayer!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh. I did, did I? Oh."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Aris",
+              "text": "Now you've freed them all, I'll restart time so you can deal with the culinaromancer."
+            },
+            {
+              "speaker": "Player",
+              "text": "If you're sure..."
+            },
+            {
+              "speaker": "Aris",
+              "text": "TEMPUS PROCEDIT!"
+            },
+            {
+              "speaker": "Culinaromancer",
+              "text": "What was that?"
+            },
+            {
+              "speaker": "Aris",
+              "text": "We have broken your feeble spell! Begone!"
+            },
+            {
+              "speaker": "Culinaromancer",
+              "text": "You DARED to meddle?"
+            },
+            {
+              "speaker": "Culinaromancer",
+              "text": "But you cannot defeat me! I'LL BE BACK!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hooray - he's gone!"
+            },
+            {
+              "speaker": "Aris",
+              "text": "One day he'll return. You must go through the portal and finish him off."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Facing the Culinaromancer",
+      "sections": [
+        {
+          "title": "Entering the portal for the first time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aris",
+                  "text": "[Player], I must warn you, inside that dimension you will have no assistance from the gods, and your prayers will not work at all!"
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "Also be aware that he will use his powers to draw upon the might of foes you have fought before, and that dimensional instability means that your lost items will be irretrievable should you die..."
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "Take care, I suspect the Culinaromancer will not give up so easily!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fighting Agrith-Na-Na",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "You DARE come HERE?!?!"
+                },
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "Say hello to my little friend!"
+                },
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "NOOOooo..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fighting Flambeed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "You will regret following me!"
+                },
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "I will not be thwarted by you!"
+                },
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "NOOOooo..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fighting Karamel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "You should not meddle in affairs that do not concern you!"
+                },
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "I have waited a long time for my revenge!"
+                },
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "NOOOooo..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fighting Dessourt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "This will be your death!"
+                },
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "Let's see how you deal with this!"
+                },
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "NOOOooo..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fighting the Gelatinnoth Mother",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "I still have a few tricks left!"
+                },
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "You've been lucky so far, but no more!"
+                },
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "You have caused me enough grief! I guess I'll have to finish you off myself!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fighting the Culinaromancer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Culinaromancer",
+                  "text": "It seems I will have to deal with you myself!"
+                },
+                {
+                  "speaker": "Aris",
+                  "text": "Good work [player]! I think that will be the last we'll see of him! You'd better come back now."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

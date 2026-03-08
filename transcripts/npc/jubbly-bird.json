@@ -1,0 +1,119 @@
+{
+  "ref": "jubbly-bird",
+  "categoryRef": "npc",
+  "title": "Jubbly bird",
+  "sections": [
+    {
+      "title": "Messages",
+      "sections": [
+        {
+          "title": "Attacking without a weapon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attacking with a melee weapon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Casting a spell on a jubbly bird",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attacking with a ranged weapon besides ogre bow or comp ogre bow",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When flying down",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jubbly bird",
+                  "text": "Sqwark!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When backing away from the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jubbly bird",
+                  "text": "Screech!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When eating a bloated toad",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jubbly bird",
+                  "text": "Sqwark!"
+                },
+                {
+                  "speaker": "Bloated toad",
+                  "text": "!!Croak!!"
+                },
+                {
+                  "speaker": "Jubbly bird",
+                  "text": "Gobble!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When flying off",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jubbly bird",
+                  "text": "Rawk!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

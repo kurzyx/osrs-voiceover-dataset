@@ -1,0 +1,58 @@
+{
+  "ref": "mercy",
+  "categoryRef": "npc",
+  "title": "Mercy",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has not paid for access to the upper level",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mercy",
+                  "text": "You shouldn't be up here!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with the hopper without paying for access",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mercy",
+                  "text": "I don't think you should be using that without speaking to Percy first."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mercy",
+              "text": "Why, hello there, young'un. Did my boy Percy say you could come up here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I had to pay him to get access to this area."
+            },
+            {
+              "speaker": "Mercy",
+              "text": "Ah, that's my Percy alright. I raised him well."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

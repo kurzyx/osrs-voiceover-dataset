@@ -1,0 +1,65 @@
+{
+  "ref": "habibah",
+  "categoryRef": "npc",
+  "title": "Habibah",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Spirits of the Elid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day to you."
+                },
+                {
+                  "speaker": "Habibah",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You don't look too happy."
+                },
+                {
+                  "speaker": "Habibah",
+                  "text": "True. We've not fallen on the best of times here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Any way that I can help?"
+                },
+                {
+                  "speaker": "Habibah",
+                  "text": "Possibly. I'd go talk to Awusah the Mayor of Nardah. He's in the big house on the east side of the town square."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the completion of Spirits of the Elid",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How's life now the curse has been lifted?"
+                },
+                {
+                  "speaker": "Habibah",
+                  "text": "Much better thanks to you. We're all very impressed."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

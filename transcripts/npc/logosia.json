@@ -1,0 +1,211 @@
+{
+  "ref": "logosia",
+  "categoryRef": "npc",
+  "title": "Logosia",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has completed the In Search of Knowledge miniquest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'm going to stop looking for temple, sun and moon pages."
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "As you wish adventurer."
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Now shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm going to start looking for temple, sun and moon pages."
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "As you wish adventurer."
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Now shhhh!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has not completed the In Search of Knowledge miniquest, the dialogue will always go to the next two options, regardless of which option is chosen",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Logosia",
+                  "text": "Shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about the Library."
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you do here?"
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you help people find books?"
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you stop shushing me?"
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you do anything useful at all?"
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is wrong with you?"
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is the point in you being here?"
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How can I get a job like yours?"
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You're an utterly useless person."
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "HOW ABOUT I SHOUT REALLY LOUD THEN?"
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "Shhhh!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry."
+                },
+                {
+                  "speaker": "Logosia",
+                  "text": "That's better."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using a Forthos tome on Logosia",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Logosia",
+              "text": "I have not seen this before. Your donation to the library is appreciated."
+            },
+            {
+              "speaker": "Player",
+              "text": "You can have this tome which I discovered aswell."
+            },
+            {
+              "speaker": "Player",
+              "text": "You can have these tomes which I discovered aswell."
+            },
+            {
+              "speaker": "Logosia",
+              "text": "Again, your donation to the library is appreciated"
+            },
+            {
+              "speaker": "Logosia",
+              "text": "Your contributions to the library have been noticed. We would like to reward you for your assistance."
+            },
+            {
+              "speaker": "Logosia",
+              "text": "If you find any spare pages for these books I would be willing to give you 1,000 gold for each one. Duplicate sources of information are always useful."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll keep an eye out."
+            },
+            {
+              "speaker": "Logosia",
+              "text": "Enough talk now, Shhhh!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Logosia",
+                  "text": "Here you go."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

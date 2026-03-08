@@ -1,0 +1,53 @@
+{
+  "ref": "banker-etceteria-",
+  "categoryRef": "npc",
+  "title": "Banker (Etceteria)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Banker",
+              "text": "Hi there, can I help you with anything?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Is this a bank?"
+            },
+            {
+              "speaker": "Banker",
+              "text": "Why yes, what else would it be?"
+            },
+            {
+              "speaker": "Banker",
+              "text": "Anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you get many customers?"
+            },
+            {
+              "speaker": "Banker",
+              "text": "We’re the only bank on these two islands, so business is pretty good."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Anything else?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I’d like to access my account, please."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to collect items."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "ref": "elven-city-guard",
+  "categoryRef": "npc",
+  "title": "Elven city guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, please can you open the gate?"
+            },
+            {
+              "speaker": "Elven city guard",
+              "text": "I'm sorry but no humans may enter Prifddinas while those criminals are at large."
+            },
+            {
+              "speaker": "Elven city guard",
+              "text": "Rules are rules. No one enters until the brigands are gone."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

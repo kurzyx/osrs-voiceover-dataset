@@ -1,0 +1,112 @@
+{
+  "ref": "ellis",
+  "categoryRef": "npc",
+  "title": "Ellis",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ellis",
+              "text": "Greetings friend. I am a manufacturer of leather."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I buy some leather then?"
+            },
+            {
+              "speaker": "Ellis",
+              "text": "I make leather from animal hides. Bring me some cowhides and one gold coin per hide, and I'll tan them into soft leather for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Leather is rather weak stuff."
+            },
+            {
+              "speaker": "Ellis",
+              "text": "Normal leather may be quite weak, but it's very cheap - I make it from cowhides for only 1 gp per hide - and it's so easy to craft that anyone can work with it."
+            },
+            {
+              "speaker": "Ellis",
+              "text": "Alternatively you could try hard leather. It's not so easy to craft, but I only charge 3 gp per cowhide to prepare it, and it makes much sturdier armour."
+            },
+            {
+              "speaker": "Ellis",
+              "text": "I can also tan snake hides and dragonhides, suitable for crafting into the highest quality armour for rangers."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, I'll bear it in mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "With one or more hides in the inventory",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ellis",
+              "text": "Greetings friend. I am a manufacturer of leather."
+            },
+            {
+              "speaker": "Ellis",
+              "text": "I see you have brought me a hide. Would you like me to tan it for you?"
+            },
+            {
+              "speaker": "Ellis",
+              "text": "I see you have brought me some hides. Would you like me to tan them for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Ellis",
+              "text": "Very well, [sir/madam], as you wish."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using Al kharid flyer on Ellis",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ellis",
+              "text": "Er... Thanks, but no thanks!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

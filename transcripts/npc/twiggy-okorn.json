@@ -1,0 +1,177 @@
+{
+  "ref": "twiggy-okorn",
+  "categoryRef": "npc",
+  "title": "Twiggy O'Korn",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has not completed all Achievement Diaries",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "Hey there!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you?"
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "My name is Twiggy O'Korn and I am the Mistress of all of the Achievement Diaries. It is a pleasure to make your acquaintance."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Likewise."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's a nice cape - please tell me about it."
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "Ah yes, this is a Cape of Accomplishment, available only to those who complete every single Achievement Diary."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has completed all Achievement Diaries",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "Hey there!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I get a cape like yours?"
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "I see you've completed all the Achievement Diaries - well done! However, the capes cost 99,000 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll be back."
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "I see you've completed all the Achievement Diaries - well done! However, you'll need to free up some space to hold the cape and hood."
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "I see you've completed all the Achievement Diaries - well done! Now, I'll need 99,000 coins to cover my costs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are your costs?"
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "Squirrel food, mostly. It's not like it grows on trees, you know! Anyway, do you want the cape?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, here's 99,000 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, forget it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has an achievement diary cape in their bank or inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "Hey there!"
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "I don't think you can afford one at the moment. They cost 99,000 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe another time."
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "It'll cost you another 99,000 coins. You do realise you already own a cape and hood, right?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want another set. Here's 99,000 coins."
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "You can, but you'll need to free up some space to hold the cape and hood."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've lost the hood from my cape."
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "That's not a problem. I'll give you another one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "May I have another hood for my cape, please?"
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "You don't appear to have enough space in your inventory, come back and see me when you do."
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "Most certainly, and free of charge!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Random chance about 2%",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "Hey there!"
+                },
+                {
+                  "speaker": "Twiggy O'Korn",
+                  "text": "Here, have some chocolate!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow, thanks!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ref": "priest-west-ardougne-",
+  "categoryRef": "npc",
+  "title": "Priest (West Ardougne)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Priest",
+              "text": "I wish there was more I could do for these people."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after Song of the Elves",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Priest",
+              "text": "It's going to take a lot of work to fix the damage done to this city."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

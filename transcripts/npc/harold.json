@@ -1,0 +1,70 @@
+{
+  "ref": "harold",
+  "categoryRef": "npc",
+  "title": "Harold",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Death Plateau",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After Death Plateau",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Harold",
+                  "text": "Hi."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I buy you a drink?"
+                },
+                {
+                  "speaker": "Harold",
+                  "text": "Now you're talking! An Asgarnian Ale please!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll go and get you one."
+                },
+                {
+                  "speaker": "Harold",
+                  "text": "*burp*"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "When opening his door",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Harold",
+              "text": "Come in!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

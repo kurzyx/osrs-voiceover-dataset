@@ -1,0 +1,73 @@
+{
+  "ref": "guard",
+  "categoryRef": "npc",
+  "title": "Guard",
+  "sections": [
+    {
+      "title": "Overhead dialogue for Falador guards",
+      "sections": [
+        {
+          "title": "When the Party Room chest contains more than 50,000 or 76,000 coins in Grand Exchange value (on a F2P or members' world respectively)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Party! Party!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Something's happening in the party room!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Everyone get to the party room!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "What's happening in the party room?"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Someone's having a big party!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the lever is pulled",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Get to the party room NOW!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Get to the party room!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Get to the party room quick!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Big value items in the party room now!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Quick! Get to the party room!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

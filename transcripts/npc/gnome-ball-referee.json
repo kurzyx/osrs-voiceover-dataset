@@ -1,0 +1,252 @@
+{
+  "ref": "gnome-ball-referee",
+  "categoryRef": "npc",
+  "title": "Gnome ball referee",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "First talk",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Hi, welcome to Gnomeball. It's pretty simple really: You take the ball from me, charge at the gnome defence and try to throw the ball through the net using your ranged skill."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "It's a rough game but great fun. It's also great for improving agility. So do you fancy a game?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Looks too dangerous for me!"
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "You may be right, we've seen humans die on this field."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay then, I'll have a go."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Great stuff! There are few rules to Gnomeball, so it can get a bit rough."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "You can pass to the green winger gnomes. Then you can make a run and they'll pass back. Otherwise, if you're feeling brave, you can just charge and dodge."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds easy enough."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "The main aim is to leave with no broken limbs. I think you should be fine."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Peeeeeeeeep"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Without a gnomeball equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Hi, welcome back to Gnomeball. Would you like to hear the rules again?"
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "It's pretty simple really: You take the ball from me, charge at the gnome defence and try to throw the ball through the net using your ranged skill."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "It's a rough game but great fun. It's also great for improving agility."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "You can pass to the green winger gnomes. Then you can make a run and they'll pass back. Otherwise, if you're feeling brave, you can just charge and dodge."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds easy enough."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "The main aim is to leave with no broken limbs. I think you should be fine."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Ahh I see you have your own ball. We can't play with that; I'll give it back when you leave."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Peeeeeeeeep"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I just want to play"
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Okay... Let's play GNOMEBALL!"
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Ahh I see you have your own ball. We can't play with that; I'll give it back when you leave."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Peeeeeeeeep"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I don't want to play."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Okay, never mind. Maybe next time..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With a gnomeball equipped",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "You have a ball in play. Do you need to hear the rules again?"
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "It's pretty simple really: You take the ball from me, charge at the gnome defence and try to throw the ball through the net using your ranged skill."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "It's a rough game but great fun. It's also great for improving agility."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "You can pass to the green winger gnomes. Then you can make a run and they'll pass back. Otherwise, if you're feeling brave, you can just charge and dodge."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds easy enough."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "The main aim is to leave with no broken limbs. I think you should be fine."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Ahh I see you have your own ball. We can't play with that; I'll give it back when you leave."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "The ball you have in your hand is fine to play with... Game on."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Okay, good luck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the gnomeball is out of play",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Have a new ball!"
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Ahh I see you have your own ball. We can't play with that; I'll give it back when you leave."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Peeeeeeeeep"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Gnome ball referee",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Gnome ball referee",
+                      "text": "Wrong answer!"
+                    },
+                    {
+                      "speaker": "Gnome ball referee",
+                      "text": "Well done!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Right, you haven't finished quite yet."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ugh."
+                },
+                {
+                  "speaker": "Gnome ball referee",
+                  "text": "Answer this for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

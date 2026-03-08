@@ -1,0 +1,102 @@
+{
+  "ref": "shipwright-spencer",
+  "categoryRef": "npc",
+  "title": "Shipwright Spencer",
+  "sections": [
+    {
+      "title": "Standard dialogue pre-Sailing release",
+      "sections": [
+        {
+          "title": "Buy-boat, customise-boat, or recover-boat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Shipwright Spencer",
+                  "text": "I'm afraid I can't help you with that at the moment. You'll have to come back later."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shipwright Spencer",
+              "text": "Greetings! What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello there. What do you do around here?"
+            },
+            {
+              "speaker": "Shipwright Spencer",
+              "text": "I'm a shipwright. I supply boats of all kinds to anyone with the money to afford them."
+            },
+            {
+              "speaker": "Player",
+              "text": "Interesting... Would I be able to buy one?"
+            },
+            {
+              "speaker": "Shipwright Spencer",
+              "text": "Sorry, but I don't have any ready for sale right now. I'm sure I will soon, so keep checking back."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, fair enough."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sailing alpha dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shipwright Spencer",
+              "text": "Greetings! What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to buy a new boat."
+            },
+            {
+              "speaker": "Shipwright Spencer",
+              "text": "Of course! Which one would you like?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to customise a boat."
+            },
+            {
+              "speaker": "Shipwright Spencer",
+              "text": "Not a problem. Just let me know which boat you want to customise and I'll get things set up for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to retrieve a boat."
+            },
+            {
+              "speaker": "Shipwright Spencer",
+              "text": "I'm afraid I can't help you with that as you don't have permission to use the docks here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing, thanks."
+            },
+            {
+              "speaker": "Shipwright Spencer",
+              "text": "Fair enough."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

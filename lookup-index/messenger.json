@@ -1,0 +1,48 @@
+{
+  "ref": "messenger",
+  "speaker": {
+    "ref": "messenger",
+    "name": "Messenger"
+  },
+  "speakerVariations": [],
+  "hashes": [
+    "18583ca0c905612e1f6c6f949b9f2f454db92750a96aab08c3bcca7f978c27bd",
+    "397ea5fb74beaf52b22a289cdbcaa3c6e5c5c5f8532a2a65a049e21002ef8f94",
+    "bc31df313d703d79995b3c4c584c88b50d02dc1c8e3852ec62ae08447a482edf",
+    "8c7261a11ff8c464b402eea98f2308fe8851d02e0487ad38ccf023f017d66f3e",
+    "7cb606d35f3c66ced7df3c0ef97db6b363cd33a55fd385574ed48879fd904b5b",
+    "f0359ab68510b5b8cc1b69fcaec87c749f6502096b662d474498e0e76bc64538",
+    "957fe1fcd37d31eca7216ce79dcd6d494777937ddd2cd6aef2167b045f7acbd2",
+    "51bbac88ad9fd0f7c90f6d58070cf9d931c51fbd5c83ba173f6f90c48b199809",
+    "96a105e9fc174c44dd4879695ed2d0b452f10b57a692b2577c8b60e0462a84a4",
+    "464b5ba352dd13b8d97b48112dad108ea6d61cfa74a615af2ba2ff835b457394",
+    "d637765c99a50f702c64bcd6a73eba9cdde910776d9f61aac4f4a662d6c248cf",
+    "5ac1331ef0766816a691c203f8a4aa10ada7d4f15752dd85ab45eab47a8cec9c"
+  ],
+  "hashesWithUnresolvedText": {
+    "51bbac88ad9fd0f7c90f6d58070cf9d931c51fbd5c83ba173f6f90c48b199809": {
+      "text": "[player name]?",
+      "placeholders": [
+        "[player name]"
+      ]
+    },
+    "96a105e9fc174c44dd4879695ed2d0b452f10b57a692b2577c8b60e0462a84a4": {
+      "text": "Are you there [player name]?",
+      "placeholders": [
+        "[player name]"
+      ]
+    },
+    "464b5ba352dd13b8d97b48112dad108ea6d61cfa74a615af2ba2ff835b457394": {
+      "text": "[player name]? I have a message for you.",
+      "placeholders": [
+        "[player name]"
+      ]
+    },
+    "d637765c99a50f702c64bcd6a73eba9cdde910776d9f61aac4f4a662d6c248cf": {
+      "text": "[player name]? You've been sent a message.",
+      "placeholders": [
+        "[player name]"
+      ]
+    }
+  }
+}

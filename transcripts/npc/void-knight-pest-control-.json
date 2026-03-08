@@ -1,0 +1,69 @@
+{
+  "ref": "void-knight-pest-control-",
+  "categoryRef": "npc",
+  "title": "Void Knight (Pest Control)",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When the purple portal becomes vulnerable",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Void Knight",
+                  "text": "The purple, western portal shield is down!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the blue portal becomes vulnerable",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Void Knight",
+                  "text": "The blue, eastern portal shield is down!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the yellow portal becomes vulnerable",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Void Knight",
+                  "text": "The yellow, south-eastern portal shield is down!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the red portal becomes vulnerable",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Void Knight",
+                  "text": "The red, south-western portal shield is down!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "ref": "olbertus",
+  "categoryRef": "npc",
+  "title": "Olbertus",
+  "sections": [
+    {
+      "title": "While possessed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Olbertus",
+              "text": "It's mine. You can't have it, we found it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What have you found?"
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "Not dragonstones. I like dragonstones, that's why I came here. However, I found a valuable coin instead, it speaks to me... but you can't have it! It's precious to me!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't want it, I have something better."
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "What is it? Is it dragonstones? I like dragonstones!"
+            },
+            {
+              "speaker": "Olbertus (possessed)",
+              "text": "Ask it for five! It looks rich!"
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "Five? Will it give us five?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No. I don't have five dragonstones."
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "Well then we are not interested!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes. I have five dragonstones, tell you what, I'll trade you them for that coin you found."
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "Yes! Yes! We'll trade it for the dragonstones."
+            },
+            {
+              "speaker": "Olbertus (possessed)",
+              "text": "No we will not! It is too precious!"
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "But why? I like dragonstones..."
+            },
+            {
+              "speaker": "Olbertus (possessed)",
+              "text": "It is trying to trick us! Evil, nasty creature it is. Do not listen to it!"
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "But it seems nice enough..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I am standing right here, you know? You really are crazy. Yes, I'll give you five! Do we have a deal or not?"
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "Yes! Yes!"
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "Thanks for helping me, I'm not sure what would have happened if I had continued to listen to the voices in my head."
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "I took that coin from the Stone Relief in the Crypt of the Moon and trapped my friend Eodan in a secret room behind the relief. Could you return the coin to the relief and set him free?"
+            },
+            {
+              "speaker": "Player",
+              "text": "On second thoughts, I'll keep it for myself."
+            },
+            {
+              "speaker": "Player",
+              "text": "Since it's valuable, I think I'll just just kill you for it."
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "Please! No!"
+            },
+            {
+              "speaker": "Olbertus",
+              "text": "Foolish decision!"
+            },
+            {
+              "speaker": "Shaeded Beast",
+              "text": "I require this one alive human!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Just kidding!"
+            },
+            {
+              "speaker": "Player",
+              "text": "You're crazy!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After being freed from possession",
+      "sections": [
+        {
+          "title": "If the player traded for the coin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olbertus",
+                  "text": "Thanks for helping me, I'm not sure what would have happened if I had continued to listen to the voices in my head."
+                },
+                {
+                  "speaker": "Olbertus",
+                  "text": "I took that coin from the Stone Relief in the Crypt of the Moon and trapped my friend Eodan in a secret room behind the relief. Could you return the coin to the relief and set him free?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player chose to fight Shaeded Beast",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olbertus",
+                  "text": "Thanks for killing that creature."
+                },
+                {
+                  "speaker": "Olbertus",
+                  "text": "It appears that when I stole the coin, the creature possessed me."
+                },
+                {
+                  "speaker": "Olbertus",
+                  "text": "I took that coin from the Stone Relief in the Crypt of the Moon and trapped my friend Eodan in a secret room behind the relief. Could you return the coin to the relief and set him free?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Reclaiming the coin",
+      "sections": [
+        {
+          "title": "If the player traded for the coin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olbertus",
+                  "text": "I'm glad I no longer have that coin. I'm not sure what would have happened if I had continued to listen to the voices in my head."
+                },
+                {
+                  "speaker": "Olbertus",
+                  "text": "For some reason the coin returned to me. Here, take it before it corrupts me again!"
+                },
+                {
+                  "speaker": "Olbertus",
+                  "text": "I took that coin from the Stone Relief in the Crypt of the Moon and trapped my friend Eodan in a secret room behind the relief. Could you return the coin to the relief and set him free?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player chose to fight Shaeded Beast",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Olbertus",
+                  "text": "Thanks for killing that creature."
+                },
+                {
+                  "speaker": "Olbertus",
+                  "text": "It appears that when I stole the coin, the creature possessed me."
+                },
+                {
+                  "speaker": "Olbertus",
+                  "text": "For some reason the coin returned to me. Here, take it before it corrupts me again!"
+                },
+                {
+                  "speaker": "Olbertus",
+                  "text": "I took that coin from the Stone Relief in the Crypt of the Moon and trapped my friend Eodan in a secret room behind the relief. Could you return the coin to the relief and set him free?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After speaking to Eodan",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Olbertus",
+              "text": "I'm glad I no longer have that coin. I'm not sure what would have happened if I had continued to listen the voices in my head."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

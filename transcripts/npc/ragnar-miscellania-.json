@@ -1,0 +1,107 @@
+{
+  "ref": "ragnar-miscellania-",
+  "categoryRef": "npc",
+  "title": "Ragnar (Miscellania)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Good day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Good day, Your Royal Highness."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When attacking the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ragnar",
+                  "text": "Oi!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Rahr!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "No!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Grr!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When killed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ragnar",
+                  "text": "Aargh!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "I'm a gonner!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "It's no use, I'm done for!"
+                },
+                {
+                  "speaker": "Ragnar",
+                  "text": "Uggh!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

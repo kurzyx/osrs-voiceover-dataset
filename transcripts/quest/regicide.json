@@ -1,0 +1,1026 @@
+{
+  "ref": "regicide",
+  "categoryRef": "quest",
+  "title": "Regicide",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "Talking to King Lathas",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I received your message my liege. How may I serve the kingdom?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Ahh... adventurer. The repair work on the Well of Voyage has been completed. We're finally ready to move against my brother."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I assume you have a plan?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "I do indeed. I recently managed to make contact with the elves that inhabit the western lands."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Elves? I’ve never seen an elf before."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Well that may well change soon. Apparently, my brother has been causing them quite a bit of trouble. As such, they've agreed to help us get rid of him once and for all."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what do I need to do?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "You are to head into the Underground Pass and through the Well of Voyage. Lord Iorwerth, the leader of the elves, will send some representatives to meet you on the other side."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "With their help, you are to find my brother and kill him. Once that's done, return to me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Very well. Anything else I should know?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "My brother may not be the only threat you face. I hear the elves are currently dealing with a rebellion. The rebels likely won't take kindly to you working with their enemy so be on the look out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. I'll be careful."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Good luck adventurer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I don't think I'm ready for this yet."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "As you wish. Return to me when you are ready and we will begin."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the deal with your brother again?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "My brother, King Tyras, was always a bit of an explorer. He went on numerous expeditions to the lands west of here. On one of these expeditions, he was captured by the forces of the Dark Lord."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "The Dark Lord agreed to spare his life, but only on one condition... That he would drink from the Chalice of Eternity. The chalice corrupted him. He joined forces with the Dark Lord, the embodiment of pure evil…"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "As a result, I had a wall built around West Ardougne to act as a barrier between him and the rest of the world. Tyras is king of West Ardougne, sealing off the city was the only way to stop him and the Dark Lord."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "I knew people would never believe the truth, so I had the plague made up as an excuse for the cordon. I'm not proud of it, but it was the only way to keep people safe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But now we’re ready to stop him."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Indeed we are. My brother has been gathering strength in the west, preparing to move against us. But now that we have a way through, we can move against him first."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Excellent. Do you have a plan in place?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "I do indeed. I recently managed to make contact with the elves that inhabit the western lands."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds good. See you later."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Farewell adventurer. Return to me once you are ready to begin."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Entering Isafdar",
+      "sections": [
+        {
+          "title": "Encountering Idris, Morvran, and Essyllt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Idris",
+                  "text": "Halt human! What are you doing here?"
+                },
+                {
+                  "speaker": "Idris",
+                  "text": "Wait! What was that? What the..."
+                },
+                {
+                  "speaker": "Morvran",
+                  "text": "Are you the human by the name of [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes that's me."
+                },
+                {
+                  "speaker": "Essyllt",
+                  "text": "Good... We've been expecting you. King Lathas sent word of your coming."
+                },
+                {
+                  "speaker": "Essyllt",
+                  "text": "You should speak with Lord Iorwerth. He will help you track down that brigand Tyras. You'll find his camp in the north west of the forest."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking with Lord Iorwerth",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there, I'm [player name]. Your scouts said that I should come and see you."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Ahh... [player name]. Welcome to Tirannwn. I understand you've been sent here to rid us of that criminal Tyras. I offer my full support."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Unfortunately, most of my troops are currently dealing with a group of renegade elves. That does mean we're a bit more limited than we otherwise would be."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. I'll need to play this smart then."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Indeed. Now, Tyras and his forces moved camp recently so your first step will be to find their new camp. I have a tracker currently working in that area. I suggest you join up with him."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "You'll find him at Tyras's old camp. It's south east of here, just north of that poisoned lake. Once you've found the camp, come and let me know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you. I shall return when my task is complete."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Tracking Tyras' Camp",
+      "sections": [
+        {
+          "title": "Speaking with the Elf Tracker",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "Human! You must be one of Tyras's men..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No I'm [player name]! Lord Iorwerth said you might be able to help me."
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "And you have something to prove this?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... Err... No."
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "As I was saying... I have no time for brigands or outlaws."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking with Lord Iorwerth agin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Good day [player name]. How may I help you now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your scout refused to help. He asked for proof that you sent me."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Bless his loyalty but curse his suspicion. Here he will recognise this."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning to the Elf Tracker",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "Human! You must be one of Tyras's men..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No I'm [player name]! Lord Iorwerth said you might be able to help me."
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "And you have something to prove this?"
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "That's Lord Iorwerth's pendant. He must have a lot of faith in you. Now, what is it I can help you with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to find Tyras and kill him. Do you know where his camp is?"
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "Well this was his old camp. After the battle a few days ago they moved. We're yet to find them again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I help at all?"
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "As it goes I'm not actually tracking them at the moment. I'm currently trying to trace our renegade brethren instead. This here is the best lead we've found so far."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is?"
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "Ahh I guess you can't see it with those human eyes."
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "I tell you what. Now that you're here I may as well give you a hand. I'll search here on the east side. You check out the west end of the camp. Come and tell me if you find anything."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking with Lord Iorwerth again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "[player name], how goes your search? Any luck hunting down that brigand?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've found no trace of him as yet."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "I'm sure you will find something at his old camp that can help you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll take a look and see what I can find."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Good. Come find me when you've located the camp."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking with the Elf Tracker again before finding the tracks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What should I be doing again?"
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "Check out the west end of the camp and see if you can find anything. I'll keep looking here. Let me know if you find anything."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Finding the tracks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Speaking with the Elf Tracker again after finding the tracks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I've found tracks leading off to the west. But they trail off into the trees. Beyond that I am unable to follow."
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "These forests aren't always as dense as you'd think. If you look closer, you might see ways that you can get through. With that in mind, why don't you give it another go?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks... I'll see what I can find."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Returning to the Elf Tracker after finding the camp",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "How goes the hunt for that bandit camp?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I found it a short distance west of here."
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "I'm sure Lord Iorwerth will be pleased to hear that. You should let him know."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fighting the Tyras Guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tyras Guard",
+                  "text": "I see you making friends with that elf, traitor!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Making a Bomb",
+      "sections": [
+        {
+          "title": "Speaking with Lord Iorwerth",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "[player name] how goes your search... Any luck hunting down that brigand?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've finally tracked the brute down. His camp is in a secluded bit of forest, almost directly south of here."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Good job. As we don't have the troops available to take on his forces directly, I suggest we try some alternative tactics."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "I have this book here which details an explosive reaction. We should be able to use it to create a bomb."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well that should make short work of Tyras."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Indeed. Have a read through and see what you think. Once you have, let me know if you have any questions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Losing the book",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I lost my copy of The Big Book of Bangs."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Its lucky I had a scribe make a few copies then, is it not?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking with Lord Iorwerth about ingredients",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Good day [player name]. Have you had any luck with that book?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need some quicklime."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Quicklime?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Apparently it's made by heating limestone."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Ah, I see. There's a mine directly east of here where you can mine limestone."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Is there anything else I can help with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need some sulphur."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Check the shore south of the old camp you were at earlier. I've seen sulphur there in the past, it comes from that poisoned lake."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds good, thanks."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Is there anything else I can help with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need some naphtha."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Naphtha?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "According to the book, you get it through the fractional distillation of coal tar."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Well you should be able to get some coal tar from that poisoned lake to the south. As for the rest, I'm afraid I don't have the chemistry knowledge to understand it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... I know someone from Ardougne who might be able to help. She knows a thing or two about chemistry."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Perfect! Take the book to her and see if she can help. Just don't tell her what it's for. Even if she's trustworthy, we can't take any risks."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Anyway, is there anything else I can help with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need a barrel."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Have a look around the camp, there should be some empty barrels lying around."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will do, thanks."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Is there anything else I can help with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need a fuse."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Some sort of fabric should work. You can use the loom here if needed."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Is there anything else I can help with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's all thanks."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Let me know if you need anything else."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking with the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day. I was hoping you could help me with something. I have a book which mentions the fractional distillation of coal tar. I don't know how to do that though."
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "Ah, you'll be wanting to use the still then. It's just outside."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I use it?"
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "It's quite simple really. You have to get the still heat up very high for it to work. However, if it gets too hot it will burn out and you will have to start over."
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "You must also watch the pressure, if it gets too high you will also have to start over. There are valves to control pressure and tar flow. These will also affect the heat of the still."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is that all?"
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "You'll also need plenty of coal to keep the still hot."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see, thanks for the information."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Committing Regicide",
+      "sections": [
+        {
+          "title": "Returning to Lord Iorwerth before using the bomb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Good day [player.] Have you had any luck with that book?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have finished the bomb."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Excellent work. Now we can finally deal with Tyras."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what should I do? Plant it in his camp?"
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "No, you'll be spotted by the guards if you try that. You'll need to get it in from outside."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Any suggestions?"
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Tyras and his men have used catapults against us in the past. Maybe you can turn one of them against him."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Now you'd better get going. Don't forget, you'll need a tinderbox to light that fuse. Return to me once the deed is done."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to use the catapult before distracting the guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Tyras guard",
+                  "text": "Oi! Don't mess with that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bribing the Guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day."
+                },
+                {
+                  "speaker": "Tyras guard",
+                  "text": "Yeah, what ya want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was wondering what you were doing out here?"
+                },
+                {
+                  "speaker": "Tyras guard",
+                  "text": "I was just wondering what I was doing here too. I'm meant to be looking after this catapult but I can't keep my mind on the job. We've been living off field rations for almost a year now."
+                },
+                {
+                  "speaker": "Tyras guard",
+                  "text": "I keep seeing rabbits in this forest. What I wouldn't give to eat one, but I'm not quick enough to kill any and I'm no good with a bow."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can see how that would be distracting."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I have one here for you."
+                },
+                {
+                  "speaker": "Tyras guard",
+                  "text": "You cooked me a rabbit! Thanks a lot. You don't mind watching things while I take five to eat it, do you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Guard after killing Tyras",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "All right."
+                },
+                {
+                  "speaker": "Tyras guard",
+                  "text": "They say the king died from a flying fire ball. Are you certain no one messed with the catapult while I was eating?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was the only one here. I was watching the whole time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Elf Tracker",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "I take it that the huge explosion I just heard was you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I've finally dealt with Tyras, he should cause you no more problems."
+                },
+                {
+                  "speaker": "Elf Tracker",
+                  "text": "This is good news indeed. Lord Iorwerth will be very happy. You should go and let him know."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reporting to Lord Iorwerth",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Lord Iorwerth, it is done."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Good good... One of my scouts reported that they saw his tent in a ball of flames. You have done well."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "I'm sure you will want to get back to your king and tell him. He will undoubtedly want some proof. He should trust me enough in this matter, Give him this letter, it verifies that the job is done."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "As a token of my own thanks, I give you access to the pass through Arandar. You'll find the start of the trail in the far north east of the woods."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you my lord."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Losing the scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Lord Iorwerth, I have lost the message for King Lathas."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Here have another copy, but don't let it fall into the wrong hands."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you my lord."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Lord Iorwerth again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day Lord Iorwerth."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "Have you delivered the message to King Lathas yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet my lord."
+                },
+                {
+                  "speaker": "Lord Iorwerth",
+                  "text": "There is no time for delay, he'll need to see it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Reporting to King Lathas",
+      "sections": [
+        {
+          "title": "Meeting Arianwyn",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Arianwyn",
+                  "text": "Are you the human by the name [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, that's me?"
+                },
+                {
+                  "speaker": "Arianwyn",
+                  "text": "Thank Seren, maybe all is not yet lost."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Arianwyn",
+                  "text": "I am Arianwyn, leader of the Elven Resistance. We've been watching you since you arrived in Tirannwn. We know it was you that murdered King Tyras."
+                },
+                {
+                  "speaker": "Arianwyn",
+                  "text": "There is much to explain and little time. You carry a message from Lord Iorwerth, do you not?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well you seem to know everything else so I'll not lie. Yes."
+                },
+                {
+                  "speaker": "Arianwyn",
+                  "text": "Good, we understand each other well. Now hand it here and find the truth of who your real employer is."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I had no idea! Why would the king do this?"
+                },
+                {
+                  "speaker": "Arianwyn",
+                  "text": "I have a few ideas, now is not the time to discuss them though. For now, you should go to King Lathas as normal. Give him the message and act like nothing unusual has happened."
+                },
+                {
+                  "speaker": "Arianwyn",
+                  "text": "Once you are done, return to Tirannwn and seek out Islwyn and Eluned. You'll find them roaming the Isafdar forest. They will bring you to me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You want me to help you? Okay, what's in it for me?"
+                },
+                {
+                  "speaker": "Arianwyn",
+                  "text": "The chance for redemption after all you've done? If that doesn't take your fancy, consider this..."
+                },
+                {
+                  "speaker": "Arianwyn",
+                  "text": "This isn't a struggle for land or title. It is a war for life, all life. If Iorwerth and Lathas manage to summon Zamorak, we all die."
+                },
+                {
+                  "speaker": "Arianwyn",
+                  "text": "Deliver your message, act normal. We'll meet again soon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking with King Lathas",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "My lord, Tyras is dead!"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "This is grand news indeed! You'll forgive me if I'm a little apprehensive about this, but I take it you do have proof?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I have nothing to corroborate this."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "I am sure you have done as you say, but on this matter I can afford no doubts. You must find something to confirm your story."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll see what I can do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I have a letter sent by Lord Iorwerth."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Yes... Good... This will do nicely. Well done, you've done an excellent job."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Does this mean we can reveal the truth about the plague?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Not yet I'm afraid. Even with my brother gone, the Dark Lord remains a threat. For now, the plague must remain."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Anyway, I'll send word when I next require your services. Oh, and I guess you'll be wanting your reward."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

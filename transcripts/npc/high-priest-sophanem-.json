@@ -1,0 +1,215 @@
+{
+  "ref": "high-priest-sophanem-",
+  "categoryRef": "npc",
+  "title": "High Priest (Sophanem)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Standard dialogue after finishing Icthlarin's Little Helper",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Standard dialogue after finishing Contact!",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "High Priest",
+              "text": "Hello again. How can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "How are things going here?"
+            },
+            {
+              "speaker": "High Priest",
+              "text": "Things are slowly coming back to life in our city of the dead. The bank under the Temple of the Lesser Gods has been restored, and a number of our merchants have reopened their stalls."
+            },
+            {
+              "speaker": "Player",
+              "text": "What about the plagues?"
+            },
+            {
+              "speaker": "High Priest",
+              "text": "We're making progress on them. With our citizens back, we had enough people to finally deal with the frogs and locusts that were filling the town up."
+            },
+            {
+              "speaker": "High Priest",
+              "text": "We worried they'd just come back, but perhaps we have managed to appease whichever god sent them."
+            },
+            {
+              "speaker": "High Priest",
+              "text": "The infected cows have been handled as well. The only plague left now is this infuriating pox. Still, at least it isn't contagious."
+            },
+            {
+              "speaker": "Player",
+              "text": "Any sign of Menaphos opening up again?"
+            },
+            {
+              "speaker": "High Priest",
+              "text": "They are adamant that their city must remain closed until all the plagues have gone. Until we can get rid of the pox, I can't see their gates opening to us, or to anyone else."
+            },
+            {
+              "speaker": "Player",
+              "text": "Well at least things are moving in the right direction."
+            },
+            {
+              "speaker": "High Priest",
+              "text": "Indeed. Now, is there anything else I can do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have another lamp?"
+            },
+            {
+              "speaker": "High Priest",
+              "text": "I'm afraid I only had the one."
+            },
+            {
+              "speaker": "Player",
+              "text": "No. I should get going."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after finishing Beneath Cursed Sands",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "High Priest",
+              "text": "Hello again."
+            },
+            {
+              "speaker": "Player",
+              "text": "How are things going here?"
+            },
+            {
+              "speaker": "High Priest",
+              "text": "Wonderful! The city of the dead has fully come back to life, and it's all thanks to you!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well I'm happy to have helped. Any news from Menaphos?"
+            },
+            {
+              "speaker": "High Priest",
+              "text": "They are continuing their preparations. It will take some time, but the city will soon be open once more."
+            },
+            {
+              "speaker": "Player",
+              "text": "Great!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have another circlet?"
+            },
+            {
+              "speaker": "High Priest",
+              "text": "Certainly, though it will cost you 10,000 coins."
+            },
+            {
+              "speaker": "Player",
+              "text": "Here you go."
+            },
+            {
+              "speaker": "High Priest",
+              "text": "You don't seem to have enough money for it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh..."
+            },
+            {
+              "speaker": "Player",
+              "text": "That's too much."
+            },
+            {
+              "speaker": "High Priest",
+              "text": "Fair enough. Let me know if you change your mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "I should get going."
+            },
+            {
+              "speaker": "High Priest",
+              "text": "Until next time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on him",
+      "sections": [
+        {
+          "title": "Potion",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "High Priest",
+                  "text": "Hey, hey, hey! What in the name of sweet suffering Icthlarin are you doing?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I thought this acne potion might clear up your spots."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "All that you'll achieve by pouring that potion on me is to ruin my lovely robes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I was just trying to help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Eldritch ashes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey there. I was wondering if you could do me a favour?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Oh? What kind of favour?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I know cremation isn't your way, but is there anything you could do with these ashes?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Well, like you say, it is not really our way. Still, with all you've done for us, I'm willing to try."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's all I ask. Thank you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

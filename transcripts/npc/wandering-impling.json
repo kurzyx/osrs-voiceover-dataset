@@ -1,0 +1,112 @@
+{
+  "ref": "wandering-impling",
+  "categoryRef": "npc",
+  "title": "Wandering impling",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wandering impling",
+              "text": "Is it here? Is it there? Is it elsewhere?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Is what where?"
+            },
+            {
+              "speaker": "Wandering impling",
+              "text": "This gate's sister..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I didn't know gates had relations."
+            },
+            {
+              "speaker": "Wandering impling",
+              "text": "Oh yes. This one here - she is calm and boring. She stays here all the time. She doesn't like to move, but her sister is fidgety and refuses to stay in the same place for more than half an hour."
+            },
+            {
+              "speaker": "Player",
+              "text": "So where is the, errr, fidgety sister at the moment?"
+            },
+            {
+              "speaker": "Wandering impling",
+              "text": "Oh well. I don't know what you humans call these places. Let me show you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "No crop circle available",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wandering impling",
+              "text": "Is it here? Is it there? Is it elsewhere?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Is what where?"
+            },
+            {
+              "speaker": "Wandering impling",
+              "text": "This gate's sister..."
+            },
+            {
+              "speaker": "Player",
+              "text": "I didn't know gates had relations."
+            },
+            {
+              "speaker": "Wandering impling",
+              "text": "Oh yes. This one here - she is calm and boring. She stays here all the time. She doesn't like to move, but her sister is fidgety and refuses to stay in the same place for more than half an hour."
+            },
+            {
+              "speaker": "Player",
+              "text": "So where is the, errr, fidgety sister at the moment?"
+            },
+            {
+              "speaker": "Wandering impling",
+              "text": "Oh she's asleep at the moment. I'm sure she'll go somewhere in the next half an hour though."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "(Leagues only) If the sister portal is in a locked region",
+      "sections": [
+        {
+          "title": "Talking to the impling",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Wandering impling",
+                  "text": "I cannot show you this gate's sister on this world."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using \"Check-gates\" interaction",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "ref": "silk-merchant",
+  "categoryRef": "npc",
+  "title": "Silk merchant",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Silk merchant",
+              "text": "I buy silk. If you ever want to sell any silk, bring it here."
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello. I have some fine silk from far away to sell to you."
+            },
+            {
+              "speaker": "Silk merchant",
+              "text": "Ah I may be interested in that. What sort of price were you looking at per piece of silk?"
+            },
+            {
+              "speaker": "Player",
+              "text": "20 coins."
+            },
+            {
+              "speaker": "Silk merchant",
+              "text": "Ok suits me."
+            },
+            {
+              "speaker": "Player",
+              "text": "80 coins."
+            },
+            {
+              "speaker": "Silk merchant",
+              "text": "80 coins? That's a bit steep! How about 40 coins?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, 40 sounds good."
+            },
+            {
+              "speaker": "Player",
+              "text": "50, and that's my final price."
+            },
+            {
+              "speaker": "Silk merchant",
+              "text": "Done."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, that is not enough."
+            },
+            {
+              "speaker": "Player",
+              "text": "120 coins."
+            },
+            {
+              "speaker": "Silk merchant",
+              "text": "You'll never get that much for it. I'll be generous and give you 50 for it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, I guess 50 will do."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll give it to you for 60."
+            },
+            {
+              "speaker": "Silk merchant",
+              "text": "You drive a hard bargain, but I guess that will have to do."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, that is not enough."
+            },
+            {
+              "speaker": "Player",
+              "text": "200 coins."
+            },
+            {
+              "speaker": "Silk merchant",
+              "text": "Don't be ridiculous! That is far too much. You insult me with that price."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue when the player is caught attempting to steal from the Silk stall",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue when the player has recently stolen silk",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

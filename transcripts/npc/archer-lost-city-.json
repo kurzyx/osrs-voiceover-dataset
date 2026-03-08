@@ -1,0 +1,63 @@
+{
+  "ref": "archer-lost-city-",
+  "categoryRef": "npc",
+  "title": "Archer (Lost City)",
+  "sections": [
+    {
+      "title": "Standard dialogue before Lost City",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Why are you guys hanging around here?"
+            },
+            {
+              "speaker": "Archer",
+              "text": "(ahem)...'Guys'?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Uh... yeah, sorry about that. Why are you all standing around out here?"
+            },
+            {
+              "speaker": "Archer",
+              "text": "Well, that's really none of your business."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after learning how to enter Zanaris",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "So you didn't find the entrance to Zanaris yet, huh?"
+            },
+            {
+              "speaker": "Archer",
+              "text": "Don't tell me a novice like YOU has found it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yep. Found it REALLY easily too."
+            },
+            {
+              "speaker": "Archer",
+              "text": "...I cannot believe that someone like YOU could find the portal where experienced adventurers such as ourselves could not."
+            },
+            {
+              "speaker": "Player",
+              "text": "Believe what you want. Enjoy your little camp fire."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

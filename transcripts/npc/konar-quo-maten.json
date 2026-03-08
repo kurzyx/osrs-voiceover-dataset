@@ -1,0 +1,284 @@
+{
+  "ref": "konar-quo-maten",
+  "categoryRef": "npc",
+  "title": "Konar quo Maten",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has at least 75 combat level",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "I see we have a new arrival. A bringer of death. Tell me, have you come to serve the balance?"
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Bringer of death, have you come to serve the balance?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need another assignment."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "You are to bring balance to [amount] [monster] in [area]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Got any tips for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, thanks!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I cancel that task?"
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Your task has been cancelled."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, great!"
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Once the balance has been served, return to me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is that area?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, great!"
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Once the balance has been served, return to me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, great!"
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Once the balance has been served, return to me."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "You're still bringing balance to [task monster]; you have [amount] to go. Come back when you're finished."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "You're still meant to be bringing balance to [monster] in [area], with [amount] to go."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Bringer of death, I do not feel you are ready for your current task. If you wish, I can cancel it. This will not wipe your task streaks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please cancel it."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Very well. If you still wish to maintain the balance, you can get a new assignment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks, I want to try doing it."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Then I wish you well, bringer of death."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you any rewards for me, or anything to trade?"
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Those who serve the balance are always rewarded. I can grant these rewards. I can also grant you the equipment needed to serve the balance, for a price of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's talk about the difficulty of my assignments."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "When tasking you to serve the balance, I do not currently consider your combat level."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's fine - I can handle any task."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Your zeal is to be commended. Use it well when serving the balance."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "In future, please don't give anything too tough."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "As you wish. From now on, your combat level will be taken into account when tasks are assigned."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's talk about the difficulty of my assignments."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "When tasking you to serve the balance, I consider your combat level, so you shouldn't get anything too challenging."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's fine - I don't want anything too tough."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Then we will continue on our current path."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stop checking my combat level - I can take anything!"
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Your zeal is to be commended. From now on, your combat level will not be considered when tasks are assigned."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd rather not."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player does not have at least 75 combat level",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "I see we have a new arrival. A bringer of death. Tell me, have you come to serve the balance?"
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Bringer of death, have you come to serve the balance?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you?"
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "A guardian of life, and a bringer of death. There must always be a balance. My people and I serve this balance. You could serve the balance as well, but you'll need some practice first."
+                },
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "There is a Slayer Master in Burthorpe, he goes by the name of Turael. Learn from him, and you will soon be ready to serve."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Via the NPC Contact spell",
+      "sections": [
+        {
+          "title": "If the player is near Konar",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Konar quo Maten",
+                  "text": "Bringer of death, why do you insist on using such magic when I'm right next to you? Come and talk to me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Konar quo Maten",
+              "text": "A bringer of death calls from afar. What do you desire?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Err... Nothing..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Via an enchanted gem or a Slayer ring during a task",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Konar quo Maten",
+              "text": "A bringer of death calls from afar. What do you desire?"
+            },
+            {
+              "speaker": "Player",
+              "text": "How am I doing so far?"
+            },
+            {
+              "speaker": "Konar quo Maten",
+              "text": "You're currently assigned to bring balance to [monster] in [area]; you have [amount] more to go. Your reward point tally is [amount]."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Konar quo Maten",
+              "text": "I am Konar quo Maten. Like you, I am a bringer of death. Together, we can serve the balance."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where are you?"
+            },
+            {
+              "speaker": "Konar quo Maten",
+              "text": "You'll find me on Mount Karuulm. I'll be here when you need a new purpose."
+            },
+            {
+              "speaker": "Player",
+              "text": "Got any tips for me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Great, thanks!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing really."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

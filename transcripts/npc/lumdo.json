@@ -1,0 +1,43 @@
+{
+  "ref": "lumdo",
+  "categoryRef": "npc",
+  "title": "Lumdo",
+  "sections": [
+    {
+      "title": "On Ape Atoll",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can you take me back to Crash Island?"
+            },
+            {
+              "speaker": "Lumdo",
+              "text": "As you wish."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "On Crash Island",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can you take me back to Ape Atoll?"
+            },
+            {
+              "speaker": "Lumdo",
+              "text": "As you wish."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

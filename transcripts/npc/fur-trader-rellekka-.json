@@ -1,0 +1,102 @@
+{
+  "ref": "fur-trader-rellekka-",
+  "categoryRef": "npc",
+  "title": "Fur trader (Rellekka)",
+  "sections": [
+    {
+      "title": "Before The Fremennik Trials",
+      "sections": [
+        {
+          "title": "Attempting to trade before the trials",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Fur trader",
+              "text": "I don't sell to outerlanders."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Fremennik Trials",
+      "sections": [
+        {
+          "title": "Catching the player trying to steal from his fur stalls",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fur trader",
+                  "text": "Hey! Get your hands off there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with him after stealing from his fur stalls recently",
+          "sections": [
+            {
+              "title": "Talk-to option",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Fur trader",
+                      "text": "You think me stupid [Fremennik name]?"
+                    },
+                    {
+                      "speaker": "Fur trader",
+                      "text": "Guards[sic] guards!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Trade option",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Fur trader",
+                      "text": "You're the one who stole something from me!"
+                    },
+                    {
+                      "speaker": "Fur trader",
+                      "text": "Guards[sic] guards!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Fur trader",
+              "text": "Welcome back [Fremennik name]! Have you seen the furs I have today?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

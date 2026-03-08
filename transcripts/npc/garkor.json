@@ -1,0 +1,83 @@
+{
+  "ref": "garkor",
+  "categoryRef": "npc",
+  "title": "Garkor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After Monkey Madness I",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing now?"
+                },
+                {
+                  "speaker": "Garkor",
+                  "text": "My squad and I are to remain on this island as undercover operatives. I am collecting information on Awowogei and his policies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Monkey Madness II",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Garkor",
+                  "text": "Greetings, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey Garkor, how's it going?"
+                },
+                {
+                  "speaker": "Garkor",
+                  "text": "Very well. Since the 10th squad were recalled from Ape Atoll, King Narnode has named me new Grand Tree Guardian."
+                },
+                {
+                  "speaker": "Garkor",
+                  "text": "I believe I speak on behalf of everyone in the Stronghold when I say thank you for stopping Glough. Who knows what would've happened if you weren't there to foil his schemes."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Gnome Restaurant dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Garkor",
+              "text": "You found me. Excellent. I wasn't sure the order would get here."
+            },
+            {
+              "speaker": "Garkor",
+              "text": "You must have had to travel a long way to get this to me. Here's a little something extra as a tip."
+            },
+            {
+              "speaker": "Garkor",
+              "text": "Always good to see you again, [player name]."
+            },
+            {
+              "speaker": "Garkor",
+              "text": "I guess you didn't travel far, but since it's you... Here's a little something extra as a tip."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

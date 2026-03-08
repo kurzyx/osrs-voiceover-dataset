@@ -1,0 +1,216 @@
+{
+  "ref": "barbarian-guard",
+  "categoryRef": "npc",
+  "title": "Barbarian guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Alfred Grimhand's Barcrawl",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Oi, whaddya want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want to come through this gate."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Barbarians only. Are you a barbarian? You don't look like one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm, yep you've got me there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Looks can be deceiving, I am in fact a barbarian."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "If you're a barbarian you need to be able to drink like one. We barbarians like a good drink."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "I have the perfect challenge for you... The Alfred Grimhand Barcrawl! First completed by Alfred Grimhand."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Take that card to each of the bars named on it. The bartenders will know what it means. We're kinda well known."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "They'll give you their strongest drink and sign your card. When you've done all that, we'll be happy to let you in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I want some money."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "Do I look like a bank to you?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "During Alfred Grimhand's Barcrawl",
+          "sections": [
+            {
+              "title": "Before finishing the crawl",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Barbarian guard",
+                      "text": "So, how's the Barcrawl coming along?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I haven't finished it yet."
+                    },
+                    {
+                      "speaker": "Barbarian guard",
+                      "text": "Well come back when you have, you lightweight."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Reclaiming the Barcrawl card",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Barbarian guard",
+                      "text": "So, how's the Barcrawl coming along?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I've lost my barcrawl card..."
+                    },
+                    {
+                      "speaker": "Barbarian guard",
+                      "text": "What are you like? You're gonna have to start all over now."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After finishing the crawl",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Barbarian guard",
+                      "text": "So, how's the Barcrawl coming along?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I tink I jusht 'bout done dem all... but I losht count..."
+                    },
+                    {
+                      "speaker": "Barbarian guard",
+                      "text": "Yep that seems fine, you can come in now. I never learned to read, but you look like you’ve drunk plenty. Also, one more thing…"
+                    },
+                    {
+                      "speaker": "Barbarian guard",
+                      "text": "Since you drink like a barbarian, I can show you how to smash your vials when you finish them. Do you want to do that?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes please, I want to smash my vials."
+                    },
+                    {
+                      "speaker": "Barbarian guard",
+                      "text": "It’s all part of drinking like a barbarian! Okay, you will now smash your vials as you drink your potions."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No thank you, I'd rather keep my vials."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "After Alfred Grimhand's Barcrawl",
+          "sections": [],
+          "dialogues": []
+        },
+        {
+          "title": "If the player has the automatic vial smashing turned on",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "'Ello friend. I see you're drinking like a barbarian - do you want to stop smashing your vials when you finish them?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please, I want to stop smashing my vials."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "You're a funny sort of barbarian! But okay, you will no longer smash your vials as you drink your potions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thank you, I like smashing them."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "That's a proper barbarian spirit, that is."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has the automatic vial smashing turned off",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "'Ello friend. Do you want me to show you how to smash your vials when you finish drinking them?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please, I want to smash my vials."
+                },
+                {
+                  "speaker": "Barbarian guard",
+                  "text": "It's all part of drinking like a barbarian! Okay, you will now smash your vials as you drink your potions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thank you, I'd rather keep my vials."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

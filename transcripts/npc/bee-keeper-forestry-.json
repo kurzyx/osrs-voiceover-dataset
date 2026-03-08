@@ -1,0 +1,103 @@
+{
+  "ref": "bee-keeper-forestry-",
+  "categoryRef": "npc",
+  "title": "Bee keeper (Forestry)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, what's going on?"
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "Hello, it seems you've found a wild bee hive. I'll pay you to help me rehome them."
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "Oh, well, if you ever want to find out how to help, just ask."
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "It's easy, simply add logs to the unfinished bee boxes I create. Most common types of log work just fine."
+            },
+            {
+              "speaker": "Bee keeper",
+              "text": "Once a bee box is completed I will start a new one, let's see how many of these bees we can save."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When spawning in",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bee keeper",
+                  "text": "Oh, Bees!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When a Bee Hive is built complete",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bee keeper",
+                  "text": "I'll find a nice new home for those bees."
+                },
+                {
+                  "speaker": "Bee keeper",
+                  "text": "Come with me little bees I'll keep you safe."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Before another Bee Hive spawns",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bee keeper",
+                  "text": "Another new hive."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Before he leaves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bee keeper",
+                  "text": "Well, I must be getting on now."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "ref": "wistan",
+  "categoryRef": "npc",
+  "title": "Wistan",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi!"
+            },
+            {
+              "speaker": "Wistan",
+              "text": "Welcome to Burthorpe Supplies. Your last shop before heading north into the mountains!"
+            },
+            {
+              "speaker": "Wistan",
+              "text": "Would you like to buy something?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

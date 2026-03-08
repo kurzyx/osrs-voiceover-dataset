@@ -1,0 +1,33 @@
+{
+  "ref": "bailey",
+  "categoryRef": "npc",
+  "title": "Bailey",
+  "sections": [
+    {
+      "title": "Standard dialogue after Sea Slug quest",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello Bailey."
+            },
+            {
+              "speaker": "Bailey",
+              "text": "Well, hello again, [player name]. What brings you back out here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Just looking around."
+            },
+            {
+              "speaker": "Bailey",
+              "text": "Well, be very careful out there! Those dratted slugs have been joined by giant lobsters!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

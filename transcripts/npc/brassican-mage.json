@@ -1,0 +1,65 @@
+{
+  "ref": "brassican-mage",
+  "categoryRef": "npc",
+  "title": "Brassican Mage",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Upon spawn",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brassican Mage",
+                  "text": "Vegetate!"
+                },
+                {
+                  "speaker": "Brassican Mage",
+                  "text": "Die deliciously!"
+                },
+                {
+                  "speaker": "Brassican Mage",
+                  "text": "Rest in cabbage!"
+                },
+                {
+                  "speaker": "Brassican Mage",
+                  "text": "Grow up or leave."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When eating a cabbage while fighting the mage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brassican Mage",
+                  "text": "Healing through deliciousness, must be a re-leaf [player name]."
+                },
+                {
+                  "speaker": "Brassican Mage",
+                  "text": "Ah, you romaine calm enough for a nutritious meal [player name]. Wise."
+                },
+                {
+                  "speaker": "Brassican Mage",
+                  "text": "Leaf now and I'll spare you [player name]!"
+                },
+                {
+                  "speaker": "Brassican Mage",
+                  "text": "Yes! Pray that nutrition can save you [player name]!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

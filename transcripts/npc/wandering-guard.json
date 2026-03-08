@@ -1,0 +1,25 @@
+{
+  "ref": "wandering-guard",
+  "categoryRef": "npc",
+  "title": "Wandering Guard",
+  "sections": [
+    {
+      "title": "Attempting to go inside via the house window while the guard is watching",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I probably shouldn't break into a house in full view of a guard."
+            },
+            {
+              "speaker": "Wandering Guard",
+              "text": "I definitely wouldn't recommend it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

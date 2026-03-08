@@ -1,0 +1,93 @@
+{
+  "ref": "dr-fenkenstrain",
+  "categoryRef": "npc",
+  "title": "Dr Fenkenstrain",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After Creature of Fenkenstrain",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dr Fenkenstrain",
+                  "text": "theyrecomingtogetme theyrecomingtogetme..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It is all you deserve. Lord Rologarth is master of this castle once more. Let him protect you - if he wants to."
+                },
+                {
+                  "speaker": "Dr Fenkenstrain",
+                  "text": "theyrecomingtogetme theyrecomingtogetme..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the Great Brain Robbery",
+          "sections": [
+            {
+              "title": "Pickpocketing ring of Charos",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Pickpocketing ring of Charos while already having one",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Dr Fenkenstrain",
+                      "text": "What do you think you're doing?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How are things going, doctor?"
+                },
+                {
+                  "speaker": "Dr Fenkenstrain",
+                  "text": "After talking with these monks and seeing your efforts to save them...I'm starting to regret my past actions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, we all make mistakes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Admittedly, most of us don't accidentally trip and sew a bunch of dead bodies together."
+                },
+                {
+                  "speaker": "Dr Fenkenstrain",
+                  "text": "I know...I think that my time here will be well spent trying to atone for what I did."
+                },
+                {
+                  "speaker": "Dr Fenkenstrain",
+                  "text": "Thank you for helping me see the error of my ways, [player name]."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ref": "lucien",
+  "categoryRef": "npc",
+  "title": "Lucien",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After the completion of Temple of Ikov if sided against Lucien",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I thought I killed you?!"
+                },
+                {
+                  "speaker": "Lucien",
+                  "text": "Ha! Ha! Ha!"
+                },
+                {
+                  "speaker": "Lucien",
+                  "text": "You can not kill me human!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've lost the pendant you gave me."
+                },
+                {
+                  "speaker": "Lucien",
+                  "text": "Have another, it will remind you of my power!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

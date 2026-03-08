@@ -1,0 +1,64 @@
+{
+  "ref": "kineer",
+  "categoryRef": "npc",
+  "title": "Kineer",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Kruk's Dungeon (inaccessible)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kineer",
+                  "text": "I'm lost!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm lost too!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Kineer",
+              "text": "It was the bewk that told me ta come here."
+            },
+            {
+              "speaker": "Player",
+              "text": "What book?"
+            },
+            {
+              "speaker": "Kineer",
+              "text": "Circles within trees it is. And hopping too."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you ok?"
+            },
+            {
+              "speaker": "Kineer",
+              "text": "I'll find the light, that will see me through."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oookay then, I'll just go explore then."
+            },
+            {
+              "speaker": "Kineer",
+              "text": "Jelly shards in the dark."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

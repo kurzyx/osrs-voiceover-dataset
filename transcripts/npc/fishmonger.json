@@ -1,0 +1,105 @@
+{
+  "ref": "fishmonger",
+  "categoryRef": "npc",
+  "title": "Fishmonger",
+  "sections": [
+    {
+      "title": "Standard dialogue in Miscellania",
+      "sections": [
+        {
+          "title": "Before completing Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fishmonger",
+                  "text": "Greetings. Get your fresh fish here!"
+                },
+                {
+                  "speaker": "Fishmonger",
+                  "text": "I've heard that the Etceterian fish is stored in a cow shed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Throne of Miscellania",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fishmonger",
+                  "text": "Greetings, Your Royal Highness. Get your fresh fish here!"
+                },
+                {
+                  "speaker": "Fishmonger",
+                  "text": "I've heard that the Etceterian fish is stored in a cow shed."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Standard dialogue in Etceteria",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Fishmonger",
+              "text": "Welcome [Fremennik name]. My fish is fresher than any in Miscellania!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Checking approval",
+      "sections": [
+        {
+          "title": "Before Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me how the kingdom approves of me?"
+                },
+                {
+                  "speaker": "Fishmonger",
+                  "text": "Kingdom? Etceteria is ruled by a Queen and we don't approve of you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me how the kingdom approves of me?"
+                },
+                {
+                  "speaker": "Fishmonger",
+                  "text": "[X]% of people approve of you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

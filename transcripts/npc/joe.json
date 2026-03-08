@@ -1,0 +1,113 @@
+{
+  "ref": "joe",
+  "categoryRef": "npc",
+  "title": "Joe",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without Book o' piracy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello!"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "Arr? Be ye wantin' te go on account with our gang o' fillibusters?"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "The powder monkey be takin' a caulk after gettin' rowdy on bumboo, so there be plenty of room for ye."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Riiiiight..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll just be over here if you need me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With Book o' piracy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Joe",
+                  "text": "Whadda ya want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Whadda ya got?"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "We gots grog and we gots food. Here, take a look."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing! Honest!"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "Then stop takin' up me floor space!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wanted to know where you got that harpoon hand."
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "Yer new in town aintcha?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Newish certainly."
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "Well, if ye wants te hear the story, here goes."
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "See, I was walkin' along the docks one day, and this fierce storm blew up."
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "All of a sudden I turn an there, bearin' down on me is this albatross..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry to interrupt, but I would just like to clear something up."
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "What? I was just gettin' to the good bit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "When I said 'I wanted to know where you got that harpoon hand', I meant where did you get it made, or buy it from?"
+                },
+                {
+                  "speaker": "Joe",
+                  "text": "If ye don't wants to hear the story then I ain't gonna tell ye!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

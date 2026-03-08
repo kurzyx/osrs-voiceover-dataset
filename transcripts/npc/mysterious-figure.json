@@ -1,0 +1,205 @@
+{
+  "ref": "mysterious-figure",
+  "categoryRef": "npc",
+  "title": "Mysterious Figure",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When carrying any medallion",
+          "sections": [
+            {
+              "title": "While disguised as the sandwich lady",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Mysterious Figure",
+                      "text": "Sandwiches, [player name]!"
+                    },
+                    {
+                      "speaker": "Mysterious Figure",
+                      "text": "Not who you expected, [player name]? Give me the medallion!"
+                    },
+                    {
+                      "speaker": "Mysterious Figure",
+                      "text": "You can't dismiss me, [player name]! Give me the medallion!"
+                    },
+                    {
+                      "speaker": "Mysterious Figure",
+                      "text": "Enough of this, [player name]! Give me the medallion!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Inside the player's player-owned house",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Mysterious Figure",
+                      "text": "Welcome home, [player name]. Now, give me the medallion!"
+                    },
+                    {
+                      "speaker": "Mysterious Figure",
+                      "text": "Nice house, [player name]. Now, give me the medallion!"
+                    },
+                    {
+                      "speaker": "Mysterious Figure",
+                      "text": "Welcome back, [player name]. Now, give me the medallion!"
+                    },
+                    {
+                      "speaker": "Mysterious Figure",
+                      "text": "I'm still here, [player name]! Now give me the medallion!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "When attempting to use a fairy ring",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Mysterious Figure",
+                      "text": "Going somewhere, [player name]? We have unfinished business!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "[player name]! Hand over the medallion!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "[player name]! You have something that I want!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "[player name]! I want that medallion!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When fighting in the Mysterious Figure's hideout",
+          "sections": [
+            {
+              "title": "Upon dying",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Mysterious Figure",
+                      "text": "A worthy foe..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Come on! Show me a challenge!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "That's more like it!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "You can do better than that!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Now we're getting somewhere!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Is that all you have to give?!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Better! Much better!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "I don't know how you lasted this long!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Yes! Show me what you've got!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Some fighter you are!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Finally, a proper challenger!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Really? Is that it?"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Good! Now keep it up!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon killing the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Pathetic!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Mediocre!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Disappointing!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Pitiful!"
+                },
+                {
+                  "speaker": "Mysterious Figure",
+                  "text": "Sit down!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "ref": "sherlock",
+  "categoryRef": "npc",
+  "title": "Sherlock",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey, who're you?"
+            },
+            {
+              "speaker": "Sherlock",
+              "text": "I'm Sherlock, master of clues and challenges."
+            },
+            {
+              "speaker": "Player",
+              "text": "Clues and challenges?"
+            },
+            {
+              "speaker": "Sherlock",
+              "text": "If you find a scroll that requires my attention, bring it to me and I shall handle it."
+            },
+            {
+              "speaker": "Player",
+              "text": "I will! but..."
+            },
+            {
+              "speaker": "Player",
+              "text": "You're not wearing a shirt?"
+            },
+            {
+              "speaker": "Sherlock",
+              "text": "Yeah, no shirt Sherlock....."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Skill Challenge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sherlock",
+                  "text": "Ah, just what I was looking for. I have a challenge for you. If you complete it, I'll give you something."
+                }
+              ]
+            },
+            {
+              "lines": [
+                {
+                  "speaker": "Sherlock",
+                  "text": "Fantastic! Here, have this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using non-requested items on Sherlock",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Sherlock",
+              "text": "That's nice, but.... I don't really need one of those."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

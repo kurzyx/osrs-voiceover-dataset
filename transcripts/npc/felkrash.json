@@ -1,0 +1,777 @@
+{
+  "ref": "felkrash",
+  "categoryRef": "npc",
+  "title": "Felkrash",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After Ratcatchers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you train my cat to be a wily cat?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you train my cat to be a wily cat?"
+                },
+                {
+                  "speaker": "Cat",
+                  "text": "Meeow Meeeoow!"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "A heroic cat like yours needs a heroic name, don't you think?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Shall we rename it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So cat, what do you think of the name?"
+                },
+                {
+                  "speaker": "Kitty ",
+                  "text": "Miaaow! (Transcript missing - Catspeak amulet edit)"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about wily cats?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Of course!"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "You already have a mature cat, look after that first."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "I can only train overgrown cats into wily cats."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you rename my cat?"
+                },
+                {
+                  "speaker": "Cat",
+                  "text": "Hey [player name], you finally got around to naming me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry I took so long, [cat name], it took a while to come up with a name for you."
+                },
+                {
+                  "speaker": "Cat",
+                  "text": "Miaaow!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about wily cats?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "I'll only help you name wily or lazy cats. Bring me one and I'll help you out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about the pits?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Here take this, you might find it useful."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "What do you want to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any pointers for me and my cat?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "You should wear an Amulet of Catspeak. It will allow you to organise tactics with your cat."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What would be the best tactic to adopt then?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Well, that depends on your outlook, whether you're ready to risk your cat's life or not and how defensive or aggressive you want your cat to be."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will not risk my cat's life."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Well if that's the case then you're left with two choices."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "You can adopt an ultra defensive strategy, which increases your cat's hitpoints and defence but causes it to flee sooner."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Or you can adopt a less defensive strategy, which will allow your cat to stay in the pit for longer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a very defensive strategy"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In that case you should tell your cat: 'Just take care of yourself, cat.'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a less defensive strategy."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In that case you should tell your cat: 'Stay in for as long as you can.'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am willing to risk my cat, if it increases my chances of victory."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In that case you are left with two choices."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "You could go for all out attack which will boost your cat's attack and strength, but weaken it."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Or, go for a less aggressive stance, which will increase your cat's strength and attack to a lesser degree, but carries no defensive penalties."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a very aggressive strategy."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In that case you should tell your cat: 'Go berserk!'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a less aggressive strategy."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In that case you should tell your cat: 'No guts, no glory!'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What benefits does my cat get from training in the pits?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "It depends on what kind of cat you have."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In the Port Sarim pits, your cat will become happier and fitter after fighting."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about Wily cats?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Of course!"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "They're tougher, stronger and faster than other kinds of cats. They have superior hunting skills and can even catch butterflies and kalphite larvae."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So are there any drawbacks to owning them?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Wily cats need lots more exercise, otherwise they'll get fat and lazy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the best way to exercise them?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Bring it hunting or take it to the Rat Pits regularly."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Try and keep it happy too, wily cats can be a little nasty when they're cranky."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happens if I neglect my cat? Not that I would!"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "It'll get fat and lazy and become much worse at hunting. Plus, everyone will know you're a bad cat trainer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I retrain my lazy cat?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Yes, you can get your lazy cat back in shape with lots of rat catching. But you really shouldn't let things get that bad."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How's the poem going?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Ah yes, the poem... your performance was incredibly inspiring. I think it'll be a real masterpiece..."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Just as soon as I get around to writing it all down."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "During Ratcatchers",
+          "sections": [
+            {
+              "title": "After talking to The Face",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello, the face said that you were looking to talk with me."
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Indeed, word has gotten to me from our other ratcatcher chapters that you are quite a talent."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well I can't take all the credit, I've had more than a little help from my cat."
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Modesty, a trait seldom displayed by adventurers these days."
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Too many more like you and I'll lose half of my business."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Why is that?"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Epic poems of bravery and heroics aren't usually commissioned by the shy and retiring."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Smokin' Joe said that you know lots about training wily cats."
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Indeed I do. It's for this very reason that I requested to talk to you."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So you will show me how to turn my cat into a wily cat?"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "No, not yet."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "*Sighs.*"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "No I need you to carry out just one task for me."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well experience has taught me to expect as much, what must I do?"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Nothing too difficult, just rid the port of every single rat, with just one action."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Are you serious?"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Deadly."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "But why? Why one stroke, why not a slow eradication?"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "I want to write a new poem."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "But..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I am touched that you want to write an epic poem about me, but why can't you write the poem about seagulls or daffodils or something?"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Well seagulls rarely make good central characters. They're a bit too ... uhm.... flighty."
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Besides the poem is about me not you."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Sorry I don't follow."
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "I myself carried out the very same feat once upon a time."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So why do you need me to repeat your most heroic of feats?"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "It's all about objectivity and integrity. I need to be utterly divorced from the process."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Umm... ok, I suppose."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So can you tell me how you went about achieving this?"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "No. Therein lies the challenge."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "*Sigh* Why does it always have to be like this?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Before ridding the port of rats",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Felkrash",
+                      "text": "You haven't completed the task yet."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What do I have to do again?"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Rid the port of all its rats with one action."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'd better get to it then."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "After hearing The Face's story",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I think I know how to carry out the task."
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Has the face being telling tall tales again?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Oh no, she didn't say a word."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Really she didn't."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Once the rats have been taken care of",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Ha! I did it. Did you see me?"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "Yes I saw that, now what can I do for you? Don't keep me overly long, I'm trying to complete my poem."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Can you show me how to train my cat into a wily cat?"
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "I can only train overgrown cats into wilycats."
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "You already have a mature cat, look after that first."
+                    },
+                    {
+                      "speaker": "Felkrash",
+                      "text": "You should really name your cat."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "After Ratcatchers",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you show me how to train my cat into a wily cat?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "You already have a mature cat, look after that first."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "I can only train overgrown cats into wilycats."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you rename my cat?"
+                },
+                {
+                  "speaker": "Cat",
+                  "text": "Hey [username], you finally got around to naming me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry I took so long, [catname], it took a while to come up with a name for you."
+                },
+                {
+                  "speaker": "Cat",
+                  "text": "Miaaow!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about Wily cats?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "I'll only help you name wily or lazy cats. Bring me one and I'll help you out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about the pits?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Here take this, you might find it useful"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Well what do you want to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any pointers for me and my cat?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "You should wear an amulet of catspeak. It will allow you to organise tactics with your cat."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What would be the best tactic to adopt then?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Well, that depends on your outlook, whether you're ready to risk your cat's life or not and how defensive or aggressive you want your cat to be."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will not risk my cat's life."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Well if that's the case then your are left with two choices."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "You can adopt an ultra defensive strategy, which increases your cat's hitpoints and defence, the drawback to this is that your cat will flee sooner."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Your other option is to adopt a less defensive strategy which will allow your cat to stay in the pit for longer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a very defensive strategy"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In that case you should tell your cat, 'Just take care of yourself cat.'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a less defensive strategy."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In that case you should tell your cat, 'Stay in for as long as you can.'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am willing to risk my cat, if it increases my chances of victory."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In that case you are left with two choices."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "You could go for all out attack which will boost your cat's attack and strength, but weaken it"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "or go for a less aggressive stance which will increase your cat's strength and attack to a lesser degree, but carries no defensive penalties."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a very aggressive strategy"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In that case you should tell your cat, 'Go berserk!'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I would adopt a less aggressive strategy."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In that case you should tell this to your cat, 'No guts, no glory!'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What benefits does my cat get from training in the pits?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "It depends on what kind of cat you have."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "In the Port Sarim pits, your cat will become happier and fitter after fighting."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for your help."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Do you have any other questions about the pits?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about Wily cats?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Of course, of course, they're the highest form of cat that I know of."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "They're tougher, stronger and faster than other variations of cat, they can catch butterflies and kalphite larva and are far superior to any other type of cat at hunting."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So is there any drawbacks to owning them?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Wily cats need looking after or else they get fat and lazy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So how do I look after them then?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "The key is to keep it active, bring it hunting or to the ratpits regularly."
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Try keep it happy too, they can be a little nasty when they're cranky."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happens if I neglect my cat.. not that I would or anything?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "They would get fat and lazy, be much worse at hunting and would show you up as a really poor cat trainer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I retrain my lazy cat?"
+                },
+                {
+                  "speaker": "Felkrash",
+                  "text": "Yes you can get your lazy cat back in shape with a lot of rat catching, but you really shouldn't let it get into that state in the first place."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

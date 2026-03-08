@@ -1,0 +1,125 @@
+{
+  "ref": "cabin-boy",
+  "categoryRef": "npc",
+  "title": "Cabin boy",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player does not have an emerald lens in the inventory or bank",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi."
+                },
+                {
+                  "speaker": "Cabin boy",
+                  "text": "I bet you're after another lens!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How could you possibly know that?"
+                },
+                {
+                  "speaker": "Cabin boy",
+                  "text": "Hey, I think I'm learning a thing or two from these Moon Clan ladies."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oi! I need another lens, boy."
+                },
+                {
+                  "speaker": "Cabin boy",
+                  "text": "But you don't have space."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good point."
+                },
+                {
+                  "speaker": "Cabin boy",
+                  "text": "Huh, oh ok, I suppose I owe you one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I'll pass. But thanks.."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player already has an emerald lens",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So you've plucked up the courage to come and confront that girl!"
+                },
+                {
+                  "speaker": "Cabin boy",
+                  "text": "That I did, that I did!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And?"
+                },
+                {
+                  "speaker": "Cabin boy",
+                  "text": "She turned out to be really nice! She's joining us to become a pirate!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Really? And you're not sceptical about this? You know, after what she did last time?"
+                },
+                {
+                  "speaker": "Cabin boy",
+                  "text": "She---has---no---spell---on---me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Huh? Why are you talking like that?"
+                },
+                {
+                  "speaker": "Cabin boy",
+                  "text": "Like what?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Like someone else was talking for you. Are you sure she hasn't put a spell on you again? Did she wave a watch in front of your face? You know, tell you to look deep into her eyes?"
+                },
+                {
+                  "speaker": "Cabin boy",
+                  "text": "She---has---no---spell---on---me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think you've been hypnotised. I wonder what happens if I click my fingers?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "*click*"
+                },
+                {
+                  "speaker": "Cabin boy",
+                  "text": "*Cluck* *cluck* *bwaarrk*"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh dear. Oh well, I'm sure you'll learn one day."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

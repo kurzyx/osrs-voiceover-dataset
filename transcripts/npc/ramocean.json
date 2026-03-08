@@ -1,0 +1,95 @@
+{
+  "ref": "ramocean",
+  "categoryRef": "npc",
+  "title": "Ramocean",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ramocean",
+              "text": "What do you want? I am busy supervising!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Ramocean",
+              "text": "This is the Hosidius Kitchen. Here, under my expert eye, we prepare the food that feeds most of the population."
+            },
+            {
+              "speaker": "Ramocean",
+              "text": "Much of the income of Hosidius derives from trade in cooked food, so our work is vital."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I cook here?"
+            },
+            {
+              "speaker": "Ramocean",
+              "text": "Yes, you are most welcome to cook here. You may find you burn food less often under my supervision."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why don't you do some work yourself?"
+            },
+            {
+              "speaker": "Ramocean",
+              "text": "Excuse me? My cooking level is higher than you could imagine - I have already done my share of the work. Now, with my expertise, I am guiding future generations of chefs."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll leave you alone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "After Talia has cooked the fish",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ramocean",
+                  "text": "Get more fish!"
+                },
+                {
+                  "speaker": "Ramocean",
+                  "text": "Good, very good!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Talia has gotten more fish",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ramocean",
+                  "text": "Now cook it!"
+                },
+                {
+                  "speaker": "Ramocean",
+                  "text": "Try not to burn this one."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

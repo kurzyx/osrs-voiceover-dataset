@@ -1,0 +1,56 @@
+{
+  "ref": "lord-mischa-myrmel",
+  "categoryRef": "npc",
+  "title": "Lord Mischa Myrmel",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lord Mischa Myrmel",
+                  "text": "Human! Get back to the slave pens before I call the guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lord Mischa Myrmel",
+              "text": "The tithes are growing weak. That werewolf needs to do a better job of keeping them fed."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you feed them?"
+            },
+            {
+              "speaker": "Lord Mischa Myrmel",
+              "text": "There's no shortage of corpses around here. The dead can still have some uses."
+            },
+            {
+              "speaker": "Player",
+              "text": "You're feeding them corpses? No wonder they're becoming weak. That meat must have all sorts of problems."
+            },
+            {
+              "speaker": "Lord Mischa Myrmel",
+              "text": "What else would you have me feed them? If I give them nicer food, I'm wasting more money than if I were to just kill them and buy some more."
+            },
+            {
+              "speaker": "Player",
+              "text": "I... I suppose."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

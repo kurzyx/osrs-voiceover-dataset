@@ -1,0 +1,41 @@
+{
+  "ref": "tzhaar-mej",
+  "categoryRef": "npc",
+  "title": "TzHaar-Mej",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Attacking a nearby TzHaar-Hur",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "TzHaar-Mej",
+                  "text": "Kot e TzHaar-Hur!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Under attack with either a TzHaar-Ket or TzHaar-Xil nearby",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "TzHaar-Mej",
+                  "text": "Kot kl, zek e JalYt!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

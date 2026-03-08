@@ -1,0 +1,57 @@
+{
+  "ref": "trotters",
+  "categoryRef": "npc",
+  "title": "Trotters",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has a catspeak amulet or has done Dragon Slayer II",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Trotters",
+                  "text": "Oh, what do you want? Can't you see I'm trying to nap?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Shouldn't you be catching rats?"
+                },
+                {
+                  "speaker": "Trotters",
+                  "text": "Oh my, no. I have humans for that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player doesn't have a catspeak amulet or has not done Dragon Slayer II",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Trotters",
+                  "text": "Meow."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

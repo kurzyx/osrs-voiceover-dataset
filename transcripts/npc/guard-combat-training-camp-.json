@@ -1,0 +1,107 @@
+{
+  "ref": "guard-combat-training-camp-",
+  "categoryRef": "npc",
+  "title": "Guard (Combat Training Camp)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Attempting to enter the camp before Biohazard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "This is a restricted area. You can only enter under the authority of King Lathas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Crossbow guard",
+          "sections": [
+            {
+              "title": "Normal",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Guard",
+                      "text": "Hello soldier."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm more of an adventurer really."
+                    },
+                    {
+                      "speaker": "Guard",
+                      "text": "In this day and age we're all soldiers. No time to waste gassing, Fight! Fight! Fight!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Three guard near ogre cage",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello."
+                    },
+                    {
+                      "speaker": "Guard",
+                      "text": "Well hello brave warrior. These ogres have been terrorising the area, they've eaten four children this week alone."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Brutes!"
+                    },
+                    {
+                      "speaker": "Guard",
+                      "text": "So we decided to use them for target practice. A fair punishment."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Indeed."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Mace guard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "What do you want? Leave us be!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

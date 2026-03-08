@@ -1,0 +1,88 @@
+{
+  "ref": "captain-lamdoo",
+  "categoryRef": "npc",
+  "title": "Captain Lamdoo",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "When under the influence of tele block",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Lamdoo",
+                  "text": "My apologies, but I can't take you with me while you're affected by that spell. It should wear off in [X] minutes, [X] seconds."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When past level 30 Wilderness",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Lamdoo",
+                  "text": "Hey! I'm not flying out this deep into the Wilderness. They don't pay me danger money, you know. I'm out of here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When Captain Lamdoo is called in by another player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Captain Lamdoo",
+                  "text": "I'm looking for [player name]."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When reaching the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "When unable to reach the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "When leaving without the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

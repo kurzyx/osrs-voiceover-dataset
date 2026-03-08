@@ -1,0 +1,39 @@
+{
+  "ref": "monk-lost-city-",
+  "categoryRef": "npc",
+  "title": "Monk (Lost City)",
+  "sections": [
+    {
+      "title": "Standard dialogue before Lost City",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Why are all of you standing around here?"
+            },
+            {
+              "speaker": "Monk",
+              "text": "None of your business. Get lost."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after learning how to enter Zanaris",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Monk",
+              "text": "I already told you. I'm not talking to you anymore."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ref": "alba",
+  "categoryRef": "npc",
+  "title": "Alba",
+  "sections": [
+    {
+      "title": "Before Meat and Greet",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Alba",
+              "text": "Nilsal, iknami. I can't stop to talk I'm afraid. We're having trouble with one of the alpacas again"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Meat and Greet",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Alba",
+              "text": "Nilsal, iknami. Anything I can do for you today?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks. I'm just passing through."
+            },
+            {
+              "speaker": "Alba",
+              "text": "Well in that case, have a good day, iknami."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

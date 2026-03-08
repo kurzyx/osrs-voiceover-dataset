@@ -1,0 +1,55 @@
+{
+  "ref": "elder-guard",
+  "categoryRef": "npc",
+  "title": "Elder Guard",
+  "sections": [
+    {
+      "title": "Standard dialogue - Corner guard at Awowogei",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Guard",
+              "text": "Move!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue - Entrance guard at Awowogei",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Guard",
+              "text": "Grrr ... What do you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I must speak with Awowogei on a subject of great import."
+            },
+            {
+              "speaker": "Elder Guard",
+              "text": "As you wish."
+            },
+            {
+              "speaker": "Elder Guard",
+              "text": "Grrr ... What do you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I would like to leave now."
+            },
+            {
+              "speaker": "Elder Guard",
+              "text": "As you wish."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

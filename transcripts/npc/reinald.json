@@ -1,0 +1,37 @@
+{
+  "ref": "reinald",
+  "categoryRef": "npc",
+  "title": "Reinald",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Reinald",
+              "text": "Welcome to my home. Is there anything you wanted?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing in particular. Got any sightseeing tips?"
+            },
+            {
+              "speaker": "Reinald",
+              "text": "No, I'm just a factory worker. Don't do tours."
+            },
+            {
+              "speaker": "Player",
+              "text": "This doesn't look like a factory."
+            },
+            {
+              "speaker": "Reinald",
+              "text": "This is my home. I'm off-duty."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

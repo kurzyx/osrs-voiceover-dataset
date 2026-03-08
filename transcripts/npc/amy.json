@@ -1,0 +1,305 @@
+{
+  "ref": "amy",
+  "categoryRef": "npc",
+  "title": "Amy",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Initial dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Amy",
+                  "text": "Hey I'm Amy, how may I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you do here?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "I'm the founder of Mahogany Homes, Gielinor's first Construction company!"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "We've currently got branches in Falador, Varrock, Hosidius and Ardougne."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So people contact you for help with their homes?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Yep! They'll get in contact if they want assistance, whether it's fixing parts of their house or requesting nicer furniture, and then we will go and help them out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That sounds quite enjoyable and satisfying to do, are you hiring at all?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "If you have the supplies, I can tell you where one of our clients is that needs some work doing."
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "I'll keep track of the work you do as well and give you some points for our company reward shop."
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Also there are assistants in Varrock, Ardougne, and Hosidius that can give you work, if Falador is inconvienent for you."
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "The clients that I would offer you to go help could be in any of those cities, it might be a bit of a journey to get there!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like a construction contract."
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "What kind of contract would you like?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could I have a beginner contract please?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Please could you go see [client] [area] [city], [location description] for us? You can get another job once you have furnished [his/her] home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could I have a novice contract please?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Please could you go see [client] [area] [city], [location description] for us? You can get another job once you have furnished [his/her] home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could I have an adept contract please?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Please could you go see [client] [area] [city], [location description] for us? You can get another job once you have furnished [his/her] home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could I have an expert contract please?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Please could you go see [client] [area] [city], [location description] for us? You can get another job once you have furnished [his/her] home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll pass actually."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the information."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Amy",
+                  "text": "Hey I'm Amy, how may I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's my current construction contract?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Go see [client] [area] [city], [location description]. You can get another job once you have furnished [his/her] home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How is the company doing?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Pretty good, we've only opened up recently and already have 12 clients!"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "These clients are quite indecisive about what they want their houses to look like though, I'm not complaining."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah I've noticed that they seem to keep breaking hatstands all the time too, I'm not sure how easy it is to break a hatstand..."
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Very bizarre."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm glad you're doing well!"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why don't you have a construction cape if you're a master builder?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Well why do you have one?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The teleports on it are really handy."
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Why would a cape for construction use magic? That seems a bit illogical doesn't it?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "We are people of hard work, not ones that rely on wizardry!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I suppose you're right."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing, never mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Selecting \"Contract\" from her right click menu",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What's my current construction contract?"
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "Go see [client] [area] [city], [location description]. You can get another job once you have furnished [his/her] home."
+                },
+                {
+                  "speaker": "Amy",
+                  "text": "What kind of contract would you like?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "During Trailblazer League",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Amy",
+                  "text": "Sorry, Mahogany Homes aren't giving out any contracts during this league."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using items on Amy",
+      "sections": [
+        {
+          "title": "Mahogany, teak, oak, or regular planks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Amy",
+                  "text": "That's a plank, you'll need a lot of those."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Saw",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Amy",
+                  "text": "That's a saw It's pretty useful."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Crystal saw",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Amy",
+                  "text": "That's a fascinating looking saw, it looks like it would break though."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Amy's saw",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Amy",
+                  "text": "Oh you have have one of my saws, I hope you enjoy it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Hammer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Amy",
+                  "text": "That's a hammer. It's pretty useful."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

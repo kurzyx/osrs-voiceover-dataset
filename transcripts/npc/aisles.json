@@ -1,0 +1,84 @@
+{
+  "ref": "aisles",
+  "categoryRef": "npc",
+  "title": "Aisles",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Aisles",
+              "text": "Hello. Do you wish me to exchange banknotes for you? I charge only 5 coins for each banknote."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Aisles",
+              "text": "Hand me the banknotes you wish me to exchange."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Aisles",
+              "text": "I am Aisles. I can exchange banknotes for real items. Do you want any banknotes converted?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using an item on Aisles",
+      "sections": [
+        {
+          "title": "Using something that isn't a banknote",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aisles",
+                  "text": "I exchange banknotes for real items. That's not a banknote."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player does not have enough money",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aisles",
+                  "text": "I charge 5 coins for exchanging each banknote."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has enough money",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

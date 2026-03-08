@@ -1,0 +1,109 @@
+{
+  "ref": "alrena",
+  "categoryRef": "npc",
+  "title": "Alrena",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Plague City",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Madam."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Oh, hello there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you ok?"
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Not too bad... I've just got some troubles on my mind..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Plague City",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Alrena",
+                  "text": "Thank you for rescuing my daughter! Elena has told me of your bravery in entering a house that could have been plague infected. I can't thank you enough!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Mourning's End Part II",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Alrena",
+                  "text": "They've taken her..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who?"
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Elena! They came and took her away!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh no! Is there anything I can do?"
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "I'm not sure... Speak to Edmond, he was there when they took her."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Song of the Elves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Alrena",
+                  "text": "Thank you so much for helping Elena. It means so much to Edmond and I."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need another tabard."
+                },
+                {
+                  "speaker": "Alrena",
+                  "text": "Not a problem. I still have enough materials to make another. Here you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It'a not a problem."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,3436 @@
+{
+  "ref": "land-of-the-goblins",
+  "categoryRef": "quest",
+  "title": "Land of the Goblins",
+  "sections": [
+    {
+      "title": "Grubfoot's Dream",
+      "sections": [
+        {
+          "title": "Talking to Grubfoot/Mistag",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Please let me in Dorgesh-city!"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "I'm sorry, but surface goblins are not allowed into the city."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Grubfoot? What are you doing here?"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "[player name]! I so glad you here! You help me get into Dorgesh-city? I want talk to Chosen Commander."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Chosen Commander? You mean Zanik?"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Yes, that her. I have dream about her, remember, before you come to Goblin Village. She Chosen Commander who lead all goblins to new age."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Generals still not sure, but Grubfoot sure. She Chosen Commander!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Mistag, why won't you let Grubfoot into the city?"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Our laws don't currently allow surface goblins to enter. The council wants to extend a hand of friendship to their kind, but we have heard that they are a very warlike people."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll take responsibility for Grubfoot. I know he won't cause any trouble."
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Hmm... If you are prepared to vouch for him, then I suppose we can trust him."
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Very well, Grubfoot. You may enter Dorgesh-Kaan, but you must stay with [player name] until you leave."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Thank you, [player name]! I promise I be no trouble."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Follow me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I'll let you two sort this out yourselves."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Walking with Grubfoot",
+          "sections": [
+            {
+              "title": "Waiting for the player",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Grubfoot",
+                      "text": "Hello, [player name]! Will you take me into Dorgesh-city now?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Follow me."
+                    },
+                    {
+                      "speaker": "Grubfoot",
+                      "text": "I follow you, but you should pick up pet thingy first."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I don't have time right now."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Whilst following the player",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Grubfoot",
+                      "text": "Will you take me into Dorgesh-city now?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Follow me."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I need to do something else."
+                    },
+                    {
+                      "speaker": "Grubfoot",
+                      "text": "Okay. I go back to wait in Dorgesh-mines."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "If the player walks too far",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Grubfoot",
+                      "text": "I want go into Dorgesh-city, not go that way. I meet you back at Dorgesh mines."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Entering the city",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Grubfoot",
+                      "text": "So big...so many Dorgesh-goblins..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I need to do something else."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "In Oldak's lab",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Grubfoot",
+                      "text": "Chosen Commander..."
+                    },
+                    {
+                      "speaker": "Grubfoot",
+                      "text": "You talk to her for me, [player name]! I too nervous!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Okay."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I need to do something else."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to cave goblins",
+          "sections": [
+            {
+              "title": "Guard",
+              "sections": [
+                {
+                  "title": "Dialogue 1",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Guard",
+                          "text": "What are you doing in the city, surface goblin?"
+                        },
+                        {
+                          "speaker": "Grubfoot",
+                          "text": "I looking for Chosen Commander!"
+                        },
+                        {
+                          "speaker": "Guard",
+                          "text": "Commander of the guard?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "He means Zanik."
+                        },
+                        {
+                          "speaker": "Guard",
+                          "text": "Zanik's not any kind of commander. She'd never fit into a command structure, she's too independant."
+                        },
+                        {
+                          "speaker": "Guard",
+                          "text": "Anyway, I think I saw her with Oldak earlier. You should check his lab."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Dialogue 2",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Guard",
+                          "text": "A surface goblin in the city? That's against the rules!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Mistag said that Grubfoot could come in as long as he stayed with me."
+                        },
+                        {
+                          "speaker": "Guard",
+                          "text": "Hmm... Carry on, then. But I'm keeping an eye on you."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Dialogue 3",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Guard",
+                          "text": "I'm keeping an eye on you, surface gobiln."
+                        },
+                        {
+                          "speaker": "Grubfoot",
+                          "text": "I not make any trouble!"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": []
+            },
+            {
+              "title": "Cave goblin",
+              "sections": [
+                {
+                  "title": "Dialogue 1",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Cave goblin",
+                          "text": "What happened to your eyes?"
+                        },
+                        {
+                          "speaker": "Grubfoot",
+                          "text": "Nothing wrong with my eyes."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Grubfoot is a goblin from the surface. They all have eyes that size."
+                        },
+                        {
+                          "speaker": "Cave goblin",
+                          "text": "Oh! Welcome to the city, surface goblin! What are you doing down here?"
+                        },
+                        {
+                          "speaker": "Grubfoot",
+                          "text": "I looking for Chosen Commander."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "He means Zanik."
+                        },
+                        {
+                          "speaker": "Cave goblin",
+                          "text": "Zanik? She's no commander... I think she's in Oldak's lab at the moment."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Dialogue 2",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Cave goblin",
+                          "text": "Eek! A goblin!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "But... you're a goblin!"
+                        },
+                        {
+                          "speaker": "Cave goblin",
+                          "text": "Yes, but a goblin from the surface..."
+                        },
+                        {
+                          "speaker": "Grubfoot",
+                          "text": "I not mean any harm. Just here to see Chosen Commander."
+                        },
+                        {
+                          "speaker": "Cave goblin",
+                          "text": "Chosen Commander?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "He means Zanik."
+                        },
+                        {
+                          "speaker": "Cave goblin",
+                          "text": "Zanik? I should hope that fool isn't in command of anything!"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Dialogue 3",
+                  "sections": [],
+                  "dialogues": [
+                    {
+                      "lines": [
+                        {
+                          "speaker": "Cave goblin",
+                          "text": "Hello?"
+                        },
+                        {
+                          "speaker": "Grubfoot",
+                          "text": "Where is Chosen Commander?"
+                        },
+                        {
+                          "speaker": "Cave goblin",
+                          "text": "Who?"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "He means Zanik."
+                        },
+                        {
+                          "speaker": "Grubfoot",
+                          "text": "Yes. Zanik is Chosen Commander."
+                        },
+                        {
+                          "speaker": "Cave goblin",
+                          "text": "Oh? Chosen by whom?"
+                        },
+                        {
+                          "speaker": "Grubfoot",
+                          "text": "Big High War God! He choose Zanik to lead all goblins into new age!"
+                        },
+                        {
+                          "speaker": "Cave goblin",
+                          "text": "The war god? Oh no!"
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "It's okay! Zanik isn't in league with any war god."
+                        },
+                        {
+                          "speaker": "Player",
+                          "text": "Grubfoot, you probably shouldn't mention the Big High War God down here. He's not exactly popular with the Dorgeshuun."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "dialogues": []
+            },
+            {
+              "title": "Ur-tag/Ur-vass/Ur-zek",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ur-tag",
+                      "text": "A surface goblin? What are you doing in the city?"
+                    },
+                    {
+                      "speaker": "Grubfoot",
+                      "text": "Miner person say I can come in."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Mistag said that Grubfoot could come into the city as long as he stayed with me."
+                    },
+                    {
+                      "speaker": "Ur-tag",
+                      "text": "That is somewhat irregular, but I suppose it is reasonable. Welcome to the city, surface goblin! What brings you to Dorgesh-Kaan?"
+                    },
+                    {
+                      "speaker": "Grubfoot",
+                      "text": "I looking for Chosen Commander."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "He means Zanik."
+                    },
+                    {
+                      "speaker": "Ur-tag",
+                      "text": "Ah yes, of course. I think she has been helping Oldak with his experiments recently. You should check Oldak's lab."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to Zanik/Oldak",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zanik",
+                  "text": "Hello, [player name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello, Zanik! There's someone here to see you."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Chosen Commander?"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Remarkable! You must be a goblin from the surface, correct?"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Yes. I am goblin."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I recognize you. You were in Goblin Village, weren't you? You said you had a dream about me."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Yes. You Chosen Commander. Other goblins not believe, but I believe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why don't other goblins believe?"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "They say Zanik not true goblin. She cannot be Chosen Commander because she not worship Big High War God. Because she not think war good."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I certainly don't!"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "But does that mean she have no destiny? Perhaps her destiny to lead goblins into new age of peace."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's an unusual sentiment for a goblin."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Yes. I thought all surface goblins thought war was good."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Most do, but not me. I see goblins kill goblins, humans kill goblins. I think, is this really best thing in life?"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "I not say that to other goblins. They kill me if they think I not like war."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is the Chosen Commander?"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Goblin legend. Hopespear, long ago goblin, he have dream. He say someday Chosen Commander come, lead all goblins to new age."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Most goblins, they think Chosen Commander lead goblins to war and fight other races. But I think maybe not."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "I have dreams that Zanik is Chosen Commander. Before you visit Goblin Village I dream about Zanik. And now, last night I have new dream."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So why have you come to talk to Zanik?"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "To tell Chosen Commander about new dream I have."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What was this new dream?"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Yes, what was it?"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "I have dream of far-off land. It like no land I ever see, but somehow I know it."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "It cool and wet. Ground is soft, big plants everywhere, red water bubbling."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "I see goblins, many goblins. Goblins of all tribes, but they not fight. They have no weapons. They live in peace."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Then I see Chosen Commander. She stand at entrance to new land, she show way in. She lead all goblins on long journey to new land."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "I never see land before. I see it only in dream. But somehow I know what it is. It Yu'biusk, Land of the Goblins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Zanik/Oldak after the cutscene",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So... What's Yu'biusk?"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "That goblin legend. Land of Goblins. Legend say long ago, even before war of gods, goblins come from Yu'biusk. Big High War God find them in Yu'biusk and take them to other lands."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Most goblins forget legend. Think only of war. But I think, if Zanik lead us back to Yu'biusk, maybe we have peace. Maybe we be safe from people who want to kill us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you know your dream was true?"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Yes, how do you know? Dorgeshuun scientists and philosophers generally believe that dreams are a way for the mind to sort through memories. There is no known mechanism by which they can predict the future."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "This dream not like other dream. It so real."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "What do you think, [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's just a dream. It doesn't mean anything."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "It not just dream! It true! I know in heart!"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "I'm sorry, Grubfoot, but wanting something badly doesn't make it true."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Even so... if there's any chance there might be something in it, we have to investigate."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think it must mean something."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Thank you, [player name]! I know you believe me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "It's probably nothing, but if there's even a small chance there's something in it, we have to investigate."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "So where is this promised land, Grubfoot?"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "I not know. Not know any goblin who know. But..."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "But what?"
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "I should not tell! Not in front of non-goblin!"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "[player name] is a friend. You can tell [him/her/them]."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "I suppose..."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "There secret place. Secret temple to Big High War God. No one know of it but goblins. Priests in secret temple, I bet they know way to Yu'biusk."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "But before I tell you where temple is, you must make promise. Promise not to tell any other non-goblins where temple is. If humans find out, maybe they attack, kill all goblins in temple."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I promise, Grubfoot. I won't tell anyone where the temple is."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "If that is what is required to keep your temple safe, then I promise too."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "[player name], you must promise as well. That very important."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I promise not to tell anyone where the temple is."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "I trust you, [player name]. You save village from H.A.M. attack. Now I tell you where temple is."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "It built long ago, on Plain of Mud. It sink into mud and now it underground in muddy caves. It far west of here, near place where many humans catch fish."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Hmm... I've heard of a cave system to the west where many goblins live. That must be where this temple is hidden. I can make teleport spheres to take you there."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "I can't go. I must get back to village before generals miss me."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Oh, that's a pity. Just a minute..."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Here, break this sphere on the ground. It will take you back to the Goblin Village."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Thank you. I go now, but you must go to temple and find way to Yu'biusk."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Zanik/Oldak after Grubfoot leaves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oldak",
+                  "text": "[player name], Zanik, are you ready to leave?"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I'm ready!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm ready."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Then let's go!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not ready."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I'll wait until you are, [player name]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Oldak again before entering the Goblin Temple",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oldak",
+                  "text": "Hello, [player name]. What did you find in the Goblin Temple?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We haven't gone in yet."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Ah, well you'd better get back there then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll see you later."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Grubfoot before going to Yu'Biusk",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Did you go to Land of Goblins?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Shut up Grubfoot!"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Shut up Grubfoot!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Imposter Among Goblins",
+      "sections": [
+        {
+          "title": "Talking to Zanik",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zanik",
+                  "text": "The entrance to the secret temple must be around here somewhere, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Follow me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to do something else."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Okay, [player name]. I'll meet you back at the cave entrance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to goblin guards",
+          "sections": [
+            {
+              "title": "Talking to goblin guards again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Goblin guard (2)",
+                      "text": "Go away, human! We already tell you not to come in!"
+                    },
+                    {
+                      "speaker": "Goblin guard (1)",
+                      "text": "Only goblins allowed in. If you goblin, you come in. But you not goblin, you stupid stinky puny human."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goblin guard (1)",
+                  "text": "Who you?"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I'm Zanik of the Dorgeshuun!"
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "Dorgesh tribe?"
+                },
+                {
+                  "speaker": "Goblin guard (1)",
+                  "text": "Me hear Dorgesh tribe return from below ground."
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "You want get into temple, Dorgesh-goblin?"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Yes please!"
+                },
+                {
+                  "speaker": "Goblin guard (1)",
+                  "text": "You goblin, you come in."
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "Human! Where you think you going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But you said we could go in!"
+                },
+                {
+                  "speaker": "Goblin guard (1)",
+                  "text": "No, we say Dorgesh-goblin go in. You human, you go away!"
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "Humans not allowed! Only goblins allowed!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Oldak",
+          "sections": [
+            {
+              "title": "Talking to Oldak again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Oldak",
+                      "text": "Hello, [player name]. Did you speak to the Makeover Mage?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not yet."
+                    },
+                    {
+                      "speaker": "Oldak",
+                      "text": "You really should. I believe they live south west of the human city of Falador."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Attempting to pick Pharmakos berries before talking to the Makeover Mage",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oldak",
+                  "text": "Hello, [player name]. What did you find in the Goblin Temple?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Humans aren't allowed inside. They let Zanik in, but not me."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Hmm... that is an interesting problem. But I think there is a way to get you in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How can I get into the temple without being a goblin?"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Perhaps you can't."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? But you said you had a way."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Yes, I think you can get into the temple, but not without being a goblin. I have been in correspondence with some of the wizards who live on the surface. I know of one who might be able to help you."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "They are known as the Makeover Mage. You should go and talk to them. I believe they live south west of the human city of Falador."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you teleport me to the temple again?"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "I can, but I can't afford to keep doing it for free. If you get me two law runes and a piece of molten glass, I'll make a sphere to take you there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll have to go get some law runes and molten glass then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never mind, I'll walk."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll go and see this mage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Makeover Mage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "Hello there! I am known as the Makeover Mage! I have spent many years researching magics that can change your physical appearance!"
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "I can alter your physical form with my magic, there's no fee. Would you like me to perform my magics upon you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you turn me into a goblin?"
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "Into a goblin? What do you want to turn into a goblin for?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to slip past some goblin guards."
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "Really? What are they guarding?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I promised not to tell anyone."
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "Okay, okay, sorry I asked."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you turn me into a goblin or not?"
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "I think I know how, but I've never deliberately transmogrified someone into another species before. It's a very risky procedure, and I don't want to be held responsible if it goes wrong."
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "How about I tell you the recipe so you can make the potion yourself. It's not too complex. You'll just need to take a toadflax potion and add some pharmakos berries."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Pharmakos berries?"
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "That's right. They're quite rare, but have wonderful properties that help with transmogrification. Luckily, I grow plenty right outside. Feel free to take some."
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "Now, once you've made the potion, remember that the transformation is very delicate. It will reverse itself if you are in direct sunlight or if you perform a strenuous activity like fighting."
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "For that reason, you should only drink it in the area where you're going to need it. I'd also suggest you take off any pieces of armour or similar before drinking it, just in case the transformation damages them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay. Thanks for the help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I just like goblins."
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "What a strange thing to want to turn into."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I don't want to be a goblin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Makeover Mage again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "Hello there! I am known as the Makeover Mage! I have spent many years researching magics that can change your physical appearance!"
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "I can alter your physical form with my magic, there's no fee. Would you like me to perform my magics upon you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you turn me into a goblin?"
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "You can do it yourself using that potion I told you about. Just take a toadflax potion and add some pharmakos berries."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Pharmakos berries?"
+                },
+                {
+                  "speaker": "Makeover Mage",
+                  "text": "That's right. They're quite rare, but have wonderful properties that help with transmogrification. Luckily, I grow plenty right outside. Feel free to take some."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay. Thanks for the help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Oldak after talking to the Makeover Mage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oldak",
+                  "text": "Hello, [player name]. Any luck getting into the Goblin Temple?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, but I spoke to the Makeover Mage. They told me how to make a potion to turn myself into a goblin."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Excellent! You'd better head back to the temple and try this potion out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll see you later."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The Temple of Tribes",
+      "sections": [
+        {
+          "title": "Talking to goblin guards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "What you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to get into the temple please."
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "Why you talk strange?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh... Err..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Me want get into temple?"
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "That better."
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "What your name, goblin?"
+                },
+                {
+                  "speaker": "Goblin guard (1)",
+                  "text": "No wait, I guess."
+                },
+                {
+                  "speaker": "Goblin guard (1)",
+                  "text": "Is it [goblin name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, me [goblin name]."
+                },
+                {
+                  "speaker": "Goblin guard (1)",
+                  "text": "Ha ha! Me knew me guess right!"
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "You not come into temple with that thing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What thing?"
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "That thing you carrying! It look alive!"
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "Goblin guard: That thing! That thing that following you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "My follower?"
+                },
+                {
+                  "speaker": "Goblin guard (1)",
+                  "text": "Me not like it."
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "You go take it somewhere else before you go in."
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "You go into temple now, [goblin name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No. You guess again."
+                },
+                {
+                  "speaker": "Goblin guard (1)",
+                  "text": "Is it [goblin name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, me no want to go in temple."
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "You go away then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Me want get into temple."
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "What your name, goblin?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing."
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "You go away then."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Goblin guards again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "You want go into temple, [goblin name]?"
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "What is it then?"
+                },
+                {
+                  "speaker": "Goblin guard (2)",
+                  "text": "You go away then."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Preacher's sermon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Preacher",
+                  "text": "You goblins listen!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "This is what Big High War God say:"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Slay enemies of Big High War God!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Enemies must die!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Not to run from battle!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Cowards must die!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Not to show mercy!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Merciful must die!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Not to doubt Big High War God!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Doubters must die!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Not to make own plans!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Thinkers must die!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "In beginning, goblins weak."
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Big High War God make us strong!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "In beginning, goblins have no commander."
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Big High War God send commander!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "In time of great war..."
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "He send commander to lead us."
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Now we have no commander."
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "But some day he send new commander!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "New commander leads goblins to victory!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Goblins conquer all of world!"
+                },
+                {
+                  "speaker": "Preacher",
+                  "text": "Then Big High War God return!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to goblins inside temple",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Goblin",
+                  "text": "Me hear Dorgesh tribe come back from underground. Maybe now all tribes united, prophecy will come true! Chosen Commander come and lead all tribes to victory over world!"
+                },
+                {
+                  "speaker": "Goblin",
+                  "text": "Me hear there ghost in temple crypt! No one see it, but sometimes they hear it. 'Wooo... wooo...' it say."
+                },
+                {
+                  "speaker": "Goblin",
+                  "text": "Me mighty warrior of Big High War God! Me find farmer working in field, and me attack! He so scared he run off! Then me trample on crops! This deeds of great warrior of Big High War God!"
+                },
+                {
+                  "speaker": "Goblin",
+                  "text": "Me glad me finally get to secret goblin temple! Me walk long way to get here, always in danger of humans. But now me here, me safe! There no humans here!"
+                },
+                {
+                  "speaker": "Goblin",
+                  "text": "Me hate humans! When me leave temple, me go and kill many human children!"
+                },
+                {
+                  "speaker": "Goblin",
+                  "text": "Shh! Not to talk in temple!"
+                },
+                {
+                  "speaker": "Goblin",
+                  "text": "Praise Big High War God!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Me have question."
+                },
+                {
+                  "speaker": "Goblin",
+                  "text": "Questions for High Priest. He the one that knows stuff."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to enclave guards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "You go away! Only [tribe name] tribe come in here!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "You can pass!"
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Praise Big High War God!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "High Priest Bighead random dialog",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "May the Big High War God fill your soul with the glory of war!"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "May the Big High War God fill your eyes with hate for his enemies!"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "May the Big High War God clear your mind of all thoughts!"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "May the Big High War God fill your heart with courage to die for him!"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "May the Big High War God fill your arms with strength to do his bidding!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to High Priest Bighead",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Where Zanik?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Zanik? Who is Zanik?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "She Dorgeshuun goblin."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "She Chosen Commander."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Chosen Commander? You have history mixed up. Chosen Commander come in future, not now. When Chosen Commander come, I know, and I not see any Chosen Commander today."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh... well she Dorgeshuun goblin."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Yes, there was goblin who say she Dorgesh-goblin. She have big eyes and she speak in strange accent. She ask about Yu'biusk, but she not pass test."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "She not just not know answers. Lots of goblins not know answers. She start shouting crazy ideas about how war is bad and we not need gods."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Huzamogaarb guards, they grab her and they put her in prison in Huzamogaarb enclave."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How me get into Huzamogaarb enclave?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Only Huzamogaarb tribe allowed in the enclave. That not you. You wearing wrong armour. The Huzamogaarb tribe wear black armour."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How they get black armour?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "They use dye to make armour black. Other tribes do similar, but in own tribe colour instead."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Yellow for Yurkolgokh, white for Saragorgak, purple for Horogothgar, orange for Narogoshuun, blue for Ekeleshuun and like said, black for Huzamogaarb."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where they get dye?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Some goblins say they go to witch-lady in Draynor for it. Me hope they beat up witch-lady and take dye! That way of Big High War God!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to High Priest Bighead again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Where Zanik?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "You forgetful? I told you, guards put her in prison in Huzamogaarb enclave."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How me get into Huzamogaarb enclave?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Only Huzamogaarb tribe allowed in the enclave. That not you. You wearing wrong armour. The Huzamogaarb tribe wear black armour."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How they get black armour?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "They use dye to make armour black. Other tribes do similar, but in own tribe colour instead."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Yellow for Yurkolgokh, white for Saragorgak, purple for Horogothgar, orange for Narogoshuun, blue for Ekeleshuun and like said, black for Huzamogaarb."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where they get dye?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Some goblins say they go to witch-lady in Draynor for it. Me hope they beat up witch-lady and take dye! That way of Big High War God!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Oldak",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oldak",
+                  "text": "Hello, [player name]. Have you discovered anything in the Goblin Temple?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The goblins there have imprisoned Zanik!"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Oh no! You'd better find a way to get her out!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Zanik",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zanik",
+                  "text": "What do you want now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Zanik! It's me, [player name]!"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "[player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I turned myself into a goblin so I could get in here!"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "You did what?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes... Definitely one of my more interesting choices."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I'll say. You can tell me all about it later. For now, I could do with a bit of a hand getting out of here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened?"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I managed to upset the high priest. He said he'd tell me about Yu'biusk if I passed a test on goblin religion. I don't think he liked my answers."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Clearly. Well luckily I have a moving-over-distance sphere here. You can use it to teleport out."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Thank you, [player name]! I'm sorry to leave you, but it looks like you'll have to find out about Yu'biusk on your own. Hopefully you have better luck with that high priest than I did."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, I'll work it out. I'll see you back in Dorgesh-Kaan."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Clearly. So how can I get you out?"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I had a moving-over-distance sphere with me, but they confiscated it when they put me in here. They didn't even know what it was. They were just frightened that it might explode."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll look around and see if I can find it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Zanik again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zanik",
+                  "text": "Is that you, [player name]? Do you have that moving-over-distance sphere?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "The guards confiscated it when they put me in here. It must be somewhere nearby."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have it here."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Thank you, [player name]! I'm sorry to leave you, but it looks like you'll have to find out about Yu'biusk on your own. Hopefully you have better luck with that high priest than I did."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, I'll work it out. I'll see you back in Dorgesh-Kaan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Zanik in Oldak's lab",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zanik",
+                  "text": "You're back! Any luck at the temple? Have you found out where Yu'biusk is?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not yet."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Don't give up! I know you'll work it out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Oldak",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oldak",
+                  "text": "Hello, [player name]. Have you found out anything about Yu'biusk yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still working on it."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "I'm sure you'll uncover something soon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to High Priest Bighead",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Me want to know about Yu'biusk."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That knowledge not for ordinary goblin. Only those who understand ways of Big High War God may learn of Yu'biusk."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I understand Big High War God."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Then you answer my questions, and we will see."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "True or false: Those who do not believe in Big High War God, whether they goblins or other races, must die."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "True."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Oh? Why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Big High War God commands it."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That right! It in commandments."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "'Not to doubt Big High War God! Doubters must die!' This mean we slay goblins who not believe."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "'Always to slay enemies of Big High War God!"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Second question. True or false: Big High War God chose goblins to be his race because goblins mighty warriors."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "True."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Really? Then how we come to be mighty warriors, before Big High War God find us?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We taught selves to be mighty!"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Fool! Heretic! You guilty of sin of pride! Goblins teach selves nothing. All good we have come from Big High War God!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Other god made us mighty."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "You confused. Yes, in time of great war, some goblins serve other gods. But no one make us mighty but Big High War God."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Look around at how mighty we are! How we proud of war. How we never flinch from battle or pain or death. How we never surrender or show mercy or pity!"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "How could any other god but Big High War God do this?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We naturally mighty warriors."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Naturally? Let me tell you what goblins are naturally! We tiny, we weak, we cowardly, we love peace and not war!"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "All that is good, that is strong, that is powerful, we get from Big High War God! Go away and remember this!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "False."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Oh? Why you say that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He chose us for other quality."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "What other quality important, except that we great warriors? Get away, silly goblin! Too much drink muddle brain and give you strange thoughts!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goblins not mighty warriors before he chose us."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That good! Goblins mighty warriors now, but that only because Big High War God make us so! Without Big High War God we nothing! Remember that."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Third question. True or false: Goblin leaders should be good at planning in order to win battles."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "True."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Oh? Why you say that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Big High War God rewards victory."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Even victory that comes through clever dirty tricks? Even victory that comes through breaking Big High War God's commandments? No. Not all victory honour Big High War God."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Big High War God teaches us to think for selves."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "What? Where you hear that? You think for yourself, you maybe think stupid, dangerous thoughts. You maybe think war not good, or Big High War God not best god."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "No. Do not think for self. Think only thoughts of Big High War God. His thoughts perfect, so if you think different thoughts, those thoughts bad."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That why Big High War God command, 'Not to make own plans. Thinkers must die.'"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Planning is part of war, and all parts of war are good."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "You confused. It true all parts of war are good, but not all parts of war are for goblins."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Big High War God not make us commanders. He make us soldiers, and send commanders to lead us. They make plans for us. We not have commander now, but still we must not make own plans."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "False."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Why not?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That one of the commandments."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That right. 'Not to make own plans. Thinkers must die.'"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Last question. Prophecy say someday Big High War God send Chosen Commander. What Chosen Commander do?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Lead goblins to promised land of Yu'biusk."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Yu'biusk? You have story wrong way round! Yu'biusk land all goblins come from. But there no prophecy that we go back there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Lead goblins to victory over whole world."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That right! And war will end in victory and victory last forever!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Destroy world."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Destroy world? Why Big High War God want to do that? Then there be no goblins to fight for him!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Make goblins fight each other."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Ha ha ha! Big High War God not need send commander to do that! Only reason goblins not fight more is prophet Hopespear say not."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Big High War God controls outcome of the battle."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That true. But it true whether goblin leaders make plans or not. So it not answer question."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goblins stupid and would make poor plans."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "You call me stupid? Big High War God make goblins perfect! Big High War God tell us not make plans, but if we make plans, they be best plans ever!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goblins not mighty warriors."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "How dare you? You insult goblin race in holy temple! We mighty warriors because we worship Big High War God!"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Goblins like you, who say we not strong, you are thing that make us weak! Never doubt, never question, never think! That way of Big High War God."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They might lead us astray."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That wrong! No true goblin be lead astray by those who not believe. If goblin led astray, that goblin deserve to die!"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "I think you weak in faith, if you think you be led astray. You go now, think on this. Be stronger in faith."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "False."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Oh? Why not?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Big High War God commands it."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Big High War God command we not kill enemies?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "You not understand Big High War God at all! You like filthy stinking cave goblin! Go away and think on how stupid you are!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goblin should not fight goblin."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "It true that prophet Hopespear tell us goblin should not fight against goblin. But Big High War God, he command that those who not believe must die."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "To little mind, weak mind, this seem to contradict. But only if you not have faith. In Big High War God, there no contradiction."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We try to convert them instead."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Convert them? You stupid goblin! You not even know name of god. He Big High WAR God! We kill enemies, not convert!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I not know."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That good. True goblin not want to understand. Fight and die for glory of Big High War God. Never ask question or have thought."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is not for me then."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That good. True goblin not want to understand. Fight and die for glory of Big High War God. Never ask question or have thought."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to High Priest Bighead again before answering questions",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Me want to know about Yu'biusk."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "You ready to answer questions?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That good. True goblin not want to understand. Fight and die for glory of Big High War God. Never ask question or have thought."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to High Priest Bighead after answering questions",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "You have passed test. Now I answer your questions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Me want to know about Yu'biusk."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Yu'biusk is goblin legend. Very old legend, from before this temple built. From before Hopespear the prophet. Even before great war."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Legend say that goblins come from land of Yu'biusk. Big High War God find goblins in Yu'biusk and bring them to other lands to train them as warriors!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will goblins return to Yu'biusk?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Why we want to return to Yu'biusk? In Yu'biusk we weak. Big High War God take us from Yu'biusk and make us strong."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is Yu'biusk?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Me not know. Me think Snothead maybe know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find him?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "He old high priest in temple crypt behind me! He dead!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Maybe me ask him next time me see him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? But you said he dead!"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Ha ha! You not know, but since you pass test, me tell you."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "When goblin high priest die, they buried in temple crypt in special magic way."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "This mean next high priest can ask them questions, even though they dead. I just say name of high priest over grave, and he appear and answer questions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I talk to old high priests?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "No. Temple crypt is holy place. Only high priest allowed into crypt, and that me. No other goblin ever go in."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Crypt door locked by six keys, kept by six tribal priests. Priests only give keys to me. They never give them to normal goblin like you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What Big High War God's real name?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "You ask big question. Big High War God's true name not for normal goblin minds, but since you pass test, I tell you. His true name Bandos."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "That name that ogres call him, that orks call him. That name that goblin priests call him on holy days. But normal goblins, you must show respect. You only call him Big High War God."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why there only six tribes in temple?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Goblin tribes are thing of past. Long ago, all goblins divided into twelve tribes. Dorgeshuun tribe rebel, so Big High War God punish them. Then there eleven tribes."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "No other tribes disappear like Dorgeshuun, but over ages, tribes merge. Now most goblins, they not know what tribe they come from."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Sometimes, goblins who know what tribe they come from, they come here and make tribal enclaves. They colour armour different colours to show what tribe they in. But not all tribes here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How me get into tribal enclaves?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Goblins show tribe by dying armour special tribe colour. Yellow for Yurkolgokh, white for Saragorgak, purple for Horogothgar, orange for Narogoshuun, blue for Ekeleshuun and black for Huzamogaarb."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "You not wearing colour, you not entering the enclave."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where they get dye?"
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Some goblins say they go to witch-lady in Draynor for it. Me hope they beat up witch-lady and take dye! That way of Big High War God!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Me have no questions."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Good. Goblins should not ask questions. Fight and die for glory of Big High War God. Never ask question or have thought."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to High Priest Bighead after asking him all questions",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Me want to take test again."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Good. Goblins must always remember faith to Big High War God."
+                },
+                {
+                  "speaker": "High Priest Bighead",
+                  "text": "Then bring glory to Big High War God."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Keys to the Crypt",
+      "sections": [
+        {
+          "title": "Talking to Aggie",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aggie",
+                  "text": "What can I help you with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you make dyes for me please?"
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "What sort of dye would you like? Red, yellow or blue?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you make black or white dye?"
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "Black dye can be made by grinding up black mushrooms. That's dead easy. The mushrooms grow in some old caves and ruins."
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "But white dye? There's no such thing!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Then how can you colour clothes white?"
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "Usually you can't, but with poorly-made clothes, it's possible to remove the dye. Even then, it's a very tricky process involving a special ingredient found in the gut of the Hemenster Whitefish."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hemenster Whitefish?"
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "Yes, found only at Hemenster, oddly enough. It's the place where they have those fishing contests."
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "If you fancy catching some, you should know that very specific bait is needed. Only slimy eels will work. I hear you can catch those in the caves below Lumbridge Swamp."
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "Anyway, if you do have something you want the dye removing from, just bring me a Hemenster Whitefish and five coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "You're welcome!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening the gate next to Morris",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Morris",
+                  "text": "Competition pass please."
+                },
+                {
+                  "speaker": "Morris",
+                  "text": "Move on through. Talk to Bonzo to enter the competition."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I need to catch a Hemenster Whitefish."
+                },
+                {
+                  "speaker": "Morris",
+                  "text": "Whitefish, eh? Okay, since you've won the competition before, I'll let you in."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Aggie while holding goblin mail",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aggie",
+                  "text": "What can I help you with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you make dyes for me please?"
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "What sort of dye would you like? Red, yellow or blue?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could you remove the dye from this goblin mail?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using goblin mail on Aggie with necessary items",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Could you remove the dye from this goblin mail?"
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "That'll be five coins please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have that much money on me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using goblin mail on Aggie without whitefish",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Could you remove the dye from this goblin mail?"
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "You'll need to go and get a Hemenster Whitefish first."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah, I was just about to do that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using whitefish on Aggie without any goblin mail",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Could you remove the dye from this goblin mail?"
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "What goblin mail?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, right. I'll go and get some."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using white goblin mail on Aggie",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Could you remove the dye from this goblin mail?"
+                },
+                {
+                  "speaker": "Aggie",
+                  "text": "That goblin mail is already white."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh yes, so it is."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the tribe priests",
+          "sections": [
+            {
+              "title": "Huzamogaarb",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Priest",
+                      "text": "Listen! Whoever does not worship Big High War God, whether great or small, goblin or other, must die!"
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "If another goblin tell you to worship different gods, you not listen to them! You kill them! All tribe kill them!"
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "Kill peoples who worship different gods! Smite them! Destroy them! Do not show mercy!"
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "Enemies must die! Doubters must die! These words of Big High War God!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Ekeleshuun",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Priest",
+                      "text": "Remember, we holy people of Big High War God! He chose us to be special people, better than all people in world!"
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "Big High War God not choose us because we many, or because we strong. We nothing before he choose us! But he take us from Yu'biusk with mighty hand, and make us strong!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Narogoshuun",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Priest",
+                      "text": "Soon Big High War God send Chosen Commander!"
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "I tell you truth! There some goblins here who not die before they see Chosen Commander coming with glory of Big High War God!"
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "Then Chosen Commander lead goblins into war as one army, and we kill every other race and all followers of other gods!"
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "Then Big High War God himself return and sit on throne of bronze and rull over all!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Horogothgar",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Priest",
+                      "text": "Let me tell you story about Hopespear! He prophet of Big High War God! He very holy goblin!"
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "When Hopespear old, he walking near Goblin Village, and little goblin children came out of village and make fun of him."
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "The he look at them, and curse them in name of Big High War God. Then monsters come and tear children to pieces!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Saragorgak",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Priest",
+                      "text": "May Big High War God give you faith!"
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "Before you enter battle, clear mind of thought. Do not think about what you will do or what may happen."
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "When battle start, Big High War God guide your arm and fill your heart with courage."
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "Have faith in Big High War God. He rule all war, so whatever happen in war, it his will."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Yurkolgokh",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Priest",
+                      "text": "Goblins great nation in time of great war!"
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "Big High War God himself lead us into battle! Then we crush enemies, we burn cities to ground, we kill every man, woman and child! Even animals!"
+                    },
+                    {
+                      "speaker": "Priest",
+                      "text": "Some enemies, we kill them so bad, now there no trace and no one ever remember them! That what happen to enemies of Big High War God!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "High Priests of Ages Past",
+      "sections": [
+        {
+          "title": "Snothead",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Snothead",
+                  "text": "You beat me. What you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is Yu'biusk?"
+                },
+                {
+                  "speaker": "Snothead",
+                  "text": "It long way away. Me not know where. High priest who come before me, he say that when goblins die we go to Yu'biusk. Perhaps he know where it is."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What was your predecessor's name?"
+                },
+                {
+                  "speaker": "Snothead",
+                  "text": "Snailfeet. That his name."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why did you attack me?"
+                },
+                {
+                  "speaker": "Snothead",
+                  "text": "You not goblin. Not high priest. So me attack."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it like being dead?"
+                },
+                {
+                  "speaker": "Snothead",
+                  "text": "It dark. Very dark. And cold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye."
+                },
+                {
+                  "speaker": "Snothead",
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Snailfeet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Snailfeet",
+                  "text": "You beaten me. Ask your questions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is Yu'biusk?"
+                },
+                {
+                  "speaker": "Snailfeet",
+                  "text": "Far, far away. Me not know where. But high priest who come before me, he say that when goblins die in battle, our souls travel to Yu'biusk."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What was your predecessor's name?"
+                },
+                {
+                  "speaker": "Snailfeet",
+                  "text": "Mosschin."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why did you attack me?"
+                },
+                {
+                  "speaker": "Snailfeet",
+                  "text": "You not goblin high priest! Me only answer questions for goblin high priest!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it like being dead?"
+                },
+                {
+                  "speaker": "Snailfeet",
+                  "text": "Why me here? Me die in battle, fighting humans! Why me not in Yu'biusk?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye."
+                },
+                {
+                  "speaker": "Snailfeet",
+                  "text": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mosschin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mosschin",
+                  "text": "You have defeated me, human. Ask your questions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is Yu'biusk?"
+                },
+                {
+                  "speaker": "Mosschin",
+                  "text": "Far beyond this world. Long ago, the Big High War God brought goblins from Yu'biusk."
+                },
+                {
+                  "speaker": "Mosschin",
+                  "text": "The high priest who came before me said that whenever goblins die in battle and their blood spills onto the ground, Yu'biusk is close and their souls can travel there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What was your predecessor's name?"
+                },
+                {
+                  "speaker": "Mosschin",
+                  "text": "Redeyes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why did you attack me?"
+                },
+                {
+                  "speaker": "Mosschin",
+                  "text": "I only answer questions for those who are worthy! I had to test you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it like being dead?"
+                },
+                {
+                  "speaker": "Mosschin",
+                  "text": "All alone. I thought my soul would travel to Yu'biusk. But perhaps I was not worthy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye."
+                },
+                {
+                  "speaker": "Mosschin",
+                  "text": "Goodbye, human."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Redeyes",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Redeyes",
+                  "text": "You have defeated me, human. Ask your questions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is Yu'biusk?"
+                },
+                {
+                  "speaker": "Redeyes",
+                  "text": "Yu'biusk is far away. Beyond the icelands to the north, beyond the mountains to the west, beyond the oceans to the south and the deserts to the east."
+                },
+                {
+                  "speaker": "Redeyes",
+                  "text": "But it is also close. Wherever goblins fight in the name of the Big High War God and their blood spills on the ground, Yu'biusk is close."
+                },
+                {
+                  "speaker": "Redeyes",
+                  "text": "My predecessor told me that no living goblin has ever gone to Yu'biusk. If no living goblin can go there, then perhaps the dead can."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What was your predecessor's name?"
+                },
+                {
+                  "speaker": "Redeyes",
+                  "text": "Strongbones. He was a mighty high priest and warrior of the Big High War God. It was he who learned the magic that allows us to be called up to speak with the living."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why did you attack me?"
+                },
+                {
+                  "speaker": "Redeyes",
+                  "text": "You are not a goblin high priest, so I had to see if you were worthy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it like being dead?"
+                },
+                {
+                  "speaker": "Redeyes",
+                  "text": "I had thought perhaps I would go to Yu'biusk, to fight in endless battles for the Big High War God. Instead, there is only endless sleep."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye."
+                },
+                {
+                  "speaker": "Redeyes",
+                  "text": "Good luck in your quest, human."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Strongbones",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Strongbones",
+                  "text": "You have proved yourself the stronger, human. Ask your questions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where is Yu'biusk?"
+                },
+                {
+                  "speaker": "Strongbones",
+                  "text": "Yu'biusk is another plane of existence. No goblin alive today has ever been there."
+                },
+                {
+                  "speaker": "Strongbones",
+                  "text": "It is many millennia since the Big High War God brought our ancestors from Yu'biusk, but the call to that plane is still strong in us."
+                },
+                {
+                  "speaker": "Strongbones",
+                  "text": "If the barriers between the planes were ever to be broken, goblin blood would call out and open a portal to Yu'biusk."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What was your predecessor's name?"
+                },
+                {
+                  "speaker": "Strongbones",
+                  "text": "His name is not important. He is not buried here. Before my time, priests were cremated, and their ashes scattered to the winds. You cannot talk to him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why did you attack me?"
+                },
+                {
+                  "speaker": "Strongbones",
+                  "text": "You are a human, not one of the children of the Big High War God. For this reason, you had to prove yourself in combat before I could speak with you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it like being dead?"
+                },
+                {
+                  "speaker": "Strongbones",
+                  "text": "I cannot tell you. I no longer remember what it is like to be alive."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Goodbye."
+                },
+                {
+                  "speaker": "Strongbones",
+                  "text": "Goodbye, human. I am sure that the Chosen Commander will find what she is looking for when you bring her to Yu'biusk."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait... What?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Path to Yu'biusk",
+      "sections": [
+        {
+          "title": "Returning to Dorgesh-Kaan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zanik",
+                  "text": "You're back! Any luck at the temple? Have you found out where Yu'biusk is?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sort of. I've discovered that Yu'biusk is another plane of existence. Apparently if the barriers between the planes are breached, goblin blood will call out to Yu'biusk and create a portal leading there."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Another plane? You mean goblins aren't native to Gielinor? That's remarkable. Think of the historical implications..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But how could we breach the barriers between the planes?"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I know! The fungus ring in the southern caves! Didn't you say that had magical properties, Oldak?"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Yes... that sample you showed me had very similar properties to Law runes. I believe that the fungus ring could create an effect similar to my moving-over-distance spheres."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fungus ring? That sounds like a fairy ring. They're part of a big teleportation network."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Well that confirms it then. This fungus ring might be just what we need!"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "If the ring can create a moving-over-distance effect... then with enough power, we should be able to use it to break the planar barriers."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Then we just need goblin blood to call out to Yu'biusk!"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Well I reckon we've got plenty of that."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Indeed."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I can't believe this! The goblin homeland! This could be somewhere safe for goblins like Grubfoot. A new home, free of war!"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Could this be it, [player name]? Could this be my destiny? Could this be why I was marked by the Tears of Guthix?"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "We should see if this works before we tell anyone else. Now, I think I can create some apparatus to provide power to the fungus ring."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Come on, Zanik. [player name], will you meet us by the fungus ring to the south of the city?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll see you there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Zanik",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey Zanik. How's it going?"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Hey, [player name]. This is incredible! I can't believe we're really going to go to Yu'biusk, the Land of the Goblins!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you think we'll find there?"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I don't know. All we have to go on is Grubfoot's dream, which isn't much. Still, not long now until we find out!"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Anyway, you should help Oldak out with the machine. He wants me to stand here so that when the portal opens, it'll have a goblin right next to it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Oldak",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oldak",
+                  "text": "Ah, [player name]. The machine is nearly ready. When I activate it, it will bombard the fungus ring with magical energy."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "For this to work, we'll need to make sure the power is distributed correctly between the three circles of fungi. I need to handle the activation. [player name], could you please handle the power distribution?"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "The inner circle has a radius of one zurg, the middle circle has a radius of two zurgs, and the outer circle has a radius of three zurgs. You will need to distribute the power in proportion to the area of each circle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll get to it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Through the Fungus Ring",
+      "sections": [
+        {
+          "title": "Activating the machine",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zanik",
+                  "text": "Oldak! It's working!"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Something must have gone wrong. This isn't what Grubfoot described."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "No, no, no..."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "I don't understand. What happened here?"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "We must be missing something. This can't be it..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe we should look around."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Yes, let's."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "I'll stay here and keep an eye on the portal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Oldak",
+          "sections": [
+            {
+              "title": "Upon arrival",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Oldak",
+                      "text": "You should have a look around and see if you can find out anything about this place. I'll stay here and keep an eye on the portal."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Return trip",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Oldak",
+                      "text": "[player name]. We should head back through the portal. Zanik is waiting on the other side."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Walking north-west",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Oldak",
+                      "text": "Don't go too far! I don't know how stable this portal is!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to Zanik",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zanik",
+                  "text": "There must be something around here. It can't all be dead... can it?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Grubfoot after visiting Yu'Biusk but before opening the strange box",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Did you go to Land of Goblins?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, but we haven't properly explored it yet."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Shut up Grubfoot!"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Shut up Grubfoot!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "A Strange Box",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zanik",
+                  "text": "This is really it, isn't it? Grubfoot's dream was just that, a dream. All Yu'biusk is now is an empty wasteland."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't understand... What happened here?"
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "The Big High War God happened."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "I thought this might be it, [player name]. I really did. I thought this place might finally give me some answers, but it's just another dead end."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, Zanik."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "Let's have a look at what this box is, then let's go home. There's nothing here for anyone any more."
+                },
+                {
+                  "speaker": "Zanik",
+                  "text": "What's happening? [player name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Zanik!"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "The portal is closing! You've got to get back now!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Zanik..."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "[player name]? What's going on? Where's Zanik?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "She's gone."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Gone? What do you mean?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know... She just disappeared..."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "No... Zanik..."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "The portal... We have to go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll find you Zanik."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Post-quest dialogue",
+      "sections": [
+        {
+          "title": "Oldak",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Oldak",
+                  "text": "Hello, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are we going to do about Zanik?"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "We can only assume she's still in Yu'biusk somewhere. Problem is, I haven't been able to get the fungus ring machine working again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So there's no way back?"
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Perhaps not. Still, now that we've broken the planar barriers between Gielinor and Yu'biusk, maybe we've enabled some alternate methods of transport there."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Those fungus rings would be a good starting point. Maybe you could use one of them to find another way to Yu'biusk. In the meantime, I'll keep trying to get the machine working again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I managed to get back to Yu'biusk."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "You did? Did you find anything there? Was there any trace of Zanik?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, there was nothing."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "Then it's just as I feared. It seems that whatever's happened to Zanik, wherever she is... she's on her own."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I will find her, Oldak."
+                },
+                {
+                  "speaker": "Oldak",
+                  "text": "I know you will, [player name]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Grubfoot",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Did you go to Land of Goblins?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, but it wasn't how you'd dreamed. It was a devastated wasteland."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Yu'biusk... Land of Goblins... All gone?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid so. And that's not all. Zanik vanished there."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "Chosen Commander? She vanish?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes. A bright white light picked her up and then she was gone."
+                },
+                {
+                  "speaker": "Grubfoot",
+                  "text": "She not gone. I sure of it. Someday she return."
+                },
+                {
+                  "speaker": "General Bentnoze",
+                  "text": "Shut up Grubfoot!"
+                },
+                {
+                  "speaker": "General Wartface",
+                  "text": "Shut up Grubfoot!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

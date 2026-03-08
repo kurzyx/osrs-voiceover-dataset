@@ -1,0 +1,133 @@
+{
+  "ref": "werewolf-darkmeyer-",
+  "categoryRef": "npc",
+  "title": "Werewolf (Darkmeyer)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "East of the Darkmeyer Meat Shop",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey!"
+                },
+                {
+                  "speaker": "Werewolf",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing?"
+                },
+                {
+                  "speaker": "Werewolf",
+                  "text": "Waiting."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "For what?"
+                },
+                {
+                  "speaker": "Werewolf",
+                  "text": "For you to go away."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh... okay."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Crypt",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Werewolf",
+                  "text": "There's nothing good to drink here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's wrong with blood?"
+                },
+                {
+                  "speaker": "Werewolf",
+                  "text": "Blood's only good if there's meat to go with it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why even come here if there's nothing for you to drink?"
+                },
+                {
+                  "speaker": "Werewolf",
+                  "text": "I'm here on business."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What business?"
+                },
+                {
+                  "speaker": "Werewolf",
+                  "text": "My business is none of your business. Go poke your nose somewhere else."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Lord Myrmel's home",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Werewolf",
+                  "text": "Don't disturb me. I need to guard the tithes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why? Where would they even go if they escaped?"
+                },
+                {
+                  "speaker": "Werewolf",
+                  "text": "Escape? I'm not here to stop them escaping. I'm here to stop them getting stolen."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh..."
+                },
+                {
+                  "speaker": "Werewolf",
+                  "text": "Now take your stupid questions somewhere else. I have a job to do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Werewolf",
+                  "text": "You shouldn't be here, slave. Go back to your master before you get yourself killed."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "ref": "barker",
+  "categoryRef": "npc",
+  "title": "Barker",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Barker",
+              "text": "You are looking for clothes, yes? You look at my products! I have very many nice clothes, yes?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Barker",
+              "text": "Unfortunate for you, yes? Many bargains, won't find elsewhere!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Barker",
+              "text": "Here, have this."
+            },
+            {
+              "speaker": "Barker",
+              "text": "Here, have this."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

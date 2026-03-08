@@ -1,0 +1,165 @@
+{
+  "ref": "matilda",
+  "categoryRef": "npc",
+  "title": "Matilda",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me..."
+                },
+                {
+                  "speaker": "Moldof",
+                  "text": "Can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me anything about the castle?"
+                },
+                {
+                  "speaker": "Moldof",
+                  "text": "There aren't many guards in it."
+                },
+                {
+                  "speaker": "Moldof",
+                  "text": "We don't have an army, you see."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How's the weather doing?"
+                },
+                {
+                  "speaker": "Moldof",
+                  "text": "Could be better."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How's life in Etceteria?"
+                },
+                {
+                  "speaker": "Moldof",
+                  "text": "*sigh* Times are tough."
+                },
+                {
+                  "speaker": "Moldof",
+                  "text": "Though they're getting better."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it like being an Etceterian?"
+                },
+                {
+                  "speaker": "Moldof",
+                  "text": "Fairly pleasant, though it gets cold in the winter."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nice town you have here."
+                },
+                {
+                  "speaker": "Moldof",
+                  "text": "Thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me..."
+                },
+                {
+                  "speaker": "Matilda",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Matilda",
+                  "text": "Thank you for finding my hat for me. Did you find everyone's belongings?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I did! Thank you for the reward."
+                },
+                {
+                  "speaker": "Matilda",
+                  "text": "You're more than welcome to it, for getting our belongings back."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Right-click Check-Approval",
+      "sections": [
+        {
+          "title": "Before Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me how the kingdom approves of me?"
+                },
+                {
+                  "speaker": "Matilda",
+                  "text": "Kingdom? Etceteria is ruled by a Queen and we don't approve of you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me how the kingdom approves of me?"
+                },
+                {
+                  "speaker": "Matilda",
+                  "text": "[amount]% of people approve of you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "If the storerooms are full",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Matilda",
+              "text": "The storerooms are full, your Highness. You should talk to Advisor Ghrim to collect what we've gathered for you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

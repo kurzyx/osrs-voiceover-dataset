@@ -1,0 +1,63 @@
+{
+  "ref": "rat-burgiss",
+  "categoryRef": "npc",
+  "title": "Rat Burgiss",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there!"
+            },
+            {
+              "speaker": "Rat Burgiss",
+              "text": "Oh, hello. I'd love to chat right now, but I'm a bit busy. Perhaps you could come back and chat another time?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Of course. Sorry to bother you!"
+            },
+            {
+              "speaker": "Rat Burgiss",
+              "text": "Not at all! Farewell!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue on free-to-play worlds",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello!"
+            },
+            {
+              "speaker": "Rat Burgiss",
+              "text": "Oh, hello. I'd love to chat right now, but I'm a bit busy. Perhaps you could come back and chat another time?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Of course. Sorry to bother you!"
+            },
+            {
+              "speaker": "Rat Burgiss",
+              "text": "No problem! Say, have you been to see the Wizards' Tower in the south yet? It's an amazing sight! You should go and see it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks! I will!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

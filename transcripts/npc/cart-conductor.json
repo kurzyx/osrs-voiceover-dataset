@@ -1,0 +1,940 @@
+{
+  "ref": "cart-conductor",
+  "categoryRef": "npc",
+  "title": "Cart conductor",
+  "sections": [
+    {
+      "title": "Variant 1",
+      "sections": [
+        {
+          "title": "Standard dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Yes [sir/m'am]? Can I help you at all?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "You're in the main waiting area of Keldagrim Carts- station."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Cart-station? What goes on here then?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Keldagrim is the hub of all the traffic of the dwarven realm. Almost every dwarven outpost has railtracks leading to Keldagrim, connecting them all for easy travel and transportation of goods."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Amazing! And what powers the carts? Magic?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Oh, no no, we dwarves don't use magic. No, all of this is powered by steam engines, developed during the past few centuries after the Consortium came to power."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the info."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can you take me?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Let's see, we could let you travel to Ice Mountain, or to the Grand Exchange."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I could also let you go to White Wolf Mountain, since you've befriended our brothers there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "And where would you like to go?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to the Grand Exchange."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Oh, that service is free. Just hop on a cart on Track 3, and away you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to Ice Mountain."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That'll be 150 gold coins please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Thanks, carts to Ice Mountain depart from track 1."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I changed my mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "You're alright, I suppose... I can let you go for 75 coins. And remember, carts to Ice Mountain depart from track 1."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That'll be 100 gold coins please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Thanks. Go to track 4 for carts heading to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I changed my mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "You're a decent human, I suppose... I can let you go for 50 coins. Go to track 4 for the carts heading to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have to go."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Just remember, wherever you go, you go there faster through Keldagrim Carts."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tickets",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That service is free. Just hop on a cart on Track 3, and away you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tickets (Ring of charos(a) equipped)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Variant 2",
+      "sections": [
+        {
+          "title": "Standard dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Anything I can help you with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "This is the Keldagrim Carts-station, human."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Cart-station? What goes on here then?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Keldagrim is the hub of all the traffic of the dwarven realm. Almost every dwarven outpost has railtracks leading to Keldagrim, connecting them all for easy travel and transportation of goods."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Amazing! And what powers the carts? Magic?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Oh, no no, we dwarves don't use magic. No, all of this is powered by steam engines, developed during the past few centuries after the Consortium came to power."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the info."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Let's see, we could let you travel to Ice Mountain, or to the Grand Exchange."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I could also let you go to White Wolf Mountain, since you've befriended our brothers there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "And where would you like to go?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to the Grand Exchange."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Oh, that service is free. Just hop on a cart on Track 3, and away you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to Ice Mountain."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That'll be 150 gold coins please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Thanks, carts to Ice Mountain depart from track 1."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I changed my mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "You're alright, I suppose... I can let you go for 75 coins. And remember, carts to Ice Mountain depart from track 1."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That'll be 100 gold coins please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Thanks. Go to track 4 for carts heading to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I changed my mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "You're a decent human, I suppose... I can let you go for 50 coins. Go to track 4 for the carts heading to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have to go."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Just remember, wherever you go, you go there faster through Keldagrim Carts."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tickets",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That service is free. Just hop on a cart on Track 3, and away you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tickets (Ring of charos(a) equipped)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Variant 3",
+      "sections": [
+        {
+          "title": "Standard dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Out of the way human!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why, what's happening?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "There's important traffic coming through here and I don't want any stray humans distracting me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Variant 4",
+      "sections": [
+        {
+          "title": "Standard dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Tickets, tickets, get your tickets here!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "This is the Keldagrim Carts-station, human."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Cart-station? What goes on here then?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Keldagrim is the hub of all the traffic of the dwarven realm. Almost every dwarven outpost has railtracks leading to Keldagrim, connecting them all for easy travel and transportation of goods."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Amazing! And what powers the carts? Magic?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Oh, no no, we dwarves don't use magic. No, all of this is powered by steam engines, developed during the past few centuries after the Consortium came to power."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the info."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Let's see, we could let you travel to Ice Mountain, or to the Grand Exchange."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I could also let you go to White Wolf Mountain, since you've befriended our brothers there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "And where would you like to go?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to the Grand Exchange."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Oh, that service is free. Just hop on a cart on Track 3, and away you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to Ice Mountain."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That'll be 150 gold coins please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Thanks, carts to Ice Mountain depart from track 1."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I changed my mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "You're alright, I suppose... I can let you go for 75 coins. And remember, carts to Ice Mountain depart from track 1."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That'll be 100 gold coins please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Thanks. Go to track 4 for carts heading to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I changed my mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "You're a decent human, I suppose... I can let you go for 50 coins. Go to track 4 for the carts heading to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have to go."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Just remember, wherever you go, you go there faster through Keldagrim Carts."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tickets",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That service is free. Just hop on a cart on Track 3, and away you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tickets (Ring of charos(a) equipped)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Variant 5",
+      "sections": [
+        {
+          "title": "Standard dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Wot you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Can't you see I'm 'aving a lil' break?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Now that you mention it, yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can you take me?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Can't you see I'm 'aving a lil' break?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Now that you mention it, yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Can't you see I'm 'aving a lil' break?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Now that you mention it, yes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have to go."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Then why did ya waste my time?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Variant 6",
+      "sections": [
+        {
+          "title": "Standard dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "This is the Keldagrim Carts-station, human."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Cart-station? What goes on here then?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Keldagrim is the hub of all the traffic of the dwarven realm. Almost every dwarven outpost has railtracks leading to Keldagrim, connecting them all for easy travel and transportation of goods."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Amazing! And what powers the carts? Magic?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Oh, no no, we dwarves don't use magic. No, all of this is powered by steam engines, developed during the past few centuries after the Consortium came to power."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the info."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can you take me?"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Let's see, we could let you travel to Ice Mountain, or to the Grand Exchange."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I could also let you go to White Wolf Mountain, since you've befriended our brothers there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "And where would you like to go?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to the Grand Exchange."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Oh, that service is free. Just hop on a cart on Track 3, and away you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to Ice Mountain."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That'll be 150 gold coins please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Thanks, carts to Ice Mountain depart from track 1."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I changed my mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "You're alright, I suppose... I can let you go for 75 coins. And remember, carts to Ice Mountain depart from track 1."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a ticket to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That'll be 100 gold coins please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Thanks. Go to track 4 for carts heading to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, I changed my mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "You're a decent human, I suppose... I can let you go for 50 coins. Go to track 4 for the carts heading to White Wolf Mountain."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have to go."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Just remember, wherever you go, you go there faster through Keldagrim Carts."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tickets",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "That service is free. Just hop on a cart on Track 3, and away you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, I've run out of money."
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "I'm sorry, [sir/madam], but I don't believe you can hold the ticket."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tickets (Ring of charos(a) equipped)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Inspecting the trapdoor at the Grand Exchange",
+      "sections": [
+        {
+          "title": "Inspecting the trapdoor at the Grand Exchange with a follower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Ahoy up there! You'd better pick up your follower before you come down here and ride the minecart."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cart conductor",
+              "text": "Ahoy up there! Would you like to ride our minecart to Keldagrim? It's free."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Riding a train cart at the front of the queue with a ticket and follower",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cart conductor",
+              "text": "Watch out, [sir/madam]! Don't want anything to run over your follower!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Keldagrim ticket vendor",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Tickets! Tickets!"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Buy your tickets here!"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Selling tickets!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Keldagrim announcer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Ice Mountain carts departing from Track 1!"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Grand Exchange carts departing from Track 3!"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "White Wolf Mountain carts departing from Track 4!"
+                },
+                {
+                  "speaker": "Cart conductor",
+                  "text": "Mind the cart!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

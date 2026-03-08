@@ -1,0 +1,50 @@
+{
+  "ref": "annette",
+  "categoryRef": "npc",
+  "title": "Annette",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Annette",
+              "text": "Can I help you with drift net storage, human?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do?"
+            },
+            {
+              "speaker": "Annette",
+              "text": "My aunt lets people come in here to catch the fish. Sometimes they have trouble carrying enough stuff, so I help by holding onto spare drift nets for them."
+            },
+            {
+              "speaker": "Annette",
+              "text": "It's a free service to help more of you humans use Ceto's cave; she's paying me, so you don't have to. So can I help you with your drift nets?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Nets option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

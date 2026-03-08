@@ -1,0 +1,265 @@
+{
+  "ref": "gnome-inspector",
+  "categoryRef": "npc",
+  "title": "Gnome inspector",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting the game",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Who have we got here...?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "H... Hello."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "So you think you're good enough to win this game, eh?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm counting on it."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "We shall see about that!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So how does this game work?"
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "The aim of the game is to reach 250 points as fast as you can."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "To earn points you simply have to put the gingerbread in your hopper."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Of course, there's a catch. Each gingerbread has different qualities, thus different point values. I'll let you figure out which one is best."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Here's a hint: don't put any red and crumbled gingerbread into your hopper. It will give you negative points."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "You can be cheeky and put those inside other competitor's hoppers, as a saboteur."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "I expect only the highest quality of gingerbread in my establishment."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Keep one eye on the other players as they might try to slow you down."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I want to have a look around first."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "I'll be waiting!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the player is given bad gingerbread",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Be careful, you've got some awful gingerbread with you... I wouldn't put them in your hopper, maybe another player's?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the player completes the second game",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "You must now answer the hardest riddle known to gnomekind, in order to proceed to the final!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm ready."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "I am tall when I am young, and I am short when I am old."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A Gnome?"
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Well yes, I am a gnome, but the riddle wasn't about me!"
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Gosh what I wouldn't give to be tall when I was young."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Have another go."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "That's not quite right, have another go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A Human! Ha, I've got it."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Sadly not correct [player name]."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "You seem very old, you've been round here a while. You're not shorter than me though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, that's not hard."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Don't be cheeky [player name]! Now quickly solve this riddle."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A candle?"
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "That's correct!"
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Good luck in the final [player name]. You're going to need it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing the event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "How's it going [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm pine thanks, I still have crumbs in places I didn't know I had."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Icy what you did there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you enjoy it here?"
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Absolutely, I've had some of the best times in my life doing all this quality control."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "I wouldn't be the gnome I am today without it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That sounds lovely."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what's your story?"
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Good question, where do I begin..."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "I used to be a Head Chef at the Tree Gnome Stronghold."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh yeah?"
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "I was the best of the best."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "WHERE'S THE FROG SAUCE! I used to shout."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "Great times."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Then you ended up in Santa's Nutcracker Pub?"
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "You know it. Apparently Santa was getting complaints about the quality of his gingerbread gnomes."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "So he asked me to step in. Free ticket onto his Nice List too."
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "I mean just look at this place. It's amazing!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It is indeed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Happy Holidays!"
+                },
+                {
+                  "speaker": "Gnome inspector",
+                  "text": "You too [player name]."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ref": "silk-merchant-civitas-illa-fortis-",
+  "categoryRef": "npc",
+  "title": "Silk Merchant (Civitas illa Fortis)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has recently stolen from their stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Silk Merchant",
+                  "text": "You're the one who stole from me! Guards! Guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Silk Merchant",
+              "text": "Nilsal. Looking to buy some fine silks?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Silk Merchant",
+              "text": "You're missing out, but suit yourself."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

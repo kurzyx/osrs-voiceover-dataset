@@ -1,0 +1,2920 @@
+{
+  "ref": "the-slug-menace",
+  "categoryRef": "quest",
+  "title": "The Slug Menace",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "Talking to Sir Tiffy Cashien without the requirements",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Jolly good show on getting into the White Knights, what?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Now how can I help you old [boy/gal/bean]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay... So when can I start doing missions for the Temple Knights, and get some better Temple Knight armour and weapons and stuff?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Well, I may have a mission for you, but it seems you are not quite ready for it yet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sir Tiffy Cashien to start the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Jolly good show on getting into the White Knights, what?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Now how can I help you young [fellow/mistress]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay... So when can I start doing missions for the Temple Knights, and get some better Temple Knight armour and weapons and stuff?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Well, now that you are a White Knight we can process your application form correctly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And how long will that take?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Already done, old bean! The scales of justice never sleep."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh, right."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "So then, dear gal; with that in mind, we have a mission for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Really? Great! Am I to be flung to some far off and exotic land to defeat some evil genius?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "What? Ah, no actually. We're sending you to Ardougne."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ardougne?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Hmm, what's happening in Ardougne?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know, you were about to tell me."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "No, no, no, nothing happening in Ardougne. However, there is something going on in Witchaven to the south-east of Ardougne."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you sure? I mean, you're not a little... senile, maybe?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Haw, Haw, Haw, very funny old bean. I need you to report to Col O'Niall in Witchaven. He's a retired Temple Knight, but his clearance is still active. He will be able to fill you in."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Remember to use the Temple Knight code phrase: 'In Falador, the geese fly backwards on Tuesdays'."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You know, I'm still not sure this isn't some giant wind up."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Nonsense, my [man/gal], we take our work very seriously. The fate of the world rests in our hands, don't you know."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Hmm, you'll need to get your CommOrb before I send you off old bean."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Oh, before you go, I just need to update your CommOrb with the new mission parameters."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Now, is there anything else I can do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, but I'm not interested."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "As you wish, old bean. Do let me know if you reconsider."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sir Tiffy Cashien after losing the commorb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey Tiffy, I lost my CommOrb..."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Free up some inventory space first, what?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Very careless of you, what? Here, take another, but be careful of this one!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sir Tiffy Cashien after starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Jolly good show on getting into the White Knights, what?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Now how can I help you young [fellow/mistress]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hey, Sir Tiffy."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Greetings, [player name]. Anything to report?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, sir, but I'm working on it."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Good show! That's the spirit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Contact with commorb v2",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, Savant! Good to speak to you again!"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "[player name], I am so glad you've been assigned this mission."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Me too. So, do you have anything you can tell me?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Only what is already available through your CommOrb I'm afraid. I'm currently collating a lot of other data pertaining to Witchaven. I'll keep you updated if anything turns up."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks Savant. I know I can count on you."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Savant out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Playback with commorb v2",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Witchaven",
+      "sections": [
+        {
+          "title": "Talking to Mayor Hobb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Well hello there; welcome to our little village. Pray, stay awhile."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Brother Maledict",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "The blessings of Saradomin be with you child."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Col. O'Niall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me sir, would you be Col. O'Niall?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "I might. Who's asking?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "[player name], sir. Sir Tiffy Cashien sent me."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "And?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Umm... In Falador the geese fly backwards on Tuesdays?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "What? Are you mad [boy/girl]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uhh. I thought it was a Temple Knight, secret code phrase."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "I see Sir Tiffy still has his fun with the Initiates. Sigh, I asked for a Knight and I get a whelp."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Whelp? I am a full member of the Temple Knights, sir!"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Like I said, a whelp. And don't 'Sir' me [boy/girl], I work for a living."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right sir, I mean Colonel."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Jake will do fine [boy/girl]."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Now what do you want to know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the mission?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Well, I started to notice something about three weeks ago."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "The Mayor called a meeting of the town council. Nothing too strange about that, in and of itself."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "He was acting a bit strange, like he'd taken a blow to the head or something. At the end of the meeting he announces that he's going to be renovating the shrine just west of the town."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Now, I thought that was a bit off since he's about as religious as a dead dog on a termite mound."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Eeew!"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Quiet down, I'm talking here."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "I could have let that slip, save for the things he's been bringing in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What, like surface to air ballistas, intercontinental exploding fireballs and quasi-futuristic henchman uniforms?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The essential tools for world domination?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "No, mining equipment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That doesn't sound very evil?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "As well as the mining equipment, he's been bringing in rune essence in large quantities."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Far beyond what's needed for a small village such as this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, that sounds suspicious. I'll look into it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anything else?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Yes, some of the villagers have been disappearing overnight and reappearing the next day in a dazed and confused state."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you sure they're not just getting drunk?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "They could be I suppose, but I'd rather you made sure."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure thing."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Anything else you need to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Witchaven."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Well, what's to say. This place is falling apart."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I noticed it's a bit run down."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Run down? Hah! This place used to be a bustling hive of industry."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened to it?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "The Fishing Platform happened to it."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "When you introduce a large scale operation like the Fishing Platform, it takes away the business from the little guy."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Almost overnight Witchaven became a ghost town."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's very sad. However, you can't stand in the way of progress."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "I'm going to pretend you didn't say that girl."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Remember, bigger is not always better."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are the important people in Witchaven?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Hmm. There are only three people I recommend speaking to."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, who would that be?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Firstly go speak to Mayor Hobb. He was the first to be acting strangely."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "As well as that, he isn't looking too healthy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Speak to the Mayor, check."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Next, speak to Brother Maledict at the church."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "He speaks to a lot of the villagers and has a good feel for what's going on in town."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Brother Maledict, right."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Finally, speak to Holgart the fisherman. I haven't seen him sailing in a while. That is definitely a bit off."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Holgart, oh yes I've spoken to him before."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "That covers about everyone, but don't just limit yourself to those three. Others may have some insight into what's been happening."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will do Col. O'Niall. Thanks for the advice."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's enough for now."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Stay sharp [boy/girl]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Col. O'Niall before getting all the information",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me Col. O'Niall. I need some more information."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "What do you want to know?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jeb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jeb",
+                  "text": "You are not part of us. Leave us alone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Holgart",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again, Holgart."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Well, hello again m'hearty. How're yer fare?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Busy as always. Is everything okay?"
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "'Fraid not [lad/lass]. I've been washed up and left to dry."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Pardon?"
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Scuppered I am, keelhauled and bottomed out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "I'm destitute. I can sail no more."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh my, that's terrible! What happened?"
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "About two weeks ago, I was hauled up in front of the Mayor and he tells me I've broken his new 'Articles of sailing'."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "He tells me that under his new laws my boat is forfeit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He took your boat?"
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Aye. The Mayor has given it to Jeb Wormwood. He is running the boat to the Fishing Platform now."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Speaking of which, since you were last there it's got a might bit stranger. You really should take a look."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll do that Holgart. I hope you get your boat back soon."
+                },
+                {
+                  "speaker": "Holgart",
+                  "text": "Aye. Fare thee well."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Holgart again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Holgart",
+                  "text": "I don't know what to do without my boat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jeb after Holgart says to ask him about a boat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I understand you can take me to the Fishing Platform."
+                },
+                {
+                  "speaker": "Jeb",
+                  "text": "Yes, we can do that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Will you take me please?"
+                },
+                {
+                  "speaker": "Jeb",
+                  "text": "Board the boat and we shall depart."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bailey at the Fishing platform",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Bailey."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Well, hello again, [player name]. What brings you back out here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just looking around."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Are you insane? Have you seen what's happening out there?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You mean the sickly looking lobsters?"
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Yes the mutant lobsters! I swear at any minute they are going to break down the door and attack me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They seem fairly peaceful so far."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Well, true, but you can't be too careful."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "When did they start appearing?"
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Not long after you rescued Kennith."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "They get hauled out of the sea as ordinary giant lobsters, the fishermen hit them with a mallet then a Sea Slug jumps into the crack."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "After a while they turn green, before jumping back into the sea and swimming off towards the mainland."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This sounds very serious. Hmm, I'd best get back to the mainland and see where these lobsters are heading."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Please be quick, I can't leave whilst those things are out there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jeb at the Fishing platform",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, Jeb."
+                },
+                {
+                  "speaker": "Jeb",
+                  "text": "Business here is complete. Do you wish to return to the dry land?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I'm going to stay a while."
+                },
+                {
+                  "speaker": "Jeb",
+                  "text": "Then stay if that is your wish."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, let's go back."
+                },
+                {
+                  "speaker": "Jeb",
+                  "text": "Then board the rowing boat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Brother Maledict",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day to you, sir."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "And a good day to you my [son/daughter]."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "I am Brother Maledict, at your service."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "[player name], at yours. How are you?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Well, to be perfectly honest with you, I am a little concerned."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Really, what's up?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "It's my congregation. They seem to be drifting away from me."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "With all the hardships this small village has endured in the past few years, the people of Witchaven have never needed the solace of Saradomin more."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well that's understandable."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Yes indeed. However, less and less people have been attending my services lately."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can see why that would worry you. Do you have any idea why they would not attend?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "The only thing I can think of, is that the Mayor has asked them to help improve the shrine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, that would make sense. Hmm, one more thing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me again, what's worrying you?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "It's my congregation. They seem to be drifting away from me."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "With all the hardships this small village has endured in the past few years, the people of Witchaven have never needed the solace of Saradomin more."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well that's understandable."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Yes indeed. However, less and less people have been attending my services lately."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can see why that would worry you. Do you have any idea why they would not attend?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "The only thing I can think of, is that the Mayor has asked them to help improve the shrine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, that would make sense. Hmm, one more thing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can you tell me about the shrine?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Ah yes, one of the wonders of Witchaven. That particular shrine has existed since before Witchaven was even founded."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow! Now that is old."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Over one hundred and fifty years old in fact."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "The role I now fulfill was originally given to one of the Temple Guardians, but in time that has been delegated to one of the ordained, such as myself."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "The shrine was abandoned when the village came into being. Since then it has fallen into disrepair and other less savoury elements have moved in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You must be pleased that the Mayor is renovating the shrine."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Well yes, it came as something of a pleasant shock. I only hope he will let me visit it soon."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "He wants me to wait until it's ready to unveil."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Anything else I can help you with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about the people of Witchaven."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Ah, the people of Witchaven are the salt of the earth. Hardworking and very generous. Well, usually that is."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not anymore?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Oh, most of them certainly. It's just that something has changed over the past few weeks."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "It's nothing I can put my finger on. My flock aren't exactly unfriendly anymore, just different."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How so?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Well, they used to be very rigorous in attending my services. Now they seem almost apathetic."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "They wander around the village in a listless state, everyone except the Mayor that is."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Since the opening of the Fishing Platform he was a man beset by worries. The only thing that occupied his mind was how to rescue his village from financial collapse."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Ordinarily, I would welcome his new found drive and energy, especially as it is directed towards renovating the shrine"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "I'm not sure but something about him has me worried."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Perhaps he thinks the shrine could bring new interest to the village?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Perhaps. Maybe I'm being a little paranoid. I'll give it some thought."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "In the meantime, is there anything else I can help you with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's enough for now."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Peace be with you child."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Brother Maledict again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day to you, Brother Maledict."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "And a good day to you again, [player name]. How can I help?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mayor Hobb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Well hello there; welcome to our little village. Pray, stay a while."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good day to you. Would you be the Mayor?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Indeed. Mayor Eustace Hobb, in fact. Do you like our home?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's certainly very quiet."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Yes, quiet and undisturbed. Just how we like it."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Tell me, what brings you to Witchaven?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm here to relax."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "That's good, yes, that's good. Witchaven is a nice quiet village - very relaxing, good fishing."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you alright? You seem a little, hazy."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "It's nothing, I'm just a little tired at the moment. So much work, so much to do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Really, what are you working on?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "To the West, the shrine needs... work, yes work. Things must be made better."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, um. Yes. Indeed. I'm sure Saradomin would be pleased."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Saradomin... Why are you really here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Like I said, I'm here to..."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Are you sure that's the only reason you are here, [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I'm also here to visit a friend, Jake O'Niall."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Ahh, then this all makes sense. Yes, this is very good."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err, how did you know my name?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "You told me when you came in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, no I didn't."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "It does not matter. One of my... villagers, must have mentioned that you are here."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Is there anything else you need to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can you tell me about Witchaven?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "The land has seen much sorrow, much loss."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you talking about the Fishing Platform?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Fishing Platform? Oh yes, that. No. The platform will do much for this place."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "The platform heralds a new beginning for Witchaven, undreamed of by those who built it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I thought it took away all the trade?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "This is true, but it has brought us so much more in return, so much more."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm, and I thought the village hated the Fishing Platform."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "It was... a necessary step."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Is there anything else you need to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What improvements are you making to the shrine?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Ahh, the shrine - the future, our destiny, our heritage."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How so?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "That which the shrine holds can unlock a new path for all the village of Witchaven. And in time the whole of Gielinor."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow, the whole of Gielinor? I thought it was just some old shrine to Saradomin."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "The history of that shrine should not be overlooked. It is ancient beyond your knowledge and much that shaped our history is contained within its walls."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds like a very interesting place. I may have to take a look."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "There is much to be done before it is opened."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So it's not completed yet?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "When you are ready, it may be that you will be unable to keep yourself away."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You know, you really are a strange person."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Is there anything else you need to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know you look very ill?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Ill? No, merely tired."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But you've turned a slightly sickly colour."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "A touch of food poisoning perhaps."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "This has been known to turn the face and give the impression of severe illness."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've seen food poisoning. People normally don't look like... that."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Time is all that is needed. Yes, time to... get better."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I hope you get better soon."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Soon, all will be well again. Have no fear."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Is there anything else you need to know?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing at the moment thanks."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Then please feel free to stay in our village a while longer. Farewell."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mayor Hobb again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Hello again, [player name]."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Is there anything else you need to know?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Col. O'Niall after talking to Mayor Hobb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "So [boy/girl], what have you learned?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Something is definitely very wrong here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Mayor Hobb has confiscated Holgart's boat and given it to someone else."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "As well as this, there's something very... fishy about him."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Hmm, fishy you say. Anything else?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, Brother Maledict is worried that his congregation is being led astray."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Did he say anything more?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The shrine to the west of the village has been consecrated to Saradomin for centuries."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "However, last time he was there, there was a very definite unpleasant feeling in the air."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Sounds like this shrine needs a thorough investigation."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "I recommend taking a good look down there - see if anything is amiss."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was thinking the same thing. I'll get right on it."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Anything else I can do for you?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The shrine",
+      "sections": [
+        {
+          "title": "Attempting to push the wall before talking about the shrine",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Pushing the wall without the commorb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'd better carry my CommOrb so that Savant can see what's in there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the open wall without the commorb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'd better carry my CommOrb so that Savant can see what's in there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Contacting commorb before scanning the shrine",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Savant",
+                  "text": "Hello, [player name]. What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing thanks Savant. I was just checking this thing still worked!"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "You shouldn't really waste my time like this, [player name]..."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Still, no harm done I guess! Call me if you need me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay Savant, will do."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Savant out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Scanning the commorb in the wrong place",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Scanning the commorb while in combat",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Scanning the commorb near the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Savant",
+                  "text": "[player name], hang on a second."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the problem?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "The markings on that door look familiar. Can you take a scan for me please?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll get right on it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Approaching door without commorb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Savant needs to see this. I better get my Comm Orb."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Scanning commorb near the door",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Savant",
+                  "text": "I thought so. Those glyphs look similar to some ancient Saradomin runes I studied at the academy."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Hmm, I know a man who can translate them for us, just be careful as he's not a member of the Knights."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um... So how am I supposed to show him the glyphs?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Empty some space out of your pack and use the CommOrb to get a transcription of the glyphs."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "I have added a transcript of the runes into your pack."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "The man you need to see is called Jorral. You can find him in his tower north-west of Ardougne."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fantastic - I'll get right on it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Contacting the commorb after scanning the doors",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey Savant?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Yes, [player name]?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What did you think of those doors? Spooky hey?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Very, though I can't shake the feeling that I've seen something like that before."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "They did look really out of place. I wonder who put them there?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "The answer is probably contained within those strange glyphs."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I only hope that Jorral can translate them."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "He has a very good track record in translation of ancient runes."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Although, to be fair he does tend to get a bit obsessive at times."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the warning Savant."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Speak to you soon."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Savant out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Contacting commorb after losing door transcription",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The pages",
+      "sections": [
+        {
+          "title": "Talking to Jorral",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Excuse me?"
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Yes, can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I understand that you are something of a historian?"
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Hah! I am the foremost historian in the world."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, I was wondering if you could translate something for me please?"
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Possibly, I am very busy you see and my services don't come cheap."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm, how much are we talking?"
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Well, I am very busy, but I could fit you in sometime next month."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That was a bit longer than I was willing to wait. Can't you fit me in anytime sooner?"
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "I'm afraid not. You see, I have this ongoing series of texts that need to be catalogued as soon as possible."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Psst, [player name]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Savant?"
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Drat, I was hoping he wouldn't notice."
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Excuse me, but are you talking to your backpack?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um, no. (whispers) Savant, help."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Uh. Tell him that you're working for a wizard who's sending you telepathic instructions."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I, err, am working for a wizard who is giving me telepathic instructions."
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Riiiight. Okay. What does this err, voice, want you to do?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "We have a front company who's keeping Jorral on retainer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "We have a..."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "No! Hang on, I wasn't finished."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry."
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Pardon?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not you."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Can I finish now? Anyway, tell him you are working for Petmel Books."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Apparently, I'm working for Petmel Books and this document is from them."
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Oh, right! That explains the mild insanity. No problem; hand over the document and I'll have a look"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um, I don't appear to have it on me."
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Well, run along and fetch it then."
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Hmm. Interesting, very interesting."
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "It's an early variation on a script used by the priests of Saradomin a long time ago."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What does it say?"
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Look, you can see how the sentence structure and grammar evolved from the..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, yes I'm sure it's very interesting but what does it say?"
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Hmph. It seems this text pertains to a great battle between the temple of Saradomin and something called the Mahey'ish Medron."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The Mavis Merton?"
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Mahey'sh Medron. I think it's a corruption of an even earlier language and actually refers to something called Mother Mallum."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And?"
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Well, there isn't a whole lot more. They managed to trap the Mother Mallum behind a mystical prison where she was to wait for all time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, thanks for that. You have been a great help."
+                },
+                {
+                  "speaker": "Jorral",
+                  "text": "Any time. I recommend a doctor for those voices, though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh, right. Goodbye."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After talking to Jorral",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Savant",
+                  "text": "[player name], come in. This is Savant."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fantastic, I'm here Savant."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "That was the final piece of the puzzle I needed."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "I've cross-referenced the name Mahey'ish Medron with some other texts and been able to piece together some of the history."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Finally, some solid information."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Indeed. It seems this isn't the first time the Temple Knights have run across this Mother Mallum character."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Now, why doesn't that surprise me?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Yes, it seems that centuries ago we discovered that a great evil had taken control of some of the most influential people in the world."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "That great evil was the Mother Mallum."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what happened?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Well, it took the few remaining uncorrupted knights all their wit and strength to devise a method of removing sea slug possession."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, that means we can free those poor people who have already fallen."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Once freed, the Temple Knights pursued a great crusade to destroy the Mother Mallum. Unfortunately, she was too powerful and the best they could do was to trap her inside a mystical prison."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It looks like she's breaking free of that prison."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Right, the best thing we can do then is to repair or reenforce it before she escapes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did your research reveal how she was trapped in the first place?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "No, I hit a brick wall after that. We had a dragon crash land on our headquarters a few years ago and the resulting fire destroyed a lot of our records."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Drat, that complicates things."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "I think the best thing you can do is take a look around Witchaven, speak to some of the locals and see if there are any clues to be found."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Righty ho. I'll get to it. Thanks Savant."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Don't mention it, [player name]."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Savant out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Contacting the commorb after learning about Mother Mallum",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So, Savant. Can you tell me about the Mother Mallum again please?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Sure thing, [player name]."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Well, this isn't the first time the Temple Knights have encountered the Mother Mallum."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Centuries ago we discovered that a great evil had taken control of some of the most influential people in the world."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "That great evil was the Mother Mallum."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "It took the few remaining uncorrupted knights all their wit and strength to devise a method of removing sea slug possession."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Now the best thing we could to is to repair or reinforce it before she escapes."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for the reminder Savant."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Don't mention it, [player name]."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Savant out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Col. O'Niall after learning abotu Mother Mallum",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Col. O'Niall, this is worse than we thought."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "I doubt that, but go on."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There is something trapped under the town of Witchaven."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Something the Temple Knights fought in ages past."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Something ancient and very, very evil."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "That's an awful big something girl."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Care to be more specific?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's called the Mother Mallum and may have some connection to the sea slugs."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Hmm, it can't be a coincidence that the Mayor is 'renovating' the shrine. He must be preparing to break the Mother Mallum free."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I agree, but what can we do about it?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Hmm, it might be worth speaking to that priest of Saradomin."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "See if he's got any more light to shed on this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course! The temple of Saradomin has had a shrine here for centuries. I'll get right on it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's enough for now."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Stay sharp [boy/girl]."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Col. O'Niall again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Anything new to report?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet, but I was wondering if I could ask you some more questions?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Maledict after learning about Mother Mallum",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So Maledict."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": ". . . . ."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh, Maledict."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Hmm. Oh, yes. We are Maledict."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you feeling alright?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "It's nothing, just a little tired at the moment. So much work, so much to do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That sounds hauntingly familiar."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Was there something you wanted?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wanted to ask you something about the Shrine to Saradomin."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I have discovered a hidden passageway leading to a huge pair of double doors."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "And?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And I thought you might know something about what is behind them."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Ahh. Right. No."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean, no?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Most of the history of the shrine is contained within the holy book of Saradomin. We have yet to read that portion of the text."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great! Can I have a look please?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "No."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Again with this no business. Why not?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Because the three pages pertaining to the shrine's history have been stolen."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah, right, sorry. Would you like me to find them for you?"
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "It is imperative that you find them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll get right on it."
+                },
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "Peace be with you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Brother Maledict again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Brother Maledict",
+                  "text": "The joys of family are not to be underestimated child."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening Maledict's desk",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ezekial Lovecraft after Brother Maledict asks about the pages",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Hello again, [player name]. How are things?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Frustrating, to be honest."
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Sorry to hear that."
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Is there any way I can help?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I'm not sure. Brother Maledict has asked me to find some pages that were torn out of his holy book."
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "What, like this?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, just like that, but I can't seem to find..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": ". . . ."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where on Gielinor did you get that?"
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Someone pushed it under my door just before you arrived. I went outside to see who it was but they'd already gone by the time I got there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Strange. Do you mind if I take that?"
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Sure, but I don't think you have enough space in your pack to hold it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hang on, I'll just make some room."
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Sure, here you go."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks very much."
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Glad I could be of service. Anything else you need?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You know, you sound just like the mayor?"
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Really? That's the nicest thing anyone has ever said."
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "I admire him a great deal. He works so hard for this town."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You look like him as well?"
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Hmm, I don't think I do."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No really, what with the unhealthy skin tone and bulging eyes. The resemblance is uncanny."
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Well, I haven't spoken to him in a while. I don't get out much."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can see why."
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Maybe the Mayor has finally seen how much I admire him and has grown to admire me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Anything's possible I suppose. Wait a minute, you mean you've always looked that odd?"
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Hey, I resent that!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry, it's just... Nevermind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You are a bit too strange for me. Bye."
+                },
+                {
+                  "speaker": "Ezekial Lovecraft",
+                  "text": "Sniff. Yes, everyone says that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Col. O'Niall while looking for the final page",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "[player name], there you are."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Jake, I hope you can help me out here."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Perhaps. What is it that you need?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I... Hang on a moment, you're looking a bit sickly."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh no. They got to you too, didn't they?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Are you sure this is not some elaborate deception on my part, to fool them?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I don't know, but how can I trust you?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Because you seek the last page of Maledict's holy book. It is right here for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That seems a tad convenient."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Perhaps, but at the end of the day it is what you need. Do you want it or not?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not so sure that this is a good idea, but yes, I'll take it."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Well, you'll need to free up space for three items in your backpack first."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, I'll do that now."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "It has been torn into three pieces. You will need to stick them back together before you can use them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, another complication I didn't need. I wonder if swamp paste will do the trick?"
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Don't mention it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using swamp paste on the pages",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Savant",
+                  "text": "[player name], stop!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? I'm only trying to glue these pages back together."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Please don't use oil-rich swamp paste on an ancient parchment. It'll ruin it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, how do I stick the pages back together?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Well, lucky for you, my preliminary sea slug analysis has just finished."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "It shows that if you render the slug down, it will form a very sticky glue that will dry clear."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "You will need to find someone who has years of experience in aquatic cooking or it could go horribly wrong."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No problem Savant. I'll snap to it right away."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Bailey after learning about the glue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bailey",
+                  "text": "Waaaaah!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Arrrgh!"
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Oh, sorry, [player name]. I thought you were one of those fishermen."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "N-No problem. It was just a surprise that's all."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Well, I am scared half to death out here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I have something that could help you out."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Really, great!"
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "What is it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I have a page that should give me the instructions on how to eliminate what could be the source of the sea slugs."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Then why haven't you used it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's been torn up into three pieces."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have it on good authority that you may be able to help me out by rendering a dead sea slug down for glue."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Well, you are in luck. I had been cooking a new batch of gumbo for my dinner. However, I've let it cook too long and it's become very thick and sticky."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "It should make the perfect base for your glue."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow! That was good timing wasn't it."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Uncanny really."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Do you have a dead sea slug I can use?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ah. Um. No, not at the moment."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Well, get back to me when you have."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, here you go."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Right, I'll get cooking."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Right, there you go."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "That should do the trick."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks very much. I'll get right to work on the parchment."
+                },
+                {
+                  "speaker": "Bailey",
+                  "text": "Good luck."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Crafting the runes",
+      "sections": [
+        {
+          "title": "Shaping a rune",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Failing to enchant a rune",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Enchanting the air rune",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Enchanting the earth rune",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Enchanting the fire rune",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Enchanting the mind rune",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Col. O'Niall after losing the commorb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Um Colonel, I lost my CommOrb..."
+                },
+                {
+                  "speaker": "Col. O'Niall",
+                  "text": "Very careless of you, what? Here, take another, but be careful with this one!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The imposing door",
+      "sections": [
+        {
+          "title": "Opening the door without the commorb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'd better carry my CommOrb so that Savant can see what's in there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening the door with the runes and commorb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Ah, so good of you to finally join us [player name]. To be honest, I never thought you'd make it this far."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? Mayor Hobb."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's going on?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Oh come now [player name]. Surely you are smart enough to know when you've been played for a fool?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ahh, the penny drops. You got me to do your dirty work for you."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Indeed. The enchantment placed upon this door by the Temple Knights prevented anyone not working in their interests from opening it."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "With your superb timing, our plans have been advanced quicker than even we could have anticipated."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And what are they? What are your plans?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "You'd really like to know? Well, it seems the least I can do for you after all your hard work."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Behold, the beauteous visage of our beloved Prince."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So this is the Mother Mallum?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Mwahahaha... Fool. No, this is not our Great Mother, though I sincerely wish you had the chance to gaze upon her."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Sadly for you, this will be the last thing you ever see."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Reentering the fight",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Behold, the beauteous visage of our beloved Prince."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So this is the Mother Mallum?"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Mwahahaha... Fool. No, this is not our Great Mother, though I sincerely wish you had the chance to gaze upon her."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After killing the slug prince",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "No! Do you realise what you have done?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes. I have destroyed one of the great evils infesting this world."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "You fool! Did you think it would be so easy? The Prince will be reborn in all his glory!"
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "Now you face the true wrath of the Mother Mallum!"
+                },
+                {
+                  "speaker": "Mother Mallum",
+                  "text": "Calm yourself, my child. We anticipated this eventuality. Go now and prepare the throne for our arrival."
+                },
+                {
+                  "speaker": "Mayor Hobb",
+                  "text": "By your command, my queen."
+                },
+                {
+                  "speaker": "Mother Mallum",
+                  "text": "So then, [player name], it is just us. What shall we do with you?"
+                },
+                {
+                  "speaker": "Mother Mallum",
+                  "text": "Your mind is like an open book to us. Your very essence laid bare before our sight."
+                },
+                {
+                  "speaker": "Mother Mallum",
+                  "text": "You have great potential, [player name]. We should destroy you now, lest you interfere with our plans further."
+                },
+                {
+                  "speaker": "Mother Mallum",
+                  "text": "Or we could take you whole and make you an extension of our will."
+                },
+                {
+                  "speaker": "Mother Mallum",
+                  "text": "After millennia, this husk is almost spent and requires replacement. Yes, you will make an excellent host."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never! I'll never serve you. I shall fight until my last breath before giving in."
+                },
+                {
+                  "speaker": "Mother Mallum",
+                  "text": "Yes, that's it, fight, fight with all your heart."
+                },
+                {
+                  "speaker": "Mother Mallum",
+                  "text": "It's always so much sweeter when they resist us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nooooooooo!"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "[player name], are you there? We've been having a few technical problems..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Savant! Help me, please, for the love of Saradomin!"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "By the gods! I'll get you out of there immediately! Initiating emergency teleport."
+                },
+                {
+                  "speaker": "Mother Mallum",
+                  "text": "Come with us, [player name]. Come and be with us for all eternity."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Savant!"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "She's blocking my magic! One second, I'll try something else."
+                },
+                {
+                  "speaker": "Mother Mallum",
+                  "text": "Ahh, [player name], it is useless to resist. Now we shall become as one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Savant, now would be a good time!"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Right, I think I've got it this time. Just one more second."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "[player name], are you there?"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "[player name], are you okay? Speak to me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Phew! Yes, Savant. That was too close for comfort."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "Thank Saradomin!"
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "I thought we'd lost you there for a moment."
+                },
+                {
+                  "speaker": "Savant",
+                  "text": "I think you'd better talk to Sir Tiffy about this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Indeed. I'll just get my breath back first."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Sir Tiffy Cashien after killing the slug prince",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Free up some inventory space first, what?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Jolly good show on getting into the White Knights, what?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Now how can I help you young [fellow/mistress]?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Greetings, [player name]. Anything to report?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sir Tiffy, it's all gone horribly wrong!"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Nonsense, dear gal, it can't be as bad as all that."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Why don't you relax a little and tell Sir Tiffy what's wrong, hmm?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The town of Witchaven has been overrun by mind controlling sea slugs!"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Hmm, go on."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, the Mayor of the town was first, then brother Maledict, and finally Colonel O'Niall."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Oh dear, that is a shame. Please go on."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, they tricked me into opening the prison that kept their Queen imprisoned."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Ahh, the Mother Mallum. Dear-oh-dear, this isn't good news at all."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, it isn't all bad. I did manage to kill the Prince."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Excellent! That should delay her plans somewhat. If she follows the same pattern as last time, the important figures of Gielinor will be her next targets."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That cannot be allowed to happen! What can we do about it?"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "I think we are going to have to increase our surveillance somewhat."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Seeing as you already have a familiarity with the sea slugs, I am going to place you personally in charge of this mission."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If you think I'm ready for it, Sir Tiffy."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Of course you are, my gal. Now you will need access to some of the more restricted resources of the Temple Knights."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "So, with immediate effect, I am promoting you within the Temple Knights. Congratulations!"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "I only wish it were under better circumstances."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow! I am honoured."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Tish, pashaw and nonsense. It's about time you were rewarded for your work."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Now, with this promotion comes some new responsibilities. In due time you will have access to the Temple Knight headquarters, but for now we need to collate our"
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "information and plan ahead."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Report back to me in a little while and I'll have some new tasks for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes sir, I'll keep my eyes open for any signs of sea slug infiltration."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Good lass. Oh and Colonel O'Niall has been placed on our disavowed list. He should be considered extremely dangerous and is to be killed on sight."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right, no problem. Well, I'll see you soon."
+                },
+                {
+                  "speaker": "Sir Tiffy Cashien",
+                  "text": "Ta ta, old bean."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "ref": "taxidermist",
+  "categoryRef": "npc",
+  "title": "Taxidermist",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Taxidermist",
+              "text": "Oh, hello. Have you got something you want preserving?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Taxidermist",
+              "text": "Give it to me to look at then."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not right now."
+            },
+            {
+              "speaker": "Taxidermist",
+              "text": "Well, you go kill things so I can stuff them, eh?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What?"
+            },
+            {
+              "speaker": "Taxidermist",
+              "text": "If you bring me a monster head or a very big fish, I can preserve it for you so you can mount it in your house."
+            },
+            {
+              "speaker": "Taxidermist",
+              "text": "I hear there are all sorts of exotic creatures in the Slayer Tower -- I'd like a chance to stuff one of them!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on her",
+      "sections": [
+        {
+          "title": "Anything other than the items below",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "Don't be silly, I can't preserve that!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Raw chicken",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "Killing a chicken is hardly worth boasting about!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Raw fish",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "That's a pretty ordinary fish, isn't it? Not really worth preserving."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You should have seen the one that got away!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Big bass",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "That's a mighty fine sea bass you've caught there."
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 1,000 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe another time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "There you go!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "All right, come back if you change your mind, eh?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Big swordfish",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "Don't point that thing at me!"
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 2,500 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Big harpoonfish",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "Goodness me! That thing's more of a weapon than a fish!"
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 3,500 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Big shark",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "That's quite a fearsome shark! You've done everyone a service by removing it from the sea!"
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 5,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giant blue krill",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 5,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Golden haddock",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 5,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Orangefin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 5,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Huge halibut",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 5,500 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Purplefin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 6,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Swift marlin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 6,500 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Crawling hand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "That's a very fine crawling hand."
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 1,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Cockatrice head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "A cockatrice! Beautiful, isn't it? Look at the plumage!"
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 2,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Basilisk head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "My, he's a scary-looking fellow, isn't he? He'll look good on your wall!"
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 4,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kurask head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "A kurask? Splendid! Look at those horns!"
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 6,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Abyssal head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "Goodness, an abyssal demon!"
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "See how it's still glowing? I'll have to use some magic to preserve that."
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 12,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kbd heads",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "Three?! This must be a King Black Dragon!"
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I'll have to get out my heavy duty tools -- this skin's as tough as iron!"
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 50,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kq head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "That must be the biggest kalphite I've ever seen!"
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "Preserving insects is always tricky. I'll have to be careful..."
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 50,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Kq head (tattered)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "That's not the most impressive head I've seen but I think I can just about manage this one."
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "Preserving insects is always tricky. I'll have to be careful..."
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 50,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vorkath's head",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "This blue dragon smells like it's been dead for a remarkably long time. Even by my standards, it smells awful."
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 50,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Alchemical hydra heads",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Taxidermist",
+                  "text": "This hydra looks like it might fall to pieces soon. I'll have to be careful to preserve it properly."
+                },
+                {
+                  "speaker": "Taxidermist",
+                  "text": "I can preserve that for you for 50,000 coins."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "ref": "obli",
+  "categoryRef": "npc",
+  "title": "Obli",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Obli",
+              "text": "Welcome to Obli's General Store Bwana! Would you like to see my items?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, but thanks for the offer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Obli before completing Shilo Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Obli",
+              "text": "I'm getting out of here Bwana, the place is infested with zombies."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

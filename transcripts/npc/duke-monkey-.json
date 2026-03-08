@@ -1,0 +1,95 @@
+{
+  "ref": "duke-monkey-",
+  "categoryRef": "npc",
+  "title": "Duke (monkey)",
+  "sections": [
+    {
+      "title": "After Monkey Madness II",
+      "sections": [
+        {
+          "title": "When entering the gates",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duke",
+                  "text": "Open the gates! An ally wishes to pass!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Duke's training",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duke",
+                  "text": "King Awowogei has ordered me to offer you some advanced combat training. You can have two training sessions with me, so please choose the kind of training you'd like for your first session."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Duke",
+                  "text": "As you wish. Speak to me again if you change your mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "... wow, that was tiring!"
+                },
+                {
+                  "speaker": "Duke",
+                  "text": "Exercise is good for you."
+                },
+                {
+                  "speaker": "Duke",
+                  "text": "I can offer you one more combat training session. What kind of training would you like?"
+                }
+              ]
+            },
+            {
+              "lines": [
+                {
+                  "speaker": "Duke",
+                  "text": "Speak to me again if you change your mind."
+                }
+              ]
+            },
+            {
+              "lines": [
+                {
+                  "speaker": "Duke",
+                  "text": "I can offer you one more combat training session. What kind of training would you like?"
+                },
+                {
+                  "speaker": "Duke",
+                  "text": "This concludes the advanced combat training. I must return to my duties now - King Awowogei has put me in charge of the guard to replace Kruk."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Duke's training",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Duke",
+                  "text": "Please excuse me; I have much to oversee now that King Awowogei has put me in charge of the guard to replace Kruk."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

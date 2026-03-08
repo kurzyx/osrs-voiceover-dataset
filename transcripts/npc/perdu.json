@@ -1,0 +1,227 @@
+{
+  "ref": "perdu",
+  "categoryRef": "npc",
+  "title": "Perdu",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Perdu",
+              "text": "It seems you're missing out on some valuable experience. Would you like it?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Perdu",
+              "text": "There you go."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Perdu",
+              "text": "Fair enough."
+            },
+            {
+              "speaker": "Perdu",
+              "text": "Hello. I've found some stuff that I think is yours. You can pay me with cash you're carrying, or I can take payments from your bank. Would you like to buy anything from me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Why do you charge for returning lost items?"
+            },
+            {
+              "speaker": "Perdu",
+              "text": "You could get your stuff back elsewhere, sure. Now, maybe it'd be free, or maybe you'd have to pay someone, but you'd definitely have to go on a journey to get it back."
+            },
+            {
+              "speaker": "Perdu",
+              "text": "So I'm earning my fee by saving you a trip. Do you want to have a look?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Show me what you've found."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "About items that break when people kill me..."
+            },
+            {
+              "speaker": "Perdu",
+              "text": "Oh yes, some items do break specially when you're killed by your rivals. And if you die in the deep Wilderness, they vanish altogether."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you fix them?"
+            },
+            {
+              "speaker": "Perdu",
+              "text": "For a fee, yes. Just show me the broken item."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you stop them vanishing in deep Wilderness?"
+            },
+            {
+              "speaker": "Perdu",
+              "text": "I can lock them to you so they won't vanish on death in deep Wilderness, yes. I'll want some money for my services, though, and you'll need to bring me a Trouver Parchment."
+            },
+            {
+              "speaker": "Perdu",
+              "text": "You'll find her in Ferox Enclave, where people play a game called Last Man Standing. Bring the parchment here, then show me the item you want to lock."
+            },
+            {
+              "speaker": "Player",
+              "text": "I've got the parchment."
+            },
+            {
+              "speaker": "Perdu",
+              "text": "Not bad for a human! Okay, show me the item you want to protect, and I'll see what I can do."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using items on Perdu",
+      "sections": [
+        {
+          "title": "Lockable",
+          "sections": [
+            {
+              "title": "Without parchment",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Perdu",
+                      "text": "I can lock that item so that it won't vanish if you die in deep Wilderness, but I'll need a Trouver parchment."
+                    },
+                    {
+                      "speaker": "Perdu",
+                      "text": "You'll find her in Ferox Enclave, where people play a game called Last Man Standing. Bring the parchment here, then show me the item again."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "With parchment",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Perdu",
+                      "text": "I can lock that item so that it won't vanish if you die in deep Wilderness. It'll cost you 500,000 coins and a Trouver parchment."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Locked",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Perdu",
+                  "text": "I've locked that item to you so that it won't vanish if you're killed in deep Wilderness. I can unlock it again, returning your parchment and 475,000 coins."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Parchment",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Perdu",
+                  "text": "If you want me to lock an item to you so that it won't vanish if you're killed in deep Wilderness, show me the item."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Reclaiming destroyed echo boots",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Perdu",
+              "text": "I have something for you. You lost your Echo boots. Would you like it back?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PvP/Bounty Hunter world banner dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Perdu",
+              "text": "Ah! I have something for you. You lost your banner. Would you like it back?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Deadman Mode with an active breach",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Perdu",
+              "text": "You seem lost, but luckily I know where to send you. A breach is occurring [location 1] (single). Another breach is occuring [location 2] (multi)."
+            },
+            {
+              "speaker": "Perdu",
+              "text": "You have [time left] remaining. Otherwise..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "ref": "yohnus",
+  "categoryRef": "npc",
+  "title": "Yohnus",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Attempting to use the furnace without coins in the coffer",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Yohnus",
+                  "text": "Sorry Bwana - I charge a fee of 20 coins to use my furnace."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Yohnus",
+              "text": "Sorry, but the smithery is closed. You can use the furnace for a fee, and I can hold a coffer of gold so you don't need to pay each time."
+            },
+            {
+              "speaker": "Yohnus",
+              "text": "Sorry, but the smithery is closed. But since you've completed the elite tier of the Karamja diary, I will allow you to use the furnace."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Coffer option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Talking to Yohnus before completing Shilo Village",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Yohnus",
+              "text": "I'm getting out of here Bwana, the place is infested with Zombies."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "ref": "hazeel-cultist",
+  "categoryRef": "npc",
+  "title": "Hazeel Cultist",
+  "sections": [
+    {
+      "title": "Hazeel Cult",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Post Hazeel Cult dialogue",
+      "sections": [
+        {
+          "title": "Sided with Carnillean",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Hazeel Cultist",
+                  "text": "You have no place here! Leave now, before someone makes you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sided with Hazeel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Hazeel Cultist",
+                  "text": "The adventurer returns! Glory to you for your efforts in bringing about the return of Lord Hazeel!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

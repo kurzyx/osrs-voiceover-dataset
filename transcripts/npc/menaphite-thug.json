@@ -1,0 +1,59 @@
+{
+  "ref": "menaphite-thug",
+  "categoryRef": "npc",
+  "title": "Menaphite Thug",
+  "sections": [
+    {
+      "title": "Before The Feud",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Menaphite Thug",
+              "text": "What do you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing really, I'm new to town and wanted to get to know the locals."
+            },
+            {
+              "speaker": "Menaphite Thug",
+              "text": "I'm too busy for chitchat. Come back if you have some business to discuss with us."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Feud",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Menaphite Thug",
+              "text": "You treacherous jackal! I should never have trusted you."
+            },
+            {
+              "speaker": "Player",
+              "text": "What can I say, you live an learn"
+            },
+            {
+              "speaker": "Menaphite Thug",
+              "text": "I will avenge my master!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

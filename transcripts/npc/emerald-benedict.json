@@ -1,0 +1,77 @@
+{
+  "ref": "emerald-benedict",
+  "categoryRef": "npc",
+  "title": "Emerald Benedict",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Emerald Benedict",
+              "text": "Got anything you don't want to lose?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes actually, can you help?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, but can you show me my PIN settings?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, but I'd like to collect items now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, but I'd like to buy more bank slots."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Why? You don't use the bank."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh yeah... Never mind then."
+            },
+            {
+              "speaker": "Banker",
+              "text": "I can sell you up to [number] additional bank slots in sets of 40. How many are you interested in buying?"
+            },
+            {
+              "speaker": "Player",
+              "text": "[number] slots please."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Buying [number] additional bank slots will cost [number] coins. Be warned, this purchase is not reversible. Are you happy to proceed?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh... I don't seem to have enough money for that. Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'm happy with that."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Your additional bank slots have been added."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I've changed my mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes thanks, and I'll keep hold of it too."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

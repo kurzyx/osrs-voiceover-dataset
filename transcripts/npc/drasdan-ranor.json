@@ -1,0 +1,52 @@
+{
+  "ref": "drasdan-ranor",
+  "categoryRef": "npc",
+  "title": "Drasdan Ranor",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player is not disguised",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Drasdan Ranor",
+                  "text": "Human! Get back to the slave pens before I call the guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Drasdan Ranor",
+              "text": "Looking to trade?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What have you got?"
+            },
+            {
+              "speaker": "Drasdan Ranor",
+              "text": "Take a look."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Drasdan Ranor",
+              "text": "Then we have nothing more to discuss."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

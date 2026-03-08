@@ -1,0 +1,199 @@
+{
+  "ref": "shipwright-sam",
+  "categoryRef": "npc",
+  "title": "Shipwright Sam",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Sailing release",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "Greetings! What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there. What do you do around here?"
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "I'm a shipwright. I supply boats of all kinds to anyone with the money to afford them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Interesting... Would I be able to buy one?"
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "Sorry, but I don't have any ready for sale right now. I'm sure I will soon, so keep checking back."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, fair enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Before completing Pandemonium",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "Greetings! What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello there. What do you do around here?"
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "I'm a shipwright. I supply boats of all kinds to anyone with the money to afford them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Interesting... Would I be able to buy one?"
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "Sorry, but I don't have any ready for sale right now. I'm sure I will soon, so keep checking back."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, fair enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Pandemonium",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "Greetings! What can I do for you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to buy a new boat."
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "Of course! Which one would you like?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to customise a boat."
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "Not a problem. Just let me know which boat you want to customise and I'll get things set up for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to retrieve a boat."
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "Certainly! Let me know which boat you want retrieving and I'll call in a port wizard to teleport it over."
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "That boat currently docked at [boat location]. It'd normally cost [x] coins for retrieval but I'll waive the cost this time since I'm in a good mood."
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "That boat is lost at sea. A port wizard would normally retrieve it for you for [x] coins but I'll waive the cost this time since I'm in a good mood."
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "Right, time to call in the port wizard."
+                },
+                {
+                  "speaker": "Port Wizard Perrie/Peter/Petra",
+                  "text": "Another retrieval? This won't take long..."
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "All done! The boat is now docked here at [location]."
+                },
+                {
+                  "speaker": "Port Wizard Perrie/Peter/Petra",
+                  "text": "Need a retrieval? One moment please..."
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "All done! The boat is now docked here at [location]."
+                },
+                {
+                  "speaker": "Port Wizard Perrie/Peter/Petra",
+                  "text": "Retrieval is it? Right, give me a moment..."
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "All done! The boat is now docked here at [location]."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, but I'm not paying that."
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "Fair enough. Come back if you change your mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing, thanks."
+                },
+                {
+                  "speaker": "Shipwright Sam",
+                  "text": "Fair enough."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Trading, customise-boat, or retrieve-boat before Sailing release",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shipwright Sam",
+              "text": "I'm afraid I can't help you with that at the moment. You'll have to come back later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Trading, customise-boat, or retrieve-boat before completing Pandemonium",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shipwright Sam",
+              "text": "I'm afraid I can't help you with that at the moment. You'll have to come back later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

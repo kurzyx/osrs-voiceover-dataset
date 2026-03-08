@@ -1,0 +1,65 @@
+{
+  "ref": "quartermaster",
+  "categoryRef": "npc",
+  "title": "Quartermaster",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before finishing Regicide",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Quartermaster",
+                  "text": "Good day [sir/miss]. I'm the quartermaster for this camp. We have a little we could trade here."
+                },
+                {
+                  "speaker": "Quartermaster",
+                  "text": "We should be getting a new stock soon. Would you like a look at what we do have?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please. What are you selling?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After finishing Regicide",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Quartermaster",
+                  "text": "Good day [sir/miss]. I'm the quartermaster for this camp. We have a little we could trade here."
+                },
+                {
+                  "speaker": "Quartermaster",
+                  "text": "We have a new stock of dragon halberds. Would you like a look at what we have?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please. What are you selling?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

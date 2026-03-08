@@ -1,0 +1,145 @@
+{
+  "ref": "asteros-arceuus",
+  "categoryRef": "npc",
+  "title": "Asteros Arceuus",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After the Ascent of Arceuus",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Asteros Arceuus",
+                  "text": "You've done a great service to the people of Arceuus. Thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing A Kingdom Divided",
+          "sections": [
+            {
+              "title": "First time",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello Asteros. What brings you to the castle?"
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "The King's late father asked for an advisor from Arceuus. He was keen for us to have a more central role than we did under the Council."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I see. I'm sure the King is glad to have you here."
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "He does seem willing to take on my advice, which is very welcoming. I hope he remains humble. It is a trait many leaders lack."
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "Now, is there something else I can do for you? If you're interested, I can offer you the ability to respawn at Kourend Castle upon death."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes please."
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "Very well. From now on, you will respawn at Kourend Castle."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No thanks."
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "Let me know if you change your mind."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Subsequent times",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello Asteros."
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "Hello there. Would you like me to change your respawn point to Kourend Castle?"
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "Hello there. Would you like me to revert your respawn point to Lumbridge?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Yes please."
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "Very well. From now on, you will respawn at Kourend Castle."
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "Very well. From now on, you will respawn in Lumbridge."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "What brings you to the castle?"
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "The King's late father asked for an advisor from Arceuus. He was keen for us to have a more central role than we did under the Council."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I see. I'm sure the King is glad to have you here."
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "He does seem willing to take on my advice, which is very welcoming. I hope he remains humble. It is a trait many leaders lack."
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "Now, is there something else I can do for you? If you're interested, I can change your respawn point to Kourend Castle."
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "Now, is there something else I can do for you? If you want, I can revert your respawn point to Lumbridge."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No thanks."
+                    },
+                    {
+                      "speaker": "Asteros Arceuus",
+                      "text": "Let me know if you change your mind."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

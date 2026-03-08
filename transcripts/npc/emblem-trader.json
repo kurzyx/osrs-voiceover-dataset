@@ -1,0 +1,273 @@
+{
+  "ref": "emblem-trader",
+  "categoryRef": "npc",
+  "title": "Emblem Trader",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Outside Daimon's Crater",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Don't suppose you've come across any strange emblems or artefacts along your journey? Ancient artefacts?"
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Don't suppose you've come across any strange emblems or artefacts along your journey? Ancient artefacts, or archaic emblems - I trade in either sort."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing to report now."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "If you find any, please bring them to me. I am happy to offer rewards for such items."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's trade for rewards."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "I don't carry rewards out here, it is far too dangerous."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Meet me in Daimon's Crater if you would like to buy rewards."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I have a PK skull, please?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll leave you alone."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Right-click Rewards",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "I don't carry rewards out here, it is far too dangerous."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Meet me in Daimon's Crater if you would like to buy rewards."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Within Daimon's Crater",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Hello, wanderer. How may I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What is this place?"
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "This is Daimon's Crater. Once, it was home to a group of demons who set up a fortress inside this dormant volcano to mine rare minerals. However, their activity reactivated the volcano, resulting in their demise."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Years later, humans settled in the ruins. Convinced that they were the descendants of the demons, they began to hunt each other for fun."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Today, the crater is home to Bounty Hunter, a magnificent battle arena where you can engage in combat and test your mettle against skilled opponents."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I play Bounty Hunter?"
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Before entering the arena, ensure that you have enough coins in your Coffer to participate. Upon entering, you will be assigned a Target to fight."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Locate your Targets and engage them in combat, defeating them to claim your reward."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That sounds easy enough."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "If you require further information about the Bounty Hunter, feel free to ask the Corrupted Warrior. They will be able to answer any questions you may have."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What level Targets might I be assigned?"
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "You may be assigned Targets up to [value] levels stronger than you."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Very well, you may be assigned Targets up to 5 levels stronger than you. This range only applies to Targets, as Rogue fights will always have a range of 5 from your combat level."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Very well, you may be assigned Targets up to 10 levels stronger than you. This range only applies to Targets, as Rogue fights will always have a range of 5 from your combat level."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Very well, you may be assigned Targets up to 15 levels stronger than you. This range only applies to Targets, as Rogue fights will always have a range of 5 from your combat level."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to manage my Coffer."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Do you want to add or remove coins from your coffer?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I have a PK skull, please?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you make my PK skull last longer?"
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Sorry, I can't extend your PK skull beyond its existing duration."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do the different colour skulls mean?"
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "The different colours represent risk values. Bronze is up to 200,000. Iron is up to 800,000. Green is up to 2,000,000. Blue is up to 8,000,000. Red is any amount greater than 8,000,000."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Free-to-play",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Emblem Trader",
+              "text": "Hello, wanderer."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Emblem Trader",
+              "text": "I used to deal in certain... emblems, for my master in the north. But now he has entrusted me with a new responsibility as the keeper of Bounty Hunter."
+            },
+            {
+              "speaker": "Player",
+              "text": "Goodbye, trader."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Deadman Mode",
+      "sections": [
+        {
+          "title": "While owning archaic emblems",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "I seek certain... archaic emblems, and I believe you have some, either on your person or in your bank. I'll happily take yours off your hands for a handsome fee."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Thank you. My master in the north will be very pleased."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thank you."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Let me know if you change your mind. My master is always looking to add to his collection."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "My master is pleased by your interest in emblem-hunting, so I'll mark that task off on your diary."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "What can I do for you, wanderer?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using an archaic emblem on him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "No, thank you."
+                },
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "Let me know if you change your mind. My master is always looking to add to his collection."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Requesting a skull at Grand Exchange",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Emblem Trader",
+                  "text": "I don't think the guards would like me to do that in this world."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

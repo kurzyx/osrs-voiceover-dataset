@@ -1,0 +1,255 @@
+{
+  "ref": "the-overseer",
+  "categoryRef": "npc",
+  "title": "The Overseer",
+  "sections": [
+    {
+      "title": "Initial dialogue",
+      "sections": [
+        {
+          "title": "If the player brings it a bludgeon component before speaking to it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "The Overseer",
+                  "text": "I did not ask you to bring me anything, human."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Speaking to it again before asking what you can do here",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "The Overseer",
+                  "text": "Yes, human?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "The Overseer",
+              "text": "How curious? I have not seen a creature of your kind for many years. You have ventured into the Nexus human - I should warn you to be aware of the Abyssal Sires."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about yourself."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "Ah... Time does not pass in the Abyss at the same rate that it does in your realm, but nevertheless I have been in this place for aeons."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "Indeed, when I was last in your realm, the armies of Zamorak were battling the other gods for control, and we sought reinforcements from any plane we could reach."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "That was how I came here. We broke through to the Abyss, seeking allies for our cause, but instead I ended up a prisoner in this place, unable to leave, while the God Wars continued without me."
+            },
+            {
+              "speaker": "Player",
+              "text": "What can I do here?"
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "There is something you can do here, human. In fact it may perhaps benefit us both."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "Bring me a spine, a claw and an axon from the Abyssal Sires, and I shall construct them into a mighty weapon for you. Yes, we shall both benefit from this."
+            },
+            {
+              "speaker": "Player",
+              "text": "Tell me about the Abyssal Sires."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "The Sires are the engineers of this living pocket universe known to you and I as the Abyss."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "At the hands of the 'Chaos God', Zamorak, like myself, they too were cast down and imprisoned in this living tomb."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "They worked for centuries attempting to escape the pull of the Abyss but as food resources began to deplete they knew that their only chance for survival was to construct this Nexus."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "They absorb flesh and bone of their demon kin, weaving it into the fabric of these very walls. Here they have remained in deep stasis, asleep."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "If you succeed in awakening them, they will no doubt unleash their full fury upon you. Someone of your calibre should be able to deal with them though, especially with the shadows on your side..."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "If you succeed in killing a Sire, you may be fortunate enough to find one of its unsired offspring among its remains. Bring the Unsired here, to the Font of Consumption."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "By placing the Unsired into the Font, I will be able to consume its flesh and perhaps you will receive something worth having."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll be off for now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Subsequent dialogue",
+      "sections": [
+        {
+          "title": "If the player does not have any bludgeon components in their inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "The Overseer",
+                  "text": "Have you harvested any components for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's this stuff for?"
+                },
+                {
+                  "speaker": "The Overseer",
+                  "text": "I shall use the components to construct a mighty weapon for you. Rest assured, the process will be beneficial to both of us."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, sorry."
+                },
+                {
+                  "speaker": "The Overseer",
+                  "text": "I still require [bludgeon component(s)] from an Abyssal Sire."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has at least one bludgeon component in their inventory",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "The Overseer",
+                  "text": "Have you harvested any components for me?"
+                },
+                {
+                  "speaker": "The Overseer",
+                  "text": "I still require [bludgeon component(s)] from an Abyssal Sire."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Final dialogue",
+      "sections": [
+        {
+          "title": "Speaking to it again after giving it all three components but before completing the final dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "The Overseer",
+                  "text": "You have served me well, it is good to see that you humans are still as gullible as ever!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using bludgeon pieces on it after giving it all three components but before completing the final dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "The Overseer",
+                  "text": "I do not require anything further from you, human."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "The Overseer",
+              "text": "Have you harvested any components for me?"
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "I now have all the components I require, so here is the weapon I promised you."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "You have served me well, it is good to see that you humans are still as gullible as ever!"
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "Bringing me those body parts from the Sires has now granted me enough teleportation energy to leave this living hell hole. Perhaps I will pay your realm a visit and there will be much to harvest!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yuck! This is disgusting. What use is this? It's unwieldly!"
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "Have you not learned yet, appearances can be deceiving. You hold in your hands a living weapon whose power is rivalled by few weapons from your world, use it wisely."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "Do not think that I am ungrateful for my freedom human. I will leave you this ancient tome that will instruct you in creating more of these weapons in future."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "Just use the three components on the book, and it will do the rest. You can get spare copies here any time you need."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "Farewell..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Perhaps I shall use it to slay you, demon."
+            },
+            {
+              "speaker": "The Overseer",
+              "text": "So be it... I will await you on the fields of blood!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

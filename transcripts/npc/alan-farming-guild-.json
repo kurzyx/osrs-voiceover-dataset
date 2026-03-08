@@ -1,0 +1,255 @@
+{
+  "ref": "alan-farming-guild-",
+  "categoryRef": "npc",
+  "title": "Alan (Farming Guild)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Would you look after my crops for me?"
+            },
+            {
+              "speaker": "Alan",
+              "text": "I might - which patch were you thinking of?"
+            },
+            {
+              "speaker": "Alan",
+              "text": "You don't have any seeds planted in that patch. Plant some and I might agree to look after it for you."
+            },
+            {
+              "speaker": "Alan",
+              "text": "That patch is diseased - you should cure it before asking me to be responsible for it!"
+            },
+            {
+              "speaker": "Alan",
+              "text": "That patch is dead - it's too late for me to do anything about it now."
+            },
+            {
+              "speaker": "Alan",
+              "text": "That patch is already fully grown! I don't know what you want me to do with it!"
+            },
+            {
+              "speaker": "Alan",
+              "text": "I'm already looking after that patch for you."
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "speaker": "Alan",
+              "text": "If you like, but I want [payment] for that."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm afraid I don't have any of those at the moment."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Well, I'm not wasting my time for free."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, it's a deal."
+            },
+            {
+              "speaker": "Alan",
+              "text": "[That'll do nicely, sir/That'll do nicely, madam/That'll do nicely]. Leave it with me - I'll make sure that patch grows for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, that's too much."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Well, I'm not wasting my time for free."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Poison ivy bushes don't get diseased, so you needn't worry about having it protected."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you give me any farming advice?"
+            },
+            {
+              "speaker": "Alan",
+              "text": "You can put up to ten potatoes, cabbages or onions in vegetable sacks, although you can't have a mix in the same sack."
+            },
+            {
+              "speaker": "Alan",
+              "text": "You can put up to five tomatoes, strawberries, apples, bananas or oranges into a fruit basket, although you can't have a mix in the same basket."
+            },
+            {
+              "speaker": "Alan",
+              "text": "You can buy all the farming tools from farming shops, which can be found close to the allotments."
+            },
+            {
+              "speaker": "Alan",
+              "text": "You can fill plantpots with soil from any empty patch, if you have a gardening trowel."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Tree seeds must be grown in a plantpot of soil into a sapling, and then transferred to a tree patch to continue growing to adulthood."
+            },
+            {
+              "speaker": "Alan",
+              "text": "If you want to make your own sacks and baskets you'll need to use the loom that's near the Farming shop in Falador. If you're a good enough [craftswoman/craftsman], that is."
+            },
+            {
+              "speaker": "Alan",
+              "text": "You don't have to buy all your plantpots you know, you can make them yourself on a pottery wheel. If you're a good enough [craftswoman/craftsman], that is."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Don't just throw away your weeds after you've raked a patch - put them in a compost bin and make some compost."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Applying compost to a patch will not only reduce the chance that your crops will get diseased, but you will also grow more crops to harvest."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Supercompost is far better than normal compost, but more expensive to make. You need to rot the right type of item; show me an item, and I'll tell you if it's super- compostable or not."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Vegetables, hops and flowers need constant watering - if you ignore my advice, you will sooner or later find yourself in possession of a dead farming patch."
+            },
+            {
+              "speaker": "Alan",
+              "text": "The only way to cure a bush or tree of disease is to prune away the diseased leaves with a pair of secateurs. For all other crops I would just apply some plant-cure."
+            },
+            {
+              "speaker": "Alan",
+              "text": "There are five other Farming areas like this one - Elstan's area near Falador, Dantaera's area near Catherby, Kragen's area near Ardougne, Lyra's area in Morytania, Marisi's area in Hosidius and Oswallt's area"
+            },
+            {
+              "speaker": "Alan",
+              "text": "in Prifddinas."
+            },
+            {
+              "speaker": "Alan",
+              "text": "If you want to grow fruit trees you could try a few places: Catherby, Brimhaven, Gnome Stronghold and the Farming Guild all have fruit tree patches."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Hops are good for brewing ales. I believe there's a brewery up in Keldagrim somewhere, and I've heard rumours that a place called Phasmatys used to be good for that type of thing. 'Fore they all died, of course."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Bittercap mushrooms can only be grown in a special patch in Morytania, near the Mort Myre swamp. There the ground is especially dank and suited to growing poisonous fungii."
+            },
+            {
+              "speaker": "Alan",
+              "text": "There is a special patch for growing Belladonna - I believe that it is somewhere near Draynor Manor, where the ground is a tad 'unblessed'."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you sell me something?"
+            },
+            {
+              "speaker": "Alan",
+              "text": "That depends on whether I have it to sell. What is it that you're looking for?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Some plant cure."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Plant cure, eh? I might have some put aside for myself. Tell you what, I'll sell you some plant cure for 25 coins if you like."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, that sounds like a fair price."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks, I can get that much cheaper elsewhere."
+            },
+            {
+              "speaker": "Player",
+              "text": "A bucket of compost."
+            },
+            {
+              "speaker": "Alan",
+              "text": "A bucket of compost, eh? I might have one spare... tell you what, I'll sell it to you for 35 coins if you like."
+            },
+            {
+              "speaker": "Player",
+              "text": "A rake."
+            },
+            {
+              "speaker": "Alan",
+              "text": "A rake, eh? I might have one spare... tell you what, I'll sell it to you for 15 coins if you like."
+            },
+            {
+              "speaker": "Player",
+              "text": "A plant pot."
+            },
+            {
+              "speaker": "Alan",
+              "text": "Eh, I suppose I can spare you a plant pot, but I'll want 40 coins for it."
+            },
+            {
+              "speaker": "Player",
+              "text": "A watering can."
+            },
+            {
+              "speaker": "Alan",
+              "text": "A watering can, eh? I might have one spare... tell you what, I'll sell it to you for 25 coins if you like."
+            },
+            {
+              "speaker": "Player",
+              "text": "A gardening trowel."
+            },
+            {
+              "speaker": "Alan",
+              "text": "A gardening trowel, eh? I might have one spare... tell you what, I'll sell it to you for 15 coins if you like."
+            },
+            {
+              "speaker": "Player",
+              "text": "A seed dibber."
+            },
+            {
+              "speaker": "Alan",
+              "text": "A seed dibber, eh? I might have one spare... tell you what, I'll sell it to you for 15 coins if you like."
+            },
+            {
+              "speaker": "Player",
+              "text": "Forget it, you don't have anything I need."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll come back another time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dialogue when using the pay option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Alan",
+              "text": "Which patch would you like to pay protection for?"
+            },
+            {
+              "speaker": "Alan",
+              "text": "I want [payment] for that."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

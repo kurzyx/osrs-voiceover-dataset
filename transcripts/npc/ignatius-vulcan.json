@@ -1,0 +1,138 @@
+{
+  "ref": "ignatius-vulcan",
+  "categoryRef": "npc",
+  "title": "Ignatius Vulcan",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Dialogue with 99 Firemaking",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can I buy a Skillcape of Firemaking?"
+                },
+                {
+                  "speaker": "Ignatius Vulcan",
+                  "text": "Of course you can. You are already a master of fire, you just need the cape to prove it. The cape is so bright that wearing it will light up dark caves. That'll be 99000 coins, please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks, that's too much."
+                },
+                {
+                  "speaker": "Ignatius Vulcan",
+                  "text": "Sorry to hear that, I'll be here if you change your mind."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, that seems reasonable."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But, unfortunately, I don't have enough money with me."
+                },
+                {
+                  "speaker": "Ignatius Vulcan",
+                  "text": "Well, come back and see me when you do."
+                },
+                {
+                  "speaker": "Ignatius Vulcan",
+                  "text": "Unfortunately all Skillcapes are only available with a free hood, it's part of a skill promotion deal; buy one get one free, you know. So you'll need to free up some inventory space before I can sell you one."
+                },
+                {
+                  "speaker": "Ignatius Vulcan",
+                  "text": "I'm sure you'll look hot in that cape."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ignatius Vulcan",
+              "text": "Can I help you at all?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Ignatius Vulcan",
+              "text": "My name is Ignatius Vulcan. Once I was - like you - an adventurer, but that was before I realised the beauty and power of flame! Just look at this..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeeouch!"
+            },
+            {
+              "speaker": "Ignatius Vulcan",
+              "text": "Stare into the flame and witness the purity and power of fire! As my attraction to flame grew, so did my skills at firelighting. I began to neglect my combat skills, my Mining skills and my questing. Who needs such"
+            },
+            {
+              "speaker": "Ignatius Vulcan",
+              "text": "mundane skills when one can harness the power of fire? After years of practice I am now the acknowledged Master of Flame! Everything must be purified by fire!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okaaaay! Err, I'll be going now. Umm, get better soon."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is that cape you're wearing?"
+            },
+            {
+              "speaker": "Ignatius Vulcan",
+              "text": "This is a Skillcape of Firemaking, so bright that wearing it lights up caves! I was given it in recognition of my skill as the greatest firemaker in the lands! I AM the Master of Flame!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Hmm, I'll be going now. Keep a sharp look out for those men with their white jackets!"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thanks."
+            },
+            {
+              "speaker": "Ignatius Vulcan",
+              "text": "Okay, keep the fire burning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "With a firemaking cape but no hood",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ignatius Vulcan",
+              "text": "Can I help you at all?"
+            },
+            {
+              "speaker": "Player",
+              "text": "May I have another hood for my cape, please?"
+            },
+            {
+              "speaker": "Ignatius Vulcan",
+              "text": "You don't appear to have enough space in your inventory, come back and see me when you do."
+            },
+            {
+              "speaker": "Ignatius Vulcan",
+              "text": "Most certainly, and free of charge!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

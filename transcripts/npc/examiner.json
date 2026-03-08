@@ -1,0 +1,90 @@
+{
+  "ref": "examiner",
+  "categoryRef": "npc",
+  "title": "Examiner",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After completing The Dig Site quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Examiner",
+                  "text": "Hello there! My colleague tells me you helped to uncover a hidden altar to the god Zaros."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "A great scholar and archaeologist indeed! Good health and prosperity to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have lost my trowel."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Deary me... That was a good one as well. It's a good job I have another. Here you go..."
+                },
+                {
+                  "speaker": "Examiner",
+                  "text": "Really? Look in your backpack and make sure first."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "Talking while holding the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Examiner",
+                      "text": "I'm afraid you have not finished the puzzle."
+                    },
+                    {
+                      "speaker": "Examiner",
+                      "text": "Correct! Well done!"
+                    },
+                    {
+                      "speaker": "Examiner",
+                      "text": "Correct! Well done!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Examiner",
+                  "text": "Hi! Please complete this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

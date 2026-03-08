@@ -1,0 +1,1012 @@
+{
+  "ref": "nature-spirit",
+  "categoryRef": "quest",
+  "title": "Nature Spirit",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "Talking to Drezel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you know of anything I can do in Morytania?"
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Well... I don't think so. There's not much to do in that place."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Well, not a great deal... but there is something you could do for me if you're interested. Though it is quite dangerous."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, what is it, I may be able to help?"
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "There's a man called Filliman who lives in Mort Myre. He comes by the temple from time to time but I haven't seen him recently. I was wondering if you could check in on him?"
+                },
+                {
+                  "speaker": "Drezen",
+                  "text": "I must warn you though, it could be dangerous. Mort Myre is filled with ghasts!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I'll go look for him."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "That's great! Many thanks!"
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Now, please be aware of the ghasts, you cannot attack them, only Filliman knew how to take them on. Just run from them if you can. If you get lost, try to make your way back to the temple."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Please take this food to Filliman, he'll likely appreciate it. His home is somewhere in the southern end of Mort Myre. I don't know the exact location I'm afraid."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry, if he's there and he's still alive, I'll find him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who exactly is this Filliman?"
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Filliman Tarlock is his full name and he's a druid. He lives in Mort Myre much like a hermit, but there's many a traveller who he's helped."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Most people that come this way tell stories of when they were lost and paths that just seemed to 'open up' before them! I think it was Filliman Tarlock helping out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where's Mort Myre?"
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Mort Myre is a decayed and dangerous swamp to the south east of here. Legend says it was once a beautiful forest called Humblethorn. Now, it's filled with vile emanations from within Morytania."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "The swamp decays everything. We put a fence around it to stop unwary travellers going in. Anyone who dies in the swamp is forever cursed to haunt it as a ghast."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Ghasts attack travellers, turning food to rotten filth."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's a ghast?"
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "A Ghast is a poor soul who died in Mort Myre. They're undead of a special class and they're untouchable as far as I'm aware! Filliman knows how to tackle them though."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "When they attack, ghasts will devour any food you have. If you have no food, they'll draw their nourishment from you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd better get going."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I don't think I can help."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "That's fine, I'm sure someone else will be along shortly who can. Now, if you excuse me, I do have some things to be getting on with."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, not interested."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Well, I understand. You must be busy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Drezel again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again!"
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Have you managed to find Filliman yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No not yet."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Please go and look for him, I would appreciate it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where should I look for Filliman Tarlock again?"
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Search to the south of Mort Myre. Remember that he's a druid so he can conceal himself within nature quite well. My guess is that he lives in the southern area of the swamp, though he could be anywhere."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Explain to me what a Ghast is again."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "A Ghast is a poor soul who died in Mort Myre. They're undead of a special class, they're untouchable apart from with special druidic items."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Filliman knew how to tackle them, but I've not heard from him in a long time. Ghasts, when they attack, will devour any food you have. If you have no food, they'll draw their nourishment from you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the story with Mort Myre?"
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Mort Myre was once a beautiful forest by the name of Humblethorn until the evil denizens of Morytania descended. Now their evil emanations have putrified and diseased the forest into a decaying swamp of death."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the story with Filliman Tarlock?"
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Filliman is a druid of some considerable power. He helped many people in Morytania escape when the evil descended upon the land. His knowledge of plants and nature was exceptional."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "But one day, he was betrayed by some of the people who he had tried to help. This naturally made him more careful when dealing with strangers again and so, instead of showing himself, he would follow them."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "He would follow them at a distance and make the path clear for them, showing them to the temple and to salvation. Saradomin bless him! He is a good man."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok, thanks."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Many thanks to you, [player name]!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finding Filliman",
+      "sections": [
+        {
+          "title": "Entering the gate to Mort Myre Swamp",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Entering Filliman's island",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Filliman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Cannot wake up... Where am I?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Huh? What's this?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "What did I write down now? Put it in the knot hole."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Ahhrs Oooohh arhhhhAHhhh."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Huh! Now you're just not making any sense at all! I just cannot understand you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Oh, I understand you! At last, someone who doesn't just mumble. I understand what you're saying!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm wearing an amulet of ghost speak!"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Why you poor fellow, have you passed away and you want to send a message back to a loved one?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Err.. Not exactly..."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "You have come to haunt my dreams until I pass on your message to a dearly loved one. I understand. Pray, tell me who would you like me to pass a message on to?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ermm, you don't understand... It's just that.."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Yes!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, please don't be upset or anything... But you're the ghost!"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Don't be silly now! That in no way reflects the truth!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How long have you been a ghost?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "What?! Don't be preposterous! I'm not a ghost! How could you say something like that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But it's true, you're a ghost... well, at least that is to say, you're sort of not alive anymore."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Don't be silly, I can see you, I can see that tree. If I were dead, I wouldn't be able to see anything.. What you say just doesn't reflect the truth. You'll have to try harder to pull one over on me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's it like being a ghost?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Oh, it's quite.... Oh... Trying to catch me out were you! Anyone can clearly see that I am not a ghost!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But you are a ghost, look at yourself! I can see straight through you! You're as dead as this swamp! Err... No offence or anything..."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "No I won't take offence because I'm not dead and I'm afraid you'll have to come up with some pretty conclusive proof before I believe it. What a strange dream this is."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue with Filliman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Ahhrs Oooohh arhhhhAHhhh."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello again!"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Oh, hello there, do you still think I'm dead? It's hard to see how I could be dead when I'm still in the world. I can see everything quite clearly. And nothing of what you say reflects the truth."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I do think you're dead and I'll prove it somehow."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here take a look at this, perhaps you can see that you're utterly transparent now!"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Well, that is the most peculiar thing I've ever experienced. This mirror must somehow be dysfunctional. Strange how well it reflects the stagnant swamp behind me, but there is nothing of my own"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "visage apparent."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's because you're dead! Dead as a door nail.. Deader in fact... You bear a remarkable resemblance to worm bait! Err.. No offence..."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "I think you might be right my friend, though I still feel very much alive. It is strange how I still come to be here and yet I've not turned into a Ghast."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "It must be a sign... Yes a sign... I must try to find out what it means. Now, where did I put my journal?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Ahhrs Oooohh arhhhhAHhhh."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here, I found this, maybe you can use it?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "My journal! That should help to collect my thoughts."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "It's all coming back to me now. It looks like I came to a violent and bitter end but that's not important now. I just have to figure out what I am going to do now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Being dead, what options do you think you have? I'm not trying to be rude or something, but it's not like you have many options is it? I mean, it's either up or down for you isn't it?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Hmm, well you're a poetic one aren't you. Your material world logic stands you in good stead... If you're standing in the material world..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So, what's your plan?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "In my former incarnation I was Filliman Tarlock, a great druid of some power. I spent many years in this place, which was once a forest and I would wish to protect it as a nature sprit."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, good luck with that."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Won't you help me to become a nature spirit? I could really use your help!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How can I help?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Will you help me to become a nature spirit? The directions for becoming one are a bit vague, I need three things but I know how to get one of them. Perhaps you can help collect the rest?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I might be interested, what's involved?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Well, the book says, that I need, and I quote:- 'Something with faith', 'something from nature' and 'something of the 'spirit-to-become' freely given'. Hmm, I know how to get something from nature."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, that does seem a bit vague."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Hmm, it does and I could understand if you didn't want to help. However, if you could perhaps at least get the item from nature, that would be a start. Perhaps we can figure out the rest as we go along."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "This spell needs to be cast in the swamp after you have been blessed. I'm afraid you'll need to go to the temple to the North and ask a member of the clergy to bless you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Blessed, what does that do?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "It is required if you're to cast this druid spell. Once you've cast the spell, you should find something from nature. Bring it back to me and then we'll try to figure out the other things we need."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Filliman again after using a mirror on him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again.."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Oh, hello... Sorry, you've caught me at a bad time, it's just that I've had a sign you see and I need to find my journal."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where did you put it?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Well, if I knew that, I wouldn't still be looking for it. However, I do remember something about a knot? Perhaps I was meant to tie a knot or something?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a mirror on Filliman again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Yes, I know, I'm already dead! Thanks for reminding me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue with Filliman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Ahhrs Oooohh arhhhhAHhhh."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Thanks for the journal, I've been reading it. It looks like I came to a violent and bitter end but that's not really important. I just have to figure out what I am going to do now?"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Hello there, have you been blessed yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not yet."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Well, hurry up!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Talking to Drezel",
+      "sections": [
+        {
+          "title": "Subsequent dialogue with Drezel",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Drezel",
+                  "text": "How's life been treating you since you got blessed?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not so bad!"
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "It's funny, because when I look at you, there does seem to be something of the faith about you. Have you considered a life of service to Saradomin?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I serve Saradomin in other ways."
+                },
+                {
+                  "speaker": "Drezel",
+                  "text": "Fair enough!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello again! I'm helping Filliman, he plans to become a nature spirit. I have a spell to cast but first I need to be blessed. Can you bless me?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "But you haven't sneezed!"
+            },
+            {
+              "speaker": "Player",
+              "text": "You're so funny!"
+            },
+            {
+              "speaker": "Player",
+              "text": "But can you bless me?"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Very well my friend, prepare yourself for the blessings of Saradomin. Here we go!"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "Ashustru, blessidium, adverturasi, fidum!"
+            },
+            {
+              "speaker": "Drezel",
+              "text": "There you go my friend, you're now blessed. It's funny, now I look at you, there seems to be something of the faith about you. Anyway, good luck with your quest!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Many thanks!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to Filliman",
+      "sections": [
+        {
+          "title": "Finding and using the three items on the stones",
+          "sections": [],
+          "dialogues": []
+        },
+        {
+          "title": "Brown stone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Grey stone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Aha, yes, that seems right well done!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Orange stone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Filliman again on the orange stone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I think I've solved the puzzle!"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Oh really.. Have you placed all the items on the stones? Ok, well, lets try! ~ The druid attempts to cast a spell."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Hmm, something still doesn't seem right. I think we need something more before we can continue."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think I've solved the puzzle!"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Oh really.. Have you placed all the items on the stones? Ok, well, lets try! ~ The druid attempts to cast a spell.~"
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Aha, everything seems to be in place! You can come through now into the grotto for the final section of my transformation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching all the stones after the spell",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Filliman outside the grove again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Please come down into the grotto, we have much to discuss."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, I've been blessed but I don't know what to do now."
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "Well, you need to bring 'something from nature', 'something with faith' and 'something of the spirit-to-become freely given.'"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yeah, but what does that mean?"
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "Hmm, it is a conundrum, however, if you use that Bloom spell I gave you, you should be able to get something from nature. Once you have that, we may be able to puzzle the rest out."
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "Did you manage to get something from nature?"
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "Wonderful, the mushroom represents 'something from nature'. Now we need to work out what the other components of the spell are!"
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "The three things are: 'Something with faith', 'something from nature' and 'something of the spirit-to-become freely given'."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, and 'something from nature' is the mushroom from the bloom spell you gave me?"
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "Yes, that's correct, that seems right to me. The other things we need are 'something with faith' and 'something of the spirit-to-become freely given."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have any ideas what those things are?"
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "I'm sorry my friend, but I do not."
+            },
+            {
+              "speaker": "Player",
+              "text": "What should we do when we have those things?"
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "Ah yes, I looked this up. It says,.. 'to arrange upon three rocks around the spirit-to-become...'. Then I must cast a spell. As you can see, I've already placed the rocks. I must have planned to do this before I died!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can we just place the components on any rock?"
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "Well, the only thing the journal says is that 'something with faith stands south of the spirit-to-become', but I'm so confused now I don't really know what that means. Oh, if only I had all my faculties!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I think I've solved the puzzle!"
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "Oh really.. Have you placed all the items on the stones? Ok, well, lets try! ~ The druid attempts to cast a spell.~"
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "Hmm, something still doesn't seem right. I think we need something more before we can continue."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have another bloom scroll please?"
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "I would my friend, but you don't seem to have enough space in your inventory."
+            },
+            {
+              "speaker": "Filliman Tarlock",
+              "text": "Sure, but please look after this one."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Entering Filliman's grove",
+      "sections": [
+        {
+          "title": "Talking to Filliman inside his grove",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "Well, hello there again, I was just enjoying the grotto. Many thanks for your help, I couldn't have become a Spirit of nature without you."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "I must complete the transformation now. Just stand there and watch the show, apparently it's quite good!"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Hmmm, good, the transformation is complete. Now, my friend, in return for your assistance, I will help you to kill the Ghasts. First bring to me a silver sickle so that I can bless it for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A silver sickle? What's that?"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "The sickle is the symbol and weapon of the Druid, you need to construct one of silver so that I can bless it, with its powers you will be able to defeat the Ghasts of Mort Myre."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where would I get a silver sickle?"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "You could make one yourself if you're artisan enough. I've heard of a distant sandy place where you can buy the mould that you require, it's similar in many respects to the creating of a holy symbol."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What will you do to the silver sickle?"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Why, I will give it my blessings so that the very swamp in which you stand will blossom and bloom!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How can a blessed sickle help me to defeat the Ghasts?"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "My blessings will entice nature to bloom in Mort Myre! And then with natures harvest you can fill a druids pouch and release the Ghasts from their torment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Filliman inside his grotto again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Have you brought me the silver sickle?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No sorry, not yet!"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Well, come to me when you have it."
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Have you brought me the silver sickle?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, here it is. What are you going to do with it?"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "My friend, I will bless it for you and you will then be able to accomplish great things. Now then, I must cast the enchantment. You can bless a new sickle by dipping it in the holy water of the grotto."
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Now you can go forth and make the swamp bloom. Collect natures bounty to fill a druids pouch. So armed will the Ghasts be bound to you until, you flee or they are defeated."
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Before I can make this grotto into an Altar of Nature, I need to be sure that the Ghasts will be kept at bay. Go forth into Mort Myre and slay three Ghasts. You'll be releasing their souls from Mort Myre."
+                },
+                {
+                  "speaker": "Filliman Tarlock",
+                  "text": "I would give you the druid pouch, but you don't seem to have enough space in your inventory."
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "You'll need this in order to collect together natures bounty. When it contains items, it will bind the Ghast to you until you flee or it is defeated."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue with Filliman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Hello again my friend, have you defeated three Ghasts as I asked you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Well, when you do, please come to me and I'll reward you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do I get to attack the Ghasts?"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "Go forth and with the sickle make the swamp bloom. Collect natures bounty to fill a druids pouch. So armed will the Ghasts be bound to you until, you flee or they are defeated."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's this pouch for?"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "It is for collecting natures bounty, once it contains the blossomed items of the swamp, it will make the Ghasts appear and you can then attack them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can I do with this sickle?"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "You may use it wisely within the area of Mort Myre to affect natures balance and bring forth a bounty of natures harvest. Once collected into the druid pouch will the Ghast be apparent."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've lost my sickle!"
+                },
+                {
+                  "speaker": "Nature Spirit",
+                  "text": "If you should lose the blessed sickle, simply bring another to my altar of nature and refresh it in the grotto waters."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ok thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Fighting the Ghasts",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Returning to Filliman's grove",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Nature Spirit",
+              "text": "Hello again my friend, have you defeated three Ghasts as I asked you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I've killed all three and their spirits have been released!"
+            },
+            {
+              "speaker": "Nature Spirit",
+              "text": "Many thanks my friend, you have completed your quest! I can now change this place into a holy sanctuary! And forever will it now be an Altar of Nature!"
+            },
+            {
+              "speaker": "Nature Spirit",
+              "text": "Welcome to my Altar to Nature! Farewell my friend, and keep those Ghasts at bay!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

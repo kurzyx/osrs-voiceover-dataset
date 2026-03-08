@@ -1,0 +1,43 @@
+{
+  "ref": "candle-maker",
+  "categoryRef": "npc",
+  "title": "Candle maker",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Candle maker",
+              "text": "Hi! Would you be interested in some of my fine candles?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Candle maker",
+              "text": "Here, have this."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

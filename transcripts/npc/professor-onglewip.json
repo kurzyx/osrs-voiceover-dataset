@@ -1,0 +1,59 @@
+{
+  "ref": "professor-onglewip",
+  "categoryRef": "npc",
+  "title": "Professor Onglewip",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Do you live here too?"
+            },
+            {
+              "speaker": "Professor Onglewip",
+              "text": "Oh no, I come from the Gnome Stronghold. I've been sent here by King Narnode to learn about human magics."
+            },
+            {
+              "speaker": "Player",
+              "text": "So where's this Gnome Stronghold?"
+            },
+            {
+              "speaker": "Professor Onglewip",
+              "text": "It's in the North West of the continent - a long way away. You should visit us there some time. The food's great, and the company's delightful."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll try and make time for it. Sounds like a nice place."
+            },
+            {
+              "speaker": "Professor Onglewip",
+              "text": "Well, it's full of gnomes. How much nicer could it be?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gnome Restaurant dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Professor Onglewip",
+              "text": "Ah, now that's a familiar smell. Thank you."
+            },
+            {
+              "speaker": "Professor Onglewip",
+              "text": "You must have had to travel a long way to get this to me. Here's a little something extra as a tip."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

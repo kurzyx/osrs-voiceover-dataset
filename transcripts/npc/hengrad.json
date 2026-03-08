@@ -1,0 +1,121 @@
+{
+  "ref": "hengrad",
+  "categoryRef": "npc",
+  "title": "Hengrad",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "While wearing Khazard Armour",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "Hmm... You don't seem like a real guard to me. Who are you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No one important."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Without a disguise",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "You're not a guard. What are you doing in here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing important."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "If you say so."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After getting captured by General Khazard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hengrad",
+                  "text": "Hello there. So Khazard got his hands on you too?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Unfortunately so."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "Well if you're lucky, you might last as long as me."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How long have you been here?"
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "As long as I can remember. I was a child when his men kidnapped me. My whole life has been spent killing and fighting, all in the hope that one day I might escape."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't give up."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "Thanks, friend."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "Wait... sounds like the guard is coming. Looks like you'll be going back into the arena. Good luck, friend."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After defeating Bouncer (and Khazard)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Hengrad",
+                  "text": "I don't know how you managed to escape, but you may not be as lucky next time. Get out of here while you can."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

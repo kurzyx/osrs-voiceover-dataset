@@ -1,0 +1,207 @@
+{
+  "ref": "matthias",
+  "categoryRef": "npc",
+  "title": "Matthias",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Greetings. Can I help you at all?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you have any quests I could do?"
+            },
+            {
+              "speaker": "Matthias",
+              "text": "A quest? What a strange notion. Do you normally go around asking complete strangers for quests?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Er, yes, now you come to mention it."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Oh, ok then. Well, no, I don't; sorry."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Matthias",
+              "text": "A good question; straight and to the point."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "My name is Matthias, I am a falconer, and this is where I train my birds."
+            },
+            {
+              "speaker": "Player",
+              "text": "That sounds like fun; could I have a go?"
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Training falcons is a lot of work and I doubt you're up to the task. However, I suppose I could let you try hunting with one."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "I have some tamer birds that I occasionally lend to rich noblemen who consider it a sufficiently refined sport for their tastes, and you look like the kind who might appreciate a good hunt."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "I'd have to request a small fee, mind you; how does 500 gold pieces sound?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm afraid I don't have that much with me."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, that seems reasonable."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Good, however you really need both hands free. I'd suggest that you put away your weapons and gloves before we start."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Good, however you really need both hands free. I'd suggest that you take off some of that kit you're wearing before we start."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Don't worry; I'll keep an eye on you to make sure you don't upset it too much."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm not interested then, thanks."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Well, you're welcome to come back if you change your mind."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Absolutely, are you ready?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I am!"
+            },
+            {
+              "speaker": "Player",
+              "text": "That doesn't sound like my sort of thing."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Fair enough; it does require a great deal of patience and skill, so I can understand if you might feel intimidated."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's this falconry thing all about then?"
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Well, some people see it as a sport, although such a term does not really convey the amount of patience and dedication required to be proficient at the task."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Putting it simply, it is the training and use of birds of prey in hunting quarry."
+            },
+            {
+              "speaker": "Player",
+              "text": "So it's like keeping a pet then?"
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Not exactly, no. Such a bird can never really be considered tame in the same way that a dog can."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "They can be trained to associate people or places with food though, and, as such, a good falconer can get a trained bird to do as he wishes."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I have a go with your bird?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I invest in your setup here?"
+            },
+            {
+              "speaker": "Matthias",
+              "text": "If you'd like to put money forward for training more falcons, be my guest!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Would I get any benefit from this?"
+            },
+            {
+              "speaker": "Matthias",
+              "text": "I suppose I could let you use my falcons for free if you stump up enough cash. How does 500,000 coins sound?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, I don't have that much on me right now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hmm, that seems a little steep. I'll think on it."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "I appreciate that you want to invest more, but I really don't need it right now!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the falconer's glove is equipped",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello again."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Ah, you're back. How are you getting along with [him/her] then?"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's certainly harder than it looks."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Sorry, but I was talking to the falcon, not you. But yes it is; have you had enough yet?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I'd like to keep trying a little longer."
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok then, just come talk to me when you're done."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think I'll leave it for now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "ref": "mogrim",
+  "categoryRef": "npc",
+  "title": "Mogrim",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing The Forsaken Tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mogrim",
+                  "text": "Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Mogrim",
+                  "text": "Minecart rides are 20 coins."
+                },
+                {
+                  "speaker": "Mogrim",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing The Forsaken Tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mogrim",
+                  "text": "Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Mogrim",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unlimited ride fee refund",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mogrim",
+                  "text": "As a loyal customer of the Lovakengj Minecart Network, you're entitled to this."
+                },
+                {
+                  "speaker": "Mogrim",
+                  "text": "Now, can I help you today?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to travel to Shayzien East while already there",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mogrim",
+                  "text": "You're already here, human."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "When spoken to before Miriam",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mogrim",
+                  "text": "Sorry, human, you can't use the Lovakengj Minecart Network. Speak to Miriam, at the main station by the southern Lovakengj bank, if you've got any questions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Setting up the Lovakengj Minecart Network",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mogrim",
+                  "text": "Sorry, human, the Lovakengj Minecart Network is for citizens of Lovakengj only."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've got this control scroll for you."
+                },
+                {
+                  "speaker": "Mogrim",
+                  "text": "Thanks, human. I guess it's okay for you to ride my carts after all. So, can I help you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After giving him the Minecart control scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mogrim",
+                  "text": "Thanks again for bringing me that control scroll. Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trying to use a second Minecart control scroll on him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mogrim",
+                  "text": "No thanks, you've already given me one of those."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

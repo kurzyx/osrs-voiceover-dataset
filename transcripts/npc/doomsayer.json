@@ -1,0 +1,238 @@
+{
+  "ref": "doomsayer",
+  "categoryRef": "npc",
+  "title": "Doomsayer",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Doomsayer",
+              "text": "Dooooom!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Where?"
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "All around us! I can feel it in the air, hear it on the wind, smell it... also in the air!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Is there anything we can do about this doom?"
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "There is nothing you need to do my friend! I am the Doomsayer, although my real title could be something like the Danger Tutor."
+            },
+            {
+              "speaker": "Player",
+              "text": "Danger Tutor?"
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "Yes! I roam the world sensing danger."
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "If you see the signs often enough, then you can turn them off; by that time you likely know what the area has in store for you."
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "If I find a dangerous area, then I put up warning signs that will tell you what is so dangerous about that area."
+            },
+            {
+              "speaker": "Player",
+              "text": "But what if I want to see the warnings again?"
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "That's why I'm waiting here!"
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "If you want to see the warning messages again, I can turn them back on for you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, I'll remember that if I see any warning messages."
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "You're welcome!"
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "Do you need to turn on any warnings right now?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I do."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not right now."
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "Ok, keep an eye out for the messages though!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I will."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Doomsayer",
+                  "text": "You got lucky this time, next time doom will be upon you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "When spoken to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Doomsayer",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Doomsayer",
+                      "text": "How can that be? Try again!"
+                    },
+                    {
+                      "speaker": "Doomsayer",
+                      "text": "Spot on!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Doomsayer",
+                  "text": "Ah! Here you go!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Doomsayer",
+                  "text": "I need you to answer this for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Deadman Annihilation",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "How am I doing hunting those breach monsters, Doomsayer?"
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "You've dished out [X] damage to breach monsters. Keep up the dangerous activities! Anyway..."
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "Dooooom!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Deadman Mode worlds",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Doomsayer",
+              "text": "Dooooom!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Where?"
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "All around us! I can feel it in the air, hear it on the wind, smell it... also in the air!"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to remove my PvP protection."
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "You haven't got any PvP protection. Doom is already upon you."
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "That way doom lies, I cannot comply. Your protection will be finished in less than 5 minutes."
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "Are you sure? Much doom lies that way and it can not be undone!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, remove my PvP protection right now."
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "On your head be it!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, arrange for my PvP protection to end in 1 minute."
+            },
+            {
+              "speaker": "Doomsayer",
+              "text": "Much doom be with you."
+            },
+            {
+              "speaker": "Player",
+              "text": "On second thoughts, leave it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "ref": "verzik-vitur",
+  "categoryRef": "npc",
+  "title": "Verzik Vitur",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player has not done the Theatre of Blood before",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "Now that was quite the show! I haven't been that entertained in a long time."
+                },
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "Of course, you know I can't let you leave here alive. Time for your final performance..."
+                },
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "Oh I'm going to enjoy this..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player has done the Theatre of Blood at least once",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "Back again for more? I admire your perseverance. Shall we begin?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "During the fight",
+      "sections": [
+        {
+          "title": "Upon reaching phase two",
+          "sections": [
+            {
+              "title": "If standing under Verzik",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Verzik Vitur",
+                      "text": "There's nothing for you there!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "You think you can defeat me?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon reaching phase three",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "Behold my true nature!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon reaching 20% hitpoints in phase three",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "I'm not finished with you just yet!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon reaching 5% hitpoints in phase three (hard mode only)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Verzik Vitur",
+                  "text": "You think this is over?!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

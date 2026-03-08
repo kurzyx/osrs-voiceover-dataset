@@ -1,0 +1,2311 @@
+{
+  "ref": "biohazard",
+  "categoryRef": "quest",
+  "title": "Biohazard",
+  "sections": [
+    {
+      "title": "Getting started",
+      "sections": [
+        {
+          "title": "Talking to Elena",
+          "sections": [
+            {
+              "title": "Trying to dig in the mud patch",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good day to you, Elena."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "You too, thanks for freeing me."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "It's just a shame the mourners confiscated my equipment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What did they take?"
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "My distillator. I can't test any plague samples without it. They're holding it in the Mourner Headquarters in West Ardougne."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "I must somehow retrieve that distillator if I am to find a cure for this awful affliction. Do you think you could help me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Of course I can help. Where do we start?"
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "I was hoping you would say that. Unfortunately they discovered the tunnel and filled it in. We need another way over the wall."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Any ideas?"
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "My father's friend Jerico is in communication with West Ardougne. He might be able to help us. He lives in a house south east of here, north of the chapel."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm busy at the moment, I'm afraid."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Fair enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jerico",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Jerico."
+                },
+                {
+                  "speaker": "Jerico",
+                  "text": "Hello, I've been expecting you. Elena tells me you need to cross the wall."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's right."
+                },
+                {
+                  "speaker": "Jerico",
+                  "text": "My messenger pigeons help me communicate with friends over the wall."
+                },
+                {
+                  "speaker": "Jerico",
+                  "text": "I have arranged for two of them to aid you with a rope ladder. Omart is waiting for you at the southern end of the wall."
+                },
+                {
+                  "speaker": "Jerico",
+                  "text": "But be careful, if the mourners catch you, the punishment will be severe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks Jerico."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jerico again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jerico",
+                  "text": "Hello again. Have you spoken to Omart yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Jerico",
+                  "text": "You'll find him at the southern end of the wall. Keep an eye out for them mourners."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching the cupboard",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I don't need any more bird feed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Mmm, bird feed! Now what could I do with that?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Omart",
+          "sections": [
+            {
+              "title": "Talking to Omart again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Omart",
+                      "text": "Hello. Have you sorted that distraction yet?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Not yet."
+                    },
+                    {
+                      "speaker": "Omart",
+                      "text": "Try using some of Jerico's pigeons. Chuck some bird feed at the tower and then release some pigeons nearby. Jerico should be able to help you out."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Omart, Jerico said you might be able to help me."
+                },
+                {
+                  "speaker": "Omart",
+                  "text": "He informed me of your problem traveller. I would be glad to help, I have a rope ladder and my associate, Kilron, is waiting on the other side."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good stuff."
+                },
+                {
+                  "speaker": "Omart",
+                  "text": "Unfortunately we can't risk it with the watchtower so close. So first we need to distract the guards in the tower."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How?"
+                },
+                {
+                  "speaker": "Omart",
+                  "text": "I reckon some of Jerico's pigeons might help us out here. Chuck some bird feed at the tower and then release some pigeons nearby. They should provide a nice distraction."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where do I get the bird feed and the pigeons?"
+                },
+                {
+                  "speaker": "Omart",
+                  "text": "I'm sure Jerico can help you out with that if you ask him nicely."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jerico after talking to Omart",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Jerico."
+                },
+                {
+                  "speaker": "Jerico",
+                  "text": "Hello again. Have you spoken to Omart yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have. He told me to ask you about some pigeons."
+                },
+                {
+                  "speaker": "Jerico",
+                  "text": "Pigeons? What do you need my pigeons for?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Omart thought they'd make a good distraction for the guards."
+                },
+                {
+                  "speaker": "Jerico",
+                  "text": "Ahh, very clever. Well I'm sure I can let you borrow some, as long as you look after them. Just grab one of the cages from behind my house. You'll want some bird feed as well. I should have some in my cupboard."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Throwing bird feed",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I probably shouldn't waste it by throwing it here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening pigeon cage",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jerico after freeing the birds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Jerico",
+                  "text": "The guards are distracted by the birds, you must go now, quickly traveller."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Omart after freeing the birds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Omart",
+                  "text": "Well done, the guards are having real trouble with those birds. You must go now traveller, it's your only chance."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, lets do it."
+                },
+                {
+                  "speaker": "Omart",
+                  "text": "I'd recommend you wear a gas mask before entering West Ardougne. You don't want to risk catching the plague."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That would be wise. Thanks Omart."
+                },
+                {
+                  "speaker": "Kilron",
+                  "text": "Welcome to West Ardougne friend. I'm Kilron. Let me know if you want to go back over the wall."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks Kilron. Do you know where to find the Mourner Headquarters?"
+                },
+                {
+                  "speaker": "Kilron",
+                  "text": "It's the most north eastern building in the city. Be careful around there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll be back soon."
+                },
+                {
+                  "speaker": "Omart",
+                  "text": "Don't take too long, those mourners will soon be rid of those birds."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Omart after entering West Ardougne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Omart."
+                },
+                {
+                  "speaker": "Omart",
+                  "text": "Hello traveller. Do you wish to cross the wall?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, lets do it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Infiltrating the Mourner HQ",
+      "sections": [
+        {
+          "title": "Attempting to remove gas mask while inside West Ardougne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Kilron",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Kilron."
+                },
+                {
+                  "speaker": "Kilron",
+                  "text": "Hello traveller. Do you need to go back over?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes I do."
+                },
+                {
+                  "speaker": "Kilron",
+                  "text": "Okay, quickly now!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know where to find the Mourner Headquarters?"
+                },
+                {
+                  "speaker": "Kilron",
+                  "text": "It's the most north eastern building in the city. Be careful around there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet Kilron."
+                },
+                {
+                  "speaker": "Kilron",
+                  "text": "Okay, just give me the word."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Jerico after entering West Ardougne",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again Jerico."
+                },
+                {
+                  "speaker": "Jerico",
+                  "text": "So you've returned traveller. Did you get what you wanted?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Jerico",
+                  "text": "Omart will be waiting by the wall, in case you need to cross again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mourner outside Mourner Headquarters",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mourner",
+                  "text": "Back away citizen. Only mourners are allowed inside the headquarters."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm. I wonder if there's another way in."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Inspecting cauldron",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Looks like a nice stew is being prepared. This must be to feed all of the mourners."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Nurse Sarah",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello nurse."
+                },
+                {
+                  "speaker": "Nurse Sarah",
+                  "text": "I don't know how much longer I can cope here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? Is the plague getting to you?"
+                },
+                {
+                  "speaker": "Nurse Sarah",
+                  "text": "No, strangely enough the people here don't seem to be affected. It's just the awful living conditions that is making people ill."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was under the impression that everyone here was affected."
+                },
+                {
+                  "speaker": "Nurse Sarah",
+                  "text": "Me too, but that doesn't seem to be the case."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using rotten apple on cauldron",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Anyone who eats this stew is going to have a bad time now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening back door of the Mourner Headquarters",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Eugh, locked. There must be a way for me to get in. Maybe there's something around here that will help me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mourner outside Mourner Headquarters after poisoning the stew",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mourner",
+                  "text": "Back away citizen. Several mourners are ill with food poisoning."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there a doctor nearby? Maybe I can go fetch them."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "There are no doctors in West Ardougne, just that nurse south west of the chapel. You don't need to worry though, we'll soon have it sorted."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Searching cupboard by Nurse Sarah",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mourner outside Mourner Headquarters while wearing gown",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Mourner",
+                  "text": "A doctor? I didn't think there were any left around here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I heard there was some trouble with food poisoning here."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "You heard right. Head on in and see what you can do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to remove gown while inside Mourner Headquarters",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open trapdoor inside Mourner Headquarters",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mourner inside Mourner Headquarters",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Oh dear oh dear. I feel terrible, I think it was the stew."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You should be more careful with your ingredients."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "There is one mourner who's really sick. They're resting upstairs. You should see to them first."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll see what I can do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to sickest Mourner upstairs",
+          "sections": [
+            {
+              "title": "When the sickest Mourner dies",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Talking to sickest Mourner again while holding the key",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Mourner",
+                      "text": "Sorry, I'd like to be left in peace."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "A doctor? At last! I don't know what I've eaten but I feel like I'm on death's door."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hmm... interesting, sounds like food poisoning."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Yes, I'd figured that out already. What can you give me to help."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just hold your breath and count to ten."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "What? How will that help? What kind of doctor are you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Erm... I'm new, I just started."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "You're no doctor!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The best I can do is pray for you."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Pray for me? You're no doctor... You're an imposter!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "There's nothing I can do, it's fatal."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "No, I'm too young to die! I've never even had a girlfriend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's life for you."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Wait a minute, where's your equipment?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's erm... at home."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "You're no doctor!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening the gate (when entering)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the distillator crate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Mourner inside Mourner Headquarters after getting distillator",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Mourner",
+                  "text": "Oh dear oh dear. I feel terrible, I think it was the stew."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You should be more careful with your ingredients."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Opening back door of the Mourner Headquarters from the inside",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Elena without the distillator",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elena",
+                  "text": "You're back, did you find the distillator?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid not."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "I can't test the samples without the distillator. Please don't give up until you find it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Delivering the samples",
+      "sections": [
+        {
+          "title": "Talking to Elena with the distillator",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elena",
+                  "text": "You're back, did you find the distillator?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, here it is!"
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Great! Now I can finally run these tests."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "I don't understand... the touch paper hasn't changed colour at all..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What does that mean?"
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "I'm not sure. My old mentor in Varrock, Guidor, might know though. Could you take these to him and see what he thinks? You'll need to drop by the chemist in Rimmington first to pick up some more touch paper."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Now, last time I went to see Guidor, some one told the guards I was carrying some plague samples. Annoyingly, that means they've started searching everyone going to that part of the city."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Ironically, the guards won't be smart enough to recognise the sample itself, so you should be able to get that in just fine. They'll probably confiscate the rest though."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what do I do?"
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Well I know the chemist has still been managing to get chemicals to Guidor. Maybe he can help you smuggle the things in."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, I'll see if he can help. See you soon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Elena again before visiting the chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elena",
+                  "text": "What are you doing back here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I just find it hard to say goodbye sometimes."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "I see... I understand what you mean... But let's discuss that later."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid I've lost some of the stuff that you gave me..."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Are you sure? Looks like you have everything to me."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "That's alright, I've got plenty."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "There you go. That should be everything."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Great, I'll be on my way."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've forgotten what I need to do."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Go to Rimmington and get some touch paper from the chemist. Once you've done that, you'll need to take those things to Guidor in Varrock."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "You'll probably need to smuggle some of the items in to stop them getting confiscated. If you need help moving them discreetly, the chemist might be able to assist you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll get to it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Omart after returning the distillator",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Omart."
+                },
+                {
+                  "speaker": "Omart",
+                  "text": "Hello adventurer. I'm afraid it's too risky to use the ladder again. You'll have to find another way into the city."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Visiting the Chemist house in Rimmington",
+      "sections": [
+        {
+          "title": "Talking to Chancy in Rimmington before talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello! Playing solitaire?"
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Hush - I'm trying to perfect the art of dealing off the bottom of the deck."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Da Vinci in Rimmington before talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Bah! A great artist such as myself should not have to suffer the HUMILIATION of spending time where the likes of you wander everywhere!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hops in Rimmington before talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hops",
+                  "text": "Hops don't wanna talk now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chemist",
+                  "text": "Sorry, I'm afraid we're just closing now. You'll have to come back another time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I was sent by Elena from Ardougne."
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "Oh, well that's different then. Must be pretty important for her to send you all this way."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "She asked me to pick up some touch paper for a guy called Guidor."
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "Guidor? This one's on me then, I owe him more than a few favours."
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "I should warn you though, getting to him might not be easy if you're carrying any chemicals. The guards are searching anyone heading to that part of Varrock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh right... so am I going to be okay carrying these three vials with me?"
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "With touch paper as well? You're asking for trouble. You'd better use my errand boys outside. Give them a vial each. I must warn you though, they do have a habit of stealing things."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well that's no good. How do I stop them stealing my vials?"
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "Just make sure you give them something they have no reason to steal. One's a painter, one's a gambler, and one's a drunk. Not ideal I know, but if you pay peanuts you'll get monkeys, right?"
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "Now don't stand around here gassing. This is clearly important to Elena. You'll find Guidor's home in the south east corner of Varrock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, thanks for your help. I know Elena appreciates it."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the Chemist again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "Oh hello, do you need more touch paper?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "Fair enough, don't forget to talk to my errand boys outside if you need help getting things to Guidor. I must warn you though, they do have a habit of stealing things."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "Okay, here you go."
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "Don't forget to talk to my errand boys outside if you need help getting things to Guidor. I must warn you though, they do have a habit of stealing things."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well that's no good. What if they take my stuff?"
+                },
+                {
+                  "speaker": "Chemist",
+                  "text": "Just make sure you give them something they have no reason to steal. One's a painter, one's a gambler, and one's a drunk. Not ideal I know, but if you pay peanuts you'll get monkeys, right?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Chancy in Rimmington after talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, I've got a vial for you to take to Varrock."
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Tssch... that chemist asks for a lot for the wages he pays."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Maybe you should ask him for more money."
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Nah... I just use my initiative here and there."
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Right. I'll meet you at the Dancing Donkey Inn in south east Varrock. Be lucky!"
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Right. I'll meet you at the Dancing Donkey Inn in south east Varrock. Be lucky!"
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Right. I'll meet you at the Dancing Donkey Inn in south east Varrock. Be lucky!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Chancy in Rimmington after giving him a vial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Chancy",
+                  "text": "Look, I've got your vial but I'm not taking two. I always like to play the percentages."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Da Vinci in Rimmington after talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, I hear you're an errand boy for the chemist."
+                },
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Well that's my job yes. But I don't necessarily define my identity in such black and white terms."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good for you. Now can you take a vial to Varrock for me?"
+                },
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Go on then."
+                },
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Okay, I'll meet you at the Dancing Donkey in Varrock."
+                },
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Okay, I'll meet you at the Dancing Donkey in Varrock."
+                },
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Okay, I'll meet you at the Dancing Donkey in Varrock."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Da Vinci in Rimmington after giving him a vial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Oh, it's you again. Please don't distract me now, I'm contemplating the sublime."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hops in Rimmington after talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi, I've got something for you to take to Varrock."
+                },
+                {
+                  "speaker": "Hops",
+                  "text": "Sounds like pretty thirsty work."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, there's an Inn in Varrock if you're desperate."
+                },
+                {
+                  "speaker": "Hops",
+                  "text": "Don't worry, I'm a pretty resourceful fellow you know."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll see you in Varrock."
+                },
+                {
+                  "speaker": "Hops",
+                  "text": "Sure, I'm a regular at the Dancing Donkey Inn as it happens."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll see you in Varrock."
+                },
+                {
+                  "speaker": "Hops",
+                  "text": "Sure, I'm a regular at the Dancing Donkey Inn as it happens."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll see you in Varrock."
+                },
+                {
+                  "speaker": "Hops",
+                  "text": "Sure, I'm a regular at the Dancing Donkey Inn as it happens."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hops in Rimmington after giving him a vial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hops",
+                  "text": "I suppose I'd better get going. I'll meet you at the Dancing Donkey Inn."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Visiting south-east Varrock",
+      "sections": [
+        {
+          "title": "Talking to Guard at south-east Varrock",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Please don't disturb me, I've got to keep any eye out for suspicious individuals."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering south-east Varrock",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Halt. I need to conduct a search on you. There have been reports of someone bringing a virus into this area of Varrock."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "You may now pass."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Chancy in Varrock before talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Good morning."
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Leave me alone. I'm trying to find my gambling buddies!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Chancy in Varrock after giving him the wrong vial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi, thanks for doing that."
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "No problem. I've got some money for you actually."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Well, it turns out that potion you gave me, was quite valuable..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "I know that I probably shouldn't have sold it... but some friends and I were having a little wager, the odds were just too good!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You sold my vial and gambled with the money?!"
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Actually yes... but praise be to Saradoming because I won! So all's well that ends well right?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No! Nothing could be further from the truth!"
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Well, there's no pleasing some people. Here's your cut anyway."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You have no idea what you have just done!"
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Ignorance is bliss I'm afraid. Here's your cut anyway."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Chancy in Varrock after giving him honey",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi, thanks for doing that."
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "No problem."
+                },
+                {
+                  "speaker": "Chancy",
+                  "text": "Next time give me something more valuable... I couldn't get anything for this on the blackmarket."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That was the idea."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Da Vinci in Varrock before talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Bah! A great artist such as myself should not have to suffer the HUMILIATION of spending time where the likes of you wander everywhere!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Da Vinci in Varrock after giving him the wrong vial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Hello again. I hope your journey was as pleasant as mine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yep. Anyway, I'll take the package off you now."
+                },
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Package? That's a funny way to describe a liquid of such exquisite beauty!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm getting a bad feeling about this."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Just give me the stuff now please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You do still have it don't you?"
+                },
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Absolutely. It's just not stored in a vial anymore."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Instead it has been liberated. It now gleams from the canvas of my latest epic: The Majesty of Varrock!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's great. Thanks to you I'll have to walk back to East Ardougne to get another vial."
+                },
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Well you can't put a price on art."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Da Vinci in Varrock after giving him ethenea",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Hello again. I hope your journey was as pleasant as mine."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, as they say, it's always sunny in Gielinor."
+                },
+                {
+                  "speaker": "Da Vinci",
+                  "text": "Okay, here it is."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, you've been a big help."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hops in Varrock before talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hops",
+                  "text": "Hops don't wanna talk now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hops in Varrock after giving him the wrong vial",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, how was your journey?"
+                },
+                {
+                  "speaker": "Hops",
+                  "text": "Pretty thirst-inducing actually..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please tell me that you haven't drunk the contents..."
+                },
+                {
+                  "speaker": "Hops",
+                  "text": "Of course I can tell you that I haven't drunk the contents..."
+                },
+                {
+                  "speaker": "Hops",
+                  "text": "But I'd be lying. Sorry about that me old mucker, can I get you a drink?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I think you've done enough for now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Hops in Varrock after giving him broline",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, how was your journey?"
+                },
+                {
+                  "speaker": "Hops",
+                  "text": "Pretty thirst-inducing actually..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please tell me that you haven't drunk the contents..."
+                },
+                {
+                  "speaker": "Hops",
+                  "text": "Oh the gods no! What do you take me for?"
+                },
+                {
+                  "speaker": "Hops",
+                  "text": "Here's your vial anyway."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks, I'll let you get your drink now."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Exiting south-east Varrock while holding the vials",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I should probably talk to Guidor before leaving the area. Otherwise I'll need to get my vials smuggled in again."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering Guidor's room before talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "That's someone's bedroom. I'm not going in there without a reason."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering Guidor's room after talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Julie",
+                  "text": "Please leave my husband alone. He's very sick, and I don't want anyone bothering him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry to hear that. Is there anything I can do?"
+                },
+                {
+                  "speaker": "Julie",
+                  "text": "Thank you, but I just want him to see a priest."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A priest? Hmmm..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Julie before talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Julie",
+                  "text": "Oh dear! Oh dear! I don't have time to chat!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Julie after talking to the Chemist",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. I'm a friend of Elena, here to see Guidor."
+                },
+                {
+                  "speaker": "Julie",
+                  "text": "I'm afraid that Guidor is not long for this world! So I'm not letting people see him now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm really sorry to hear about Guidor."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I do have some very important business to attend to!"
+                },
+                {
+                  "speaker": "Julie",
+                  "text": "You heartless rogue! What could be more important than Guidor's life? A life spent well, if not always wisely... I just hope that Saradomin shows mercy on his soul!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Guidor is a religious man?"
+                },
+                {
+                  "speaker": "Julie",
+                  "text": "Oh goodness no! But I am! If only I could get him to see a priest!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A priest? Hmmm..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Asyff",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Asyff",
+                  "text": "Now you look like someone who goes to a lot of fancy dress parties."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Errr...what are you saying exactly?"
+                },
+                {
+                  "speaker": "Asyff",
+                  "text": "I'm just saying that perhaps you would like to peruse my selection of garments."
+                },
+                {
+                  "speaker": "Asyff",
+                  "text": "Or, if that doesn't interest you, then maybe you have something else to offer? I'm always on the look out for interesting or unusual new materials."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have a spare Priest Gown?"
+                },
+                {
+                  "speaker": "Asyff",
+                  "text": "Well I do sell them. I don't hand them out for free though. This is a shop not a charity."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please! It's really important."
+                },
+                {
+                  "speaker": "Asyff",
+                  "text": "Well I suppose you can have this old one. It's not in good enough condition to sell."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Julie while wearing priest gown top and bottom",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Julie",
+                  "text": "A priest! thank goodness! My husband is very ill! Perhaps you could read him his last rites?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll see what I can do."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Guidor",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, you must be Guidor. I understand that you are unwell."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Is my wife asking priests to visit me now? I'm a man of science for god's sake. I know she means well but it's only a little cough!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "She made out it was something more serious."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Well it's not killed me yet. So what do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I've come to ask your assistance in stopping a plague."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "You mean the plague of West Ardougne?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's the one. I have a sample here from your former student, Elena."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Elena eh?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, she wants you to analyse it. You might be the only one who can help."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Right then, sounds like we'd better get to work!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have the plague sample."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Now I'll be needing some liquid honey, some sulphuric broline, and then..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "... some ethenea?"
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Indeed!"
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Look, I need all three reagents to test the plague sample. Come back when you've got them."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Oh. You don't have any touch paper. I won't be able to help after all."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Seems like you don't actually have the plague sample. It's a long way to come empty handed... and quite a long way back too."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Now I'll just apply these to the sample and... I don't get it... the touch paper has remained the same."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's why Elena wanted you to do it, because she wasn't sure what was happening."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Well that's just it, nothing has happened. I don't know what this sample is, but it certainly isn't toxic."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what about the plague?"
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "This result can only mean one thing... there is no plague. It seems that someone has been lying about all of it. The only question is... why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well this is worrying. I'd better go and tell Elena right away."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was just going to bless your room and I've done that now."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Oh. Goodbye then."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Guidor again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again Guidor."
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "Well, hello traveller. I still can't understand why they would lie about the plague."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's strange, anyway how are you doing?"
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "I'm hanging in there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Julie after talking to Guido",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "Julie",
+                  "text": "Hello there. I fear Guidor may not be long for this world!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Return to Ardougne",
+      "sections": [
+        {
+          "title": "Talking to Elena after talking to Guidor",
+          "sections": [
+            {
+              "title": "Talking to Elena again before talking to the King",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello Elena."
+                    },
+                    {
+                      "speaker": "Elena",
+                      "text": "You must go and see King Lathas immediately!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Elena",
+                  "text": "You're back! So what did Guidor say?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He ran his tests and discovered nothing. The plague... it doesn't exist."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Doesn't exist? But I don't understand... why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't know, but I think we're about to uncover something huge."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Well I think there's only one thing for it. The king must be confronted!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The king?"
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Yes. King Lathas of East Ardougne. He was the one that had the wall built. He was the one who called the mourners in. He must know what's really going on here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well I'd better go and speak to the king then."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Be quick. You should find him in the castle."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to King Lathas after talking to Elena about the plague",
+          "sections": [
+            {
+              "title": "Talking to King Lathas again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Good day King Lathas."
+                    },
+                    {
+                      "speaker": "King Lathas",
+                      "text": "And to you adventurer. I assume you're here about King Tyras?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I am. What's our plan?"
+                    },
+                    {
+                      "speaker": "King Lathas",
+                      "text": "Well, as we've previously discussed, my brother is currently gathering strength in the lands west of here. The only known way into those lands is through the Underground Pass."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm just passing through."
+                    },
+                    {
+                      "speaker": "King Lathas",
+                      "text": "Fair enough. Return to me when you are ready and we will discuss our next steps."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I assume that you are King Lathas of East Ardougne?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "You assume correctly, but where do you get such impertinence."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I get it from finding out that the plague is a hoax."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "A hoax? I've never heard such a ridiculous thing..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have evidence, from Guidor of Varrock."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Ah... I see. Well then you are right about the plague. But I did it for the good of my people."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "When is it ever good to lie to people like that?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "When it protects them from a far greater danger, a fear too big to fathom."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't understand..."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "When my father was king, he ruled over a united Ardougne. But on his deathbed, he could not decide which of his sons should succeed him, so he had the city split into two."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "I became king of East Ardougne while my brother, Tyras, ruled over West Ardougne. My brother was a good man and was great at many things. Being a king was not one of them."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Rather than looking after his people, he went on numerous expeditions to the lands west of here. On one of these expeditions, he was captured by the forces of the Dark Lord."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "The Dark Lord agreed to spare his life, but only on one condition... That he would drink from the Chalice of Eternity."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what happened?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "The chalice corrupted him. He joined forces with the Dark Lord, the embodiment of pure evil..."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "And so I erected the wall, not just to protect my people, but to protect all the people of Gielinor. Tyras is king of West Ardougne, sealing off the city was the only way to stop him and the Dark Lord."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "I knew people would never believe the truth, so I had the plague made up as an excuse for the cordon. I'm not proud of it, but it was the only way to keep people safe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I see. Well at least I know now."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "While my brother is still at large, I must ask that you keep this secret. We can't bring the wall down until we know he is no longer a danger."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But how do we stop him?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "You're willing to help? Gods be praised!"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "My brother is currently gathering strength in the lands to the west. If we are to stop him, we must find a way through the mountains. There is an underground pass that should lead through but it is full of danger."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Return to me when you are ready to face this peril. Until then, I give you permission to use my training area. It's located just to the north west of the city."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "I'll also let the mourners know that you are a friend to Ardougne. You will be allowed to pass through the gates to West Ardougne whenever you please. Now, you'd better be off. You have much to prepare for."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Do you need anything else adventurer?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why don't I get started right away?"
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Your enthusiasm is to be commended. Very well, if you feel you are already prepared then who am I to stop you."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "As we've previously discussed, my brother is currently gathering strength in the lands west of here. The only known way into those lands is through the Underground Pass."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't think so."
+                },
+                {
+                  "speaker": "King Lathas",
+                  "text": "Very well. Return to me once you are ready and we will discuss our next steps."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Elena after finishing the quest",
+          "sections": [
+            {
+              "title": "Talking to Elena again after finishing the quest",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello Elena."
+                    },
+                    {
+                      "speaker": "Elena",
+                      "text": "Hey, how are you?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Good thanks, yourself?"
+                    },
+                    {
+                      "speaker": "Elena",
+                      "text": "Not bad, I do wish you could tell me what's going on with the plague though."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "So do I Elena. I promise I'll tell you everything once this is all over."
+                    },
+                    {
+                      "speaker": "Elena",
+                      "text": "I hope that's not too far off."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "It shouldn't be, don't worry."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Elena."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Hey, how are you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good thanks, yourself?"
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Not bad, did you speak to the king?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I did, he admitted the plague is a hoax."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Did he say why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He did. He asked me to keep it a secret though."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "Even from me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm afraid so. Don't worry though, I'm working with the king to resolve all of this."
+                },
+                {
+                  "speaker": "Elena",
+                  "text": "I hope so. Even without the plague, I still worry about the people of West Ardougne."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Julie after finishing the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Julie",
+                  "text": "Oh hello, I can't chat now. I have to keep an eye on my husband. He's very ill!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm sorry to hear that!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Guidor after finishing the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello again Guidor. How are you doing?"
+                },
+                {
+                  "speaker": "Guidor",
+                  "text": "I'm hanging in there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Good for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

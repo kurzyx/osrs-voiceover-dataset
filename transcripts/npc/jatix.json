@@ -1,0 +1,44 @@
+{
+  "ref": "jatix",
+  "categoryRef": "npc",
+  "title": "Jatix",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Jatix",
+              "text": "Hello, how can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "You can't; I'm beyond help."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm okay, thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Easy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

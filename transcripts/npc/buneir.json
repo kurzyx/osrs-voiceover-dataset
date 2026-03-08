@@ -1,0 +1,101 @@
+{
+  "ref": "buneir",
+  "categoryRef": "npc",
+  "title": "Buneir",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing The Forsaken Tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Buneir",
+                  "text": "Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Buneir",
+                  "text": "Minecart rides are 20 coins."
+                },
+                {
+                  "speaker": "Buneir",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing The Forsaken Tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Buneir",
+                  "text": "Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Buneir",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unlimited ride fee refund",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Buneir",
+                  "text": "As a loyal customer of the Lovakengj Minecart Network, you're entitled to this."
+                },
+                {
+                  "speaker": "Buneir",
+                  "text": "Now, can I help you today?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to travel to the Kourend Woodland while already there",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Buneir",
+                  "text": "You're already here, human."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

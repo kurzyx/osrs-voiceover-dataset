@@ -1,0 +1,107 @@
+{
+  "ref": "master-fisher",
+  "categoryRef": "npc",
+  "title": "Master fisher",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Without 68 Fishing",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Master fisher",
+                  "text": "Hello, I'm afraid only the top fishers are allowed to use our premier fishing facilities."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With 68 Fishing, but less than 99 Fishing",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Master fisher",
+                  "text": "Hello, welcome to the fishing guild. Please feel free to make use of any of our facilities."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me about that skillcape you're wearing?"
+                },
+                {
+                  "speaker": "Master fisher",
+                  "text": "I'm happy to, my friend. This beautiful cape was presented to me in recognition of my skills and experience as a fisherman and I was asked to be the head of this guild at the same time."
+                },
+                {
+                  "speaker": "Master fisher",
+                  "text": "As the best fisherman in the guild it is my duty to control who has access to the guild and to say who can buy similar skillcapes and the cape can even teleport you right inside the guild."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With 99 Fishing",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Master fisher",
+                  "text": "Hello, welcome to the fishing guild. Please feel free to make use of any of our facilities."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me about that skillcape you're wearing?"
+                },
+                {
+                  "speaker": "Master fisher",
+                  "text": "I'm happy to say that being such a fine fisher yourself, I'm happy to offer you the opportunity to purchase a fine skillcape just like this one, it can even teleport you right inside the guild. Are you interested? It would cost"
+                },
+                {
+                  "speaker": "Master fisher",
+                  "text": "99000 coins."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, please."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But, unfortunately, I don't have enough money with me."
+                },
+                {
+                  "speaker": "Master fisher",
+                  "text": "Well, come back and see me when you do."
+                },
+                {
+                  "speaker": "Master fisher",
+                  "text": "Unfortunately all Skillcapes are only available with a free hood, it's part of a skill promotion deal; buy one get one free, you know. So you'll need to free up some inventory space before I can sell you one."
+                },
+                {
+                  "speaker": "Master fisher",
+                  "text": "Excellent! Wear that cape with pride my friend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, thanks."
+                },
+                {
+                  "speaker": "Master fisher",
+                  "text": "Okay, suit yourself."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

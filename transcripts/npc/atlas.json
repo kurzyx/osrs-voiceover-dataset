@@ -1,0 +1,133 @@
+{
+  "ref": "atlas",
+  "categoryRef": "npc",
+  "title": "Atlas",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Atlas",
+              "text": "What do you want, little [man/woman]?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing. Just though I'd try to strike up a conversation."
+            },
+            {
+              "speaker": "Atlas",
+              "text": "Not now little one, I'm busy."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay then."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After the completion of Below Ice Mountain",
+      "sections": [
+        {
+          "title": "First workout",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Atlas",
+                  "text": "Well done, little one. You've proven your worth."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I do it again?"
+                },
+                {
+                  "speaker": "Atlas",
+                  "text": "What? Why?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It was fun, I'd like to do it again."
+                },
+                {
+                  "speaker": "Atlas",
+                  "text": "You're the first person to ask me that [player name]. I suppose I could train you again, but I will have to charge you the full 25,000 coins this time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Let's do this, I'm ready."
+                },
+                {
+                  "speaker": "Atlas",
+                  "text": "It's not going to be any easier my friend!"
+                },
+                {
+                  "speaker": "Atlas",
+                  "text": "Hold it there little one, you don't have enough money to pay for the lesson."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, sorry I was too excited..."
+                },
+                {
+                  "speaker": "Atlas",
+                  "text": "No worries friend, come back when you can afford the session."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Second workout",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Atlas",
+                  "text": "Back again I see, here for another workout?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Atlas",
+                  "text": "You must take your training very seriously [player name]. This is the second time you'll have done this workout and paid full price!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent workouts",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Atlas",
+                  "text": "Back again I see, here for another workout?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
+                },
+                {
+                  "speaker": "Atlas",
+                  "text": "You take your training very seriously [player name]. You know you've done this workout [times done] times, are you sure you want to do it again?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

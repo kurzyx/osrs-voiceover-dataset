@@ -1,0 +1,253 @@
+{
+  "ref": "watchtower-wizard",
+  "categoryRef": "npc",
+  "title": "Watchtower Wizard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completion of the Watchtower quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Who are you? Are you one of the new guards?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I'm an adventurer."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Well what are you doing here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Looking for adventures - what else?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Oh my, oh my! What does it all matter in the end, anyway?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What's the matter?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Oh dear, oh dear. Darn and drat!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "We try hard to keep this town protected."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "But how can we do that when the Watchtower isn't working?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean it isn't working?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "The Watchtower over here works by the power of magic. An ancient spell designed to ward off ogres that has been in place here for many moons."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "The exact knowledge of the spell is lost to us now, but the essence of the spell has been infused into four powering crystals that keep the tower protected from the hordes in the Feldips."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So how come the spell doesn't work?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "The crystals! The crystals have been taken!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Taken?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Stolen!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Stolen?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Yes, yes! Do I have to repeat myself?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I be of help?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Help? Oh wonderful, dear traveller!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Yes I could do with an extra pair of eyes here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "???"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "There must be some evidence of what has happened here. Perhaps you could assist me in searching for clues?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I would be happy to."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Try searching the surrounding area. If you find anything unusual, bring it here. Try the bushes - I've read enough adventure stoies to know that clues get caught in bushes all the time."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "I will tell the guards to let you past - that way, you can just use the ladder to get in and out."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not interested."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "That's typical, nowadays. It's left to us wizards to do all the work."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not interested in your rantings."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Hmph! Suit yourself."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You wizards are always complaining."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Complaining? Complaining!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "What folks these days don't realise is that if it weren't for us wizards, this entire world would be overrun with every creature you could possibly imagine. And some you couldn't even conceive of!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completion of the Watchtower quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Greetings, friend. I trust all is well with you? Yanille is safe at last!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I lost the scroll you gave me."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Ho, ho, ho! A comedian to the finish! There it is, in your backpack!"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Never mind, have another..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's okay."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "We are always in your debt; do come and visit us again."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any more quests for me?"
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "More quests? No, indeed, adventurer. You have done us a great service, already."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's okay."
+                },
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "We are always in your debt; do come and visit us again."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using items on him",
+      "sections": [
+        {
+          "title": "Vial of water",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "Oh lovely, fresh water... Thanks!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Any unfinished stage of the Potion (Watchtower)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "No, no. The potion is not complete yet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Potion (Watchtower)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Watchtower Wizard",
+                  "text": "I can't let you use this now, it's just too dangerous. I'd better take it from you before you injure yourself."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

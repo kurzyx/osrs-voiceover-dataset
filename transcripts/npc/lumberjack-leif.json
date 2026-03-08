@@ -1,0 +1,124 @@
+{
+  "ref": "lumberjack-leif",
+  "categoryRef": "npc",
+  "title": "Lumberjack Leif",
+  "sections": [
+    {
+      "title": "Standard dialogue before Throne of Miscellania",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lumberjack Leif",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good day. What are you doing?"
+            },
+            {
+              "speaker": "Lumberjack Leif",
+              "text": "I'm cutting down maple trees for their wood. It's a living."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good luck with that."
+            },
+            {
+              "speaker": "Lumberjack Leif",
+              "text": "Thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after Throne of Miscellania",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lumberjack Leif",
+              "text": "Good day, Your Royal Highness."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good day. What are you doing?"
+            },
+            {
+              "speaker": "Lumberjack Leif",
+              "text": "I'm cutting down maple trees for their wood. It's a living."
+            },
+            {
+              "speaker": "Player",
+              "text": "Good luck with that."
+            },
+            {
+              "speaker": "Lumberjack Leif",
+              "text": "Thank you, Your Royal Highness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Check-Approval",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Can you tell me how the kingdom approves of me?"
+            },
+            {
+              "speaker": "Lumberjack Leif",
+              "text": "[amount]% of people approve of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the storerooms are full",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Lumberjack Leif",
+              "text": "The storerooms are full, your Highness. You should talk to Advisor Ghrim to collect what we've gathered for you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Royal Trouble",
+      "sections": [],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When gaining approval by chopping trees",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lumberjack Leif",
+                  "text": "Thanks!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

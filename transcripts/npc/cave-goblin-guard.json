@@ -1,0 +1,123 @@
+{
+  "ref": "cave-goblin-guard",
+  "categoryRef": "npc",
+  "title": "Cave goblin guard",
+  "sections": [
+    {
+      "title": "Before The Lost Tribe",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cave goblin guard",
+              "text": "Surface-dweller! You should leave the mines now!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After The Lost Tribe",
+      "sections": [
+        {
+          "title": "Standard dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "Have a nice day!"
+                },
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "I'm keeping an eye on you, surface-dweller."
+                },
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "Surface-dweller! You will never find your way into the city of Dorgesh-Kaan!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Isn't it through that big door?"
+                },
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "Well, yes, but you'll never find your way in!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter Dorgesh-Kaan",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "Surface-dweller! You may not pass through that door!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After completion of Death to the Dorgeshuun",
+      "sections": [
+        {
+          "title": "Standard dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "Have a nice day!"
+                },
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "I'm keeping an eye on you, surface-dweller."
+                },
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "Surface-dweller! You will never find your way into the city of Dorgesh-Kaan!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "But I thought I was allowed into the city now."
+                },
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "Oh yes, so you are. I'd better say something different."
+                },
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "*Ahem*"
+                },
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "Surface-dweller! You will easily find your way into the city of Dorgesh-Kaan!"
+                },
+                {
+                  "speaker": "Cave goblin guard",
+                  "text": "How about that?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, that's much more appropiate."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

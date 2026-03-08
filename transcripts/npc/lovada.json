@@ -1,0 +1,73 @@
+{
+  "ref": "lovada",
+  "categoryRef": "npc",
+  "title": "Lovada",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello again. How are you?"
+            },
+            {
+              "speaker": "Lovada",
+              "text": "What's that? How do I chew? With my teeth of course. You humans are odd."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, no I said HOW ARE YOU?"
+            },
+            {
+              "speaker": "Lovada",
+              "text": "No need to shout, I'm not deaf. I'm good thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [
+            {
+              "title": "With inventory space available",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Lovada",
+                      "text": "Here you go."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "With no inventory space",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Lovada",
+                      "text": "Hey, I have something for you but you don't have any space for it!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

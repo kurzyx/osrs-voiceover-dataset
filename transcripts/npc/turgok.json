@@ -1,0 +1,67 @@
+{
+  "ref": "turgok",
+  "categoryRef": "npc",
+  "title": "Turgok",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Turgok",
+              "text": "Cave slime soup! Do you want to buy some soup? Only 10 coins a bowl."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please!"
+            },
+            {
+              "speaker": "Turgok",
+              "text": "There you go."
+            },
+            {
+              "speaker": "Player",
+              "text": "But I don't have enough money on me."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Turgok",
+              "text": "Tasty soup!"
+            },
+            {
+              "speaker": "Turgok",
+              "text": "Green cave-slime soup!"
+            },
+            {
+              "speaker": "Turgok",
+              "text": "Soup!"
+            },
+            {
+              "speaker": "Turgok",
+              "text": "Hot, tasty soup!"
+            },
+            {
+              "speaker": "Turgok",
+              "text": "Cave slime soup!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

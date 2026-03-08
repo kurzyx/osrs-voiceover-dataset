@@ -1,0 +1,91 @@
+{
+  "ref": "woodcutting-leprechaun",
+  "categoryRef": "npc",
+  "title": "Woodcutting Leprechaun",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If players were not actively cutting trees nearby",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Woodcutting Leprechaun",
+                  "text": "What an obnoxious tree, spreading rumours 'bout other trees and sucking up all the water."
+                },
+                {
+                  "speaker": "Woodcutting Leprechaun",
+                  "text": "Since you're here, I'll let you use me restricted banking services."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Woodcutting Leprechaun",
+              "text": "Grand job, what an obnoxious tree, spreading rumours 'bout other trees and sucking up all the water."
+            },
+            {
+              "speaker": "Woodcutting Leprechaun",
+              "text": "As a reward, I'll let ye use me full banking services!"
+            },
+            {
+              "speaker": "Player",
+              "text": "..."
+            },
+            {
+              "speaker": "Woodcutting Leprechaun",
+              "text": "..."
+            },
+            {
+              "speaker": "Player",
+              "text": "..."
+            },
+            {
+              "speaker": "Woodcutting Leprechaun",
+              "text": "Okay then."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Right-click Deposit",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Woodcutting Leprechaun",
+              "text": "It be yer lucky day, Foresters!"
+            },
+            {
+              "speaker": "Woodcutting Leprechaun",
+              "text": "I'll have to go shortly..."
+            },
+            {
+              "speaker": "Woodcutting Leprechaun",
+              "text": "Well, I must be getting on now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

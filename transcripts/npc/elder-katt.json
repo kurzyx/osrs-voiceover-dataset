@@ -1,0 +1,47 @@
+{
+  "ref": "elder-katt",
+  "categoryRef": "npc",
+  "title": "Elder Katt",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Katt",
+              "text": "Hello, human."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello there. What is this place?"
+            },
+            {
+              "speaker": "Elder Katt",
+              "text": "This is our Sacred Grove. It is a place dear to all tortugans, but I'm afraid I can't allow you to enter."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, fair enough."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attempting to enter the grove",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Elder Katt",
+              "text": "Stop, human! You don't have permission to go in there!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

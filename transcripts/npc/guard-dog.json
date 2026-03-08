@@ -1,0 +1,41 @@
+{
+  "ref": "guard-dog",
+  "categoryRef": "npc",
+  "title": "Guard dog",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Catching the player attempting to steal from a fruit stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard dog",
+                  "text": "Woof! Woof! Woof!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Catching the player attempting to steal from any other stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard dog",
+                  "text": "Woof Woof Bark!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

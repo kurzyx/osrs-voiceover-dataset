@@ -1,0 +1,94 @@
+{
+  "ref": "edward",
+  "categoryRef": "npc",
+  "title": "Edward",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Edward",
+              "text": "Hello there, are you interested in buying one of my special capes?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's so special about your capes?"
+            },
+            {
+              "speaker": "Edward",
+              "text": "Ahh well they make it less likely that you'll accidently attack anyone wearing the same cape as you and easier to attack everyone else. They also make it easier to distinguish people who're wearing the same cape as you"
+            },
+            {
+              "speaker": "Edward",
+              "text": "from everyone else. They're very useful when out in the wilderness with friends or anyone else you don't want to harm."
+            },
+            {
+              "speaker": "Edward",
+              "text": "So would you like to buy one?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Master",
+          "sections": [
+            {
+              "title": "If talked to without having solved the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Edward",
+                      "text": "That doesn't look solved to me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "If talked to having solved the puzzle box",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Edward",
+                      "text": "Well done [player name]. Here you go."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Edward",
+                  "text": "Here, solve this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

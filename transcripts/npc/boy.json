@@ -1,0 +1,63 @@
+{
+  "ref": "boy",
+  "categoryRef": "npc",
+  "title": "Boy",
+  "sections": [
+    {
+      "title": "Before Witch's House",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello young man."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's the matter?"
+            },
+            {
+              "speaker": "Boy",
+              "text": "I've kicked my ball over that hedge, into that garden! The old lady who lives there is scary... She's locked the ball in her wooden shed! Can you get my ball back for me please?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, I'll see what I can do."
+            },
+            {
+              "speaker": "Boy",
+              "text": "Thanks mister!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Get it back yourself."
+            },
+            {
+              "speaker": "Boy",
+              "text": "You're a meany!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well if you're not going to answer, I'll go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After Witch's House",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Boy",
+              "text": "Thank you for getting my ball back!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "ref": "fire-warrior-of-lesarkus",
+  "categoryRef": "npc",
+  "title": "Fire Warrior of Lesarkus",
+  "sections": [
+    {
+      "title": "Temple of Ikov dialogue",
+      "sections": [
+        {
+          "title": "Attempting to attack him without ice arrows",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fire Warrior of Lesarkus",
+                  "text": "Your puny weapons do nothing against me human! Come back when you can give me a real fight!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him before fighting him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fire Warrior of Lesarkus",
+                  "text": "Who dares to enter the Temple of Ikov!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A mighty hero!"
+                },
+                {
+                  "speaker": "Fire Warrior of Lesarkus",
+                  "text": "Pathetic fool! Prepare to die!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A humble pilgrim."
+                },
+                {
+                  "speaker": "Fire Warrior of Lesarkus",
+                  "text": "I haven't seen a pilgrim for thousands of years!"
+                },
+                {
+                  "speaker": "Fire Warrior of Lesarkus",
+                  "text": "Temple is closed!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

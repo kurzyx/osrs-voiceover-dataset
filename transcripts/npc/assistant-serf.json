@@ -1,0 +1,37 @@
+{
+  "ref": "assistant-serf",
+  "categoryRef": "npc",
+  "title": "Assistant Serf",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Assistant Serf",
+              "text": "Do you want to use the balloon? Just so you know, some locations require special logs and high Firemaking skills."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Assistant Serf",
+              "text": "I am a serf. Assistant Serf to you! Auguste freed me and gave me this job."
+            },
+            {
+              "speaker": "Assistant Serf",
+              "text": "Do you want to use the balloon?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

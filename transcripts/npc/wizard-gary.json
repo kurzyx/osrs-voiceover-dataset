@@ -1,0 +1,87 @@
+{
+  "ref": "wizard-gary",
+  "categoryRef": "npc",
+  "title": "Wizard Gary",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wizard Gary",
+              "text": "Hello. What brings you here?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Wizard Gary",
+              "text": "I'm Gary, the wizard. I've not actually been qualified for very long, so I'm living here near the rune shop so I can keep practicing the magical arts."
+            },
+            {
+              "speaker": "Wizard Gary",
+              "text": "I seem to be raising a cat, too, ever since some local lady persuaded me to buy one off her."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is the cat supposed to help you get runes too?"
+            },
+            {
+              "speaker": "Wizard Gary",
+              "text": "No! I know there are places where people think it's normal to swap cats for runes, but that will NOT happen to Sookie!"
+            },
+            {
+              "speaker": "Player",
+              "text": "If you're a wizard, are you doing anything magical?"
+            },
+            {
+              "speaker": "Wizard Gary",
+              "text": "Always! But I'm not looking for any assistance from passing adventurers, if that's what you were thinking. Maybe another time."
+            },
+            {
+              "speaker": "Player",
+              "text": "Bye, Gary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the 25th Anniversary event was completed",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wizard Gary",
+              "text": "Thank you so much for helping me open the Realm of Memories, [player name]!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you going to do now?"
+            },
+            {
+              "speaker": "Wizard Gary",
+              "text": "I'm a qualified wizard now, thanks to you. So I've settled here, near a handy rune shop, so I can keep practicing the magical arts while I raise this cat that some local lady persuaded me to buy."
+            },
+            {
+              "speaker": "Wizard Gary",
+              "text": "Maybe I'll need your help with another project in future, but for now, I think I'm okay."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you open the portal to the Realm again?"
+            },
+            {
+              "speaker": "Wizard Gary",
+              "text": "The mementos expired, so no. I'm not really interested in repeating that project, anyway - I prefer my work to bring fresh challenges, rather than just recycling copies of stuff I did before."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "ref": "ranging-guild-doorman",
+  "categoryRef": "npc",
+  "title": "Ranging Guild Doorman",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Attempting to enter the Ranging Guild without 40 Ranged",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ranging Guild Doorman",
+                  "text": "Hey you can't come in here. You must be a level 40 ranger to enter."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Ranging Guild Doorman",
+              "text": "Greetings. If you are an experienced archer, you may want to visit the guild here..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

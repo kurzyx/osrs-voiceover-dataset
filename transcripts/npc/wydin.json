@@ -1,0 +1,99 @@
+{
+  "ref": "wydin",
+  "categoryRef": "npc",
+  "title": "Wydin",
+  "sections": [
+    {
+      "title": "Before Pirate's Treasure",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wydin",
+              "text": "Welcome to my food store! Would you like to buy anything?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "What can you recommend?"
+            },
+            {
+              "speaker": "Wydin",
+              "text": "We have this really exotic fruit all the way from Karamja. It's called a banana."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hmm, I think I'll try one."
+            },
+            {
+              "speaker": "Wydin",
+              "text": "Great. You might as well take a look at the rest of my wares as well."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't like the sound of that."
+            },
+            {
+              "speaker": "Wydin",
+              "text": "Well, it's your choice, but I do recommend them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "After he hires the player during Pirate's Treasure",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Wydin",
+              "text": "Is it nice and tidy round the back now?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, can I work out front now?"
+            },
+            {
+              "speaker": "Wydin",
+              "text": "No, I'm the one who works here."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, are you going to pay me yet?"
+            },
+            {
+              "speaker": "Wydin",
+              "text": "Umm... No, not yet."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, it's a complete mess."
+            },
+            {
+              "speaker": "Wydin",
+              "text": "Ah well, it'll give you something to do, won't it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I buy something please?"
+            },
+            {
+              "speaker": "Wydin",
+              "text": "Yes, of course."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

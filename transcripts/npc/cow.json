@@ -1,0 +1,74 @@
+{
+  "ref": "cow",
+  "categoryRef": "npc",
+  "title": "Cow",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "At random or when a nearby Beef pet uses moo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cow",
+                  "text": "Moo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Upon seeing someone teleport to the Lumbridge cow field with the cowbell amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cow",
+                  "text": "Moo?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Zanaris cow",
+      "sections": [
+        {
+          "title": "Using Nuff's certificate on the cow",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you know what these strange marks mean?"
+                },
+                {
+                  "speaker": "Cow",
+                  "text": "Can't the human take a hint? I've been ignoring you! Do you think I would ignore you if I wanted to discuss your Rorschach ink-blots ?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Cow",
+              "text": "Hmm, interesting, there appears to be a human trying to talk to me. Is it aware that cows can't talk I wonder? Maybe if I just ignore it, it might go away."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

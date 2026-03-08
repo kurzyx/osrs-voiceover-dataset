@@ -1,0 +1,57 @@
+{
+  "ref": "leela",
+  "categoryRef": "npc",
+  "title": "Leela",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before the completion of Prince Ali Rescue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What are you waiting here for?"
+                },
+                {
+                  "speaker": "Leela",
+                  "text": "That is no concern of yours, adventurer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the completion of Prince Ali Rescue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Leela",
+                  "text": "Al Kharid will forever owe you for your help in saving Prince Ali. It's good to know that we have you as a friend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's no problem. So how come you're still out here?"
+                },
+                {
+                  "speaker": "Leela",
+                  "text": "We still don't know why Keli and her bandits took the Prince. I'm hoping I can find out. The place where they imprisoned him seems a good starting point."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well if you need help, you know where I am. Good luck."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "ref": "banker-ferox-enclave-",
+  "categoryRef": "npc",
+  "title": "Banker (Ferox Enclave)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Banker",
+              "text": "Oh great, another customer. What do you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you doing out here?"
+            },
+            {
+              "speaker": "Banker",
+              "text": "I used to work in the East Varrock branch. Then a request came in to set up a bank in this new town."
+            },
+            {
+              "speaker": "Banker",
+              "text": "The other clerks and myself pulled straws and I was unlucky enough to be sent to this stinking death trap."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Now I'm stuck here, ferrying items back and forth to the bank's safe in Varrock for people like you."
+            },
+            {
+              "speaker": "Player",
+              "text": "That doesn't sound very fun, but you're doing a great service for us adventurers."
+            },
+            {
+              "speaker": "Banker",
+              "text": "Tell that to my back and legs, I'm exhausted from carrying all this junk back and forth."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using un-noted items on the Banker",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Banker",
+              "text": "Hand me a banknote, and I'll try to convert it to an item."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using coins on the Banker",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Using platinum tokens on the Banker",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

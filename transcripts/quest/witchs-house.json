@@ -1,0 +1,338 @@
+{
+  "ref": "witchs-house",
+  "categoryRef": "quest",
+  "title": "Witch's House",
+  "sections": [
+    {
+      "title": "Getting started",
+      "sections": [
+        {
+          "title": "Talking to him again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Boy",
+                  "text": "Have you got my ball back yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet."
+                },
+                {
+                  "speaker": "Boy",
+                  "text": "Well, it's in the shed in that garden."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello young man."
+            },
+            {
+              "speaker": "Player",
+              "text": "What's the matter?"
+            },
+            {
+              "speaker": "Boy",
+              "text": "I've kicked my ball over that hedge, into that garden! The old lady who lives there is scary... She's locked the ball in her wooden shed! Can you get my ball back for me please?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ok, I'll see what I can do."
+            },
+            {
+              "speaker": "Boy",
+              "text": "Thanks mister!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Get it back yourself."
+            },
+            {
+              "speaker": "Boy",
+              "text": "You're a meany!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Well if you're not going to answer, I'll go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Witch's house",
+      "sections": [
+        {
+          "title": "Searching the plant pot for the key",
+          "sections": [
+            {
+              "title": "Searching the plant pot with a key already",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to play the piano",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to search the music stand",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the garden door without unlocking it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Strange... I can't see any kind of lock or handle to open this door..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the gate without correct gloves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the cupboard for the magnet",
+          "sections": [
+            {
+              "title": "Searching the cupboard again with a magnet already",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After dropping cheese in front of the mouse hole",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using a magnet on the mouse",
+          "sections": [
+            {
+              "title": "Using a magnet without previously searching the cupboard",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Using a magnet on a mouse while the door is unlocked",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Getting past the witch",
+      "sections": [
+        {
+          "title": "If the player gets caught in her garden",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Nora T. Hagg",
+                  "text": "Stop! Thief!"
+                },
+                {
+                  "speaker": "Nora T. Hagg",
+                  "text": "Klarata... Sepptento... Valkan!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the shed door without the key or before using the key on it",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Searching the fountain in the garden",
+          "sections": [
+            {
+              "title": "Searching the fountain again whilst holding the key",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open the shed door with the key while someone is inside",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I'd better not go in there yet... I think I can hear someone inside!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The ball",
+      "sections": [
+        {
+          "title": "Attempting to grab the ball before defeating the experiment",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Attempting to grab the ball after the experiment despawns",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Killing the first form",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Killing the second form",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Killing the third form",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Killing the fourth form",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Finishing up",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi, I have got your ball back. It was MUCH harder than I thought it would be."
+            },
+            {
+              "speaker": "Boy",
+              "text": "Thank you so much!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "ref": "fortunato",
+  "categoryRef": "npc",
+  "title": "Fortunato",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before starting Rag and Bone Man I",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fortunato",
+                  "text": "Can I help you at all?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, what are you selling?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not at the moment."
+                },
+                {
+                  "speaker": "Fortunato",
+                  "text": "Then move along, you filthy ragamuffin, I have customers to serve!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Rag and Bone Man I",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fortunato",
+                  "text": "Can I help you at all?"
+                },
+                {
+                  "speaker": "Fortunato",
+                  "text": "Oh...you've come back."
+                },
+                {
+                  "speaker": "Fortunato",
+                  "text": "Please...I havent got any more vinegar. Give me some time I beg you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wasn't after vinegar today."
+                },
+                {
+                  "speaker": "Fortunato",
+                  "text": "Oh, wonderful."
+                },
+                {
+                  "speaker": "Fortunato",
+                  "text": "I will have some in soon, if he needs it."
+                },
+                {
+                  "speaker": "Fortunato",
+                  "text": "In the meantime, can I interest you in something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, what are you selling?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No."
+                },
+                {
+                  "speaker": "Fortunato",
+                  "text": "Well, I'll put something special to one side for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Beginner",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fortunato",
+                  "text": "Well done."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Catching the player trying to steal from his wine stall",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fortunato",
+                  "text": "Hey! Get your hands off there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Interacting with him after stealing from his wine stall recently",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Fortunato",
+                  "text": "You're the thief who stole from me!"
+                },
+                {
+                  "speaker": "Fortunato",
+                  "text": "Guards[sic] guards!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

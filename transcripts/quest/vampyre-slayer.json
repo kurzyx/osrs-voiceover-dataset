@@ -1,0 +1,213 @@
+{
+  "ref": "vampyre-slayer",
+  "categoryRef": "quest",
+  "title": "Vampyre Slayer",
+  "sections": [
+    {
+      "title": "Starting off",
+      "sections": [
+        {
+          "title": "Talking to Morgan again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Morgan",
+                  "text": "How are you doing with the quest?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm still working on it."
+                },
+                {
+                  "speaker": "Morgan",
+                  "text": "Please hurry! Every day we live in fear that we will be the vampyre's next victim!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Morgan",
+              "text": "Please please help us, bold adventurer!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What's the problem?"
+            },
+            {
+              "speaker": "Morgan",
+              "text": "Our little village has been dreadfully ravaged by an evil vampyre! He lives in the basement of the manor to the north, we need someone to get rid of him once and for all!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay, I'm up for an adventure."
+            },
+            {
+              "speaker": "Morgan",
+              "text": "I think first you should seek help. I have a friend who is a retired vampyre hunter, his name is Dr. Harlow. He may be able to give you some tips. He can normally be found in the Blue Moon Inn in Varrock, he's a bit"
+            },
+            {
+              "speaker": "Morgan",
+              "text": "of an old soak these days. Mention his old friend Morgan, I'm sure he wouldn't want me killed by a vampyre."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll look him up then."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, vampyres are scary!"
+            },
+            {
+              "speaker": "Morgan",
+              "text": "I don't blame you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dr Harlow",
+      "sections": [
+        {
+          "title": "Talking to him again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dr Harlow",
+                  "text": "Buy me a drrink pleassh..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll just go and buy one."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Here you go."
+                },
+                {
+                  "speaker": "Dr Harlow",
+                  "text": "Cheersh matey..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So tell me how to kill vampyres then."
+                },
+                {
+                  "speaker": "Dr Harlow",
+                  "text": "Yesh Yesh vampyres, I was very good at killing em once..."
+                },
+                {
+                  "speaker": "Dr Harlow",
+                  "text": "Don't forget to take your stake with you, otherwise he'll just regenerate. Yes, you must have a stake to finish it off... I'd give you a stake but you've got one in your inventory."
+                },
+                {
+                  "speaker": "Dr Harlow",
+                  "text": "Don't forget to take your stake with you, otherwise he'll just regenerate. Yes, you must have a stake to finish it off... I'd give you a stake but you've already got one stored somewhere."
+                },
+                {
+                  "speaker": "Dr Harlow",
+                  "text": "Well, you're going to need a stake, otherwise he'll just regenerate. Yes, you must have a stake to finish it off... I just happen to have one with me."
+                },
+                {
+                  "speaker": "Dr Harlow",
+                  "text": "You'll need a hammer as well, to drive it in properly, your everyday general store hammer will do. One last thing... It's wise to carry garlic with you, vampyres are somewhat weakened if they can smell garlic. Morgan"
+                },
+                {
+                  "speaker": "Dr Harlow",
+                  "text": "always liked garlic, you should try his house. But remember, a vampyre is still a dangerous foe!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thank you very much!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Dr Harlow",
+              "text": "Buy me a drrink pleassh..."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, you've had enough."
+            },
+            {
+              "speaker": "Player",
+              "text": "Morgan needs your help!"
+            },
+            {
+              "speaker": "Dr Harlow",
+              "text": "Morgan you shhay..?"
+            },
+            {
+              "speaker": "Player",
+              "text": "His village is being terrorised by a vampyre! He told me to ask you about how I can stop it."
+            },
+            {
+              "speaker": "Dr Harlow",
+              "text": "Buy me a beer... then I'll teash you what you need to know..."
+            },
+            {
+              "speaker": "Player",
+              "text": "But this is your friend Morgan we're talking about!"
+            },
+            {
+              "speaker": "Dr Harlow",
+              "text": "Buy ush a drink anyway..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Attacking Count Draynor with garlic in the inventory",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Attempting to kill Count Draynor without a stake in the inventory",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Attempting to kill Count Draynor with a stake but no hammer in the inventory",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    },
+    {
+      "title": "Upon killing Count Draynor",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": []
+        }
+      ]
+    }
+  ]
+}

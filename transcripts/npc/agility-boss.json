@@ -1,0 +1,85 @@
+{
+  "ref": "agility-boss",
+  "categoryRef": "npc",
+  "title": "Agility Boss",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "How do I use the agility course?"
+            },
+            {
+              "speaker": "Agility Boss",
+              "text": "I'll throw you a stick, which you need to fetch as quickly as possible, from the area beyond the pipes."
+            },
+            {
+              "speaker": "Agility Boss",
+              "text": "Be wary of the deathslide - you must hang by your teeth, and if your strength is not up to the job you will fall into a pit of spikes. Also, I would advise not carrying too much extra weight."
+            },
+            {
+              "speaker": "Agility Boss",
+              "text": "Bring the stick back to the werewolf waiting at the end of the death slide to get your agility bonus."
+            },
+            {
+              "speaker": "Agility Boss",
+              "text": "I will throw your stick as soon as you jump onto the first stone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When not wearing the ring of Charos",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Agility Boss",
+              "text": "Grrr - you don't belong in here, human!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When jumping on the first stepping stone",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Agility Boss",
+                  "text": "FETCH!!!!!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When jumping on the first stepping stone while carrying a stick",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Agility Boss",
+                  "text": "Why didn't you hand the stick over?!!?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

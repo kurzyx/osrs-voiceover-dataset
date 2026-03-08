@@ -1,0 +1,51 @@
+{
+  "ref": "shantay-guard",
+  "categoryRef": "npc",
+  "title": "Shantay Guard",
+  "sections": [
+    {
+      "title": "Standard dialogue - Attackable Guard",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shantay Guard",
+              "text": "Go talk to Shantay. I'm on duty and I don't have time to talk to the likes of you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue - Guard at the gate",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Shantay Guard",
+              "text": "Hello there! What can I do for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to go into the desert please."
+            },
+            {
+              "speaker": "Shantay Guard",
+              "text": "You'll need a Shantay pass to go through the gate into the desert. See Shantay, he'll sell you one for a very reasonable price."
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing thanks."
+            },
+            {
+              "speaker": "Shantay Guard",
+              "text": "Okay then, have a nice day."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "ref": "ilfeen",
+  "categoryRef": "npc",
+  "title": "Ilfeen",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "During Regicide",
+          "sections": [
+            {
+              "title": "Talking to Ilfeen at the earliest opportunity after starting Regicide",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Ilfeen",
+                      "text": "Good day, what are you doing all the way out here?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'm just wandering, it's a lovely day for a walk in the woods."
+                    },
+                    {
+                      "speaker": "Ilfeen",
+                      "text": "It is that."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well I shouldn't keep you, see you later."
+                    },
+                    {
+                      "speaker": "Ilfeen",
+                      "text": "Bye."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "After completing The Eyes of Glouphrie before completing Roving Elves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Do you remember Oaknock? He was a gnome inventor"
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "Of course! How is the young gnome? I rather liked him he was rather loud, but he had a good soul, and was very interested in elven magic."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think Oaknock died of old age some time ago. He must have visited you a few hundred years ago though..."
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "I keep forgetting, a hundred years is a long time for you. He was very interested in illusion magic, and how to prevent it. I gave him some advice and a few bits of equipment to help him."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A seed?"
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "Of course. It grew into an axe. I hope he found it useful."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think he did! Thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "During Roving Elves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "Hey, how's it going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not bad, I'm trying to help an elf named Islwyn consecrate his grandmother's resting place. Do you know of anything that could help me?"
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "Sorry, I know nothing of the consecration process. Eluned will know though, she travels with Islwyn."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Alright, thanks."
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "No problem."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Also, while I'm here, I have a question for you."
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "Well ask away."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you remember Oaknock? He was a gnome inventor"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After Roving Elves",
+      "sections": [
+        {
+          "title": "Talking to Ilfeen for the first time after Roving Elves",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "Hey ya, you're the human that helped my friend Islwyn, aren't you? He told me that he'd given you some crystal equipment."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's right, why?"
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "When it reverts to seed, bring it to me and I'll chant it for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It just happens I have a seed here, what can you do with it?"
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "I can only make shields and bows. I've been trying halberds but so far only Islwyn has succeeded."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How much for a shield?"
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "As this is the first one I've made for you it will be 750,000 coins. The cost should get cheaper as I get to know your resonance."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll take it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "If it helps I have a book here that will tell you about crystal chanting."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can't afford that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How much is the bow?"
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "As this is the first one I've made for you it will be 900,000 coins. The cost should get cheaper as I get to know your resonance."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll take it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                },
+                {
+                  "speaker": "Ilfeen",
+                  "text": "If it helps I have a book here that will tell you about crystal chanting."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I can't afford that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a crystal weapon seed on Ilfeen without her knowing full resonance",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ilfeen",
+                  "text": "I don't know your resonance well enough for that."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After Song of the Elves",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello again."
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "Hey."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you still offering to chant seeds?"
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "I am, but you'll need to supply the seed."
+            },
+            {
+              "speaker": "Player",
+              "text": "It just happens I have a seed here, what can you do with it?"
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "I see we have removed some defunct crystal equipment from you recently. I would be happy to replace them for you, unless you want to buy them of course."
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "I can replace for you [amount] crystal bow(s), [amount] crystal shield(s) and [amount] crystal halberd(s)."
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "Which crystal item would you like?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Siphon the ether into a Crystal bow please."
+            },
+            {
+              "speaker": "Player",
+              "text": "Siphon the ether into a Crystal halberd please."
+            },
+            {
+              "speaker": "Player",
+              "text": "Siphon the ether into a Crystal shield please."
+            },
+            {
+              "speaker": "Player",
+              "text": "None of them, I would like to purchase one with gold instead."
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "I can make shields, bows and halberds."
+            },
+            {
+              "speaker": "Player",
+              "text": "While I'm here, I have a question for you."
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "Well ask away."
+            },
+            {
+              "speaker": "Player",
+              "text": "Do you remember Oaknock? He was a gnome inventor."
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "Of course! How is the young gnome? I rather liked him. He was rather loud, but he had a good soul, and was very interested in elven magic."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think Oaknock died of old age some time ago. He must have visited you a few hundred years ago though..."
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "I keep forgetting, a hundred years is a long time for you. He was very interested in illusion magic, and how to prevent it. I gave him some advice and a few bits of equipment to help him."
+            },
+            {
+              "speaker": "Player",
+              "text": "Including a seed?"
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "Of course. It grew into a saw. I hope he found it useful."
+            },
+            {
+              "speaker": "Player",
+              "text": "I think he did! Thanks."
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "If it helps I have a book here that will tell you about crystal chanting."
+            },
+            {
+              "speaker": "Player",
+              "text": "That sounds great."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks, I'll read all about it."
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "Well, good luck."
+            },
+            {
+              "speaker": "Player",
+              "text": "See you later."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't need it, thanks."
+            },
+            {
+              "speaker": "Ilfeen",
+              "text": "Well, good luck."
+            },
+            {
+              "speaker": "Player",
+              "text": "See you later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

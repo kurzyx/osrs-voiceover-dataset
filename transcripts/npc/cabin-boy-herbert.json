@@ -1,0 +1,125 @@
+{
+  "ref": "cabin-boy-herbert",
+  "categoryRef": "npc",
+  "title": "Cabin Boy Herbert",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before A Kingdom Divided",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey."
+                },
+                {
+                  "speaker": "Cabin Boy Herbert",
+                  "text": "Hey there. If you need something, you should speak to Veos. I'm just the cabin boy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fair enough."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing X Marks the Spot, if the player has not yet claimed their clue scroll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cabin Boy Herbert",
+                  "text": "Hey. Veos left something for you. Here you go."
+                },
+                {
+                  "speaker": "Cabin Boy Herbert",
+                  "text": "Now, do you need something?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "First conversation after completing A Kingdom Divided",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you take me somewhere?"
+                },
+                {
+                  "speaker": "Cabin Boy Herbert",
+                  "text": "I'm afraid that you're not eligible to travel to Great Kourend at the moment. Come back when you are and I'll happily take you there."
+                },
+                {
+                  "speaker": "Cabin Boy Herbert",
+                  "text": "Where would you like to go?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to travel to Port Sarim, please."
+                },
+                {
+                  "speaker": "Cabin Boy Herbert",
+                  "text": "As you wish, I hope you don't get seasick, it is a long voyage."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to travel to Port Piscarilius, please."
+                },
+                {
+                  "speaker": "Cabin Boy Herbert",
+                  "text": "As you wish."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd like to travel to Land's End, please."
+                },
+                {
+                  "speaker": "Cabin Boy Herbert",
+                  "text": "As you wish."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually I'd like to stay here."
+                },
+                {
+                  "speaker": "Cabin Boy Herbert",
+                  "text": "As you wish."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm good."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent conversations after completing A Kingdom Divided",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cabin Boy Herbert",
+                  "text": "Hey there. Do you need something?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

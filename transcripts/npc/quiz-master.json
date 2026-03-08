@@ -1,0 +1,180 @@
+{
+  "ref": "quiz-master",
+  "categoryRef": "npc",
+  "title": "Quiz Master",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the event is not yours",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Quiz Master",
+                  "text": "Sorry, it's [player name] that's having the lucky day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Getting a question wrong",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Quiz Master",
+                  "text": "WRONG! That's just WRONG! Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "BZZZZZZZ! WRONG! Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "No, you're WRONG! Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "No, sorry. Try harder! Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "Better luck next time! Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "Nope, that's not it. Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "Huh...? Didn't you know that one? Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "No, no, no... That's completely WRONG! Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "WRONG WRONG WRONG! Okay, next question!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Getting a question correct",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Quiz Master",
+                  "text": "DING DING DING! That's RIGHT! Good for you! Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "Absolutely RIGHT! Keep going for the win! Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "COR-RECT! Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "Hey, you're good at this! CORRECT! Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "Wow, you're a smart one! You're absolutely RIGHT! Okay, next question!"
+                },
+                {
+                  "speaker": "Quiz Master",
+                  "text": "YES! You're RIGHT! Okay, next question!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Getting a fourth question correct",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Quiz Master",
+                  "text": "CONGRATULATIONS! You are a WINNER! Please choose your PRIZE!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Quiz Master",
+              "text": "It's your lucky day, [player name]! You've got a chance to win big prizes in my quiz show. Would you like to play?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please, I'm so excited!"
+            },
+            {
+              "speaker": "Quiz Master",
+              "text": "WELCOME to the GREATEST QUIZ SHOW in the entire of Gielinor!"
+            },
+            {
+              "speaker": "Quiz Master",
+              "text": "O D D ! O N E ! O U T !"
+            },
+            {
+              "speaker": "Quiz Master",
+              "text": "Please welcome our newest contestant: [player name]! Four questions right, and then you win! You know the rules, so let's begin!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Quiz Master",
+              "text": "Hey [player name]! It's your lucky day!"
+            },
+            {
+              "speaker": "Quiz Master",
+              "text": "Wakey-wakey, [player name]!"
+            },
+            {
+              "speaker": "Quiz Master",
+              "text": "You're in for a treat, [player name]!"
+            },
+            {
+              "speaker": "Quiz Master",
+              "text": "Come along with me, [player name]!"
+            },
+            {
+              "speaker": "Quiz Master",
+              "text": "Hey [player name]! It's your lucky day!"
+            },
+            {
+              "speaker": "Quiz Master",
+              "text": "Maybe later."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

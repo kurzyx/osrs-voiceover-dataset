@@ -1,0 +1,108 @@
+{
+  "ref": "dockmaster",
+  "categoryRef": "npc",
+  "title": "Dockmaster",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Dockmaster",
+              "text": "What can I do for you, [m'lady/sir]?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you do around here?"
+            },
+            {
+              "speaker": "Dockmaster",
+              "text": "It's my job to keep track of operations on the docks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Is there anything I can help out with?"
+            },
+            {
+              "speaker": "Dockmaster",
+              "text": "Thanks for the offer, but I'm afraid you need a higher crafting level before you can help me."
+            },
+            {
+              "speaker": "Dockmaster",
+              "text": "You look like you know a thing or two about crafting, perhaps you could help us maintain the fishing cranes around the docks."
+            },
+            {
+              "speaker": "Dockmaster",
+              "text": "You'll need a hammer, some nails and a few wooden planks, 3 planks per broken crane should be enough."
+            },
+            {
+              "speaker": "Dockmaster",
+              "text": "I can't offer you any payment at the moment, but hard work doesn't go unnoticed around these parts."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sure, I'll see what I can do."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll let you get back to work."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I was just looking around."
+            },
+            {
+              "speaker": "Dockmaster",
+              "text": "Fair enough."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Dockmaster",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Dockmaster",
+                      "text": "No, try again."
+                    },
+                    {
+                      "speaker": "Dockmaster",
+                      "text": "Correct!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dockmaster",
+                  "text": "I have a question for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

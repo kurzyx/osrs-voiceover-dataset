@@ -1,0 +1,101 @@
+{
+  "ref": "lassin",
+  "categoryRef": "npc",
+  "title": "Lassin",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before completing The Forsaken Tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lassin",
+                  "text": "Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Lassin",
+                  "text": "Minecart rides are 20 coins."
+                },
+                {
+                  "speaker": "Lassin",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing The Forsaken Tower",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lassin",
+                  "text": "Can I help you today?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I go for a ride?"
+                },
+                {
+                  "speaker": "Lassin",
+                  "text": "Of course."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fine, thanks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unlimited ride fee refund",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lassin",
+                  "text": "As a loyal customer of the Lovakengj Minecart Network, you're entitled to this."
+                },
+                {
+                  "speaker": "Lassin",
+                  "text": "Now, can I help you today?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to travel to the Northern Tundras while already there",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Lassin",
+                  "text": "You're already here, human."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

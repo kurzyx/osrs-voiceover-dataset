@@ -1,0 +1,83 @@
+{
+  "ref": "jail-guard-port-roberts-",
+  "categoryRef": "npc",
+  "title": "Jail Guard (Port Roberts)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Outside of the cell",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello..."
+                },
+                {
+                  "speaker": "Jail Guard",
+                  "text": "Get lost, pipsqueak!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How rude."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "While imprisoned",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey guard, how much to let me out of this cell?"
+                },
+                {
+                  "speaker": "Jail Guard",
+                  "text": "That will cost you 500 coins, thief."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's too much!"
+                },
+                {
+                  "speaker": "Jail Guard",
+                  "text": "Too bad."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Without enough coins",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Jail Guard",
+                  "text": "If you want out, it will cost you 500 coins, thief."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, I don't seem to have that much money with me."
+                },
+                {
+                  "speaker": "Jail Guard",
+                  "text": "Too bad."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "ref": "vyrewatch-bank-",
+  "categoryRef": "npc",
+  "title": "Vyrewatch (bank)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "When wearing vyre noble clothing",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Vyrewatch",
+                  "text": "Need something?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Could you escort me to the mines?"
+                },
+                {
+                  "speaker": "Vyrewatch",
+                  "text": "Yes. I can provide you with a teleport there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm good."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Vyrewatch",
+              "text": "Clear off food sack."
+            },
+            {
+              "speaker": "Player",
+              "text": "Could you send me to the mines?"
+            },
+            {
+              "speaker": "Vyrewatch",
+              "text": "You want to go to the mines? Well that's a new one. You asked for it though..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

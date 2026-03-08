@@ -1,0 +1,49 @@
+{
+  "ref": "guard-miscellania-",
+  "categoryRef": "npc",
+  "title": "Guard (Miscellania)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "Sorry, but nobody's allowed down there by order of the King."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, okay."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After completing Royal Trouble",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Guard",
+                  "text": "You're free to go into the dungeons, your Highness."
+                },
+                {
+                  "speaker": "Guard",
+                  "text": "Try not to get eaten by those monsters."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "ref": "tribal-weapon-salesman",
+  "categoryRef": "npc",
+  "title": "Tribal Weapon Salesman",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello there."
+            },
+            {
+              "speaker": "Tribal Weapon Salesman",
+              "text": "Greetings, traveller. Are you interested in any throwing weapons?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes I am."
+            },
+            {
+              "speaker": "Tribal Weapon Salesman",
+              "text": "That is a good thing."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not really."
+            },
+            {
+              "speaker": "Tribal Weapon Salesman",
+              "text": "No bother to me."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

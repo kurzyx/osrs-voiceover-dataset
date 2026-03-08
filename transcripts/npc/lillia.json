@@ -1,0 +1,45 @@
+{
+  "ref": "lillia",
+  "categoryRef": "npc",
+  "title": "Lillia",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Lillia",
+              "text": "Greetings. No I'm not."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you lost?"
+            },
+            {
+              "speaker": "Lillia",
+              "text": "Possibly."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hang on, did you just answer my question before I asked it?"
+            },
+            {
+              "speaker": "Lillia",
+              "text": "Absolutely not!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you a little... mad?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "ref": "mistag",
+  "categoryRef": "npc",
+  "title": "Mistag",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Using the brooch on him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Is this your brooch?"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Yes! I thought I'd lost it. Thank you."
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "Have one of these helmets. It will be useful if you want to work in the mine."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Using a brooch on him again",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Is this your brooch?"
+                },
+                {
+                  "speaker": "Mistag",
+                  "text": "You returned my brooch earlier."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Mistag",
+              "text": "Hello, friend?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can I sell you some ore?"
+            },
+            {
+              "speaker": "Mistag",
+              "text": "Certainly. I will buy any iron or silver ore you mine. Speak to me again when you have some."
+            },
+            {
+              "speaker": "Mistag",
+              "text": "I will give you [X] gold pieces for the ore you are carrying."
+            },
+            {
+              "speaker": "Player",
+              "text": "Okay."
+            },
+            {
+              "speaker": "Player",
+              "text": "No."
+            },
+            {
+              "speaker": "Player",
+              "text": "Why do the Dorgeshuun live underground?"
+            },
+            {
+              "speaker": "Mistag",
+              "text": "Our ancient legends say that goblins were created by an evil god in order to fight in a huge war. This god sent the Dorgeshuun tribe to fight a battle where all would die."
+            },
+            {
+              "speaker": "Mistag",
+              "text": "But our ancestors escaped by hiding in a deep hole in the ground where our god could not find us. Eventually an earthquake sealed the hole and they were forever safe."
+            },
+            {
+              "speaker": "Player",
+              "text": "The war is over now, so you can return to the surface."
+            },
+            {
+              "speaker": "Mistag",
+              "text": "Even if the gods are no longer at war, I find it hard to believe that a tribe of peaceful goblins would be safe above. I have heard of humans coming down into the caves to slaughter our people!"
+            },
+            {
+              "speaker": "Mistag",
+              "text": "But even if we could return, we would not want to. We are adapted to living underground, and we have built a home for ourselves that we do not want to leave."
+            },
+            {
+              "speaker": "Player",
+              "text": "What was the name of your god?"
+            },
+            {
+              "speaker": "Mistag",
+              "text": "Our ancestors did not speak his name, thinking that to do so would attract his attention. His name has been unspoken for so long that it is now entirely forgotten."
+            },
+            {
+              "speaker": "Mistag",
+              "text": "That is for the best. We have survived perfectly well without gods, and we do not want a return to the old ways."
+            },
+            {
+              "speaker": "Player",
+              "text": "What happened to your arm?"
+            },
+            {
+              "speaker": "Mistag",
+              "text": "I lost it in a mining accident a few years ago."
+            },
+            {
+              "speaker": "Mistag",
+              "text": "This area is very unstable. That's why we put markers on the wall showing the safest path."
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you show me the way out of the mines?"
+            },
+            {
+              "speaker": "Mistag",
+              "text": "Certainly. Come back soon!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you show me the way to the water mill cellar?"
+            },
+            {
+              "speaker": "Mistag",
+              "text": "Certainly. Come back soon!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

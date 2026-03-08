@@ -1,0 +1,93 @@
+{
+  "ref": "embalmer",
+  "categoryRef": "npc",
+  "title": "Embalmer",
+  "sections": [
+    {
+      "title": "Standard dialogue after finishing Icthlarin's Little Helper",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Embalmer",
+              "text": "Hello again. Do you need something?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Embalmer",
+              "text": "Well I'm afraid I can't stop to talk right now. Lots to do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue after finishing Contact!",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi."
+            },
+            {
+              "speaker": "Embalmer",
+              "text": "Hello again. Do you need something?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I buy something?"
+            },
+            {
+              "speaker": "Embalmer",
+              "text": "Of course."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            },
+            {
+              "speaker": "Embalmer",
+              "text": "Well I'm afraid I can't stop to talk right now. Lots to do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using a potion on him",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Embalmer",
+              "text": "What are you doing?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I have this potion which I thought might help ease your itching."
+            },
+            {
+              "speaker": "Embalmer",
+              "text": "If I thought that these spots could be cured by some potion, I would have mixed up one for myself before now."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry... I was just trying to help."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

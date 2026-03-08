@@ -1,0 +1,99 @@
+{
+  "ref": "sir-percival",
+  "categoryRef": "npc",
+  "title": "Sir Percival",
+  "sections": [
+    {
+      "title": "Standard dialogue after Holy Grail",
+      "sections": [
+        {
+          "title": "In the Goblin Village",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Aren't you supposed to be at the Grail Castle?"
+                },
+                {
+                  "speaker": "Sir Percival",
+                  "text": "Huh? I think you're confusing me with somebody else..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "King Percival",
+              "text": "You missed all the excitement!"
+            },
+            {
+              "speaker": "King Percival",
+              "text": "I got here and agreed to take over duties as king here, then before my eyes the most miraculous changes occured here... grass and trees were growing outside before our very eyes!"
+            },
+            {
+              "speaker": "King Percival",
+              "text": "Thank you very much for showing me the way home."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Hard",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "King Percival",
+                      "text": "Please tell me your answer."
+                    },
+                    {
+                      "speaker": "King Percival",
+                      "text": "Nope, Go check again!"
+                    },
+                    {
+                      "speaker": "King Percival",
+                      "text": "Spot on!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "King Percival",
+                  "text": "Ah! Here you go!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What?"
+                },
+                {
+                  "speaker": "King Percival",
+                  "text": "I need you to answer this for me."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

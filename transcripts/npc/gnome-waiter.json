@@ -1,0 +1,61 @@
+{
+  "ref": "gnome-waiter",
+  "categoryRef": "npc",
+  "title": "Gnome Waiter",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Gnome Waiter",
+              "text": "Hello [sir/madam], can I tempt you with any of the dishes on our new menu?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll take a look."
+            },
+            {
+              "speaker": "Gnome Waiter",
+              "text": "I hope you like what you see. Although all these premade dishes are good to eat - they were made by the last human assistant chef. He wasn't up to Chef's exacting standards - and you may find that they will"
+            },
+            {
+              "speaker": "Gnome Waiter",
+              "text": "not be accepted by some people as the 'real' thing."
+            },
+            {
+              "speaker": "Player",
+              "text": "Not really."
+            },
+            {
+              "speaker": "Gnome Waiter",
+              "text": "That's your choice [sir/madam], enjoy your stay."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually I'd like to sell some dishes."
+            },
+            {
+              "speaker": "Gnome Waiter",
+              "text": "Mr Gianne is the one to talk to if you want to sell any dishes you've made yourself. He is the owner and head chef of this establishment. If on the other hand you are more interested in making food to deliver, which can"
+            },
+            {
+              "speaker": "Gnome Waiter",
+              "text": "be quite lucrative, you should talk to Mr Giannes son Aluft Gianne jnr. Just don't call him Lufty, he doesn't like it."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thank you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

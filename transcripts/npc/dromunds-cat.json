@@ -1,0 +1,117 @@
+{
+  "ref": "dromunds-cat",
+  "categoryRef": "npc",
+  "title": "Dromund's cat",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before the player has stolen the Right boot in The Giant Dwarf quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dromund's cat",
+                  "text": "What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I didn't know dwarves kept cats."
+                },
+                {
+                  "speaker": "Dromund's cat",
+                  "text": "And why wouldn't they?"
+                },
+                {
+                  "speaker": "Dromund's cat",
+                  "text": "Friend of mine lives at the palace, actually. Well, I say friend. Used to be a friend."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What happened?"
+                },
+                {
+                  "speaker": "Dromund's cat",
+                  "text": "He got adopted by Hreidmar. The director of the Red Axe."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh?"
+                },
+                {
+                  "speaker": "Dromund's cat",
+                  "text": "I don't like the Red Axe! They stomp around everywhere, got to be careful of your tail with those people around."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the player tries to simply grab the Right boot in The Giant Dwarf quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Cat",
+                  "text": "Get your hands off that, you dirty human!"
+                },
+                {
+                  "speaker": "Dromund",
+                  "text": "Stay away from there! Who do you think you are, coming into my house like that?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After the player has given the exquisite boots to Riki",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dromund's cat",
+                  "text": "I know what you did, [player name]!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What did I do?"
+                },
+                {
+                  "speaker": "Dromund's cat",
+                  "text": "You stole a boot from my master."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "All for a greater good."
+                },
+                {
+                  "speaker": "Dromund's cat",
+                  "text": "Hiss."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Without wearing a catspeak amulet",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dromund's cat",
+                  "text": "Meow!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

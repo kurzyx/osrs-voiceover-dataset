@@ -1,0 +1,45 @@
+{
+  "ref": "treasure-fairy",
+  "categoryRef": "npc",
+  "title": "Treasure fairy",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When the Treasure fairy is summoned",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Treasure fairy",
+                  "text": "I will hide somewhere in the house."
+                },
+                {
+                  "speaker": "Treasure fairy",
+                  "text": "These magic stones will guide you to me!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the Treasure fairy has been found",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Treasure fairy",
+                  "text": "[player name] has found me!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

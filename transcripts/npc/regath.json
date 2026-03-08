@@ -1,0 +1,84 @@
+{
+  "ref": "regath",
+  "categoryRef": "npc",
+  "title": "Regath",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Regath",
+              "text": "What do you require, traveller? I deal in many things."
+            },
+            {
+              "speaker": "Player",
+              "text": "Let's see what you've got."
+            },
+            {
+              "speaker": "Player",
+              "text": "Who are you?"
+            },
+            {
+              "speaker": "Regath",
+              "text": "My name is Regath, traveller."
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Regath",
+              "text": "This place is a union of the mystical and the mundane, where the magical realm reaches out to touch the humdrum world of commerce."
+            },
+            {
+              "speaker": "Regath",
+              "text": "Or, in terms that you may understand more easily, this place is a shop that sells magic stuff for money. Though I also trade in various other items."
+            },
+            {
+              "speaker": "Player",
+              "text": "I don't need anything."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Elite",
+          "sections": [
+            {
+              "title": "After solving the challenge scroll",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Regath",
+                      "text": "Nice work!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Regath",
+                  "text": "I have a question for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

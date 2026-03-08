@@ -1,0 +1,84 @@
+{
+  "ref": "hickton",
+  "categoryRef": "npc",
+  "title": "Hickton",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Hickton",
+              "text": "Welcome to Hickton's Archery Store. Do you want to see my wares?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Can you tell me about your cape?"
+            },
+            {
+              "speaker": "Hickton",
+              "text": "Certainly! Skillcapes are a symbol of achievement. Only people who have mastered a skill and reached level 99 can get their hands on them and gain the benefits they carry."
+            },
+            {
+              "speaker": "Hickton",
+              "text": "The Cape of Fletching can be searched for a mithril grapple and crossbow three times every day. Is there anything else I can help you with?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "No, I prefer to bash things close up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [
+            {
+              "title": "When talked to again",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Hickton",
+                      "text": "Please enter the answer to the question."
+                    },
+                    {
+                      "speaker": "Hickton",
+                      "text": "No, try again."
+                    },
+                    {
+                      "speaker": "Hickton",
+                      "text": "Correct!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Hickton",
+                  "text": "I have a question for you."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

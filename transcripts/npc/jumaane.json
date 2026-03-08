@@ -1,0 +1,73 @@
+{
+  "ref": "jumaane",
+  "categoryRef": "npc",
+  "title": "Jumaane",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Jumaane",
+              "text": "Good day, how may I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Jumaane",
+              "text": "This is the Marim branch of the Bank of Gielinor. Now that our people have more contact with the lands overseas, we have new business opportunities. Can I help you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'd like to buy more bank slots."
+            },
+            {
+              "speaker": "Jumaane",
+              "text": "Why? You don't use the bank."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh yeah... Never mind then."
+            },
+            {
+              "speaker": "Jumaane",
+              "text": "I can sell you up to [number] additional bank slots in sets of 40. How many are you interested in buying?"
+            },
+            {
+              "speaker": "Player",
+              "text": "[number] slots please."
+            },
+            {
+              "speaker": "Jumaane",
+              "text": "Buying [number] additional bank slots will cost [number] coins. Be warned, this purchase is not reversible. Are you happy to proceed?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh... I don't seem to have enough money for that. Never mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I'm happy with that."
+            },
+            {
+              "speaker": "Jumaane",
+              "text": "Your additional bank slots have been added."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I've changed my mind."
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm fine, thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

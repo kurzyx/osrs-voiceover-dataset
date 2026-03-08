@@ -1,0 +1,37 @@
+{
+  "ref": "enclave-guard",
+  "categoryRef": "npc",
+  "title": "Enclave guard",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Enclave guard",
+              "text": "What do you want?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I want to go in there."
+            },
+            {
+              "speaker": "Enclave guard",
+              "text": "Oh you do, do you? How about 'no'?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I want to rid the world of ogres."
+            },
+            {
+              "speaker": "Enclave guard",
+              "text": "You dare mock me, creature!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "ref": "factory-worker",
+  "categoryRef": "npc",
+  "title": "Factory Worker",
+  "sections": [
+    {
+      "title": "Variant 1",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "I'm sorry, I'm looking for the blast furnace?"
+            },
+            {
+              "speaker": "Factory Worker",
+              "text": "Do I look like a guide to you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "No, you look like a hard-working dwarf, but can you please tell me where the blast furnace is?"
+            },
+            {
+              "speaker": "Factory Worker",
+              "text": "Alright, just head down the stairs, it's easy to find."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Variant 2",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Are you okay?"
+            },
+            {
+              "speaker": "Factory Worker",
+              "text": "Don't I look okay?"
+            },
+            {
+              "speaker": "Player",
+              "text": "If you were any shorter you wouldn't exist."
+            },
+            {
+              "speaker": "Factory Worker",
+              "text": "Very funny, human."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Variant 3",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "What are you dwarves doing in this factory?"
+            },
+            {
+              "speaker": "Factory Worker",
+              "text": "Working of course, can't you see that?"
+            },
+            {
+              "speaker": "Player",
+              "text": "But working on what?"
+            },
+            {
+              "speaker": "Factory Worker",
+              "text": "Refining the ore that is being brought into the factory, of course."
+            },
+            {
+              "speaker": "Player",
+              "text": "And what does that mean?"
+            },
+            {
+              "speaker": "Factory Worker",
+              "text": "It means you should stop asking so many questions and get back to work!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Variant 4",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Who owns this factory?"
+            },
+            {
+              "speaker": "Factory Worker",
+              "text": "The Consortium does and that's all you need to know."
+            },
+            {
+              "speaker": "Player",
+              "text": "But what company? I thought there were all these different companies?"
+            },
+            {
+              "speaker": "Factory Worker",
+              "text": "Oh yes, all the major companies own this plant. It's too vital to be in the hands of one company alone."
+            },
+            {
+              "speaker": "Player",
+              "text": "And what exactly are you doing here?"
+            },
+            {
+              "speaker": "Factory Worker",
+              "text": "I tire of these questions. Let me get back to work!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

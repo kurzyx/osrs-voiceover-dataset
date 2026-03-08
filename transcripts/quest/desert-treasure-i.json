@@ -1,0 +1,3085 @@
+{
+  "ref": "desert-treasure-i",
+  "categoryRef": "quest",
+  "title": "Desert Treasure I",
+  "sections": [
+    {
+      "title": "Enchanting the mirrors",
+      "sections": [
+        {
+          "title": "Talking to Asgarnia without the required quests",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Asgarnia with the required quests",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Howdy stranger. What brings you out to these parts?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing much - What are you doing here? It doesn't seem like there's much to do out here in the desert!"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Well, that's where you'd be wrong. I work for the Archaeological Society of Varrock, and have been excavating around here recently."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Was there something you specifically wanted?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any quests? Call it a hunch, but you look like the type of man who might..."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Well, it's funny you should say that. I'm not sure if I would really call it a quest as such, but I found this ancient stone tablet in one of my excavations, and it would really help me out if you could go and take it back to the digsite for me and get it examined."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "It's very old, and I don't recognise any of the inscriptions on it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure, I was heading that way anyway. Any particular person at the digsite you want me to talk to?"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "His name's Terry Balando. Give it to nobody but him. I'm sorry, I can't entrust you with the actual tablet I found, it is far too valuable to give away, but I took these etchings - they should be enough for him to make"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "a preliminary translation on. Come back and let me know what he says, I would hate to waste my time excavating anything that isn't worth my time as a world famous archaeologist!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks. Playing delivery boy doesn't really sound much like fun to me."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Well, okay. Can't say as I blame you for thinking that. I'll go take it there myself later I guess."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you, anyway?"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "You don't recognise me??? I am the world famous Asgarnia Smith, Archaeologist extraordinaire!"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "I am the one who discovered the long forgotten Temple of Ikov! The one who unearthed the strange trap filled arena in Brimhaven!"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "I'm the leading archaeological expert of our time! I was voted archaeologist of the year four years running by the Varrock Herald! Are you REALLY sure you've never heard of me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I really haven't."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Well then, I'm confused. Why did you come over and speak to me if you don't know who I am? What do you want?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Nothing really. I'm just wandering around for no good reason."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Uh-huh. Well, if you'll excuse me, I have a lot more work to do before I can bed down for the night."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Asgarnia after starting the quest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "So what did Terry Balando say about those etchings? Did he give you a translation for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um... yeah... about that... I kind of didn't go and speak to him yet..."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Well what are you waiting for? A written invitation? All I want you to do is take those etchings up to the digsite for me!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll do that then."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um... yeah... about that... I kind of lost those etchings you gave me..."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Well how in the world did you do that? (sigh) Okay, I'll make another set, but try not to lose these ones this time!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Terry",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, are you Terry Balando?"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "That's right, who wants to know...?"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Ah yes, I recognise you! You're the fellow who found that strange artefact about Zaros for the museum, aren't you? What can I do for you now?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I had some etchings to deliver to you, but I don't have them on me..."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Then... you better go get them for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's right. I was in the desert down by the Bedabin Camp, and I found an archaeologist who asked me to deliver this to you."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "You spoke to the legendary Asgarnia Smith??? Quickly, let me see what he had to give you! He is always at the forefront of archaeological breakthroughs!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what does the inscription say? Anything interesting?"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "This... this is fascinating! These cuneiforms seem to predate even the settlement we are excavating here... Yes, yes, this is most interesting indeed!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you translate it for me?"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Well, I am not familiar with this particular language, but the similarities inherent in the pictographs seem to show a prevalent trend towards a syllabary consistent with the phonemes we have discovered in this excavation!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Um... So, can you translate it for me or not?"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Well, unfortunately this is the only example of this particular language I have ever seen, but I might be able to make a rough translation, of sorts..."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "It might be slightly obscure on the finer details, but it should be good enough to understand the rough meaning of what was originally written. Please, just wait a moment, I will write up what I can"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "translate into a journal for you. Then you can take it back to Asgarnia, I think he will be extremely interested in the translation!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Terry after delivering the etchings",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Terry Balando",
+                  "text": "There you go, that book contains the sum of my translating ability. If you would be so kind as to take that back to Asgarnia, I think it will reassure him that he is on the"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "right track for a find of great archaeological importance"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wow! You write really quickly don't you?"
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "What can I say? It's a skill I picked up through my many years of taking field notes!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Terry after receiving the translation",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Hello again. Was that translation any use to Asgarnia?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I, uh, kind of didn't take it to him yet..."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Whyever not? You're the strangest delivery boy I've ever met!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Terry after losing the translation",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I lost that translation you gave me..."
+                },
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Oh, no matter, I mostly remember what it said anyway! Here you go!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Asgarnia after receiving the translation",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "So what did Terry Balando say about those etchings? Did he give you a translation for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah, he did. But I don't have it with me."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "..."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "I see."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Well could you go and get me that translation? It could be vital!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah, he did. I have it here in this book."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Did you take a ready of this? It will do you good to understand how this profession works. Here, have a read."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yeah, I did. Kind of boring really."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Excellent. Just give me a moment to read this, and talk to me again in a second."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Asgarnia after delivering the translation",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Hmmm. Interesting. It seems to me like there's some kind of treasure hidden out in the desert."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "So what do you say? Fancy being a treasure hunter like me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh... don't you mean archaeologist?"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Yeeees... An archaeologist..."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "It's all this hot sun getting to me I think."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Well anyway, let's just assume there is a treasure hidden in the desert somewhere, and let's just say for the sake of argument that maybe if I found a big stash of gold and treasure I wouldn't necessarily just hand it"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "all over to the Museum of Varrock."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Let's also say, purely hypothetically, that if there were such a big stash of treasure and someone were to help me find it, then that hypothetical personal might be entitled to, oh, let's say a purely for the sake of"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "argument thirty percent split..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Fifty percent."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "That's right!"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "A purely for the sake of argument fifty-fifty split on this hypothetical treasure, should it exist..."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Do you see where I'm going with this?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You want me to help you find some treasure for a fifty percent share, as long as I don't tell anybody, and your reputation as an esteemed archaeologist with the Museum of Varrock remains intact, and nobody"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "discovers you're actually just a treasure hunter?"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Uh... yes, but the way you said it makes it sound like I'm doing something wrong..."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "So what do you say? Partners?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... I guess nobody is really going to lose out on anything, and we don't even know if there is any treasure..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Aw, go on then. Count me in."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Good lad! Well, if we split up we'll be able to find treasure quicker."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "I'll continue searching around here in this Bedabin Camp, you head due South to the Bandit Village. If either of us find anything, we'll come find each other and say what, okay?"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "You head due South, see what you can find out about this tablet."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "This all sounds very immoral, and I don't want any part of your seedy little schemes."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Aw, c'mon, cut me a break here man! Look, nobody is really getting hurt, right? This treasure is either going to lie around in some underground ruin, or lie around in some museum for"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "people to look at!"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "It makes sense for the people to go to all the risk to get a little payback for it, right? Besides, anything of real historical value we can hand over to the museum - we'll just keep the cash for"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "ourselves!"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "C'mon... what do you say? Partners?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't trust anything about your little scheme, including you! I want nothing to do with this!"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Eh, you'll come running back when you realize just how much money we could be talking here."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "I'll see you again when you come crawling back, begging to be cut in on the deal."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Asgarnia after agreeing to hunt for treasure",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Hello again. You find any signs of that treasure yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not yet..."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Well, head south to that bandit camp. I bet if there's anything out here, they'll know about it."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Don't let on it might be valuable though! Those thieves will steal it as soon as look at you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Terry after delivering his translation",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Terry Balando",
+                  "text": "Hello again. Was that translation any use to Asgarnia?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I think it was, thanks!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to a bandit",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bandit",
+                  "text": "What do you want lad?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm here on an archaeological expedition for the Museum of Varrock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I believe there may be some interesting artefacts in the area."
+                },
+                {
+                  "speaker": "Bandit",
+                  "text": "You are a crazy man. The only thing you will find out here in the desert is your death."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eblis before asking the bartender about the diamonds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. I represent the Museum of Varrock, and I have reason to believe there may be some kinds of artefacts of historical significance in the nearby area..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Ah yes. The only time people care about our existence is when they think they have something to gain from us."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "I have nothing to say to you. You and your kind are not welcome here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please, if I can just have a few minutes of your time to ask some questions...?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "(sigh) I suppose I can spare you that. What do you wish to know about?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why are all of the people here so hostile? You would think I was asking you for money instead of just for answers to a few questions..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "It is a long story, and I doubt you have much interest in hearing it. Your sort never are, you just take what you can of ours, and then abandon us once more to the desert."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I'd be quite interested to hear what it is you have to say to excuse the attitude everybody in this village seems to have."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Ah, it all begun many generations ago, when our ancestors were the proud rulers of these lands..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "My ancestors lived far to the North of here, and our lands stretched from the sea in the East to the river Lum, and the mountain of ice. From coast to coast, North to South, our domain was absolute."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Our god was kind to us, and blessed us with prosperity and happiness, and in return we were merciless to his enemies wherever we found them."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Then came the betrayal."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Our god was banished, leaving us helpless to our fates."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Without his protection, we were forced to fend for ourselves once more, against the enemies that sought to destroy us through their petty jealousies."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "But we did not succumb without fighting! The spiteful Saradomin and pathetic Zamorak warred with each other, but the hatred they had for each other was as nothing to the hatred they held towards us!"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "With each battle they waged, we lost more and more land, unable to fight on all fronts, and were pushed further and further South into this gods-forsaken desert."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Our greatest hero, Azzanadra, was finally trapped in a strange stone structure to the South of here, and bound within by terrible powers..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "And with that our lands, our homes, our very lives were stolen from us! Too weak to reclaim what was rightfully ours, we made our homes here, knowing that someday Azzanadra will"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "return with his magnificent power, and bring us back to our former glory..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you're upset because of something that happened hundreds of years ago?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Seems to me like maybe you should find some closure, and let the past go..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "The insults heaped upon my race will never be forgotten, will never be forgiven and will never again be overlooked."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Someday, a harsh wind will blow upon this land, uncovering the wrongs of the past, and we will get back what is rightfully ours. Until such a day we will bide our time here, and will"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "always be ready with our blades for our righteous vengeance."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't really care what your story is to be honest, there is no excuse for such rudeness or hostility."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have done nothing wrong to you, but everybody here treats me like I have committed some great crime against the village."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "That is because, from our point of view, you have."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What? Just because I entered your village?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "You have no right to be here! You have no right to the life you have, for it was taken at our expense!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Whatever... No wonder all you loonies live out here in the desert by yourselves."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was wondering if you knew anything about some treasure somewhere around here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have some evidence that there might be some kind of treasure hidden very close to this village..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "If I knew of any treasure I would not choose to spend my life in this gods-forsaken desert."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you know anything about some kind of fortress nearby? I have reason to believe there is, or at least used to be, some kind of fortress very close to here..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Nobody would build anything in this wasteland unless they were forced to, to survive."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "I know of no fortress, I know of no reason why anyone would ever bother doing anything out here in the desert."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, there was nothing I really wanted to ask you about."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Yes, it is exactly like your sort to waste my time in such a way."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the bartender",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bartender",
+                  "text": "If you're not buying anything, I have nothing to say to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "As I understand it there's some kind of hidden treasure in these parts..."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Look around pal. Does it looks like there's any treasure near here?"
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "If I were you I'd get lost before someone takes a dislike to your face and removes it for you."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "You ain't got the 650 coins it costs to buy it, and I'm glad 'cos I didn't want to serve you anyway."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "What's that? You wanna buy a beer? It'll cost ya 650 coins."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "There you go. Now get out, we don't like your sort around here."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Get out of my bar then! We don't like your sort round here!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the bartender after buying a drink",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bartender",
+                  "text": "You've had your drink, now get out of here. I have nothing to say to the-"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, Wait! Look, I'm here on an archaeological expedition for the Museum of Varrock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am only here looking for artefacts..."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Oh really? Our inheritance is only sand and death. What do you expect to find out here in this desert forsaken by the gods?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "As I understand it there's some kind of hidden treasure in these parts..."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Look around pal. Does it looks like there's any treasure near here?"
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "If I were you I'd get lost before someone takes a dislike to your face and removes it for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I heard a rumour about four diamonds or crystals..."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "The four diamonds of Azzanadra??? How came you to know of this?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You've heard of them then?"
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "It's just a fairy tale for children. Maybe one of the village elders might know more, but it's not really something I care about."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Now get out of here, your sort isn't welcome in my bar."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Certain things have led me to believe there may be some kind of ruined fortress around here..."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Doubt it. What in the world would someone need to guard against in the middle of this desert?"
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "A bad attack of sand? I think you're on the wrong track, mister so-called archaeologist."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the bartender after asking about the diamonds and before talking to Eblis",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Bartender",
+                  "text": "You've had your drink, now get out of here. I have nothing to say to the-"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, Wait! Look, I'm here on an archaeological expedition for the Museum of Varrock."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am only here looking for artefacts..."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Oh really? Our inheritance is only sand and death. What do you expect to find out here in this desert forsaken by the gods?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me all you know about the Diamonds of Azzanadra."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "Not that I think it's any of your business, but when I was a child I remember hearing the legend."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "I don't recall it particularly well, other than they are said to contain an incredible power."
+                },
+                {
+                  "speaker": "Bartender",
+                  "text": "If you really want to hear more about it you'd be best off finding someone who cares about the past, and the history of this area, and stop bothering me."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eblis after asking the bartender about the diamonds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. I represent the Museum of Varrock, and I have reason to believe there may be some kinds of artefacts of historical significance in the nearby area..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Ah yes. The only time people care about our existence is when they think they have something to gain from us."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "I have nothing to say to you. You and your kind are not welcome here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Please, if I can just have a few minutes of your time to ask some questions...?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "(sigh) I suppose I can spare you that. What do you wish to know about?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So tell me... Did you ever hear of something called the Diamonds of Azzanadra?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "This is the treasure which you seek???"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Please accept my apologies noble sir! I thought you were but some opportunistic thief, looking to steal what heritage we have left! Now I see that you are in fact a brave adventurer,"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "looking to restore our glories back upon us!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh... yeah... So anyway, you have heard of them?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Heard of them? Of course I have heard of them! They are the legacy of the great Mahjarrat hero, Azzanadra!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So... do you have any idea where they might be? I have a feeling they will be very valuable."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Uh, valuable as historical artefacts I mean, obviously."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "They were stolen by warriors of the false god Zamorak generations ago. When you find the warriors, you will find the diamonds."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "I suspect they will not willingly part with such objects of power however."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Beware too, for these warriors are very powerful; they have taken the powers of the diamonds into themselves!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How do you mean?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Each diamond has an elemental quality..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "There is the Diamond of Blood, the Diamond of Ice, the Diamond of Smoke and the Diamond of Shadow."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "You should expect the warriors to have taken some aspect of these diamonds as their own..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Do you have any idea how I could track down these warriors somehow, then?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "There is an ancient spell I know of that may spy upon such power... But it will require a few ingredients for it to work."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Should you be willing to get these ingredients for me, I will be able to locate the rough area where each of these warriors has taken refuge. The spell is imprecise, but it should help you get on the"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "right track in your search."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Is your desire for our freedom strong enough? Will you gather the ingredients for this spell for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sure, what do you need?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "For this spell, I will need to make some scrying glasses. I will need enough so that we can view the realm in its entirety."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "When enchanted, the scrying glass will be able to let us view any area that has been influenced by the presence of the Diamonds of Azzanadra."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, but what exactly do you need for this spell?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Well, six scrying glasses should be sufficient. For each scrying glass, I will need two magic logs, a steel bar and some molten glass. This makes a total of 12 magic logs, 6 pieces of molten"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "glass, and 6 steel bars."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "In addition, for the actual spell to enchant the glasses, I will require one set of normal bones, some ash, some charcoal and a single blood rune."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Do you understand me, adventurer?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Quick question; what kind of bones do you need?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Standard bones. Other types of bones are of no use to me in this spell."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It's a slightly odd collection of ingredients, but I shouldn't have too much trouble getting those for you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually I don't feel like going on a shopping trip for you right now."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "As you wish. I should have known not to get my hopes up that our long cursed life may soon be at an end..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eblis after agreeing to get ingredients",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have some of the stuff you are looking for with me..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Thank you, pass over the ingredients so that I may begin working on the spell."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Before I can complete the spell I will still need the following items;"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "12 magic logs 6 steel bars 6 molten glass"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "1 bones, 1 ashes, 1 charcoal and 1 blood rune"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving Eblis ingredients",
+          "sections": [
+            {
+              "title": "Magic logs",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Steel bar",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Molten glass",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": []
+                }
+              ]
+            },
+            {
+              "title": "Ashes",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Eblis",
+                      "text": "Thank you, that is enough ash for the spell."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Bones",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Eblis",
+                      "text": "Thank you, those are enough bones for the spell."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Charcoal",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Eblis",
+                      "text": "Thank you, that is enough charcoal for the spell."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Blood rune",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Eblis",
+                      "text": "Thank you, that blood rune should be sufficient for the spell."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to Eblis after giving all ingredients",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eblis",
+                  "text": "Excellent! Those are all the ingredients I need to create the scrying glasses."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "I will find a suitable spot in the desert to the East of here, and set them up. When you are ready to begin your search, please come and find me there, I will show you how to utilise the"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "mirrors to find the diamonds."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eblis again after giving all ingredients",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eblis",
+                  "text": "Meet me again in the desert East of here, I will use these ingredients to create a scrying glass for you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eblis at the mirrors",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So can you give me any help on where to find these warriors and their diamonds?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "No, the magic used in this spell is powerful, but inaccurate. The direction the scrying glass faces is roughly the direction you will find the warrior, but I'm afraid I"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "can't be any more help than that."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't understand why there are six mirrors when there are only four diamonds..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "As I say, the enchantment is very inaccurate."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "I can only focus upon the aura the diamonds have left behind them, so any place where the Diamonds were present for a significant period of time will still be shown - such as the Bandit Camp where I make my home."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "My apologies, but magic is an inaccurate art in many respects."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Don't forget to come back here when you have collected all four diamonds."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Looking at a mirror",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to Asgarnia after learning about the Diamonds of Azzanadra",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Hello again. You find any signs of that treasure yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not as such... Although I think I'm onto something of a promising lead..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Did you ever hear of something called the Diamonds of Azzanadra?"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Diamonds of Azzanadra? That sounds very promising indeed!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So you have heard of them?"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Nope, never heard of them before, but you said diamonds! Diamonds are always promising!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Shadow diamond",
+      "sections": [
+        {
+          "title": "Talking to Rasolo",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rasolo",
+                  "text": "Greetings friend. I am Rasolo, the famous merchant. Would you care to see my wares?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, actually I was looking for something specific..."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Hmmmm? And what would that be?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am looking for one of the Diamonds of Azzanadra. I have reason to believe it may be somewhere around here..."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Ahhh... The Shadow Diamond..."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "I know the object of which you speak. It is guarded by a fearsome warrior known as Damis, they say, who lives in the shadows, invisible to prying eyes..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How can I find this 'Damis' then?"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Well now... perhaps we can help each other out here."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "I have in my possession a small trinket, a ring, that allows its wearer to see the unseen..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How much do you want for it?"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Ah, but it is not for sale... As such..."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "I am offering to trade it for an item that was rightfully mine, but that was stolen by a bandit named Laheeb."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "The item is question is a gilded cross, that has some sentimental value to myself. I wish for you to recover this item for me, and I will happily let you have my ring of visibility."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find this Laheeb?"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Well, as a travelling merchant I have roamed these lands for many years..."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "To the far east of here there is an area that is dry and barren like the desert... it is called..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Al Kharid?"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "...Yes, Al Kharid. Now to the south of Al Kharid there is a passageway, it is called the..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Shantay Pass."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "...Yes. I didn't realise you had travelled there yourself."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Anyway, when you have gone through the Shantay Pass, you will find yourself in a hostile desert... You will need to bring water with you to keep your life. Now, to the south-west of this pass, you will find a small"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "village..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The Bedabin camp."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "If you know where Laheeb lives, why did you ask me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't. Sorry, please continue."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Well, okay then. Anyway, south of this encampment there is an area where few have ever been... It is a village of murderous bandits, and treacherous"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "thieves... This is where Laheeb makes his home."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "He will have hidden his stolen treasure somewhere in that village, I am sure of it. When you find his loot, you will find my gilded cross. Return it to me, and I will reward you with my ring"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "of visibility, so that you may find Damis. Does this seem fair to you?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Not a problem. I'll be back with your cross before you know it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds like too much effort to me. I'll find this Damis by myself."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "As you wish."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Rasolo after declining to help him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find this Damis again?"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "I have already told you, he is of the shadows. You will see neither him nor his lair without the aid of magic."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Rasolo after agreeing to help him",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Rasolo",
+                  "text": "Have you retrieved my gilded cross for me yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not yet..."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Well what seems to be the problem?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find this Laheeb?"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Well, as a travelling merchant I have roamed these lands for many years..."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "To the far east of here there is an area that is dry and barren like the desert... it is called..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Al Kharid?"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "...Yes, Al Kharid. Now to the south of Al Kharid there is a passageway, it is called the..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Shantay Pass."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "...Yes. I didn't realise you had travelled there yourself."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Anyway, when you have gone through the Shantay Pass, you will find yourself in a hostile desert... You will need to bring water with you to keep your life. Now, to the south-west of this pass, you will find a small"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "village..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "The Bedabin camp."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "If you know where Laheeb lives, why did you ask me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't. Sorry, please continue."
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "Well, okay then. Anyway, south of this encampment there is an area where few have ever been... It is a village of murderous bandits, and treacherous"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "thieves... This is where Laheeb makes his home."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can't I just buy your ring?"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "No, it is not for sale. Some things are more important than money, and the return of my gilded cross is one of them."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is Damis near here, then?"
+                },
+                {
+                  "speaker": "Rasolo",
+                  "text": "You would be surprised to know just how close he is..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to open Laheeb's chest without a lockpick",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Blood diamond",
+      "sections": [
+        {
+          "title": "Entering the Hair of the Dog tavern",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Roavar",
+                  "text": "M-my lord Malak, what brings you here?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Hmmm? You know very well that your tithe is due, Roavar."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "I am here to collect it this time."
+                },
+                {
+                  "speaker": "Roavar",
+                  "text": "Y-yes of course, sire, but surely your graciousness is too important to perform such menial duties such as this himself?"
+                },
+                {
+                  "speaker": "Roavar",
+                  "text": "Is this not Gadderanks job, your most high beneficence?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Indeed it is Roavar, but I cannot find that incompetent fool. And assuming you are not the one who wishes to tell Lord Drakan that his tithe has not been collected, I saw"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "fit to take on the duty myself this time."
+                },
+                {
+                  "speaker": "Roavar",
+                  "text": "Of course my lord, I meant no disrespect."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "So you have the tithe ready for me?"
+                },
+                {
+                  "speaker": "Roavar",
+                  "text": "Of course my lord, I trust you will find it all there and in good order."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Hmmm. Well, for your sake you had better hope that indeed it is."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "The mood I am in for having to come to this wolfen cesspit means any shortfall is coming from you directly."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Then again... perhaps this was not a total waste of my time after all."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "You there!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "M-me?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Yes, you. Your bearing suggests you are not one of the usual peasants, and your stench suggests you are not one of these filthy wolfen folk."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Come here, I would like to know what you are doing in these lands."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Malak",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Malak",
+                  "text": "A human, eh? Don't think that silly little ring of yours will fool me. Give me one good reason why I should not just take you to Lord Drakan now."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "A human, eh? Give me one good reason why I should not just take you to Lord Drakan now."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "You had better make it a good one too, or you will not survive the night, I'll wager."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am here to worship the almighty Zamorak! Yay! Go Zamorak!"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "I see. You are a moron. You have probably settled right in with the rest of the idiots in this pathetic excuse for a village."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Unfortunately for you, that is not a good enough reason to explain your presence here."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Now tell me the reason for your coming here, or I will ensure you suffer a horrible fate indeed."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am here only to serve the mighty Drakan. Yup, Drakan, he's the man."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "I see. I would perhaps be more inclined to believe you if I could not smell the death blood of his brother Draynor upon you."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "What are you real intentions here?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Really? That is interesting, that you would want to give your life by tresspassing in this land for such an unbelievable reason."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Now speak, what is your purpose in coming here?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I came here looking for you, oh mighty Malak, so that I might serve your glory."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Please. Do not think that I am so vain and foolish as to allow you to avoid my question with such obvious sycophancy."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Now tell me the reason behind your being here, or I will ensure that you suffer."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am here to kill Lord Drakan, and every stinking one of his vampyre brood!"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Hah! Most entertaining, human!"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Now tell me the reason you are here, or we shall soon see who will be killing whom."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I am here looking for a special diamond... I have reason to believe it is somewhere in this vicinity, and it is probably in the possession of a warrior of Zamorak."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm fairly sure it will have some kind of magical aura or something too. I don't suppose you've seen it, or know where it might be?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Interesting... Well perhaps we can come to a little... arrangement, human."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "I may have information that may assist you, but you in turn will have to do something for me. What do you say? Do you think we could come to some form of"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "agreement?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, what kind of something? No offence, but you're not exactly the trustworthy type..."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Ah, you have a healthy sense of paranoia, I see. It is not a particularly unfair request on my part..."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "All I ask is that you ensure that the current owner of the diamond is killed. For my part, I will let you know his whereabouts, and how exactly to kill him."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "When he is dead, you may take the diamond from his corpse and do with it what you will. I have no interest in such baubles."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "So what say you? A life for a diamond. As a mark of good faith, I will give you some information free:"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "The current owner of this diamond is named Dessous."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well... I can't see any drawback. Okay, I accept your offer. Now tell me what you know."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "What I know? Hah! After you have been alive for as long as I, the things I know are enough to fill a library."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "I'm afraid you will need to be a little more specific."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't see exactly how this bargain benefits you... Why exactly do you want Dessous killed anyway?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "That is an impertinent question to demand from myself."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "However, if it will help seal our deal, I will let you know some of the details."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "As you may or may not know, myself and my blood kin are the rulers of this land, all serving under Lord Drakan. However, we tend not to die of old age or similar"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "natural causes, which means that to gain another Lords tithe or land, there often need to be..."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Unnatural causes of death involved. Let us just say, that Dessous is in control of some land that I myself would like some say in, and that it is not in my interest to be seen to be responsible for the"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "death of a fellow Lord."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "It would however be extremely advantageous to myself should some random human adventurer take it upon themself to remove this rival for me... Do you understand?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes... I think so..."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Good, we understand each other then. We will both benefit from the death of Dessous."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find this Dessous?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "He currently resides in a graveyard to the South-East of here. You will not be able to move the gravestone which he lies beneath however, you will need to find some way to"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "lure him out from his tomb."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And how exactly would I go about doing that?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Well, he is a vampyre, so fresh blood would almost certainly entice him out."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "However, even though he is a frail and decrepit example of our species, he will be able to kill a weakling human such as yourself extremely easily. Having him in a bloodlust as he does so, will not make"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "your job any easier."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So what advice can you give me on killing Dessous?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "As ancient and weak as Dessous is, he is still more than a match for the likes of you."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "That is, assuming you were to fight him fairly."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "My proposal would be for you to even the odds up a little bit..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How would I go about doing that?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Well, my plan would be as follows. First, take a silver bar to the man living in the sewers in Draynor. He was an assistant to Count Draynor in some of his..."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "more interesting experiments many years past. Tell him you need a sacrificial offering pot. He will know what you speak of, it is a unique type of container used in various ancient vampyric ceremonies."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Then take the pot to Entrana and get it blessed by the Head Monk. This will lend the pot some holy power."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "If you then bring that silver pot back to me, I will provide you with some fresh blood, to put into it. To that pot of blood, you will add some crushed garlic, and some spice to disguise the smell."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Use that pot of blood upon Dessous' tomb, and he will be unable to resist rising and drinking from it."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "The combination of garlic, silver, and blessings from Saradomin will act upon him as a poison, and allow you to kill him."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "This is just my suggestion of course, you may ignore it if you wish, although I offer no guarantees of your ability to defeat him otherwise."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Was there anything else you wanted?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never mind, I will figure out all I need to know by myself."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "As you wish. Come and see me when you have managed to kill Dessous."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't trust you, or anything you say. I'm afraid I have to decline."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "As you wish human. I doubt anybody near here knows of the diamond you seek, however."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "If you wish to claim it as your own, you have little choice but to accept my bargain. I will wait here until such time as you change your mind."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Malak after agreeing to kill Dessous",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Malak",
+                  "text": "Why are you still here? I notice Dessous still lives."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Where can I find this Dessous?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "He currently resides in a graveyard to the South-East of here. You will not be able to move the gravestone which he lies beneath however, you will need to find some way to"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "lure him out from his tomb."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "And how exactly would I go about doing that?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Come and see my when you have prepared a silver ritual pot in the manner I have told you."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "I will ensure that you get some fresh blood that you may taint with garlic and spices, to lure our Dessous."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How am I supposed to kill Dessous again?"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Take a silver bar to the man in the Draynor sewers. He will fashion a ritualistic pot for you, which you should then take to Entrana and get blessed."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "When you have done that, come back here and speak to me, I will provide you with some fresh blood which you will then crush some garlic into, and then add some spices to hide the garlic."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "In this way, you will be able to lure him from his tomb and he should be sufficiently weakened to be vulnerable to your attacks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Never mind, I will figure out all I need to know by myself."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "As you wish. Come and see me when you have managed to kill Dessous."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Ruantun",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello."
+                },
+                {
+                  "speaker": "Ruantun",
+                  "text": "You sshould not be down here..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Are you an assistant to Count Draynor?"
+                },
+                {
+                  "speaker": "Ruantun",
+                  "text": "I usssed to have that honour... Why do you ssseek me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I have a silver bar with me, I was wondering if you could make it into a 'sacrificial offering pot' for me?"
+                },
+                {
+                  "speaker": "Ruantun",
+                  "text": "Yesss, of courssse... There you are, put it to good usssse..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I understand that you can make me a 'sacrificial offering pot' if I bring you a bar of silver?"
+                },
+                {
+                  "speaker": "Ruantun",
+                  "text": "And where did you hear thisss?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "It was from Malak in Canifis."
+                },
+                {
+                  "speaker": "Ruantun",
+                  "text": "Ah, I sssee... Yesss, I know how to make sssuch an item... It has been many yearsss sssince I have needed to however..."
+                },
+                {
+                  "speaker": "Ruantun",
+                  "text": "It is not my wisssh to quessstion your desssire for sssuch an item. I wasss merely sssurprisssed that one sssuch as you would make sssuch a requessst..."
+                },
+                {
+                  "speaker": "Ruantun",
+                  "text": "I will happily make you thisss pot, but you mussst bring me a bar of sssilver... Alasss, I can no longer collect my own ingredientsss, and mussst remain here..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the High Priest",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "High Priest",
+                  "text": "Many greetings. Welcome to our fair island."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hi, I was wondering, can you quickly bless this for me?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "A somewhat strange request, but I see no harm in it. There you go. May Saradomin walk with you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the High Priest with a silver pot of your own blood",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi, I was wondering, can you quickly bless this for me?"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "A somewhat strange request, but I see no harm in... Wait a moment... is that BLOOD?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Erm... yes..."
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "Why do you want me to bless a pot full of someones blood???"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Oh, don't worry, it's not 'someones', it's my own!"
+                },
+                {
+                  "speaker": "High Priest",
+                  "text": "I... see... Well it is an unusual thing, but I see no harm in it. Take this, and walk in peace with Saradomin."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Malak with the blessed pot",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I found Ruantun in Draynors sewers. He made me this pot, now where can I get some fresh blood to fill it with?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Ow!"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "There you go. As fresh as it gets."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for nothing."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Come and speak to me again when you have managed to kill Dessous."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Adding garlic to the blessed pot",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Adding spices to the blessed pot",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Using the blessed pot on Dessous's tomb",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "When Dessous uses his bat attack",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dessous",
+                  "text": "Hssssssssssss"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After defeating Dessous",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Well that's Dessous dead, but where is the Diamond he was supposed to have?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "If Malak lied to me about it, he is going to pay!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Malak after defeating Dessous",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Malak",
+                  "text": "Ah, the wandering hero returns! I take it you have dispatched poor old Dessous for me?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Quit playing games with me, Malak. I want that diamond, and I want it now!"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Do not take that tone of voice with me, meat. You should be thankful I have allowed you your life."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Here, take your precious little bauble."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "I will take that silver pot from you as well, humans are not meant to possess such artefacts. Now get out of my sight, our deal is complete, and if I see you here again I will not hesistate to take you to"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Lord Drakan."
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "He will be extremely pleased to meet the murderer of poor Dessous, I suspect."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Malak after obtaining the blood diamond",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Malak",
+                  "text": "Be lucky I have let you live, meat. Our deal is done, I wish no further dealing with you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Malak after losing the blood diamond",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Where is the Diamond of Blood? I know you have it!"
+                },
+                {
+                  "speaker": "Malak",
+                  "text": "Do not take that tone of voice with me, meat. Here, take your bauble. I have no use for it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Ice diamond",
+      "sections": [
+        {
+          "title": "Talking to the troll child",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "Waaaaaaa!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving the troll child an item other than sweet food",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Troll child",
+                  "text": "WAAAAAAAA!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Giving the troll child sweet food",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey there little troll... Take this and dry those tears..."
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "(sniff)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the troll child after giving them sweet food",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "-sniff- H-hello there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why so sad, little troll?"
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "It was the bad man! He hurt my mommy and daddy! He made them all freezey!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Bad man...?"
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "He said it was because they stole his diamond! But they never did! They found it, and didn't know who it belonged to!"
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "My mommy always told me stealing is wrong, they would never steal from someone!"
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "Then he did some wavey hand thing and my mommy and daddy got frozified!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "A diamond you say? Listen, I think I might be able to help your parents, but I need that Diamond in return."
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "-sniff- I don't think they really wanted it anyway, they would have given it back to the bad man if he'd asked before freezifying them..."
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "I give you my promise mister that if you unfreeze my mommy and daddy, you can have the stupid diamond."
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "Do we have a deal?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Absolutely. Don't worry kid, I'll get your parents back to you safe and sound."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sorry, I can't make any promises about that, and I don't think I have the time to waste trying to defrost some stupid ice trolls."
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "Waaaaaaa!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering the ice gate for the first time",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Troll child",
+                  "text": "Oh, I'm sorry. My mommy says that we ice trolls are so cold we can freeze the air around us when we are upset or angry."
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "I'm afraid I must have frozen those gates too much when I was crying, but since you told me you are going to help rescue my mommy and daddy you should be able to squeeze through the bars."
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "You are much smaller than most trolls, it should be easy for you!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Entering the ice gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to the ice troll past the gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ice troll",
+                  "text": "Hur hur hur! Well look here, a puny fleshy human! You should beware of the icy wind that runs through this valley, it will bring a fleshy like you to a cold end indeed!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Killing an ice troll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "When Kamil uses his freezing spell",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Kamil",
+                  "text": "Sallamakar Ro!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After defeating Kamil",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Well, that must have been the 'bad man' that the troll kid was on about... His parents must be up ahead somewhere."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Passing through the ice gate after the ice ledge",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to a frozen troll",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "Talking to the troll father before freeing the troll mother",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Troll father",
+                  "text": "Oh thank you! It was really cold in there! But please, you must free my wife as well! Our son is depending on us!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the troll mother before freeing the troll father",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Troll mother",
+                  "text": "Wow, thanks for breaking me out of that ice! But please, my husband is still trapped in there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the troll parents after freeing them",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Troll father",
+                  "text": "Phew! Am I glad to be out of that big ice cube! Are you okay too darling?"
+                },
+                {
+                  "speaker": "Troll mother",
+                  "text": "Yes, I thought we were done for! Why ever did that nasty Kamil freeze us up there anyway?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "He must have been trying to protect his Diamond..."
+                },
+                {
+                  "speaker": "Troll father",
+                  "text": "You mean that diamond I found the other day belonged to him? But why didn't he just ask for it back? It's not like I really want it or anything!"
+                },
+                {
+                  "speaker": "Troll father",
+                  "text": "And how did you know we had that diamond anyway, fleshy?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Your son told me. That's why I rescued you, it is very important that I have that diamond..."
+                },
+                {
+                  "speaker": "Troll mother",
+                  "text": "Ooohhhhh, my poor baby! He must have been so worried about us..."
+                },
+                {
+                  "speaker": "Troll father",
+                  "text": "Yes, but he certainly inherited his Dad's smarts!"
+                },
+                {
+                  "speaker": "Troll father",
+                  "text": "If he'd told this fleshy that he had the Diamond and not us, we might never have been rescued!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Wait... what? That stupid little troll kid had the diamond all along?"
+                },
+                {
+                  "speaker": "Troll mother",
+                  "text": "Don't you talk about my baby like that!"
+                },
+                {
+                  "speaker": "Troll father",
+                  "text": "Now, now dear, all's well that ends well. We've been freed and this fleshy has certainly earned himself that diamond."
+                },
+                {
+                  "speaker": "Troll father",
+                  "text": "Let's get out of this terrible place and see our son!"
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "Mommy! Daddy! You're free!"
+                },
+                {
+                  "speaker": "Troll father",
+                  "text": "That's right son, and it's all thanks to this brave adventurer here. Now, make sure you hand over that diamond he was looking for."
+                },
+                {
+                  "speaker": "Troll father",
+                  "text": "It has been nothing but trouble for us, let's just get back to our cave and have dinner."
+                },
+                {
+                  "speaker": "Troll mother",
+                  "text": "That's right son, it's your favorite tonight too! A big plate of raw mackerel!"
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "RAW MACKEREL! YUMMY!"
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "Here ya go, [mister/lady]! Thanks for getting my mom and dad away from the bad man!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't worry about it, just as long as I don't have to go back into that blizzard."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the troll father at the ice gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Troll father",
+                  "text": "Thanks again for freeing me from that ice block! I might be a troll, but it was real uncomfortable in there!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the troll mother at the ice gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Troll mother",
+                  "text": "Thanks again for freeing me from that ice block! I don't know what my little snookums would have done without us!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the troll child after receiving the ice diamond",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Troll child",
+                  "text": "Thanks for all your help! I'm surprised you managed to survive the blizzard, being a thin skinned fleshy and all!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What can I say? I'm a lot tougher than I look."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to the troll child after losing the ice diamond",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I lost that diamond of Ice you gave me..."
+                },
+                {
+                  "speaker": "Troll child",
+                  "text": "That's okay, it blew back on an icy wind... It's almost like it wants to stay here! Here, take it back, you've earned it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "The Ancient Pyramid",
+      "sections": [
+        {
+          "title": "Talking to Eblis with one diamond",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have collected one Diamond so far!"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "That is a good start... but Azzanadra is still imprisoned!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eblis with two diamonds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have collected 2 Diamonds so far!"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "That is a good start... but Azzanadra is still imprisoned!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eblis with three diamonds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I have collected 3 Diamonds so far!"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "That is a good start... but Azzanadra is still imprisoned!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Eblis with four diamonds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "So I have all four of these Diamonds of Azzanadra, now what?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Azzanadra was our greatest ever hero. He was unkillable, and the cowardly traitors who stole our lands did not know what to do with him, for his hatred for them was as strong as his magics."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "In the end, they cast a spell upon him, to trap him in the stone structure to the South of here."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "They stole his very life force, the essence of his power, and trapped it within four crystals - the very same Four Diamonds which you have now recovered from the brigands who stole from us."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "The four pillars surrounding the structure are keeping the containment spell intact. By placing a diamond into each, you will breach the magical defenses and begin to restore Azzanadra's"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "power, and be able to enter the structure."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Go, place the diamonds, and free my lord Azzanadra!"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "The path will be hard, for his prison is full of traps and danger to prevent his rescue, but he will reward you beyond your wildest dreams when freed!"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Quickly... After all these centuries, Lord Azzanadra is nearly free! You must spare no time, place the Diamonds upon the pillars and enter the pyramid so that you may free him!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Asgarnia with all the diamonds",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Hello again. How's the treasure hunting going?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Well, I've found four diamonds."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "What? But you've been gone ages!"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "C'mon, you can be square with me, you must have found more treasure than just four measly diamonds by now!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, I really haven't."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Hmmm. Well, okay a deal is a deal. Hand two of them over."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Actually, I think I'm going to need them to gain access to the real treasure..."
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "REALLY? Great, I love treasure!"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "Don't worry about two measly diamonds if you think they'll lead to something better!"
+                },
+                {
+                  "speaker": "Asgarnia Smith",
+                  "text": "I don't usually get out of bed for less than a hundred gold certs!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to replace the diamonds without level 50 Magic",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "After replacing the diamonds, before going inside",
+          "sections": [
+            {
+              "title": "Eblis",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "I used the Four Diamonds on the pillars surrounding the pyramid..."
+                    },
+                    {
+                      "speaker": "Eblis",
+                      "text": "Yes? And what happened?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Er... they changed colour."
+                    },
+                    {
+                      "speaker": "Eblis",
+                      "text": "Ah, that was the power being re-absorbed back into them. That should have been sufficient to break the magic seal preventing anyone exiting or entering the structure."
+                    },
+                    {
+                      "speaker": "Eblis",
+                      "text": "Quickly, you must let Lord Azzanadra know that he is free again after these many years!"
+                    },
+                    {
+                      "speaker": "Eblis",
+                      "text": "Please, when you have freed Azzanadra, let me know what words he has for his faithful followers..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Asgarnia Smith",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello there."
+                    },
+                    {
+                      "speaker": "Asgarnia Smith",
+                      "text": "Hello again, apprentice archaeologist. How's the treasure hunting going?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well... I found four diamonds..."
+                    },
+                    {
+                      "speaker": "Asgarnia Smith",
+                      "text": "Great! Pass me my share, and it's a good job all around!"
+                    },
+                    {
+                      "speaker": "Eblis",
+                      "text": "Um... sorry, I can't."
+                    },
+                    {
+                      "speaker": "Asgarnia Smith",
+                      "text": "Huh? You're not trying to break a deal here are ya???"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No, it's just... There were these weird pillars around this pyramid..."
+                    },
+                    {
+                      "speaker": "Asgarnia Smith",
+                      "text": "Yes?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Um... Well..."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "They kind of... ate the diamonds..."
+                    },
+                    {
+                      "speaker": "Asgarnia Smith",
+                      "text": "Pyramid columns ate your diamonds?"
+                    },
+                    {
+                      "speaker": "Asgarnia Smith",
+                      "text": "That's a crazy story kid. Why would you go putting diamonds into them in the first place anyway? Diamonds!"
+                    },
+                    {
+                      "speaker": "Asgarnia Smith",
+                      "text": "Of all things!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Well, I have this feeling there is some better treasure inside that pyramid, and I needed to put the diamonds in to gain entrance."
+                    },
+                    {
+                      "speaker": "Asgarnia Smith",
+                      "text": "Well what are you wasting time talking to me for?"
+                    },
+                    {
+                      "speaker": "Asgarnia Smith",
+                      "text": "Go get me some treasure, pal!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": []
+        },
+        {
+          "title": "Talking to Azzanadra",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Azzanadra",
+                  "text": "I knew they could not trap me here for long! Well done, friend. Tell me, how goes the war?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "War?"
+                },
+                {
+                  "speaker": "Azzanadra",
+                  "text": "You do not know of the war for our survival? More time must have passed than I had thought..."
+                },
+                {
+                  "speaker": "Azzanadra",
+                  "text": "Tell me, what news of great Paddewwa? Do the shining spires of Lassar still stand? And what of glorious Annakarl? The fortress is still intact?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... sorry, I've never heard of them..."
+                },
+                {
+                  "speaker": "Azzanadra",
+                  "text": "No! My lord... what has become of you? I cannot hear your voice anymore!"
+                },
+                {
+                  "speaker": "Azzanadra",
+                  "text": "My thanks to you friend for your help in freeing me from this accursed place, but it seems I have much to do to make amends. If our empire no longer stands, then it means that we must have failed my lord."
+                },
+                {
+                  "speaker": "Azzanadra",
+                  "text": "How long have I been trapped here? Master... have you truly been dispatched from this world?"
+                },
+                {
+                  "speaker": "Azzanadra",
+                  "text": "My friend, for your efforts in freeing me, I offer you the gift of knowledge. We Mahjarrat were once granted powerful ancient magicks by our lord. I now bestow their power upon you."
+                },
+                {
+                  "speaker": "Azzanadra",
+                  "text": "They will replace the knowledge you previously had, but you may switch between them by praying at the altar in this room at any time. May you use them well."
+                },
+                {
+                  "speaker": "Azzanadra",
+                  "text": "I trust that we shall meet again, but now I must leave you. Feel free to use the portal I shall create to return here easily in the future!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Post-quest",
+      "sections": [
+        {
+          "title": "Eblis",
+          "sections": [
+            {
+              "title": "After buying his staff",
+              "sections": [],
+              "dialogues": [
+                {
+                  "lines": [
+                    {
+                      "speaker": "Player",
+                      "text": "Hello again."
+                    },
+                    {
+                      "speaker": "Eblis",
+                      "text": "Greetings. I await the return of my Lord Azzanadra and of our god. I do not know why, but I feel this spot has some significance..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Eblis",
+                  "text": "So have you spoken to my Lord Azzanadra yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes I have."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "And what words did he have for his followers?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Er... He didn't really mention you at all, but he did teach me some cool new magic spells."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "It is understandable perhaps... His poor mind must be addled after all of those years of confinement, he would not willingly ignore his followers..."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Anyway, if he has taught you our ancient magics, you may be interested in purchasing an ancient heirloom that was passed down to me. My ancestor fought in the ancient battles using the"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "magic of our god. This heirloom will help you with the speed of your spell-casting."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Normally I could not bear to part with such a priceless relic, but for your help in freeing my Lord Azzanadra, I will be prepared to sell it to you for a mere 80,000 gold."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Are you interested?"
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Take care of it, it is the only heirloom from those times I possess, although rumour has it many of our ancient warriors were buried with identical weapons so that they could continue to fight for my Lord in their deaths."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Stranger... Do not abuse my generosity... I cannot possibly sell it for less than 80,000 gold."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "Come back and see me when you have the necessary funds to buy."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No thanks."
+                },
+                {
+                  "speaker": "Eblis",
+                  "text": "As you wish. Bear my offer in mind should you ever change your decision, I will remain here."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll leave you to it."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have you got any symbols of your god?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

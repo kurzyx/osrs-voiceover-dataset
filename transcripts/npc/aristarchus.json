@@ -1,0 +1,229 @@
+{
+  "ref": "aristarchus",
+  "categoryRef": "npc",
+  "title": "Aristarchus",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Enakhra's Lament",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aristarchus",
+                  "text": "I'm sorry, but I'm currently doing some research. Could you talk to me later, please?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay then."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Enakhra's Lament",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Good day, [madam/sir]. Are you interested in the history of this area?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about yourself."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "I am a librarian from the great library of Menaphos. I left to travel the desert and learn more of its history."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'd better be off."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Enakhra."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Enakhra? I have read only a little about her. She was one of the Mahjarrat who arrived in Gielinor many thousands of years ago."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "She supported Zamorak when he tried to gain power, and she apparently built a great temple in his honour somewhere in the desert."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "However, it is said that when she showed it to him, he was not impressed, and told her that he would rather have a weapon that could slay gods."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "That is the last anyone knows of what happened to her, and it took place several thousand years ago."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Interesting. Thanks for the information."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Akthanakos."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "An interesting choice of topic. Akthanakos is a Mahjarrat who was apparently worshipped as a god for a while in these parts. That was a long time ago, of course."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Unlike many of his kin, he was against Zamorak's rise to power. Perhaps that's why he ended up out here. Zamorak has little sway in the desert."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Whatever his reasons, he clearly took a liking to living here. He took on the head of a camel and even made an amulet that would allow him to understand their kind."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Using it, he even trained some of the native camels to fight for him. Their name, 'Ugthanki', is derived from his."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Since he disappeared, however, it is said that the Ugthanki became more violent and started attacking travellers."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm good."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Historical dialogue",
+      "sections": [
+        {
+          "title": "After Enakhra's Lament",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Good day, [sir/madam]. Are you interested in the history of this area?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes, I want to know more about the desert!"
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "It's good to meet someone so eager to learn."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Now, what would you like to hear about?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Enakhra the Mahjarrat."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "I have read only a little about her. She was one of the Mahjarrat who arrived in Gielinor many thousands of years ago."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "She supported Zamorak when he tried to gain power, but her attempts to gain his favour failed, and she retreated to a temple she had built."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "That is the last anyone knows of what happened to her, and it took place several thousand years ago."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Akthanakos the Mahjarrat."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Like Enakhra, his rival, Akthanakos came to Gielinor with the other Mahjarrat. He took on the aspect of one of the local gods, and is usually drawn with a camel's head."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "He was against Zamorak's rise to power, but the last anyone knows of him was that he and Enakhra were thinking of forgetting their rivalry."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about Enakhra's temple."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Well, my sources say that Enakhra tried to gain favour with Zamorak by building him a temple somewhere in the desert."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "It is said that when she showed it to him, he was not impressed, and told her that he would rather have a weapon that could slay gods than a temple."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "After that, it seems that Enakhra retreated to that temple. If she hasn't died, she's been there ever since."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Tell me about the Camulet."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "I'm afraid I've only heard rumours of it, but here's what I know."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "When Akthanakos came to Gielinor and took on the aspect of a man with a camel's head, he made an amulet that would allow him to understand camels."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Using it, he even trained some of the native camels to fight for him. Their name, 'Ugthanki', is derived from his."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Since he disappeared, however, it is said that the Ugthanki became more violent and started attacking travellers."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why should I care about what happened thousands of years ago?"
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Because those who cannot remember the past are condemned to repeat it."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Knowing something about history can prevent you from making mistakes that people have made before, you see."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Who are you?"
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "I am a librarian from the great library of Menaphos. I left to travel the desert and learn more of its history."
+                },
+                {
+                  "speaker": "Aristarchus",
+                  "text": "Unfortunately, the plague in Sophanem prevents me from returning to the library."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

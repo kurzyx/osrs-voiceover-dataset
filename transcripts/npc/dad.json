@@ -1,0 +1,77 @@
+{
+  "ref": "dad",
+  "categoryRef": "npc",
+  "title": "Dad",
+  "sections": [
+    {
+      "title": "During Troll Stronghold",
+      "sections": [
+        {
+          "title": "After passing through the gate",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dad",
+                  "text": "No human pass through arena without defeating Dad!"
+                },
+                {
+                  "speaker": "Dad",
+                  "text": "What tiny human do in troll arena? Dad challenge human to fight!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Why are you called Dad?"
+                },
+                {
+                  "speaker": "Dad",
+                  "text": "Troll named after first thing try to eat!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I accept your challenge!"
+                },
+                {
+                  "speaker": "Dad",
+                  "text": "Tiny human brave. Dad squish!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Eek! No thanks."
+                },
+                {
+                  "speaker": "Dad",
+                  "text": "Coward. Dad wait for braver fighter."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Dad has been defeated",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dad",
+                  "text": "Stop! You win. Not hurt Dad."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll be going now."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm not done yet! Prepare to die!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

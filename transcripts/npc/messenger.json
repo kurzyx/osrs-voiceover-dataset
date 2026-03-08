@@ -1,0 +1,70 @@
+{
+  "ref": "messenger",
+  "categoryRef": "npc",
+  "title": "Messenger",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Talking to a messenger that isn't for you, or after already getting the invitation",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Messenger",
+                  "text": "Sorry, I don't have anything for you right now."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Messenger",
+              "text": "Hello there. I have a message for you."
+            },
+            {
+              "speaker": "Messenger",
+              "text": "Hello there. I have a message for you, but you'll need to make some room for it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Messenger",
+              "text": "[player name]?"
+            },
+            {
+              "speaker": "Messenger",
+              "text": "Are you there [player name]?"
+            },
+            {
+              "speaker": "Messenger",
+              "text": "[player name]? I have a message for you."
+            },
+            {
+              "speaker": "Messenger",
+              "text": "[player name]? You've been sent a message."
+            },
+            {
+              "speaker": "Messenger",
+              "text": "Maybe another time."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "ref": "king-bolren",
+  "categoryRef": "npc",
+  "title": "King Bolren",
+  "sections": [
+    {
+      "title": "Standard dialogue after Tree Gnome Village",
+      "sections": [
+        {
+          "title": "Once, after The Path of Glouphrie",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "King Bolren",
+                  "text": "Here, I think this belongs to you."
+                },
+                {
+                  "speaker": "King Bolren",
+                  "text": "Hello there. Any luck in the quest for Arposandra?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sort of. I think I've worked out where Arposandra is, but my attempt to enter didn't go well. There seems to be quite an extensive set of defences."
+                },
+                {
+                  "speaker": "King Bolren",
+                  "text": "Ah, that is a problem. I wish I could offer more help, but the Khazard Army already poses a major threat to us. We can't afford to split ourselves fighting two different enemies."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "So we do nothing?"
+                },
+                {
+                  "speaker": "King Bolren",
+                  "text": "For now, I'm afraid so. Glouphrie is a foe that must be dealt with one day, but that day is not today."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Subsequent dialogue",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "King Bolren",
+                  "text": "Here, I think this belongs to you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Hello again."
+                },
+                {
+                  "speaker": "King Bolren",
+                  "text": "Hello there."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How are things here?"
+                },
+                {
+                  "speaker": "King Bolren",
+                  "text": "I fear the war against the Khazard Army is set to outlive us all. We keep making progress, but for every foe we defeat, Khazard sends two more."
+                },
+                {
+                  "speaker": "King Bolren",
+                  "text": "Still, we thankfully haven't had any more Glouphrie problems at least."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "That's good to hear. All the best."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "King Bolren",
+              "text": "Here, I think this belongs to you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Hello again, Bolren."
+            },
+            {
+              "speaker": "King Bolren",
+              "text": "Hello there. It's good to see you again."
+            },
+            {
+              "speaker": "Player",
+              "text": "How are things here?"
+            },
+            {
+              "speaker": "King Bolren",
+              "text": "Those Khazard troops continue to be a menace, but things are much better now. All thanks to you, of course."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Treasure Trails",
+      "sections": [
+        {
+          "title": "Medium",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "King Bolren",
+                  "text": "Congratulations, human!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Gnome Restaurant dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "King Bolren",
+              "text": "Thank you. I don't have any gnome cooks here. I should really do something about that."
+            },
+            {
+              "speaker": "King Bolren",
+              "text": "You must have had to travel a long way to get this to me. Here's a little something extra as a tip."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "ref": "koftik",
+  "categoryRef": "npc",
+  "title": "Koftik",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Underground Pass",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello. What are you up to?"
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Nothing exciting, just keeping an eye out."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Attempting to enter the Underground Pass",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Koftik",
+                  "text": "I wouldn't go in there if I were you. Only death awaits those who enter that place."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "After Underground Pass",
+      "sections": [
+        {
+          "title": "After Underground Pass, inside Iban's temple",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello Koftik."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Hello [player name], how's things?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "These traps don't get any easier. But I'm alright, thanks."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "Good to hear."
+                },
+                {
+                  "speaker": "Koftik",
+                  "text": "I found this by the way. I guess you'll be wanting it back."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks Koftik."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello Koftik."
+            },
+            {
+              "speaker": "Koftik",
+              "text": "Hello adventurer, how's things?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Not bad, yourself?"
+            },
+            {
+              "speaker": "Koftik",
+              "text": "I'm good... just keeping an eye out."
+            },
+            {
+              "speaker": "Koftik",
+              "text": "I found this by the way. I guess you'll be wanting it back."
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks Koftik."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "ref": "shop-keeper-combat-training-camp-",
+  "categoryRef": "npc",
+  "title": "Shop keeper (Combat Training Camp)",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "So, are you looking to buy weapons? King Lathas keeps us very well stocked."
+            },
+            {
+              "speaker": "Player",
+              "text": "What do you have?"
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "Take a look."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dialogue after Song of the Elves",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Shop keeper",
+              "text": "So, are you looking to buy weapons? King Thoros keeps us very well stocked."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

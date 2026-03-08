@@ -1,0 +1,55 @@
+{
+  "ref": "velorina",
+  "categoryRef": "npc",
+  "title": "Velorina",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "After Ghosts Ahoy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "I thought you were going to pass over to the next world."
+                },
+                {
+                  "speaker": "Velorina",
+                  "text": "All in good time, [player name]. We stand forever in your debt, and will certainly put in a good word for you when we pass over."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can I have another Ectophial?"
+                },
+                {
+                  "speaker": "Velorina",
+                  "text": "Really? You've already got an Ectophial."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I know, but can I have another one anyway?"
+                },
+                {
+                  "speaker": "Velorina",
+                  "text": "Of course you can, you have helped us more than we could ever have hoped."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Have I? Okay, forget it."
+                },
+                {
+                  "speaker": "Velorina",
+                  "text": "Of course you can, you have helped us more than we could ever have hoped."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

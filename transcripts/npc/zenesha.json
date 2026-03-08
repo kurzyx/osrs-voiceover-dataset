@@ -1,0 +1,67 @@
+{
+  "ref": "zenesha",
+  "categoryRef": "npc",
+  "title": "Zenesha",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Zenesha",
+              "text": "Hello there! I sell plate mail bodies, are you interested?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry, I'm not interested."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "During Song of the Elves",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Zenesha",
+              "text": "Hello there! I sell plate mail bodies, are you interested?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'm here to tell you about some new taxes."
+            },
+            {
+              "speaker": "Zenesha",
+              "text": "I'm already paying my taxes though?"
+            },
+            {
+              "speaker": "Player",
+              "text": "These are new ones. They are to help pay for the king's upcoming visit to Great Kourend."
+            },
+            {
+              "speaker": "Zenesha",
+              "text": "Well I don't see why I have to pay for that! If the king can't afford the trip, then maybe he shouldn't be going!"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's an important diplomatic trip I'm afraid so it has to go ahead. The first payment will be collected soon."
+            },
+            {
+              "speaker": "Zenesha",
+              "text": "And he's getting a mourner to tell me this? Nice try."
+            },
+            {
+              "speaker": "Zenesha",
+              "text": "And he's getting a citizen to tell me this? Nice try."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

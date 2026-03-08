@@ -1,0 +1,78 @@
+{
+  "ref": "ystwyth",
+  "categoryRef": "npc",
+  "title": "Ystwyth",
+  "sections": [
+    {
+      "title": "If the player has not yet completed a lap of the Prifddinas Agility Course",
+      "sections": [
+        {
+          "title": "Right-click Statistics option",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Ystwyth",
+                  "text": "You've not completed any laps of our agility course yet. There's been [amount] global completions and the global best time is [time]."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ystwyth",
+              "text": "Hey, fancy having a go at our agility course?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What do I need to do?"
+            },
+            {
+              "speaker": "Ystwyth",
+              "text": "Just head up the ladder to get started. Try not to fall!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Ystwyth",
+              "text": "Hey, I see you've been having a go at our agility course."
+            },
+            {
+              "speaker": "Player",
+              "text": "Have you been spying on me?"
+            },
+            {
+              "speaker": "Ystwyth",
+              "text": "I like to keep an eye on everyone who gives it a go. Speaking of which, want to know more about how you've been doing?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes please."
+            },
+            {
+              "speaker": "Ystwyth",
+              "text": "You've completed [amount] laps of our agility course with a best time of [time]. There's been [amount] global completions and the global best time is [time]."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

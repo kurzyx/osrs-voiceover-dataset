@@ -1,0 +1,121 @@
+{
+  "ref": "zombie-protester",
+  "categoryRef": "npc",
+  "title": "Zombie protester",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Zombie protester",
+              "text": "Arrrr! Tis yerself! Have a drink!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Errr...Arrr! I will in a sec, I've just go to, err, plunder some landlubbers..."
+            },
+            {
+              "speaker": "Zombie protester",
+              "text": "Good huntin'!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When protesting",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Rum, rum, we want rum!"
+                },
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Give us rum or give us death!"
+                },
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Whadda we want? Rum!"
+                },
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Spare us a drop, you scurvy dogs!"
+                },
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Yer rum or yer brains!"
+                },
+                {
+                  "speaker": "Zombie protester",
+                  "text": "When do we want it? Now!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When following the player",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Arr! Come back here!"
+                },
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Ye'll never get away!"
+                },
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Where d'ye think yer goin?"
+                },
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Give us yer rum, ye scurvy dog!"
+                },
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Ye'll never beat us all!"
+                },
+                {
+                  "speaker": "Zombie protester",
+                  "text": "United we stagger!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the player is carrying unsanitary swill",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Rum! Rum! Rum!"
+                },
+                {
+                  "speaker": "Zombie protester",
+                  "text": "Drink!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

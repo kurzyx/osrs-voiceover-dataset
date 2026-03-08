@@ -1,0 +1,67 @@
+{
+  "ref": "darkmeyer-slave-non-interactive-",
+  "categoryRef": "npc",
+  "title": "Darkmeyer Slave (non-interactive)",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "Before attempting to run past the Flame Statues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "How am I supposed to get past this?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When getting hit by the Flames",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "Gah!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After making past the Flame Statues",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "Hopefully I'll make it out of Darkmeyer one day."
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "Phew, I made it! Time for a break."
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "Thank Saradomin that mysterious stranger gave me this ring or I'd be toast!"
+                },
+                {
+                  "speaker": "Darkmeyer Slave",
+                  "text": "That trap was harder than I thought! Perhaps I'm not cut out for this."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

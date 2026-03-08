@@ -1,0 +1,69 @@
+{
+  "ref": "stranger",
+  "categoryRef": "npc",
+  "title": "Stranger",
+  "sections": [
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When carrying a smoke diamond",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Stranger",
+                  "text": "Hand over the Diamond of Smoke, or suffer!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When carrying a blood diamond",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Stranger",
+                  "text": "You are not worthy of holding that Diamond of Blood!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When carrying an ice diamond",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Stranger",
+                  "text": "That Ice Diamond is mine, thief!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When carrying a shadow diamond",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Stranger",
+                  "text": "The Diamond of Shadow is not yours to take!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

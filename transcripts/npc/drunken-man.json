@@ -1,0 +1,173 @@
+{
+  "ref": "drunken-man",
+  "categoryRef": "npc",
+  "title": "Drunken man",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello."
+            },
+            {
+              "speaker": "Drunken man",
+              "text": "... whassup?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Are you alright?"
+            },
+            {
+              "speaker": "Drunken man",
+              "text": "... see... two of you... why there two of you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "There's only one of me, friend."
+            },
+            {
+              "speaker": "Drunken man",
+              "text": "... no, two of you... you can't count... ... maybe you drunk too much..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Whatever you say, friend."
+            },
+            {
+              "speaker": "Drunken man",
+              "text": "... giant hairy cabbages..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the Falador Party Room drop chest is at least 50,000 coins in Grand Exchange value in a free-to-play world or 76,000 coins in Grand Exchange value in a members world",
+      "sections": [
+        {
+          "title": "If the lever has not been pulled",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Drunken man",
+                  "text": "Have you heard? Someone's planning a big party!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "Someone's put something very valuable into the party room drop chest! If you go to the party room and pull the lever you might have a chance to get it!"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "It could be your lucky day!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the lever has been pulled",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Drunken man",
+                  "text": "You should get to the party room right now! There's a big drop in progress!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean?"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "Someone's put something very valuable into the party room drop and the pulled the lever. If you burst the balloons in the party room you might have a chance of getting it!"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "You never know, it could be your lucky day!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Overhead dialogue",
+      "sections": [
+        {
+          "title": "When the Party Room chest contains more than 50,000 or 76,000 coins in Grand Exchange value (on a F2P or members' world respectively)",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Drunken man",
+                  "text": "Party! Party!"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "Something's happening in the party room!"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "Everyone get to the party room!"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "What's happening in the party room?"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "Someone's having a big party!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "When the lever is pulled",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Drunken man",
+                  "text": "Get to the party room NOW!"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "Get to the party room!"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "Get to the party room quick!"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "Big value items in the party room now!"
+                },
+                {
+                  "speaker": "Drunken man",
+                  "text": "Quick! Get to the party room!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

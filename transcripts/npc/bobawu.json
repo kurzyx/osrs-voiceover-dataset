@@ -1,0 +1,157 @@
+{
+  "ref": "bobawu",
+  "categoryRef": "npc",
+  "title": "Bobawu",
+  "sections": [
+    {
+      "title": "Without a greegree equipped",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello, how are you doing?"
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "I'm good thank you, how can I help you today?"
+            },
+            {
+              "speaker": "Player",
+              "text": "What is this place?"
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "This is our agility course, we use it to stay nimble and to keep our wits sharp. My name is Bobawu and I look after the course."
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "As a friend and fellow monkey, you're free to use it anytime, but you'll need to be as nimble as a ninja first!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh great, thank you."
+            },
+            {
+              "speaker": "Player",
+              "text": "Are there any rewards you can offer me?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Could you tell me how many laps I've completed?"
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "I can't offer you anything for now, so I don't see much reason to count your laps either."
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "Looks like you haven't completed any laps, but I'll be sure to keep track of them, when you do."
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "Sure thing my friend, so far you've completed 1 lap, don't stop now!"
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "Sure thing my friend, so far you've completed [number] laps, don't stop now!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What can you offer me?"
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "I can't offer you anything for now, so I don't see much reason to count your laps either."
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "I see you have your own monkey friend, by completing laps here you can transform him into different monkeys!"
+            },
+            {
+              "speaker": "Player",
+              "text": "That's neat, what can he turn into?"
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "I've got the list here!"
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "Ahem, here we are, At 100 you'll unlock a Karamjan Monkey transformation."
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "After completing 250 laps, you'll unlock a scary zombie monkey."
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "With 500 laps finished, you'll get a maniacal monkey."
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "At 1000 laps, you'll be able transform him into a spooky skeleton monkey,"
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "1500 laps for a little Kruk Jr monkey,"
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "Finally at 2000 laps, he can transform to look like our King Awowogei."
+            },
+            {
+              "speaker": "Player",
+              "text": "On second thought, never mind."
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "That's okay my friend, come back anytime."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "With a greegree equipped",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hey there, how do you do my fellow monkey?"
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "I'm good thank you, how can I help you today?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lap-count",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Bobawu",
+              "text": "Looks like you haven't completed any laps, but I'll be sure to keep track of them, when you do."
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "So far you've completed 1 lap, don't stop now!"
+            },
+            {
+              "speaker": "Bobawu",
+              "text": "So far you've completed [number] laps, don't stop now!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

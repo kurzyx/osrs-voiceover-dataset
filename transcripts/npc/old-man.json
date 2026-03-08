@@ -1,0 +1,65 @@
+{
+  "ref": "old-man",
+  "categoryRef": "npc",
+  "title": "Old man",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "Before Ghosts Ahoy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "What are you doing on this shipwreck?"
+                },
+                {
+                  "speaker": "Old man",
+                  "text": "Shipwreck?!? Not shipwreck, surely not! Just in port, that's all!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Don't be silly - half the ship's missing!"
+                },
+                {
+                  "speaker": "Old man",
+                  "text": "No no no - the captain's just waiting for the wind to change, then we're off!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You mean this skeleton sitting here in this chair?"
+                },
+                {
+                  "speaker": "Old man",
+                  "text": "You must show more respect to the Captain."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "After Ghosts Ahoy",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "How is it going?"
+                },
+                {
+                  "speaker": "Old man",
+                  "text": "Wonderful, wonderful! Mother's coming to get me!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

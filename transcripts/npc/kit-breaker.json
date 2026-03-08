@@ -1,0 +1,97 @@
+{
+  "ref": "kit-breaker",
+  "categoryRef": "npc",
+  "title": "Kit Breaker",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [
+        {
+          "title": "If the player did not complete the 2024 Pride event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hello, there!"
+                },
+                {
+                  "speaker": "Sir Kit Breaker",
+                  "text": "Hello! The name's Kit. Sir Kit Breaker."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sir Kit? That's a nice name!"
+                },
+                {
+                  "speaker": "Sir Kit Breaker",
+                  "text": "Thank you! I chose it myself!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "... Thinking about it, I chose mine as well. I'm [player name], by the way."
+                },
+                {
+                  "speaker": "Sir Kit Breaker",
+                  "text": "Very nice to meet you!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you do around here?"
+                },
+                {
+                  "speaker": "Sir Kit Breaker",
+                  "text": "I'm helping Gilbert with a project of his, on behalf of the White knights. It will take us a while but I can let you know when we're closer to completion!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Sounds good!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player completed the 2024 Pride event",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hi there, Sir Kit!"
+                },
+                {
+                  "speaker": "Sir Kit Breaker",
+                  "text": "[player name], it's good to see you."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "How are you getting on as a White Knight?"
+                },
+                {
+                  "speaker": "Sir Kit Breaker",
+                  "text": "It's going well, thank you. Being on loan to Gilbert and the Glade project is giving me good purpose whilst I do all the basic training."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Gilbert's not working you too hard is he?"
+                },
+                {
+                  "speaker": "Sir Kit Breaker",
+                  "text": "Not yet at least, until we get started on the land. For now it's mostly tending to the flowers and wandering... Patrolling around!"
+                },
+                {
+                  "speaker": "Sir Kit Breaker",
+                  "text": "I can't thank you enough, [player name]. I hope you'll pop by one day as the Glade project progresses. Don't be a stranger!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "ref": "his-faithful-servants",
+  "categoryRef": "miniquest",
+  "title": "His Faithful Servants",
+  "sections": [
+    {
+      "title": "Starting out",
+      "sections": [
+        {
+          "title": "Talking to the Strange Old Man",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "It's time."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Time for what?"
+                },
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "Time to dig. To dig, dig, dig. But no normal dig. We now have new purpose!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "What do you mean? What purpose?"
+                },
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "The brothers six! Dutiful servants of Saradomin... At least, that's what they'd tell you! Ha! Not so. Not so."
+                },
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "They made a pact you see! Strength in life for servitude in death."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Servitude?"
+                },
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "Yes! They guard it for him! That was their purpose, but that time is up now. He wants it back! You can get it! You can dig!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "You want me to bring you something?"
+                },
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "The icon! He needs it now! You must dig, dig, dig. Slay the brothers six! It's okay, it won't hurt them... much. The icon will be in the chest!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Right... So you want me to go and kill the six brothers and bring you back an icon?"
+                },
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "Yes! Do this! Do this! Maybe little prize for you if you do. But first you must dig! Dig, dig, dig!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay..."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Can you tell me more about the brothers?"
+                },
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "The brothers? His faithful servants! Book tell you more! Take it! I don't even want it!"
+                },
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "The brothers? His faithful servants! Book tell you more! Read it! Read it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I wanted to ask you about warnings."
+                },
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "Yes?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Currently when I'm trying to go plundering the catacombs here, my mind is plagued by several inconvenient warnings about the dangers below."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I was wondering, do you know of a way to condense these warnings into a single one?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks for having those mental warnings I was having condensed into a single one, but I miss having them seperated."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Is there any chance you'd be willing to change it back for me?"
+                },
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "AAAAAAAAARRRRRRGGGGGHHHHHHHH!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'm guessing that was a yes? In that case, thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll be back soon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to him again without the icon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "Icon?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I don't have it yet."
+                },
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "Slow! No slow! Only fast! Fast dig! Dig, dig, dig!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Okay, I'll be back soon."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Giving the strange icon",
+      "sections": [
+        {
+          "title": "If the player gives the strange old man the icon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": []
+            }
+          ]
+        },
+        {
+          "title": "If the strange old man destroyed the icon",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Why did you destroy the icon? I though you needed it!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "If the player claims the lamp or map later",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Strange Old Man",
+                  "text": "This is for you. Take it! Take it!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Thanks."
+                },
+                {
+                  "speaker": "Player",
+                  "text": "I'll leave you to it then..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Strange Old Man",
+              "text": "Icon?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, I have it here."
+            },
+            {
+              "speaker": "Strange Old Man",
+              "text": "At last! Quick! Give it!"
+            },
+            {
+              "speaker": "Strange Old Man",
+              "text": "You did it! Now for me."
+            },
+            {
+              "speaker": "Strange Old Man",
+              "text": "It's all little bits now."
+            },
+            {
+              "speaker": "Player",
+              "text": "What? But why? I thought you needed it!"
+            },
+            {
+              "speaker": "Strange Old Man",
+              "text": "Yes! Needed it for him, but not to keep! His friend asked him to protect it, but he made a new plan, a better plan!"
+            },
+            {
+              "speaker": "Player",
+              "text": "What are you on about?"
+            },
+            {
+              "speaker": "Strange Old Man",
+              "text": "The old plan is gone. We're not doing it that way. His friend won't be happy, but it was for the best!"
+            },
+            {
+              "speaker": "Strange Old Man",
+              "text": "Now we're doing it his way..."
+            },
+            {
+              "speaker": "Strange Old Man",
+              "text": "Anyway, job well done! Still more digging though. Always dig. Dig, dig, dig!"
+            },
+            {
+              "speaker": "Strange Old Man",
+              "text": "Oh, and don't forget your prize! He made it very clear you had to have a prize!"
+            },
+            {
+              "speaker": "Player",
+              "text": "Thanks... I guess."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

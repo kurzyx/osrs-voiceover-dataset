@@ -1,0 +1,295 @@
+{
+  "ref": "dampe",
+  "categoryRef": "npc",
+  "title": "Dampe",
+  "sections": [
+    {
+      "title": "Initial dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello stranger."
+            },
+            {
+              "speaker": "Dampe",
+              "text": "*grunts*"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah very friendly I see. What's that coffin on your back?"
+            },
+            {
+              "speaker": "Dampe",
+              "text": "For carryin' the dead."
+            },
+            {
+              "speaker": "Player",
+              "text": "Woah, don't tell me you have a body in there?"
+            },
+            {
+              "speaker": "Dampe",
+              "text": "No, remains."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh, you carry the remains of shades in it? Could you give me one?"
+            },
+            {
+              "speaker": "Dampe",
+              "text": "*grunts*"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's broken? What am I suppose to do with a broken coffin?"
+            },
+            {
+              "speaker": "Dampe",
+              "text": "Bring me locks, find in the catacombs... I repair coffin with locks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Right... Guess I should head into the catacombs then... see if I can find any of these 'locks'."
+            },
+            {
+              "speaker": "Dampe",
+              "text": "*grunts*"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Subsequent dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello again."
+            },
+            {
+              "speaker": "Dampe",
+              "text": "*grunts*"
+            },
+            {
+              "speaker": "Player",
+              "text": "Ah, as cheerful as ever I see."
+            },
+            {
+              "speaker": "Dampe",
+              "text": "What d'ya want."
+            },
+            {
+              "speaker": "Player",
+              "text": "You gave me a broken coffin, what am I suppose to do with it?"
+            },
+            {
+              "speaker": "Dampe",
+              "text": "Bring me locks, I fix coffin with locks..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Right... and where am I suppose to find such locks?"
+            },
+            {
+              "speaker": "Dampe",
+              "text": "In catacombs... in chests..."
+            },
+            {
+              "speaker": "Player",
+              "text": "Great, thanks for the information."
+            },
+            {
+              "speaker": "Player",
+              "text": "I found one of the locks you were talking about, I think."
+            },
+            {
+              "speaker": "Dampe",
+              "text": "That is it, give to me now and I repair the coffin."
+            },
+            {
+              "speaker": "Dampe",
+              "text": "You ain't got no broken coffin for me to fix. If you need one, just ask."
+            },
+            {
+              "speaker": "Dampe",
+              "text": "Finished, take it."
+            },
+            {
+              "speaker": "Player",
+              "text": "No thanks, I'm going to hang on to it for now."
+            },
+            {
+              "speaker": "Dampe",
+              "text": "*grunts*"
+            },
+            {
+              "speaker": "Player",
+              "text": "Could I get another of those coffins?"
+            },
+            {
+              "speaker": "Dampe",
+              "text": "Get lost, you've already got a coffin, I ain't givin' you anotha."
+            },
+            {
+              "speaker": "Dampe",
+              "text": "*grunts*"
+            },
+            {
+              "speaker": "Player",
+              "text": "It's broken?"
+            },
+            {
+              "speaker": "Dampe",
+              "text": "Bring me locks, find in the catacombs... I repair coffin with locks."
+            },
+            {
+              "speaker": "Player",
+              "text": "Where did you get those robes?"
+            },
+            {
+              "speaker": "Dampe",
+              "text": "Given to me."
+            },
+            {
+              "speaker": "Player",
+              "text": "By who?"
+            },
+            {
+              "speaker": "Dampe",
+              "text": "A dead friend of mine."
+            },
+            {
+              "speaker": "Player",
+              "text": "Oh... how did they die?"
+            },
+            {
+              "speaker": "Dampe",
+              "text": "In the catacombs."
+            },
+            {
+              "speaker": "Player",
+              "text": "Sorry to hear that..."
+            },
+            {
+              "speaker": "Dampe",
+              "text": "*grunts*"
+            },
+            {
+              "speaker": "Player",
+              "text": "Nothing, I just wanted to chat."
+            },
+            {
+              "speaker": "Dampe",
+              "text": "*grunts*"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using broken coffin on Dampe",
+      "sections": [
+        {
+          "title": "Without locks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you fix this for me?"
+                },
+                {
+                  "speaker": "Dampe",
+                  "text": "Depends, you got any locks for it?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No..."
+                },
+                {
+                  "speaker": "Dampe",
+                  "text": "Yeah, well clear off them a go find one."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With locks",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Can you fix this for me?"
+                },
+                {
+                  "speaker": "Dampe",
+                  "text": "Depends, you got any locks for it?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    },
+    {
+      "title": "Using locks on Dampe",
+      "sections": [
+        {
+          "title": "Without a broken coffin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, I found this lock in the catacombs? Can you do anything with it?"
+                },
+                {
+                  "speaker": "Dampe",
+                  "text": "*grunts* Lets 'ava look."
+                },
+                {
+                  "speaker": "Dampe",
+                  "text": "You ain't got no broken coffin for me to fix. If you need one, just ask."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "With a broken coffin",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Hey, I found this lock in the catacombs? Can you do anything with it?"
+                },
+                {
+                  "speaker": "Dampe",
+                  "text": "*grunts* Lets 'ava look."
+                },
+                {
+                  "speaker": "Dampe",
+                  "text": "Finished, take it."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": []
+    }
+  ]
+}
