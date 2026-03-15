@@ -4,61 +4,75 @@
   "title": "Dwarven Ferryman",
   "sections": [
     {
-      "title": "South Ferryman",
+      "title": "Standard dialogue",
       "sections": [
         {
-          "title": "Standard dialogue",
+          "title": "North Ferryman",
           "sections": [],
           "dialogues": [
             {
               "lines": [
                 {
                   "speaker": "Dwarven Ferryman",
-                  "text": "Hello there, want a ride?"
+                  "text": "Want to cross the river? It's just 2 gold pieces!"
                 },
                 {
                   "speaker": "Player",
-                  "text": "A ride, where to?"
+                  "text": "Yes please."
                 },
                 {
                   "speaker": "Dwarven Ferryman",
-                  "text": "Across the river, across the river! It's just a short ride!"
+                  "text": "You don't even have 2 gold coins, human!"
+                },
+                {
+                  "speaker": "Dwarven Ferryman",
+                  "text": "Come back later."
                 },
                 {
                   "speaker": "Player",
-                  "text": "How much will that cost me?"
+                  "text": "But... that means I'm stuck here."
                 },
                 {
                   "speaker": "Dwarven Ferryman",
-                  "text": "Haha, you understand us dwarves well, human!"
+                  "text": "Hmm. I suppose I could make an exception for you this time."
                 },
                 {
                   "speaker": "Dwarven Ferryman",
-                  "text": "It's just 2 gold pieces! Want to go?"
+                  "text": "Here, let me just relieve you of that one coin you have there and I'll take you across."
                 },
                 {
                   "speaker": "Player",
-                  "text": "I'd like to go further downstream."
-                },
-                {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "You mean to the city of Keldagrim?"
+                  "text": "Thanks a lot!"
                 },
                 {
                   "speaker": "Player",
-                  "text": "Ehm, yes, I think so."
-                },
-                {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "Sorry, I'm just a simple ferryman, I only go across."
-                },
-                {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "But talk to my friend here, he sometimes goes to the city in his ship."
+                  "text": "No thanks."
                 },
                 {
                   "speaker": "Player",
-                  "text": "Thanks."
+                  "text": "I don't have any money on me, now I'm stuck here forever!"
+                },
+                {
+                  "speaker": "Dwarven Ferryman",
+                  "text": "Oh, we wouldn't want that to happen. Come along, you can go for free this time."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "South Ferryman",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Dwarven Ferryman",
+                  "text": "Want to cross the river? It's just 2 gold pieces!"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "Yes please."
                 },
                 {
                   "speaker": "Dwarven Ferryman",
@@ -71,24 +85,14 @@
                 {
                   "speaker": "Player",
                   "text": "No thanks."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Using the Travel option",
-          "sections": [],
-          "dialogues": [
-            {
-              "lines": [
+                },
                 {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "You don't even have 2 gold coins, humans!"
+                  "speaker": "Player",
+                  "text": "I don't have any money on me, is that alright?"
                 },
                 {
                   "speaker": "Dwarven Ferryman",
-                  "text": "Come back later."
+                  "text": "I... guess."
                 }
               ]
             }
@@ -98,95 +102,195 @@
       "dialogues": []
     },
     {
-      "title": "North Ferryman",
+      "title": "Historical dialogue",
       "sections": [
         {
-          "title": "Standard dialogue",
-          "sections": [],
-          "dialogues": [
+          "title": "South Ferryman",
+          "sections": [
             {
-              "lines": [
+              "title": "Standard dialogue",
+              "sections": [],
+              "dialogues": [
                 {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "Hello there, want a ride?"
-                },
+                  "lines": [
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Hello there, want a ride?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "A ride, where to?"
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Across the river, across the river! It's just a short ride!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How much will that cost me?"
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Haha, you understand us dwarves well, human!"
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "It's just 2 gold pieces! Want to go?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "I'd like to go further downstream."
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "You mean to the city of Keldagrim?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Ehm, yes, I think so."
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Sorry, I'm just a simple ferryman, I only go across."
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "But talk to my friend here, he sometimes goes to the city in his ship."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks."
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "You don't even have 2 gold coins, humans!"
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Come back later."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No thanks."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using the Travel option",
+              "sections": [],
+              "dialogues": [
                 {
-                  "speaker": "Player",
-                  "text": "A ride, where to?"
-                },
-                {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "Across the river, across the river! It's just a short ride!"
-                },
-                {
-                  "speaker": "Player",
-                  "text": "How much will that cost me?"
-                },
-                {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "Haha, you understand us dwarves well, human!"
-                },
-                {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "It's just 2 gold pieces! Want to go?"
-                },
-                {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "You don't even have 2 gold coins, human!"
-                },
-                {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "Come back later."
-                },
-                {
-                  "speaker": "Player",
-                  "text": "But... that means I'm stuck here."
-                },
-                {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "Hmm. I suppose I could make an exception for you this time."
-                },
-                {
-                  "speaker": "Player",
-                  "text": "Thanks a lot!"
-                },
-                {
-                  "speaker": "Player",
-                  "text": "No thanks."
+                  "lines": [
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "You don't even have 2 gold coins, humans!"
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Come back later."
+                    }
+                  ]
                 }
               ]
             }
-          ]
+          ],
+          "dialogues": []
         },
         {
-          "title": "Using the Travel option",
-          "sections": [],
-          "dialogues": [
+          "title": "North Ferryman",
+          "sections": [
             {
-              "lines": [
+              "title": "Standard dialogue",
+              "sections": [],
+              "dialogues": [
                 {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "You don't even have 2 gold coins, human!"
-                },
+                  "lines": [
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Hello there, want a ride?"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "A ride, where to?"
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Across the river, across the river! It's just a short ride!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "How much will that cost me?"
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Haha, you understand us dwarves well, human!"
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "It's just 2 gold pieces! Want to go?"
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "You don't even have 2 gold coins, human!"
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Come back later."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "But... that means I'm stuck here."
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Hmm. I suppose I could make an exception for you this time."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks a lot!"
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "No thanks."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Using the Travel option",
+              "sections": [],
+              "dialogues": [
                 {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "Come back later."
-                },
-                {
-                  "speaker": "Player",
-                  "text": "But... that means I'm stuck here."
-                },
-                {
-                  "speaker": "Dwarven Ferryman",
-                  "text": "Hmm. I suppose I could make an exception for you this time."
-                },
-                {
-                  "speaker": "Player",
-                  "text": "Thanks a lot!"
+                  "lines": [
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "You don't even have 2 gold coins, human!"
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Come back later."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "But... that means I'm stuck here."
+                    },
+                    {
+                      "speaker": "Dwarven Ferryman",
+                      "text": "Hmm. I suppose I could make an exception for you this time."
+                    },
+                    {
+                      "speaker": "Player",
+                      "text": "Thanks a lot!"
+                    }
+                  ]
                 }
               ]
             }
-          ]
+          ],
+          "dialogues": []
         }
       ],
       "dialogues": []

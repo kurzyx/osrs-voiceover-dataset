@@ -177,7 +177,7 @@
             },
             {
               "speaker": "Matthias",
-              "text": "Ah, you're back. How are you getting along with [him/her] then?"
+              "text": "Ah, you're back. How are you getting along with [him/her/them] then?"
             },
             {
               "speaker": "Player",
@@ -198,6 +198,58 @@
             {
               "speaker": "Player",
               "text": "I think I'll leave it for now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the player lost the falcon",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hi, er, your falcon ran away."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Falcons aren't domesticated you know. You can't expect them to just automatically return to you. Fortunately for you, they can learn to associate areas with food. He'll probably be back on his post."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Do you want me to fetch him for you?"
+            },
+            {
+              "speaker": "Player",
+              "text": "Yes, please."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Right, try to be a bit more careful this time; these birds take a long time to raise. I'd rather not lose one."
+            },
+            {
+              "speaker": "Player",
+              "text": "Actually, I think I'll leave it for now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "If the falcon is holding a kebbit",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Hello again."
+            },
+            {
+              "speaker": "Matthias",
+              "text": "Hmm, well it looks like you've got the hang of setting falcons on creatures. However, I suggest you keep track of it; left to its own devices it'll be more than happy to fly off on its own to find food."
             }
           ]
         }

@@ -85,12 +85,8 @@
                   "text": "Now where would I do that?"
                 },
                 {
-                  "speaker": "Dondakan the Dwarf",
-                  "text": "I don't know! Wish I knew!"
-                },
-                {
-                  "speaker": "Dondakan the Dwarf",
-                  "text": "But we have to get some better understanding of what this thing actually is. Maybe then we can find a way to break it open."
+                  "speaker": "Player",
+                  "text": "I'll be back later."
                 }
               ]
             }
@@ -386,6 +382,28 @@
                 {
                   "speaker": "Rolad",
                   "text": "Splendid, now, there's a good dwarf!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Talking to Rolad before reading the book",
+          "sections": [],
+          "dialogues": [
+            {
+              "lines": [
+                {
+                  "speaker": "Player",
+                  "text": "Thanks again for that book, I really appreciate it."
+                },
+                {
+                  "speaker": "Rolad",
+                  "text": "Oh yes, have you read it yet?"
+                },
+                {
+                  "speaker": "Player",
+                  "text": "No, not yet, but I will."
                 }
               ]
             }
@@ -1072,7 +1090,7 @@
                 },
                 {
                   "speaker": "Dondakan the Dwarf",
-                  "text": "Nice idea, [player], but no one will buy a golden cannonball!"
+                  "text": "Nice idea, [player name], but no one will buy a golden cannonball!"
                 },
                 {
                   "speaker": "Dondakan the Dwarf",
@@ -1243,7 +1261,7 @@
           ]
         },
         {
-          "title": "Talking to Khorvak after recieving his schematic",
+          "title": "Talking to Khorvak after receiving his schematic",
           "sections": [],
           "dialogues": [
             {

@@ -1,0 +1,47 @@
+{
+  "ref": "guppa",
+  "categoryRef": "npc",
+  "title": "Guppa",
+  "sections": [
+    {
+      "title": "Standard dialogue",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Player",
+              "text": "Would you look after my crops for me?"
+            },
+            {
+              "speaker": "Guppa",
+              "text": "You don't have a sapling planted in that patch. Plant one and I might agree to look after it for you."
+            },
+            {
+              "speaker": "Guppa",
+              "text": "That depends on whether I have it to sell. What is it that you're looking for?"
+            },
+            {
+              "speaker": "Player",
+              "text": "I'll come back another time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using the Pay option",
+      "sections": [],
+      "dialogues": [
+        {
+          "lines": [
+            {
+              "speaker": "Guppa",
+              "text": "You don't have a sapling planted in that patch. Plant one and I might agree to look after it for you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
